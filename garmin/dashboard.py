@@ -504,7 +504,13 @@ def fig_vertical(progress: list[plan.WeekProgress]) -> go.Figure:
 
 
 def _plan_table(progress: list[plan.WeekProgress]) -> pd.DataFrame:
-    labels = {"on-track": "on track", "partial": "partial", "missed": "missed", "upcoming": "—"}
+    labels = {
+        "on-track": "on track",
+        "partial": "partial",
+        "in-progress": "in progress",
+        "missed": "missed",
+        "upcoming": "—",
+    }
     rows = []
     for p in progress:
         week = p.week

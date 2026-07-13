@@ -106,6 +106,84 @@ def run_metrics(activity: Activity, details: dict[str, Any] | None) -> dict[str,
     }
 
 
+def _pace(speed: float | None) -> str | None:
+    seconds = pace_seconds(speed)
+    if seconds is None:
+        return None
+    return f"{int(seconds // 60)}:{int(seconds % 60):02d}"
+
+
+def run_detail(
+    activity: Activity, details: dict[str, Any] | None, segment_km: float = 0.5
+) -> dict[str, Any]:
+    detail = details or {}
+    positions = index_map(detail)
+    distance = stream(detail, positions, "sumDistance")
+    hr = stream(detail, positions, "directHeartRate")
+    speed = stream(detail, positions, "directSpeed")
+    cadence = stream(detail, positions, "directDoubleCadence")
+    duration = stream(detail, positions, "sumDuration")
+    n = len(distance)
+    total_km = (activity.distance_m or 0) / 1000
+
+    km_hr = []
+    for marker in range(1, int(total_km) + 1):
+        near = [i for i in range(n) if _num(distance[i]) and abs(distance[i] - marker * 1000) < 60]
+        if near and _num(hr[near[0]]):
+            km_hr.append({"km": marker, "hr": round(hr[near[0]])})
+
+    segments = []
+    for bucket in range(int(total_km / segment_km) + 1):
+        low, high = bucket * segment_km * 1000, (bucket + 1) * segment_km * 1000
+        idx = [i for i in range(n) if _num(distance[i]) and low <= distance[i] < high]
+        if not idx:
+            continue
+        heart = [hr[i] for i in idx if _num(hr[i])]
+        running = [speed[i] for i in idx if _num(speed[i]) and speed[i] > 1.6]
+        turns = [cadence[i] for i in idx if _num(cadence[i]) and cadence[i] > 120]
+        walking = [i for i in idx if _num(speed[i]) and speed[i] < 1.6]
+        segments.append(
+            {
+                "from_km": round(low / 1000, 1),
+                "to_km": round(high / 1000, 1),
+                "avg_hr": round(mean(heart)) if heart else None,
+                "pace": _pace(mean(running)) if running else None,
+                "cadence": round(mean(turns)) if turns else None,
+                "walk_pct": round(len(walking) / len(idx) * 100),
+            }
+        )
+
+    walk_breaks = []
+    start: tuple[Any, Any] | None = None
+    for i in range(n):
+        slow = _num(speed[i]) and speed[i] < 1.6
+        if slow and start is None:
+            start = (duration[i], distance[i])
+        elif not slow and start is not None:
+            seconds = (duration[i] or 0) - (start[0] or 0)
+            if seconds >= 8:
+                walk_breaks.append(
+                    {"at_km": round((start[1] or 0) / 1000, 2), "seconds": round(seconds)}
+                )
+            start = None
+
+    moving = [i for i in range(n) if _num(speed[i]) and speed[i] > 1.6 and _num(hr[i])]
+    halves: dict[str, Any] = {}
+    if len(moving) > 20:
+        half = len(moving) // 2
+        halves = {
+            "first_half": {
+                "avg_hr": round(mean(hr[i] for i in moving[:half])),
+                "pace": _pace(mean(speed[i] for i in moving[:half])),
+            },
+            "second_half": {
+                "avg_hr": round(mean(hr[i] for i in moving[half:])),
+                "pace": _pace(mean(speed[i] for i in moving[half:])),
+            },
+        }
+    return {"km_hr": km_hr, "segments": segments, "walk_breaks": walk_breaks, **halves}
+
+
 def run_traces(details: dict[str, Any] | None, bins: int = 120) -> dict[str, list[float]]:
     detail = details or {}
     positions = index_map(detail)

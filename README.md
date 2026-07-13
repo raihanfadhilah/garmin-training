@@ -73,6 +73,52 @@ cover consistency, aerobic engine, intensity/zones, form, recovery, race
 predictions, and a per-run explorer (heart rate, pace, cadence, elevation across
 the distance of any run).
 
+## MCP server (use it from an AI client)
+
+Expose your training data as tools any MCP client (Claude Desktop, Claude Code,
+Cursor) can call — "analyze my last run", "how's this week going", "what's my 5K
+prediction" become tool calls against your local database.
+
+```bash
+uv run garmin mcp                  # runs the stdio MCP server
+```
+
+Register it with Claude Code (works from any directory):
+
+```bash
+claude mcp add --scope user garmin -- /ABS/PATH/TO/training/.venv/bin/python -m garmin mcp
+```
+
+Point straight at the venv's Python rather than `uv run --directory ...` — `claude mcp add`
+parses `--directory` as one of *its own* flags and silently drops the rest of the command,
+leaving a server that can never start. The package is installed into the venv and the
+database path is absolute, so no working directory is needed.
+
+Verify it came up:
+
+```bash
+claude mcp list | grep garmin     # want: garmin ... - Connected
+```
+
+Then restart the client — MCP servers only connect at startup.
+
+For Claude Desktop, add the same thing to `claude_desktop_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "garmin": {
+      "command": "/ABS/PATH/TO/training/.venv/bin/python",
+      "args": ["-m", "garmin", "mcp"]
+    }
+  }
+}
+```
+
+Tools: `garmin_training_summary`, `garmin_recent_runs`, `garmin_analyze_run`,
+`garmin_plan_status`, `garmin_week`, `garmin_race_predictions` (all read-only),
+and `garmin_sync` (pulls fresh data from Garmin).
+
 ## Inspect
 
 ```bash
@@ -132,8 +178,9 @@ garmin/
   client.py     auth + paginated fetchers
   database.py   engine / session / auto-migration
   sync.py       idempotent upsert service
-  analysis.py   time-series parsing + per-run metrics
+  analysis.py   time-series parsing, per-run metrics + intra-run detail
   plan.py       Madeira 25K plan + plan/actual adherence
   dashboard.py  Streamlit dashboard (Plotly)
-  cli.py        login / backfill / sync / dashboard / status / activities
+  mcp.py        MCP server (7 tools for AI clients)
+  cli.py        login / backfill / sync / dashboard / mcp / status / activities
 ```

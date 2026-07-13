@@ -121,6 +121,14 @@ def dashboard(
 
 
 @app.command()
+def mcp() -> None:
+    """Run the MCP server (stdio) exposing training data as tools for AI clients."""
+    from garmin.mcp import main as run_server
+
+    run_server()
+
+
+@app.command()
 def status() -> None:
     """Show what is currently stored in the database."""
     settings = Settings()

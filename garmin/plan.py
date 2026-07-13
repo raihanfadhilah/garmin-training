@@ -251,6 +251,7 @@ class WeekProgress:
     easy_pct: float | None
     avg_cadence: float | None
     is_future: bool
+    is_past: bool
     matched: list[dict[str, Any]] = field(default_factory=list)
 
     @property
@@ -266,7 +267,7 @@ class WeekProgress:
         if self.is_future:
             return "upcoming"
         if self.actual_runs == 0:
-            return "missed"
+            return "missed" if self.is_past else "in-progress"
         if self.long_hit and self.runs_hit:
             return "on-track"
         return "partial"
@@ -305,6 +306,7 @@ def evaluate(week: PlanWeek, runs: list[dict[str, Any]], today: date) -> WeekPro
         easy_pct=easy_pct,
         avg_cadence=round(mean(cadences)) if cadences else None,
         is_future=week.start > today,
+        is_past=week.end < today,
         matched=matched,
     )
 
