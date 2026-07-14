@@ -129,6 +129,39 @@ uv run garmin activities --limit 20
 The database is plain SQLite (`~/.garmin/garmin.db` by default), so you can also
 open it with any SQLite tool or query it directly.
 
+## Export
+
+```bash
+uv run garmin export --out export   # activities, time series, daily metrics, plan
+```
+
+Writes `activities.csv`, `samples.csv` (every channel at 5s resolution, with a
+`run`/`jog`/`walk`/`stop` gait label so walk breaks can be filtered out),
+`daily.csv`, `race_predictions.csv`, and `plan.csv`. Useful for handing the data
+to something else for analysis.
+
+## Calendar
+
+```bash
+uv run garmin calendar --out plan.ics
+```
+
+Garmin Connect has no iOS/Google Calendar export, so this writes the plan as a
+standard `.ics` feed — one all-day event per session, carrying the HR cap and a
+days-to-race countdown. Email it to yourself and open it on your phone to import.
+
+## Push workouts to the watch
+
+```bash
+uv run garmin push-workouts --since 2026-07-15 --until 2026-07-21           # dry run
+uv run garmin push-workouts --since 2026-07-15 --until 2026-07-21 --confirm # writes
+```
+
+Builds the plan's runs as structured Garmin workouts with HR-zone targets,
+uploads them, and schedules them on the given dates. They sync to the watch via
+the phone, and the zone target makes the watch alert when you leave the zone.
+Dry run unless `--confirm`; already-pushed workouts are skipped by name.
+
 ## Daily automatic sync (macOS launchd)
 
 1. Edit `deploy/launchd.plist` and replace `REPLACE_WITH_PROJECT_PATH` with this
