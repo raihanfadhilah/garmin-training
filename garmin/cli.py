@@ -191,6 +191,25 @@ def calendar(
     console.print("Email it to yourself and open it on your phone to import.")
 
 
+@app.command("export")
+def export_csv(
+    out: str = typer.Option("export", "--out", help="Directory to write CSV files into."),
+    all_types: bool = typer.Option(False, "--all-types", help="Include non-running activities."),
+) -> None:
+    """Export activities, per-second time series, and daily metrics to CSV."""
+    from garmin import export
+
+    settings = Settings()
+    result = export.run(Database(settings), Path(out), runs_only=not all_types)
+    table = Table(title="CSV export")
+    table.add_column("File")
+    table.add_column("Rows", justify="right")
+    counts = [result.activities, result.samples, result.days, result.predictions]
+    for path, count in zip(result.files, counts, strict=True):
+        table.add_row(str(path.resolve()), str(count))
+    console.print(table)
+
+
 @app.command()
 def status() -> None:
     """Show what is currently stored in the database."""
