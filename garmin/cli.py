@@ -32,7 +32,7 @@ def login() -> None:
     console.print(f"[green]Logged in.[/] Token stored at {settings.tokenstore}")
 
 
-def _connect() -> tuple[Settings, SyncService]:
+def _login() -> tuple[Settings, GarminClient]:
     settings = Settings()
     client = GarminClient(settings)
     try:
@@ -41,6 +41,11 @@ def _connect() -> tuple[Settings, SyncService]:
         console.print(f"[red]Login failed:[/] {error}")
         console.print("Run [bold]garmin login[/] to authenticate first.")
         raise typer.Exit(code=1) from error
+    return settings, client
+
+
+def _connect() -> tuple[Settings, SyncService]:
+    settings, client = _login()
     return settings, SyncService(client, Database(settings))
 
 
@@ -126,6 +131,50 @@ def mcp() -> None:
     from garmin.mcp import main as run_server
 
     run_server()
+
+
+@app.command("push-workouts")
+def push_workouts(
+    since: str = typer.Option(..., "--since", help="First plan date to push (YYYY-MM-DD)."),
+    until: str = typer.Option(..., "--until", help="Last plan date to push (YYYY-MM-DD)."),
+    confirm: bool = typer.Option(
+        False, "--confirm", help="Actually write to Garmin. Without this it is a dry run."
+    ),
+) -> None:
+    """Push plan runs to Garmin Connect as scheduled workouts (they sync to the watch)."""
+    from garmin import workout
+
+    start, end = date.fromisoformat(since), date.fromisoformat(until)
+    planned = workout.scheduled(start, end)
+    skipped = workout.unpushable(start, end)
+
+    table = Table(title=f"Workouts to push ({start} to {end})")
+    for column in ("Date", "Workout", "Target"):
+        table.add_column(column)
+    for item in planned:
+        table.add_row(item.day.isoformat(), item.name, item.summary)
+    console.print(table)
+    if skipped:
+        console.print(f"[yellow]Not pushable (not run workouts):[/] {len(skipped)}")
+        for entry in skipped:
+            console.print(f"  - {entry}")
+
+    if not confirm:
+        console.print("\n[bold]Dry run.[/] Nothing was written to Garmin.")
+        console.print(
+            "Re-run with [bold]--confirm[/] to create and schedule these on your account."
+        )
+        return
+
+    _, client = _login()
+    result = workout.push(client, planned)
+    console.print(f"[green]Created + scheduled:[/] {len(result.created)}")
+    for entry in result.created:
+        console.print(f"  + {entry}")
+    if result.skipped:
+        console.print(f"[yellow]Skipped (already there):[/] {len(result.skipped)}")
+    for entry in result.errors:
+        console.print(f"[red]Error:[/] {entry}")
 
 
 @app.command()

@@ -9,9 +9,25 @@ EASY_TARGET_PCT = 80.0
 CADENCE_TARGET = 178
 DECOUPLING_TARGET = 5.0
 
-RUN_KINDS = frozenset({"easy", "long", "hill_tempo", "strides", "race"})
+EASY_HR_CAP = 150
+BENCHMARK_HR = 150
+BENCHMARK_KM = 7
+
+RUN_KINDS = frozenset({"easy", "long", "hill_tempo", "strides", "race", "benchmark"})
 LONG_KINDS = frozenset({"long", "race"})
 CLIMB_KINDS = frozenset({"vertical", "hill_tempo"})
+
+BENCHMARK_LABEL = (
+    f"BENCHMARK {BENCHMARK_KM} km — hold HR {BENCHMARK_HR}, steady, NO walk breaks. "
+    "Cool morning, flat, same route every time. Log temperature. "
+    "Record pace + HR + power. Read: HR-at-power (lower = fitter). "
+    "This is the ONLY run that measures fitness — trust the trend over 6+ of them, not one."
+)
+
+CP_TEST_LABEL = (
+    "CP 3+12 power test — warm up well, 12 min all-out (even pace), 20-30 min easy, "
+    "then 3 min all-out. Sets your real power zones. On base-built legs, NOT before."
+)
 
 SUN, MON, TUE, WED, THU, FRI, SAT, RACE_DAY = 0, 1, 2, 3, 4, 5, 6, 7
 
@@ -62,20 +78,31 @@ class PlanWeek:
 
 
 def _runs(
-    label: str, long_km: float, easy_kms: tuple[float, ...], easy_days: tuple[int, ...]
+    label: str,
+    long_km: float,
+    easy_kms: tuple[float, ...],
+    easy_days: tuple[int, ...],
+    benchmark: bool = False,
 ) -> list[Session]:
     sessions = [Session("long", label, SUN, km=long_km)]
-    sessions += [
-        Session("easy", f"Easy run {km:.0f} km (Z2)", day, km=km)
-        for km, day in zip(easy_kms, easy_days, strict=False)
-    ]
+    for index, (km, day) in enumerate(zip(easy_kms, easy_days, strict=False)):
+        if benchmark and index == 0:
+            sessions.append(Session("benchmark", BENCHMARK_LABEL, day, km=BENCHMARK_KM))
+        else:
+            sessions.append(Session("easy", f"Easy run {km:.0f} km (Z2)", day, km=km))
     return sessions
 
 
 def _base(
-    long_km: float, easy_kms: tuple[float, ...], vertical_min: int, eccentric: bool
+    long_km: float,
+    easy_kms: tuple[float, ...],
+    vertical_min: int,
+    eccentric: bool,
+    benchmark: bool = False,
 ) -> tuple[Session, ...]:
-    sessions = _runs(f"Long run {long_km:.0f} km (Z2)", long_km, easy_kms, (WED, FRI))
+    sessions = _runs(
+        f"Long run {long_km:.0f} km (Z2)", long_km, easy_kms, (WED, FRI), benchmark=benchmark
+    )
     sessions.append(
         Session(
             "vertical",
@@ -94,8 +121,12 @@ def _base(
     return tuple(sessions)
 
 
-def _build(long_km: float, easy_kms: tuple[float, ...], tempo_min: int) -> tuple[Session, ...]:
-    sessions = _runs(f"Long run {long_km:.0f} km (Z2)", long_km, easy_kms, (TUE, FRI))
+def _build(
+    long_km: float, easy_kms: tuple[float, ...], tempo_min: int, benchmark: bool = False
+) -> tuple[Session, ...]:
+    sessions = _runs(
+        f"Long run {long_km:.0f} km (Z2)", long_km, easy_kms, (TUE, FRI), benchmark=benchmark
+    )
     sessions.append(
         Session("eccentric", "Downhill dose in the long run (decline / down-ramps)", SUN)
     )
@@ -114,14 +145,18 @@ def _build(long_km: float, easy_kms: tuple[float, ...], tempo_min: int) -> tuple
 
 
 def _peak(
-    long_km: float, easy_kms: tuple[float, ...], climb_min: int, rehearsal: bool
+    long_km: float,
+    easy_kms: tuple[float, ...],
+    climb_min: int,
+    rehearsal: bool,
+    benchmark: bool = False,
 ) -> tuple[Session, ...]:
     label = (
         "Long run 25 km — DRESS REHEARSAL (full kit + fuel, hilliest route, decline segment)"
         if rehearsal
         else f"Long run {long_km:.0f} km (Z2, hilly, downhill segment)"
     )
-    sessions = _runs(label, long_km, easy_kms, (TUE, FRI))
+    sessions = _runs(label, long_km, easy_kms, (TUE, FRI), benchmark=benchmark)
     sessions.append(
         Session(
             "vertical",
@@ -152,7 +187,7 @@ PLAN: tuple[PlanWeek, ...] = (
         date(2026, 7, 26),
         date(2026, 8, 1),
         "Base",
-        _base(6, (4, 4), 20, True),
+        _base(6, (4, 4), 20, True, benchmark=True),
         down_week=True,
         note="Down week — cut long run, lighter everything.",
     ),
@@ -161,8 +196,12 @@ PLAN: tuple[PlanWeek, ...] = (
         date(2026, 8, 2),
         date(2026, 8, 8),
         "Build",
-        _build(10, (5, 6), 25),
-        note="Quality enters: one weekly hill tempo (uphill, not flat).",
+        (*_build(10, (5, 6), 25), Session("cp_test", CP_TEST_LABEL, SAT)),
+        note=(
+            "Quality enters: one weekly hill tempo (uphill, not flat). "
+            "Also: CP power test (sets real power zones) and Garmin should now auto-detect "
+            "your real LTHR from the hard efforts. Both calibrations on base-built legs."
+        ),
     ),
     PlanWeek(6, date(2026, 8, 9), date(2026, 8, 15), "Build", _build(12, (5, 6), 25)),
     PlanWeek(7, date(2026, 8, 16), date(2026, 8, 22), "Build", _build(14, (6, 6), 30)),
@@ -171,7 +210,7 @@ PLAN: tuple[PlanWeek, ...] = (
         date(2026, 8, 23),
         date(2026, 8, 29),
         "Build",
-        _build(10, (5, 5), 20),
+        _build(10, (5, 5), 20, benchmark=True),
         down_week=True,
         note="Down week — halve hill-tempo volume, lighter legs.",
     ),
@@ -183,7 +222,7 @@ PLAN: tuple[PlanWeek, ...] = (
         date(2026, 9, 20),
         date(2026, 9, 26),
         "Peak",
-        _peak(12, (6, 5), 30, False),
+        _peak(12, (6, 5), 30, False, benchmark=True),
         down_week=True,
         note="Down week before the push to the dress rehearsal.",
     ),

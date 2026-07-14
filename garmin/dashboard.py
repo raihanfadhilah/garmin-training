@@ -7,7 +7,7 @@ import streamlit as st
 from sqlalchemy import select
 
 from garmin import plan
-from garmin.analysis import run_metrics, run_traces
+from garmin.analysis import channel_stats, run_metrics, run_traces
 from garmin.config import Settings
 from garmin.database import Database
 from garmin.models import Activity, ActivityStream, DailyMetric, RacePrediction
@@ -69,6 +69,14 @@ def _status_base(status: str | None) -> str:
         return "NO_STATUS"
     cleaned = status.rstrip("0123456789_")
     return "NO_STATUS" if cleaned in {"", "NONE"} else cleaned
+
+
+@st.cache_data(ttl=120)
+def _run_stats(activity_id: int) -> list[dict[str, Any]]:
+    database = Database(Settings())
+    with database.session() as session:
+        row = session.get(ActivityStream, activity_id)
+        return channel_stats(row.details if row else None)
 
 
 @st.cache_data(ttl=120)
@@ -326,13 +334,33 @@ def _pace_ticks(values: list[float]) -> tuple[list[int], list[str]]:
     return ticks, [_mmss(t) for t in ticks]
 
 
+CHANNEL_SPECS: list[tuple[str, str, str]] = [
+    ("hr", "Heart rate (bpm)", ZONES[4]),
+    ("pace", "Pace /km (faster is higher)", ACCENT),
+    ("grade_pace", "Grade-adjusted pace /km (hill-corrected)", ZONES[0]),
+    ("power", "Running power (W)", ZONES[3]),
+    ("cadence", "Cadence (steps/min)", ZONES[1]),
+    ("stride", "Stride length (cm)", ZONES[2]),
+    ("gct", "Ground contact time (ms)", ZONES[3]),
+    ("vertical_osc", "Vertical oscillation (cm)", ZONES[2]),
+    ("vertical_ratio", "Vertical ratio (%) — lower is more economical", ZONES[4]),
+    ("elevation", "Elevation (m)", MUTED),
+    ("vertical_speed", "Vertical speed (m/s)", MUTED),
+    ("perf_cond", "Performance condition (vs baseline)", GOOD),
+    ("stamina", "Available stamina (%)", ZONES[1]),
+    ("stamina_potential", "Potential stamina (%)", ZONES[0]),
+    ("body_battery", "Body battery", GOOD),
+]
+
+
 def fig_trace(
     traces: dict[int, dict[str, list[float]]], run_id: int, channel: str, title: str, color: str
 ) -> go.Figure | None:
     data = traces.get(run_id) or {}
     km = data.get("km") or []
-    if channel == "pace":
-        raw = data.get("speed") or []
+    if channel in ("pace", "grade_pace"):
+        source = "speed" if channel == "pace" else "grade_speed"
+        raw = data.get(source) or []
         values = [1000.0 / s if s and s > 1.4 else float("nan") for s in raw]
     else:
         values = data.get(channel) or []
@@ -350,7 +378,7 @@ def fig_trace(
             hovertemplate="%{x:.1f} km<br>%{y}<extra></extra>",
         )
     )
-    if channel == "pace":
+    if channel in ("pace", "grade_pace"):
         ticks, text = _pace_ticks(ys)
         fig.update_yaxes(autorange="reversed", tickvals=ticks, ticktext=text)
     fig.update_xaxes(ticksuffix=" km")
@@ -654,25 +682,29 @@ def _kpi_row(runs_df: pd.DataFrame, daily_df: pd.DataFrame, pred_df: pd.DataFram
         daily_df.dropna(subset=["status"]).iloc[-1]["status"] if not daily_df.empty else "–"
     )
     vo2_series = runs_df.dropna(subset=["vo2"])["vo2"]
-    endurance = daily_df.dropna(subset=["endurance"])["endurance"]
+    paced = runs_df.dropna(subset=["pace_at_easy_hr"])
     columns = st.columns(6)
-    columns[0].metric("Runs logged", len(runs_df))
-    columns[1].metric(
-        "VO₂ max",
-        f"{vo2_series.iloc[-1]:.0f}" if not vo2_series.empty else "–",
-        delta=f"{vo2_series.iloc[-1] - vo2_series.iloc[0]:.0f}" if len(vo2_series) > 1 else None,
-    )
-    columns[2].metric("Training status", latest_status.title().replace("_", " "))
-    columns[3].metric("Avg decoupling", f"{runs_df['decoupling'].mean():.0f}%")
-    columns[4].metric(
-        "Endurance score", f"{endurance.iloc[-1]:.0f}" if not endurance.empty else "–"
-    )
-    if not pred_df.empty and pred_df["time_5k"].notna().any():
-        columns[5].metric(
-            "5K prediction", _mmss(pred_df.dropna(subset=["time_5k"]).iloc[-1]["time_5k"])
+    if not paced.empty:
+        latest_pace = paced.iloc[-1]["pace_at_easy_hr"]
+        delta = None
+        if len(paced) > 1:
+            change = latest_pace - paced.iloc[-2]["pace_at_easy_hr"]
+            delta = f"{change:+.0f}s"
+        columns[0].metric(
+            f"Pace @ HR {plan.BENCHMARK_HR}", _mmss(latest_pace), delta=delta, delta_color="inverse"
         )
+        columns[1].metric("Time walking", f"{paced.iloc[-1]['walk_pct']:.0f}%")
     else:
-        columns[5].metric("5K prediction", "–")
+        columns[0].metric(f"Pace @ HR {plan.BENCHMARK_HR}", "–")
+        columns[1].metric("Time walking", "–")
+    columns[2].metric("Runs logged", len(runs_df))
+    columns[3].metric(
+        "VO₂ max (unreliable)",
+        f"{vo2_series.iloc[-1]:.0f}" if not vo2_series.empty else "–",
+        help="Computed from a mis-set max HR and a frozen resting HR. Ignore it.",
+    )
+    columns[4].metric("Training status", latest_status.title().replace("_", " "))
+    columns[5].metric("Days to race", plan.days_to_race(date.today()))
 
 
 def main() -> None:
@@ -725,14 +757,41 @@ def main() -> None:
             st.plotly_chart(fig_status(daily_df), width="stretch")
 
     with tabs[1]:
+        st.subheader("The honest signals")
+        st.caption(
+            "These two must be read TOGETHER. Walking depresses heart rate, so it makes "
+            "pace-at-HR look better than it is. Real progress = pace improving WHILE walking falls."
+        )
+        left, right = st.columns(2)
+        with left:
+            st.plotly_chart(
+                fig_line(
+                    runs_df.dropna(subset=["pace_at_easy_hr"]),
+                    "pace_at_easy_hr",
+                    f"sec/km at HR {plan.BENCHMARK_HR}",
+                    ACCENT,
+                ),
+                width="stretch",
+            )
+            st.caption(f"Pace at HR {plan.BENCHMARK_HR} — LOWER is fitter.")
+        with right:
+            st.plotly_chart(
+                fig_line(runs_df.dropna(subset=["walk_pct"]), "walk_pct", "% walking", ZONES[3]),
+                width="stretch",
+            )
+            st.caption("Time spent walking — LOWER is fitter. Should fade over 4–8 weeks.")
+
+        st.divider()
+        st.caption(
+            "Below: the noisy metrics. Efficiency factor and decoupling are confounded by "
+            "distance, heat, and walk breaks. Treat as weak evidence."
+        )
         left, right = st.columns(2)
         with left:
             st.subheader("Efficiency factor")
-            st.caption("Speed per heartbeat — higher is a stronger aerobic base.")
             st.plotly_chart(fig_line(runs_df, "efficiency", "speed ÷ HR ×100"), width="stretch")
         with right:
             st.subheader("Aerobic decoupling")
-            st.caption("HR drift within a run. Under 5% (green) is good endurance.")
             st.plotly_chart(fig_decoupling(runs_df), width="stretch")
         vleft, vright = st.columns(2)
         with vleft:
@@ -837,14 +896,30 @@ def main() -> None:
         else:
             st.caption("Not enough heart-rate samples for this run.")
 
-        for channel, title, color in [
-            ("pace", "Pace /km (faster is higher)", ACCENT),
-            ("cadence", "Cadence (steps/min)", ZONES[1]),
-            ("elevation", "Elevation (m)", MUTED),
-        ]:
+        st.markdown("**Descriptive statistics — every recorded channel**")
+        st.caption(
+            "Full distribution per channel from the raw per-second samples: mean, standard "
+            "deviation, min/max, and quartiles. Std and range show how variable you were."
+        )
+        stats = _run_stats(int(run_id))
+        if stats:
+            st.dataframe(pd.DataFrame(stats), hide_index=True, width="stretch")
+
+        st.markdown("**Every recorded channel, plotted**")
+        st.caption(
+            "Everything the watch logged for this run, against distance. "
+            "Blank charts mean the watch didn't record that channel."
+        )
+        rendered = 0
+        for channel, title, color in CHANNEL_SPECS:
+            if channel == "hr":
+                continue
             figure = fig_trace(traces, int(run_id), channel, title, color)
             if figure is not None:
                 st.plotly_chart(figure, width="stretch")
+                rendered += 1
+        if rendered == 0:
+            st.info("No time-series channels stored for this run.")
 
 
 if __name__ == "__main__":
