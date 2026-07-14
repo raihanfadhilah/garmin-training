@@ -1,0 +1,122 @@
+week,phase,down_week,week_start,week_end,date,weekday,kind,label,km,minutes,week_run_km,week_long_km,days_to_race,note
+1,Base,,2026-07-05,2026-07-11,2026-07-05,Sun,long,Long run 7 km (Z2),7,,16,7,119,
+1,Base,,2026-07-05,2026-07-11,2026-07-06,Mon,push,Push (upper),,,16,7,118,
+1,Base,,2026-07-05,2026-07-11,2026-07-07,Tue,vertical,Vertical 20 min (stairs/ramp/incline),,20,16,7,117,
+1,Base,,2026-07-05,2026-07-11,2026-07-08,Wed,easy,Easy run 4 km (Z2),4,,16,7,116,
+1,Base,,2026-07-05,2026-07-11,2026-07-09,Thu,legs,"Legs — heavy, brief, single-leg biased",,,16,7,115,
+1,Base,,2026-07-05,2026-07-11,2026-07-09,Thu,pull,Pull (upper),,,16,7,115,
+1,Base,,2026-07-05,2026-07-11,2026-07-10,Fri,easy,Easy run 5 km (Z2),5,,16,7,114,
+2,Base,,2026-07-12,2026-07-18,2026-07-12,Sun,long,Long run 8 km (Z2),8,,17,8,112,
+2,Base,,2026-07-12,2026-07-18,2026-07-13,Mon,push,Push (upper),,,17,8,111,
+2,Base,,2026-07-12,2026-07-18,2026-07-14,Tue,vertical,Vertical 25 min (stairs/ramp/incline),,25,17,8,110,
+2,Base,,2026-07-12,2026-07-18,2026-07-15,Wed,easy,Easy run 4 km (Z2),4,,17,8,109,
+2,Base,,2026-07-12,2026-07-18,2026-07-16,Thu,legs,"Legs — heavy, brief, single-leg biased",,,17,8,108,
+2,Base,,2026-07-12,2026-07-18,2026-07-16,Thu,pull,Pull (upper),,,17,8,108,
+2,Base,,2026-07-12,2026-07-18,2026-07-17,Fri,easy,Easy run 5 km (Z2),5,,17,8,107,
+3,Base,,2026-07-19,2026-07-25,2026-07-19,Sun,long,Long run 9 km (Z2),9,,19,9,105,Eccentric enters: start running controlled descents.
+3,Base,,2026-07-19,2026-07-25,2026-07-20,Mon,push,Push (upper),,,19,9,104,Eccentric enters: start running controlled descents.
+3,Base,,2026-07-19,2026-07-25,2026-07-21,Tue,vertical,Vertical 25 min (stairs/ramp/incline),,25,19,9,103,Eccentric enters: start running controlled descents.
+3,Base,,2026-07-19,2026-07-25,2026-07-21,Tue,eccentric,Controlled ramp/stair descents (after the vertical),,,19,9,103,Eccentric enters: start running controlled descents.
+3,Base,,2026-07-19,2026-07-25,2026-07-22,Wed,easy,Easy run 5 km (Z2),5,,19,9,102,Eccentric enters: start running controlled descents.
+3,Base,,2026-07-19,2026-07-25,2026-07-23,Thu,legs,"Legs — heavy, brief, single-leg biased",,,19,9,101,Eccentric enters: start running controlled descents.
+3,Base,,2026-07-19,2026-07-25,2026-07-23,Thu,pull,Pull (upper),,,19,9,101,Eccentric enters: start running controlled descents.
+3,Base,,2026-07-19,2026-07-25,2026-07-24,Fri,easy,Easy run 5 km (Z2),5,,19,9,100,Eccentric enters: start running controlled descents.
+4,Base,yes,2026-07-26,2026-08-01,2026-07-26,Sun,long,Long run 6 km (Z2),6,,17,6,98,"Down week — cut long run, lighter everything."
+4,Base,yes,2026-07-26,2026-08-01,2026-07-27,Mon,push,Push (upper),,,17,6,97,"Down week — cut long run, lighter everything."
+4,Base,yes,2026-07-26,2026-08-01,2026-07-28,Tue,vertical,Vertical 20 min (stairs/ramp/incline),,20,17,6,96,"Down week — cut long run, lighter everything."
+4,Base,yes,2026-07-26,2026-08-01,2026-07-28,Tue,eccentric,Controlled ramp/stair descents (after the vertical),,,17,6,96,"Down week — cut long run, lighter everything."
+4,Base,yes,2026-07-26,2026-08-01,2026-07-29,Wed,benchmark,"BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. Record pace + HR + power. Read: HR-at-power (lower = fitter). This is the ONLY run that measures fitness — trust the trend over 6+ of them, not one.",7,,17,6,95,"Down week — cut long run, lighter everything."
+4,Base,yes,2026-07-26,2026-08-01,2026-07-30,Thu,legs,"Legs — heavy, brief, single-leg biased",,,17,6,94,"Down week — cut long run, lighter everything."
+4,Base,yes,2026-07-26,2026-08-01,2026-07-30,Thu,pull,Pull (upper),,,17,6,94,"Down week — cut long run, lighter everything."
+4,Base,yes,2026-07-26,2026-08-01,2026-07-31,Fri,easy,Easy run 4 km (Z2),4,,17,6,93,"Down week — cut long run, lighter everything."
+5,Build,,2026-08-02,2026-08-08,2026-08-02,Sun,long,Long run 10 km (Z2),10,,21,10,91,"Quality enters: one weekly hill tempo (uphill, not flat). Also: CP power test (sets real power zones) and Garmin should now auto-detect your real LTHR from the hard efforts. Both calibrations on base-built legs."
+5,Build,,2026-08-02,2026-08-08,2026-08-02,Sun,eccentric,Downhill dose in the long run (decline / down-ramps),,,21,10,91,"Quality enters: one weekly hill tempo (uphill, not flat). Also: CP power test (sets real power zones) and Garmin should now auto-detect your real LTHR from the hard efforts. Both calibrations on base-built legs."
+5,Build,,2026-08-02,2026-08-08,2026-08-03,Mon,push,Push (upper),,,21,10,90,"Quality enters: one weekly hill tempo (uphill, not flat). Also: CP power test (sets real power zones) and Garmin should now auto-detect your real LTHR from the hard efforts. Both calibrations on base-built legs."
+5,Build,,2026-08-02,2026-08-08,2026-08-04,Tue,easy,Easy run 5 km (Z2),5,,21,10,89,"Quality enters: one weekly hill tempo (uphill, not flat). Also: CP power test (sets real power zones) and Garmin should now auto-detect your real LTHR from the hard efforts. Both calibrations on base-built legs."
+5,Build,,2026-08-02,2026-08-08,2026-08-05,Wed,hill_tempo,Hill tempo 25 min (uphill cruise intervals),,25,21,10,88,"Quality enters: one weekly hill tempo (uphill, not flat). Also: CP power test (sets real power zones) and Garmin should now auto-detect your real LTHR from the hard efforts. Both calibrations on base-built legs."
+5,Build,,2026-08-02,2026-08-08,2026-08-06,Thu,legs,"Legs — heavy, brief",,,21,10,87,"Quality enters: one weekly hill tempo (uphill, not flat). Also: CP power test (sets real power zones) and Garmin should now auto-detect your real LTHR from the hard efforts. Both calibrations on base-built legs."
+5,Build,,2026-08-02,2026-08-08,2026-08-06,Thu,pull,Pull (upper),,,21,10,87,"Quality enters: one weekly hill tempo (uphill, not flat). Also: CP power test (sets real power zones) and Garmin should now auto-detect your real LTHR from the hard efforts. Both calibrations on base-built legs."
+5,Build,,2026-08-02,2026-08-08,2026-08-07,Fri,easy,Easy run 6 km (Z2),6,,21,10,86,"Quality enters: one weekly hill tempo (uphill, not flat). Also: CP power test (sets real power zones) and Garmin should now auto-detect your real LTHR from the hard efforts. Both calibrations on base-built legs."
+5,Build,,2026-08-02,2026-08-08,2026-08-08,Sat,cp_test,"CP 3+12 power test — warm up well, 12 min all-out (even pace), 20-30 min easy, then 3 min all-out. Sets your real power zones. On base-built legs, NOT before.",,,21,10,85,"Quality enters: one weekly hill tempo (uphill, not flat). Also: CP power test (sets real power zones) and Garmin should now auto-detect your real LTHR from the hard efforts. Both calibrations on base-built legs."
+6,Build,,2026-08-09,2026-08-15,2026-08-09,Sun,long,Long run 12 km (Z2),12,,23,12,84,
+6,Build,,2026-08-09,2026-08-15,2026-08-09,Sun,eccentric,Downhill dose in the long run (decline / down-ramps),,,23,12,84,
+6,Build,,2026-08-09,2026-08-15,2026-08-10,Mon,push,Push (upper),,,23,12,83,
+6,Build,,2026-08-09,2026-08-15,2026-08-11,Tue,easy,Easy run 5 km (Z2),5,,23,12,82,
+6,Build,,2026-08-09,2026-08-15,2026-08-12,Wed,hill_tempo,Hill tempo 25 min (uphill cruise intervals),,25,23,12,81,
+6,Build,,2026-08-09,2026-08-15,2026-08-13,Thu,legs,"Legs — heavy, brief",,,23,12,80,
+6,Build,,2026-08-09,2026-08-15,2026-08-13,Thu,pull,Pull (upper),,,23,12,80,
+6,Build,,2026-08-09,2026-08-15,2026-08-14,Fri,easy,Easy run 6 km (Z2),6,,23,12,79,
+7,Build,,2026-08-16,2026-08-22,2026-08-16,Sun,long,Long run 14 km (Z2),14,,26,14,77,
+7,Build,,2026-08-16,2026-08-22,2026-08-16,Sun,eccentric,Downhill dose in the long run (decline / down-ramps),,,26,14,77,
+7,Build,,2026-08-16,2026-08-22,2026-08-17,Mon,push,Push (upper),,,26,14,76,
+7,Build,,2026-08-16,2026-08-22,2026-08-18,Tue,easy,Easy run 6 km (Z2),6,,26,14,75,
+7,Build,,2026-08-16,2026-08-22,2026-08-19,Wed,hill_tempo,Hill tempo 30 min (uphill cruise intervals),,30,26,14,74,
+7,Build,,2026-08-16,2026-08-22,2026-08-20,Thu,legs,"Legs — heavy, brief",,,26,14,73,
+7,Build,,2026-08-16,2026-08-22,2026-08-20,Thu,pull,Pull (upper),,,26,14,73,
+7,Build,,2026-08-16,2026-08-22,2026-08-21,Fri,easy,Easy run 6 km (Z2),6,,26,14,72,
+8,Build,yes,2026-08-23,2026-08-29,2026-08-23,Sun,long,Long run 10 km (Z2),10,,22,10,70,"Down week — halve hill-tempo volume, lighter legs."
+8,Build,yes,2026-08-23,2026-08-29,2026-08-23,Sun,eccentric,Downhill dose in the long run (decline / down-ramps),,,22,10,70,"Down week — halve hill-tempo volume, lighter legs."
+8,Build,yes,2026-08-23,2026-08-29,2026-08-24,Mon,push,Push (upper),,,22,10,69,"Down week — halve hill-tempo volume, lighter legs."
+8,Build,yes,2026-08-23,2026-08-29,2026-08-25,Tue,benchmark,"BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. Record pace + HR + power. Read: HR-at-power (lower = fitter). This is the ONLY run that measures fitness — trust the trend over 6+ of them, not one.",7,,22,10,68,"Down week — halve hill-tempo volume, lighter legs."
+8,Build,yes,2026-08-23,2026-08-29,2026-08-26,Wed,hill_tempo,Hill tempo 20 min (uphill cruise intervals),,20,22,10,67,"Down week — halve hill-tempo volume, lighter legs."
+8,Build,yes,2026-08-23,2026-08-29,2026-08-27,Thu,legs,"Legs — heavy, brief",,,22,10,66,"Down week — halve hill-tempo volume, lighter legs."
+8,Build,yes,2026-08-23,2026-08-29,2026-08-27,Thu,pull,Pull (upper),,,22,10,66,"Down week — halve hill-tempo volume, lighter legs."
+8,Build,yes,2026-08-23,2026-08-29,2026-08-28,Fri,easy,Easy run 5 km (Z2),5,,22,10,65,"Down week — halve hill-tempo volume, lighter legs."
+9,Build,,2026-08-30,2026-09-05,2026-08-30,Sun,long,Long run 15 km (Z2),15,,27,15,63,
+9,Build,,2026-08-30,2026-09-05,2026-08-30,Sun,eccentric,Downhill dose in the long run (decline / down-ramps),,,27,15,63,
+9,Build,,2026-08-30,2026-09-05,2026-08-31,Mon,push,Push (upper),,,27,15,62,
+9,Build,,2026-08-30,2026-09-05,2026-09-01,Tue,easy,Easy run 6 km (Z2),6,,27,15,61,
+9,Build,,2026-08-30,2026-09-05,2026-09-02,Wed,hill_tempo,Hill tempo 30 min (uphill cruise intervals),,30,27,15,60,
+9,Build,,2026-08-30,2026-09-05,2026-09-03,Thu,legs,"Legs — heavy, brief",,,27,15,59,
+9,Build,,2026-08-30,2026-09-05,2026-09-03,Thu,pull,Pull (upper),,,27,15,59,
+9,Build,,2026-08-30,2026-09-05,2026-09-04,Fri,easy,Easy run 6 km (Z2),6,,27,15,58,
+10,Build,,2026-09-06,2026-09-12,2026-09-06,Sun,long,Long run 17 km (Z2),17,,30,17,56,
+10,Build,,2026-09-06,2026-09-12,2026-09-06,Sun,eccentric,Downhill dose in the long run (decline / down-ramps),,,30,17,56,
+10,Build,,2026-09-06,2026-09-12,2026-09-07,Mon,push,Push (upper),,,30,17,55,
+10,Build,,2026-09-06,2026-09-12,2026-09-08,Tue,easy,Easy run 6 km (Z2),6,,30,17,54,
+10,Build,,2026-09-06,2026-09-12,2026-09-09,Wed,hill_tempo,Hill tempo 35 min (uphill cruise intervals),,35,30,17,53,
+10,Build,,2026-09-06,2026-09-12,2026-09-10,Thu,legs,"Legs — heavy, brief",,,30,17,52,
+10,Build,,2026-09-06,2026-09-12,2026-09-10,Thu,pull,Pull (upper),,,30,17,52,
+10,Build,,2026-09-06,2026-09-12,2026-09-11,Fri,easy,Easy run 7 km (Z2),7,,30,17,51,
+11,Build,,2026-09-13,2026-09-19,2026-09-13,Sun,long,Long run 19 km (Z2),19,,32,19,49,
+11,Build,,2026-09-13,2026-09-19,2026-09-13,Sun,eccentric,Downhill dose in the long run (decline / down-ramps),,,32,19,49,
+11,Build,,2026-09-13,2026-09-19,2026-09-14,Mon,push,Push (upper),,,32,19,48,
+11,Build,,2026-09-13,2026-09-19,2026-09-15,Tue,easy,Easy run 7 km (Z2),7,,32,19,47,
+11,Build,,2026-09-13,2026-09-19,2026-09-16,Wed,hill_tempo,Hill tempo 35 min (uphill cruise intervals),,35,32,19,46,
+11,Build,,2026-09-13,2026-09-19,2026-09-17,Thu,legs,"Legs — heavy, brief",,,32,19,45,
+11,Build,,2026-09-13,2026-09-19,2026-09-17,Thu,pull,Pull (upper),,,32,19,45,
+11,Build,,2026-09-13,2026-09-19,2026-09-18,Fri,easy,Easy run 6 km (Z2),6,,32,19,44,
+12,Peak,yes,2026-09-20,2026-09-26,2026-09-20,Sun,long,"Long run 12 km (Z2, hilly, downhill segment)",12,,24,12,42,Down week before the push to the dress rehearsal.
+12,Peak,yes,2026-09-20,2026-09-26,2026-09-21,Mon,push,"Push (upper, lighter)",,,24,12,41,Down week before the push to the dress rehearsal.
+12,Peak,yes,2026-09-20,2026-09-26,2026-09-22,Tue,benchmark,"BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. Record pace + HR + power. Read: HR-at-power (lower = fitter). This is the ONLY run that measures fitness — trust the trend over 6+ of them, not one.",7,,24,12,40,Down week before the push to the dress rehearsal.
+12,Peak,yes,2026-09-20,2026-09-26,2026-09-23,Wed,vertical,Sustained climbs 30 min (race simulation),,30,24,12,39,Down week before the push to the dress rehearsal.
+12,Peak,yes,2026-09-20,2026-09-26,2026-09-24,Thu,legs,"Legs — reduced volume (maintain, don't build)",,,24,12,38,Down week before the push to the dress rehearsal.
+12,Peak,yes,2026-09-20,2026-09-26,2026-09-24,Thu,pull,"Pull (upper, lighter)",,,24,12,38,Down week before the push to the dress rehearsal.
+12,Peak,yes,2026-09-20,2026-09-26,2026-09-25,Fri,easy,Easy run 5 km (Z2),5,,24,12,37,Down week before the push to the dress rehearsal.
+13,Peak,,2026-09-27,2026-10-03,2026-09-27,Sun,long,"Long run 21 km (Z2, hilly, downhill segment)",21,,35,21,35,
+13,Peak,,2026-09-27,2026-10-03,2026-09-28,Mon,push,"Push (upper, lighter)",,,35,21,34,
+13,Peak,,2026-09-27,2026-10-03,2026-09-29,Tue,easy,Easy run 7 km (Z2),7,,35,21,33,
+13,Peak,,2026-09-27,2026-10-03,2026-09-30,Wed,vertical,Sustained climbs 40 min (race simulation),,40,35,21,32,
+13,Peak,,2026-09-27,2026-10-03,2026-10-01,Thu,legs,"Legs — reduced volume (maintain, don't build)",,,35,21,31,
+13,Peak,,2026-09-27,2026-10-03,2026-10-01,Thu,pull,"Pull (upper, lighter)",,,35,21,31,
+13,Peak,,2026-09-27,2026-10-03,2026-10-02,Fri,easy,Easy run 7 km (Z2),7,,35,21,30,
+14,Peak,,2026-10-04,2026-10-10,2026-10-04,Sun,long,"Long run 25 km — DRESS REHEARSAL (full kit + fuel, hilliest route, decline segment)",25,,37,25,28,"Keystone week: 25 km dress rehearsal validates fuel, kit, climbing, descending."
+14,Peak,,2026-10-04,2026-10-10,2026-10-05,Mon,push,"Push (upper, lighter)",,,37,25,27,"Keystone week: 25 km dress rehearsal validates fuel, kit, climbing, descending."
+14,Peak,,2026-10-04,2026-10-10,2026-10-06,Tue,easy,Easy run 6 km (Z2),6,,37,25,26,"Keystone week: 25 km dress rehearsal validates fuel, kit, climbing, descending."
+14,Peak,,2026-10-04,2026-10-10,2026-10-07,Wed,vertical,Sustained climbs 35 min (race simulation),,35,37,25,25,"Keystone week: 25 km dress rehearsal validates fuel, kit, climbing, descending."
+14,Peak,,2026-10-04,2026-10-10,2026-10-08,Thu,legs,"Legs — reduced volume (maintain, don't build)",,,37,25,24,"Keystone week: 25 km dress rehearsal validates fuel, kit, climbing, descending."
+14,Peak,,2026-10-04,2026-10-10,2026-10-08,Thu,pull,"Pull (upper, lighter)",,,37,25,24,"Keystone week: 25 km dress rehearsal validates fuel, kit, climbing, descending."
+14,Peak,,2026-10-04,2026-10-10,2026-10-09,Fri,easy,Easy run 6 km (Z2),6,,37,25,23,"Keystone week: 25 km dress rehearsal validates fuel, kit, climbing, descending."
+15,Taper,,2026-10-11,2026-10-17,2026-10-11,Sun,long,Reduced long run 12-15 km (Z2),15,,26,15,21,"Taper begins — volume drops ~40%, keep a touch of intensity."
+15,Taper,,2026-10-11,2026-10-17,2026-10-13,Tue,easy,Easy run + short uphill strides,6,,26,15,19,"Taper begins — volume drops ~40%, keep a touch of intensity."
+15,Taper,,2026-10-11,2026-10-17,2026-10-14,Wed,vertical,"Short vertical 15-20 min (maintain, don't build)",,20,26,15,18,"Taper begins — volume drops ~40%, keep a touch of intensity."
+15,Taper,,2026-10-11,2026-10-17,2026-10-15,Thu,legs,"Legs — last heavy session ~10 days out, then stop",,,26,15,17,"Taper begins — volume drops ~40%, keep a touch of intensity."
+15,Taper,,2026-10-11,2026-10-17,2026-10-16,Fri,easy,Easy run (Z2),5,,26,15,16,"Taper begins — volume drops ~40%, keep a touch of intensity."
+16,Taper,,2026-10-18,2026-10-24,2026-10-18,Sun,long,Reduced long run 10 km (Z2),10,,21,10,14,"Taper — reduced volume, arrive fresh. Last heavy legs behind you."
+16,Taper,,2026-10-18,2026-10-24,2026-10-20,Tue,easy,Easy run 6 km (Z2),6,,21,10,12,"Taper — reduced volume, arrive fresh. Last heavy legs behind you."
+16,Taper,,2026-10-18,2026-10-24,2026-10-21,Wed,vertical,Vertical 20 min (light),,20,21,10,11,"Taper — reduced volume, arrive fresh. Last heavy legs behind you."
+16,Taper,,2026-10-18,2026-10-24,2026-10-23,Fri,easy,Easy run 5 km (Z2),5,,21,10,9,"Taper — reduced volume, arrive fresh. Last heavy legs behind you."
+17,Race,,2026-10-25,2026-11-01,2026-10-26,Mon,easy,Easy shakeout 5 km,5,,38,25,6,Race week — fitness is banked; the taper's only job is freshness.
+17,Race,,2026-10-25,2026-11-01,2026-10-28,Wed,strides,Easy 3-4 km + strides,4,,38,25,4,Race week — fitness is banked; the taper's only job is freshness.
+17,Race,,2026-10-25,2026-11-01,2026-10-30,Fri,easy,Shakeout in Machico 3-4 km,4,,38,25,2,Race week — fitness is banked; the taper's only job is freshness.
+17,Race,,2026-10-25,2026-11-01,2026-11-01,Sun,race,RACE — Madeira 25K,25,,38,25,0,Race week — fitness is banked; the taper's only job is freshness.

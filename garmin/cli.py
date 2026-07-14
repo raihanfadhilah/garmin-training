@@ -204,7 +204,13 @@ def export_csv(
     table = Table(title="CSV export")
     table.add_column("File")
     table.add_column("Rows", justify="right")
-    counts = [result.activities, result.samples, result.days, result.predictions]
+    counts = [
+        result.activities,
+        result.samples,
+        result.days,
+        result.predictions,
+        result.plan_sessions,
+    ]
     for path, count in zip(result.files, counts, strict=True):
         table.add_row(str(path.resolve()), str(count))
     console.print(table)

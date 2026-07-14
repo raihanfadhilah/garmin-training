@@ -79,12 +79,34 @@ DAILY_COLUMNS = [
 ]
 
 
+PLAN_COLUMNS = [
+    "week",
+    "phase",
+    "down_week",
+    "week_start",
+    "week_end",
+    "date",
+    "weekday",
+    "kind",
+    "label",
+    "km",
+    "minutes",
+    "week_run_km",
+    "week_long_km",
+    "days_to_race",
+    "note",
+]
+
+WEEKDAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+
+
 @dataclass(frozen=True)
 class ExportResult:
     activities: int
     samples: int
     days: int
     predictions: int
+    plan_sessions: int
     files: list[Path]
 
 
@@ -185,6 +207,38 @@ def _daily_row(metric: DailyMetric) -> dict[str, Any]:
     return row
 
 
+def _plan_rows() -> list[dict[str, Any]]:
+    from datetime import timedelta
+
+    from garmin import plan
+
+    rows: list[dict[str, Any]] = []
+    for week in plan.PLAN:
+        run_km = sum(s.km or 0 for s in week.sessions if s.kind in plan.RUN_KINDS)
+        for session in sorted(week.sessions, key=lambda s: s.day):
+            day = week.start + timedelta(days=session.day)
+            rows.append(
+                {
+                    "week": week.number,
+                    "phase": week.phase,
+                    "down_week": "yes" if week.down_week else "",
+                    "week_start": week.start.isoformat(),
+                    "week_end": week.end.isoformat(),
+                    "date": day.isoformat(),
+                    "weekday": WEEKDAYS[min(session.day, 7)],
+                    "kind": session.kind,
+                    "label": session.label,
+                    "km": session.km or "",
+                    "minutes": session.minutes or "",
+                    "week_run_km": round(run_km, 1),
+                    "week_long_km": week.long_km or "",
+                    "days_to_race": (plan.RACE_DATE - day).days,
+                    "note": week.note or "",
+                }
+            )
+    return rows
+
+
 def _write(path: Path, columns: list[str], rows: list[dict[str, Any]]) -> None:
     with path.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=columns, extrasaction="ignore")
@@ -223,11 +277,13 @@ def run(database: Database, out_dir: Path, runs_only: bool = True) -> ExportResu
                 }
             )
 
+    plan_rows = _plan_rows()
     files = [
         out_dir / "activities.csv",
         out_dir / "samples.csv",
         out_dir / "daily.csv",
         out_dir / "race_predictions.csv",
+        out_dir / "plan.csv",
     ]
     _write(files[0], ACTIVITY_COLUMNS, activity_rows)
     _write(files[1], SAMPLE_COLUMNS, sample_rows)
@@ -237,11 +293,13 @@ def run(database: Database, out_dir: Path, runs_only: bool = True) -> ExportResu
         ["day", "race_5k_s", "race_10k_s", "race_half_s", "race_marathon_s"],
         prediction_rows,
     )
+    _write(files[4], PLAN_COLUMNS, plan_rows)
     return ExportResult(
         activities=len(activity_rows),
         samples=len(sample_rows),
         days=len(daily_rows),
         predictions=len(prediction_rows),
+        plan_sessions=len(plan_rows),
         files=files,
     )
 
