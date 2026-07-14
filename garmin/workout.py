@@ -3,15 +3,7 @@ from datetime import date, timedelta
 from operator import attrgetter
 from typing import Any
 
-from garminconnect.workout import (
-    ConditionType,
-    ExecutableStep,
-    RunningWorkout,
-    SportType,
-    StepType,
-    TargetType,
-    WorkoutSegment,
-)
+from garminconnect.workout import ConditionType, SportType, StepType, TargetType
 
 from garmin import plan
 from garmin.client import GarminClient
@@ -19,35 +11,33 @@ from garmin.client import GarminClient
 EASY_PACE_SECONDS_PER_KM = 450
 PUSHABLE = frozenset({"easy", "long", "hill_tempo", "strides", "race"})
 ZONE_BY_KIND = {"easy": 2, "long": 2, "strides": 2, "race": 2, "hill_tempo": 3}
+RUNNING = {"sportTypeId": SportType.RUNNING, "sportTypeKey": "running", "displayOrder": 1}
 
 
-def _hr_zone_target(zone: int) -> dict[str, Any]:
-    return {
-        "workoutTargetTypeId": TargetType.HEART_RATE_ZONE,
-        "workoutTargetTypeKey": "heart.rate.zone",
-        "displayOrder": 4,
-        "zoneNumber": zone,
-    }
-
-
-def _step(condition: str, value: float, zone: int) -> ExecutableStep:
+def _step(condition: str, value: float, zone: int) -> dict[str, Any]:
     conditions = {
         "distance": (ConditionType.DISTANCE, "distance", 3),
         "time": (ConditionType.TIME, "time", 2),
     }
     type_id, key, order = conditions[condition]
-    return ExecutableStep(
-        stepOrder=1,
-        stepType={"stepTypeId": StepType.INTERVAL, "stepTypeKey": "interval", "displayOrder": 3},
-        endCondition={
+    return {
+        "type": "ExecutableStepDTO",
+        "stepOrder": 1,
+        "stepType": {"stepTypeId": StepType.INTERVAL, "stepTypeKey": "interval", "displayOrder": 3},
+        "endCondition": {
             "conditionTypeId": type_id,
             "conditionTypeKey": key,
             "displayOrder": order,
             "displayable": True,
         },
-        endConditionValue=value,
-        targetType=_hr_zone_target(zone),
-    )
+        "endConditionValue": value,
+        "targetType": {
+            "workoutTargetTypeId": TargetType.HEART_RATE_ZONE,
+            "workoutTargetTypeKey": "heart.rate.zone",
+            "displayOrder": 4,
+        },
+        "zoneNumber": zone,
+    }
 
 
 @dataclass(frozen=True)
@@ -81,27 +71,20 @@ def build(week: plan.PlanWeek, session: plan.Session) -> PlannedWorkout | None:
     else:
         return None
     name = f"W{week.number} {session.label}"[:80]
-    workout = RunningWorkout(
-        workoutName=name,
-        estimatedDurationInSecs=seconds,
-        workoutSegments=[
-            WorkoutSegment(
-                segmentOrder=1,
-                sportType={
-                    "sportTypeId": SportType.RUNNING,
-                    "sportTypeKey": "running",
-                    "displayOrder": 1,
-                },
-                workoutSteps=[step],
-            )
+    payload = {
+        "workoutName": name,
+        "sportType": RUNNING,
+        "estimatedDurationInSecs": seconds,
+        "workoutSegments": [
+            {"segmentOrder": 1, "sportType": RUNNING, "workoutSteps": [step]},
         ],
-    )
+    }
     return PlannedWorkout(
         day=week.start + timedelta(days=session.day),
         name=name,
         kind=session.kind,
         summary=summary,
-        payload=workout.model_dump(exclude_none=True),
+        payload=payload,
     )
 
 
