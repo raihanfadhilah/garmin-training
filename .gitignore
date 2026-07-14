@@ -6,3 +6,5 @@ __pycache__/
 .garmin/
 .mypy_cache/
 .ruff_cache/
+plan.ics
+sync.log

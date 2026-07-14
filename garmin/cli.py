@@ -178,6 +178,20 @@ def push_workouts(
 
 
 @app.command()
+def calendar(
+    out: str = typer.Option("plan.ics", "--out", help="Where to write the .ics file."),
+) -> None:
+    """Export the training plan as an .ics calendar file (import into iOS/Google Calendar)."""
+    from garmin import ics
+
+    target = Path(out)
+    target.write_text(ics.build(), encoding="utf-8")
+    console.print(f"[green]Wrote[/] {ics.event_count()} sessions to {target.resolve()}")
+    console.print(f"Race day: {ics.race_day()}")
+    console.print("Email it to yourself and open it on your phone to import.")
+
+
+@app.command()
 def status() -> None:
     """Show what is currently stored in the database."""
     settings = Settings()
