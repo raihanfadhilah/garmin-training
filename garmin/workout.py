@@ -60,14 +60,14 @@ def build(week: plan.PlanWeek, session: plan.Session) -> PlannedWorkout | None:
     if session.kind not in PUSHABLE:
         return None
     zone = ZONE_BY_KIND.get(session.kind, 2)
-    if session.km:
-        seconds = int(session.km * EASY_PACE_SECONDS_PER_KM)
-        step = _step("distance", session.km * 1000, zone)
-        summary = f"{session.km:.0f} km, HR zone {zone}"
-    elif session.minutes:
+    if session.minutes:
         seconds = session.minutes * 60
         step = _step("time", seconds, zone)
         summary = f"{session.minutes} min, HR zone {zone}"
+    elif session.km:
+        seconds = int(session.km * EASY_PACE_SECONDS_PER_KM)
+        step = _step("distance", session.km * 1000, zone)
+        summary = f"{session.km:.0f} km, HR zone {zone}"
     else:
         return None
     name = f"W{week.number} {session.label}"[:80]

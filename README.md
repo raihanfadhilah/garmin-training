@@ -129,6 +129,50 @@ uv run garmin activities --limit 20
 The database is plain SQLite (`~/.garmin/garmin.db` by default), so you can also
 open it with any SQLite tool or query it directly.
 
+## Your own training plan
+
+The plan lives in **`plans/madeira25k.json`** — plain JSON, no Python required. Edit
+it, or copy it and point at your own:
+
+```bash
+GARMIN_PLAN=plans/my-marathon.json uv run garmin dashboard
+```
+
+```json
+{
+  "race": { "name": "Ultra X Madeira 25K", "date": "2026-11-01" },
+  "settings": { "easy_hr_cap": 150, "benchmark_hr": 150, "benchmark_km": 7 },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2026-07-05",
+      "end": "2026-07-11",
+      "phase": "Base",
+      "down_week": false,
+      "note": "Optional note shown on the dashboard.",
+      "sessions": [
+        { "kind": "long", "label": "Long run 7 km", "day": 0, "km": 7 },
+        { "kind": "easy", "label": "Easy run 4 km", "day": 3, "km": 4 },
+        { "kind": "vertical", "label": "Vertical 20 min", "day": 2, "minutes": 20 }
+      ]
+    }
+  ]
+}
+```
+
+- **`day`** — 0 = Sunday, 1 = Monday … 6 = Saturday (7 = race day).
+- **`km`** or **`minutes`** — give either, or both. A session with `minutes` is pushed to
+  the watch as a *time* workout; `km` alone becomes a *distance* workout. Long days
+  prescribed by time-on-feet should carry both: `minutes` is the target, `km` is only
+  used for weekly-volume accounting.
+- **`kind`** — drives how the session is tracked and whether it can be pushed to the
+  watch. Runs: `easy`, `long`, `hill_tempo`, `strides`, `race`, `benchmark`. Everything
+  else is tracked but not pushed: `vertical`, `eccentric`, `legs`, `push`, `pull`,
+  `cp_test`.
+
+Everything else — the dashboard, the `.ics` calendar, the workout push — reads from this
+file, so editing the JSON is all you need to do.
+
 ## Export
 
 ```bash

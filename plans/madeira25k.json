@@ -1,0 +1,891 @@
+{
+  "race": {
+    "name": "Ultra X Madeira 25K",
+    "date": "2026-11-01"
+  },
+  "settings": {
+    "easy_hr_cap": 150,
+    "benchmark_hr": 150,
+    "benchmark_km": 7,
+    "cadence_target": 178,
+    "easy_target_pct": 80.0,
+    "decoupling_target": 5.0
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2026-07-05",
+      "end": "2026-07-11",
+      "phase": "Base",
+      "down_week": false,
+      "note": "",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long run 7 km (easy — talk test)",
+          "day": 0,
+          "km": 7
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper)",
+          "day": 1
+        },
+        {
+          "kind": "vertical",
+          "label": "Vertical 20 min (stairs/ramp/incline)",
+          "day": 2,
+          "minutes": 20
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 4 km (easy — talk test)",
+          "day": 3,
+          "km": 4
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — heavy, brief, single-leg biased",
+          "day": 4
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper)",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km (easy — talk test)",
+          "day": 5,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "start": "2026-07-12",
+      "end": "2026-07-18",
+      "phase": "Base",
+      "down_week": false,
+      "note": "",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long run 8 km (easy — talk test)",
+          "day": 0,
+          "km": 8
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper)",
+          "day": 1
+        },
+        {
+          "kind": "vertical",
+          "label": "Vertical 25 min (stairs/ramp/incline)",
+          "day": 2,
+          "minutes": 25
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 4 km (easy — talk test)",
+          "day": 3,
+          "km": 4
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — heavy, brief, single-leg biased",
+          "day": 4
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper)",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km (easy — talk test)",
+          "day": 5,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "start": "2026-07-19",
+      "end": "2026-07-25",
+      "phase": "Base",
+      "down_week": false,
+      "note": "Eccentric enters: start running controlled descents.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long run 9 km (easy — talk test)",
+          "day": 0,
+          "km": 9
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper)",
+          "day": 1
+        },
+        {
+          "kind": "vertical",
+          "label": "Vertical 25 min (stairs/ramp/incline)",
+          "day": 2,
+          "minutes": 25
+        },
+        {
+          "kind": "eccentric",
+          "label": "Controlled ramp/stair descents (after the vertical)",
+          "day": 2
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km (easy — talk test)",
+          "day": 3,
+          "km": 5
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — heavy, brief, single-leg biased",
+          "day": 4
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper)",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km (easy — talk test)",
+          "day": 5,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "start": "2026-07-26",
+      "end": "2026-08-01",
+      "phase": "Base",
+      "down_week": true,
+      "note": "Down week — cut long run, lighter everything.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long run 6 km (easy — talk test)",
+          "day": 0,
+          "km": 6
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper)",
+          "day": 1
+        },
+        {
+          "kind": "vertical",
+          "label": "Vertical 20 min (stairs/ramp/incline)",
+          "day": 2,
+          "minutes": 20
+        },
+        {
+          "kind": "eccentric",
+          "label": "Controlled ramp/stair descents (after the vertical)",
+          "day": 2
+        },
+        {
+          "kind": "benchmark",
+          "label": "BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. Record pace + HR + power. Read: HR-at-power (lower = fitter). This is the ONLY run that measures fitness — trust the trend over 6+ of them, not one.",
+          "day": 3,
+          "km": 7
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — heavy, brief, single-leg biased",
+          "day": 4
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper)",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 4 km (easy — talk test)",
+          "day": 5,
+          "km": 4
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "start": "2026-08-02",
+      "end": "2026-08-08",
+      "phase": "Build",
+      "down_week": false,
+      "note": "Long day switches to TIME-ON-FEET — the race is 5-7 hours, not 25 km. Walking counts as training. Quality enters: one weekly hill tempo (uphill). Also: CP power test on base-built legs.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long day 1h30 time-on-feet (run/walk, walk the climbs)",
+          "day": 0,
+          "km": 11.2,
+          "minutes": 90
+        },
+        {
+          "kind": "eccentric",
+          "label": "Downhill dose in the long day (decline / down-ramps)",
+          "day": 0
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper)",
+          "day": 1
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km (easy — talk test)",
+          "day": 2,
+          "km": 5
+        },
+        {
+          "kind": "hill_tempo",
+          "label": "Hill tempo 25 min (uphill cruise intervals)",
+          "day": 3,
+          "minutes": 25
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — heavy, brief",
+          "day": 4
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper)",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 6 km (easy — talk test)",
+          "day": 5,
+          "km": 6
+        },
+        {
+          "kind": "cp_test",
+          "label": "CP 3+12 power test — warm up well, 12 min all-out (even pace), 20-30 min easy, then 3 min all-out. Sets your real power zones. On base-built legs, NOT before.",
+          "day": 6
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "start": "2026-08-09",
+      "end": "2026-08-15",
+      "phase": "Build",
+      "down_week": false,
+      "note": "",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long day 1h45 time-on-feet (run/walk, walk the climbs)",
+          "day": 0,
+          "km": 13.1,
+          "minutes": 105
+        },
+        {
+          "kind": "eccentric",
+          "label": "Downhill dose in the long day (decline / down-ramps)",
+          "day": 0
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper)",
+          "day": 1
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km (easy — talk test)",
+          "day": 2,
+          "km": 5
+        },
+        {
+          "kind": "hill_tempo",
+          "label": "Hill tempo 25 min (uphill cruise intervals)",
+          "day": 3,
+          "minutes": 25
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — heavy, brief",
+          "day": 4
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper)",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 6 km (easy — talk test)",
+          "day": 5,
+          "km": 6
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "start": "2026-08-16",
+      "end": "2026-08-22",
+      "phase": "Build",
+      "down_week": false,
+      "note": "",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long day 2h time-on-feet (run/walk, walk the climbs)",
+          "day": 0,
+          "km": 15.0,
+          "minutes": 120
+        },
+        {
+          "kind": "eccentric",
+          "label": "Downhill dose in the long day (decline / down-ramps)",
+          "day": 0
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper)",
+          "day": 1
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 6 km (easy — talk test)",
+          "day": 2,
+          "km": 6
+        },
+        {
+          "kind": "hill_tempo",
+          "label": "Hill tempo 30 min (uphill cruise intervals)",
+          "day": 3,
+          "minutes": 30
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — heavy, brief",
+          "day": 4
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper)",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 6 km (easy — talk test)",
+          "day": 5,
+          "km": 6
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "start": "2026-08-23",
+      "end": "2026-08-29",
+      "phase": "Build",
+      "down_week": true,
+      "note": "Down week — halve hill-tempo volume, lighter legs.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long day 1h30 time-on-feet (run/walk, walk the climbs)",
+          "day": 0,
+          "km": 11.2,
+          "minutes": 90
+        },
+        {
+          "kind": "eccentric",
+          "label": "Downhill dose in the long day (decline / down-ramps)",
+          "day": 0
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper)",
+          "day": 1
+        },
+        {
+          "kind": "benchmark",
+          "label": "BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. Record pace + HR + power. Read: HR-at-power (lower = fitter). This is the ONLY run that measures fitness — trust the trend over 6+ of them, not one.",
+          "day": 2,
+          "km": 7
+        },
+        {
+          "kind": "hill_tempo",
+          "label": "Hill tempo 20 min (uphill cruise intervals)",
+          "day": 3,
+          "minutes": 20
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — heavy, brief",
+          "day": 4
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper)",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km (easy — talk test)",
+          "day": 5,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "start": "2026-08-30",
+      "end": "2026-09-05",
+      "phase": "Build",
+      "down_week": false,
+      "note": "",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long day 2h15 time-on-feet (run/walk, walk the climbs)",
+          "day": 0,
+          "km": 16.9,
+          "minutes": 135
+        },
+        {
+          "kind": "eccentric",
+          "label": "Downhill dose in the long day (decline / down-ramps)",
+          "day": 0
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper)",
+          "day": 1
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 6 km (easy — talk test)",
+          "day": 2,
+          "km": 6
+        },
+        {
+          "kind": "hill_tempo",
+          "label": "Hill tempo 30 min (uphill cruise intervals)",
+          "day": 3,
+          "minutes": 30
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — heavy, brief",
+          "day": 4
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper)",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 6 km (easy — talk test)",
+          "day": 5,
+          "km": 6
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "start": "2026-09-06",
+      "end": "2026-09-12",
+      "phase": "Build",
+      "down_week": false,
+      "note": "",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long day 2h30 time-on-feet (run/walk, walk the climbs)",
+          "day": 0,
+          "km": 18.8,
+          "minutes": 150
+        },
+        {
+          "kind": "eccentric",
+          "label": "Downhill dose in the long day (decline / down-ramps)",
+          "day": 0
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper)",
+          "day": 1
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 6 km (easy — talk test)",
+          "day": 2,
+          "km": 6
+        },
+        {
+          "kind": "hill_tempo",
+          "label": "Hill tempo 35 min (uphill cruise intervals)",
+          "day": 3,
+          "minutes": 35
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — heavy, brief",
+          "day": 4
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper)",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 7 km (easy — talk test)",
+          "day": 5,
+          "km": 7
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "start": "2026-09-13",
+      "end": "2026-09-19",
+      "phase": "Build",
+      "down_week": false,
+      "note": "HILL TRIP 1. First sustained descent load — this is the single biggest race-specific gap and flat Amsterdam cannot fill it. Conservative on grade; expect 2-3 days of quad DOMS. That soreness IS the adaptation.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "HILL TRIP 1 — Limburg / Ardennes / Sauerland. Long day on real hills. Power-hike the climbs, run the descents easy and short-strided. First sustained descent load: go conservative on grade, expect quad DOMS for 2-3 days.",
+          "day": 0,
+          "km": 15.0,
+          "minutes": 180
+        },
+        {
+          "kind": "eccentric",
+          "label": "Downhill dose in the long day (decline / down-ramps)",
+          "day": 0
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper)",
+          "day": 1
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 7 km (easy — talk test)",
+          "day": 2,
+          "km": 7
+        },
+        {
+          "kind": "hill_tempo",
+          "label": "Hill tempo 35 min (uphill cruise intervals)",
+          "day": 3,
+          "minutes": 35
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — heavy, brief",
+          "day": 4
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper)",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 6 km (easy — talk test)",
+          "day": 5,
+          "km": 6
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "start": "2026-09-20",
+      "end": "2026-09-26",
+      "phase": "Peak",
+      "down_week": true,
+      "note": "Down week — recover from the hill trip before the dress rehearsal.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long day 1h45 time-on-feet (hilly, run/walk, descend easy)",
+          "day": 0,
+          "km": 13.1,
+          "minutes": 105
+        },
+        {
+          "kind": "eccentric",
+          "label": "Short descent touch (10-15 min, easy) — keep the adaptation live, do not fatigue.",
+          "day": 0
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper, lighter)",
+          "day": 1
+        },
+        {
+          "kind": "benchmark",
+          "label": "BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. Record pace + HR + power. Read: HR-at-power (lower = fitter). This is the ONLY run that measures fitness — trust the trend over 6+ of them, not one.",
+          "day": 2,
+          "km": 7
+        },
+        {
+          "kind": "vertical",
+          "label": "Sustained climbs 30 min (race simulation)",
+          "day": 3,
+          "minutes": 30
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — reduced volume (maintain, don't build)",
+          "day": 4
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper, lighter)",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km (easy — talk test)",
+          "day": 5,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "start": "2026-09-27",
+      "end": "2026-10-03",
+      "phase": "Peak",
+      "down_week": false,
+      "note": "Biggest home week. Full fuel + kit rehearsal on the long day.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long day 3h15 time-on-feet (hilly, run/walk, descend easy)",
+          "day": 0,
+          "km": 24.4,
+          "minutes": 195
+        },
+        {
+          "kind": "eccentric",
+          "label": "Downhill dose in the long day (decline / down-ramps)",
+          "day": 0
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper, lighter)",
+          "day": 1
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 6 km (easy — talk test)",
+          "day": 2,
+          "km": 6
+        },
+        {
+          "kind": "vertical",
+          "label": "Sustained climbs 40 min (race simulation)",
+          "day": 3,
+          "minutes": 40
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — reduced volume (maintain, don't build)",
+          "day": 4
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper, lighter)",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 6 km (easy — talk test)",
+          "day": 5,
+          "km": 6
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "start": "2026-10-04",
+      "end": "2026-10-10",
+      "phase": "Peak",
+      "down_week": false,
+      "note": "KEYSTONE WEEK. Hill trip 2 = dress rehearsal: longest day (3h30), full kit, full fuelling, real descent. Last big descent load — the repeated-bout protection you build here is what carries your quads through race day.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "HILL TRIP 2 — DRESS REHEARSAL. Longest day of the block on real hills. Full kit, full fuelling plan, poles if race-legal. This is the race, rehearsed. Last big descent load — repeated-bout protection from here carries to race day.",
+          "day": 0,
+          "km": 17.5,
+          "minutes": 210
+        },
+        {
+          "kind": "eccentric",
+          "label": "Last real descent session — moderate, early in the week. After this, nothing that makes your quads sore.",
+          "day": 0
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper, lighter)",
+          "day": 1
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 6 km (easy — talk test)",
+          "day": 2,
+          "km": 6
+        },
+        {
+          "kind": "vertical",
+          "label": "Sustained climbs 35 min (race simulation)",
+          "day": 3,
+          "minutes": 35
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — reduced volume (maintain, don't build)",
+          "day": 4
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper, lighter)",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 6 km (easy — talk test)",
+          "day": 5,
+          "km": 6
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "start": "2026-10-11",
+      "end": "2026-10-17",
+      "phase": "Taper",
+      "down_week": false,
+      "note": "Taper begins — volume drops ~40%. One short descent touch early in the week keeps the adaptation live. Nothing after this that makes your quads sore.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long day 2h time-on-feet (easy, hilly if possible)",
+          "day": 0,
+          "km": 15.0,
+          "minutes": 120
+        },
+        {
+          "kind": "eccentric",
+          "label": "Short descent touch (10-15 min, easy) — keep the adaptation live, do not fatigue.",
+          "day": 2
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run + short uphill strides",
+          "day": 2,
+          "km": 6
+        },
+        {
+          "kind": "vertical",
+          "label": "Short vertical 15-20 min (maintain, don't build)",
+          "day": 3,
+          "minutes": 20
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — last heavy session ~10 days out, then stop",
+          "day": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km (easy — talk test)",
+          "day": 5,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "start": "2026-10-18",
+      "end": "2026-10-24",
+      "phase": "Taper",
+      "down_week": false,
+      "note": "Taper — arrive fresh. No descents, no heavy legs. Nothing you do this week makes you fitter; plenty could make you tired.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long day 90 min time-on-feet (easy)",
+          "day": 0,
+          "km": 11.2,
+          "minutes": 90
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 6 km (easy — talk test)",
+          "day": 2,
+          "km": 6
+        },
+        {
+          "kind": "vertical",
+          "label": "Vertical 20 min (light)",
+          "day": 3,
+          "minutes": 20
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km (easy — talk test)",
+          "day": 5,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "start": "2026-10-25",
+      "end": "2026-11-01",
+      "phase": "Race",
+      "down_week": false,
+      "note": "Race week — fitness is banked; the taper's only job is freshness. Power-hike every real climb from the gun. Brake controlled on descents, short steps. Fuel on a clock. HR is a passenger today.",
+      "sessions": [
+        {
+          "kind": "easy",
+          "label": "Easy shakeout 5 km",
+          "day": 1,
+          "km": 5
+        },
+        {
+          "kind": "strides",
+          "label": "Easy 3-4 km + strides",
+          "day": 3,
+          "km": 4
+        },
+        {
+          "kind": "easy",
+          "label": "Shakeout in Machico 3-4 km",
+          "day": 5,
+          "km": 4
+        },
+        {
+          "kind": "race",
+          "label": "RACE — Madeira 25K",
+          "day": 7,
+          "km": 25
+        }
+      ]
+    }
+  ]
+}
