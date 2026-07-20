@@ -8,3 +8,4 @@ __pycache__/
 .ruff_cache/
 plan.ics
 sync.log
+.DS_Store
