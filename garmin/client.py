@@ -71,6 +71,9 @@ class GarminClient:
     def daily_stats(self, cdate: str) -> Any:
         return self._safe(self.api.get_stats, cdate)
 
+    def sleep(self, cdate: str) -> Any:
+        return self._safe(self.api.get_sleep_data, cdate)
+
     def endurance_score(self, start: str, end: str) -> Any:
         return self._safe(self.api.get_endurance_score, start, end)
 

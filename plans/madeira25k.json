@@ -4,7 +4,7 @@
     "date": "2026-11-01"
   },
   "settings": {
-    "easy_hr_cap": 150,
+    "easy_hr_cap": 158,
     "benchmark_hr": 150,
     "benchmark_km": 7,
     "cadence_target": 178,
@@ -116,39 +116,22 @@
       "end": "2026-07-25",
       "phase": "Base",
       "down_week": false,
-      "note": "Eccentric enters: start running controlled descents.",
+      "note": "RECOVERY WEEK (revised). Superseded by a 16.1 km / 2 h long run on Sat 18 Jul plus a 40 km easy bike on Sun 19 (~260 combined load). Long run dropped; Mon is full rest while the recovery clock clears. Descents moved to Sat — still the outstanding race-specific gap.",
       "sessions": [
-        {
-          "kind": "long",
-          "label": "Long run 9 km (easy — talk test)",
-          "day": 0,
-          "km": 9
-        },
         {
           "kind": "push",
           "label": "Push (upper)",
-          "day": 1
-        },
-        {
-          "kind": "vertical",
-          "label": "Vertical 25 min (stairs/ramp/incline)",
-          "day": 2,
-          "minutes": 25
-        },
-        {
-          "kind": "eccentric",
-          "label": "Controlled ramp/stair descents (after the vertical)",
           "day": 2
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km (easy — talk test)",
+          "label": "Easy run 5 km — INCREMENTAL TALK TEST (cool morning): step pace up every 3-5 min, recite a sentence aloud, note the HR where speech goes from comfortable to 'comfortable but harder'. That HR is your aerobic threshold.",
           "day": 3,
           "km": 5
         },
         {
           "kind": "legs",
-          "label": "Legs — heavy, brief, single-leg biased",
+          "label": "Legs — brief, eccentric/single-leg biased",
           "day": 4
         },
         {
@@ -158,9 +141,20 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km (easy — talk test)",
+          "label": "Easy run 4 km (or rest if legs are heavy)",
           "day": 5,
-          "km": 5
+          "km": 4
+        },
+        {
+          "kind": "vertical",
+          "label": "Vertical 25 min (stairs/ramp/incline)",
+          "day": 6,
+          "minutes": 25
+        },
+        {
+          "kind": "eccentric",
+          "label": "Controlled stair/ramp descents after the vertical — first real eccentric load",
+          "day": 6
         }
       ]
     },

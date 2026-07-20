@@ -76,6 +76,13 @@ DAILY_COLUMNS = [
     "intensity_moderate",
     "intensity_vigorous",
     "steps",
+    "sleep_seconds",
+    "sleep_deep_seconds",
+    "sleep_light_seconds",
+    "sleep_rem_seconds",
+    "sleep_awake_seconds",
+    "sleep_score",
+    "sleep_quality",
 ]
 
 
