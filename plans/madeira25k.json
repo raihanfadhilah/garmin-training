@@ -21,43 +21,49 @@
       "note": "",
       "sessions": [
         {
-          "kind": "long",
-          "label": "Long run 7 km (easy — talk test)",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 7
+          "minutes": 75
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 4 km (talk test)",
+          "day": 2,
+          "km": 4
         },
         {
           "kind": "push",
-          "label": "Push (upper)",
-          "day": 1
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "day": 3
         },
         {
           "kind": "vertical",
-          "label": "Vertical 20 min (stairs/ramp/incline)",
-          "day": 2,
+          "label": "Vertical 20 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
           "minutes": 20
         },
         {
           "kind": "easy",
-          "label": "Easy run 4 km (easy — talk test)",
-          "day": 3,
-          "km": 4
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — heavy, brief, single-leg biased",
-          "day": 4
+          "label": "Easy run 5 km (talk test)",
+          "day": 5,
+          "km": 5
         },
         {
           "kind": "pull",
-          "label": "Pull (upper)",
-          "day": 4
+          "label": "Pull (upper) — after the run",
+          "day": 5
         },
         {
-          "kind": "easy",
-          "label": "Easy run 5 km (easy — talk test)",
-          "day": 5,
-          "km": 5
+          "kind": "long",
+          "label": "Long run 7 km (talk test)",
+          "day": 6,
+          "km": 7
         }
       ]
     },
@@ -70,43 +76,49 @@
       "note": "",
       "sessions": [
         {
-          "kind": "long",
-          "label": "Long run 8 km (easy — talk test)",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 8
+          "minutes": 75
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 4 km (talk test)",
+          "day": 2,
+          "km": 4
         },
         {
           "kind": "push",
-          "label": "Push (upper)",
-          "day": 1
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "day": 3
         },
         {
           "kind": "vertical",
-          "label": "Vertical 25 min (stairs/ramp/incline)",
-          "day": 2,
+          "label": "Vertical 25 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
           "minutes": 25
         },
         {
           "kind": "easy",
-          "label": "Easy run 4 km (easy — talk test)",
-          "day": 3,
-          "km": 4
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — heavy, brief, single-leg biased",
-          "day": 4
+          "label": "Easy run 5 km (talk test)",
+          "day": 5,
+          "km": 5
         },
         {
           "kind": "pull",
-          "label": "Pull (upper)",
-          "day": 4
+          "label": "Pull (upper) — after the run",
+          "day": 5
         },
         {
-          "kind": "easy",
-          "label": "Easy run 5 km (easy — talk test)",
-          "day": 5,
-          "km": 5
+          "kind": "long",
+          "label": "Long run 8 km (talk test)",
+          "day": 6,
+          "km": 8
         }
       ]
     },
@@ -116,44 +128,56 @@
       "end": "2026-07-25",
       "phase": "Base",
       "down_week": false,
-      "note": "RECOVERY WEEK (revised). Superseded by a 16.1 km / 2 h long run on Sat 18 Jul plus a 40 km easy bike on Sun 19 (~260 combined load). Long run dropped; Mon is full rest while the recovery clock clears. Descents moved to Sat — still the outstanding race-specific gap.",
+      "note": "RECOVERY WEEK. Superseded by a 16.1 km run + 40 km bike. Only two things matter: the talk test on a cool morning, and Saturday's descents.",
       "sessions": [
         {
-          "kind": "push",
-          "label": "Push (upper)",
-          "day": 2
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
+          "day": 0,
+          "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km — INCREMENTAL TALK TEST (cool morning): step pace up every 3-5 min, recite a sentence aloud, note the HR where speech goes from comfortable to 'comfortable but harder'. That HR is your aerobic threshold.",
-          "day": 3,
+          "label": "Easy run 5 km (talk test)",
+          "day": 2,
           "km": 5
         },
         {
-          "kind": "legs",
-          "label": "Legs — brief, eccentric/single-leg biased",
-          "day": 4
+          "kind": "push",
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
         },
         {
-          "kind": "pull",
-          "label": "Pull (upper)",
-          "day": 4
+          "kind": "legs",
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "day": 3
+        },
+        {
+          "kind": "vertical",
+          "label": "Vertical 25 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
+          "minutes": 25
         },
         {
           "kind": "easy",
-          "label": "Easy run 4 km (or rest if legs are heavy)",
+          "label": "Easy run 4 km (talk test)",
           "day": 5,
           "km": 4
         },
         {
-          "kind": "vertical",
-          "label": "Vertical 25 min (stairs/ramp/incline)",
+          "kind": "pull",
+          "label": "Pull (upper) — after the run",
+          "day": 5
+        },
+        {
+          "kind": "long",
+          "label": "Long run 5 km (talk test)",
           "day": 6,
-          "minutes": 25
+          "km": 5
         },
         {
           "kind": "eccentric",
-          "label": "Controlled stair/ramp descents after the vertical — first real eccentric load",
+          "label": "Controlled stair/ramp descents — first real eccentric load, on fresh quads",
           "day": 6
         }
       ]
@@ -164,51 +188,58 @@
       "end": "2026-08-01",
       "phase": "Base",
       "down_week": true,
-      "note": "Down week — cut long run, lighter everything.",
+      "note": "Down week + first BENCHMARK. Cut volume, lighter everything.",
       "sessions": [
         {
-          "kind": "long",
-          "label": "Long run 6 km (easy — talk test)",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 6
-        },
-        {
-          "kind": "push",
-          "label": "Push (upper)",
-          "day": 1
-        },
-        {
-          "kind": "vertical",
-          "label": "Vertical 20 min (stairs/ramp/incline)",
-          "day": 2,
-          "minutes": 20
-        },
-        {
-          "kind": "eccentric",
-          "label": "Controlled ramp/stair descents (after the vertical)",
-          "day": 2
-        },
-        {
-          "kind": "benchmark",
-          "label": "BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. Record pace + HR + power. Read: HR-at-power (lower = fitter). This is the ONLY run that measures fitness — trust the trend over 6+ of them, not one.",
-          "day": 3,
-          "km": 7
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — heavy, brief, single-leg biased",
-          "day": 4
-        },
-        {
-          "kind": "pull",
-          "label": "Pull (upper)",
-          "day": 4
+          "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 4 km (easy — talk test)",
+          "label": "Easy run 3 km (talk test)",
+          "day": 2,
+          "km": 3
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "day": 3
+        },
+        {
+          "kind": "vertical",
+          "label": "Vertical 20 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
+          "minutes": 20
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 3 km (talk test)",
           "day": 5,
-          "km": 4
+          "km": 3
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper) — after the run",
+          "day": 5
+        },
+        {
+          "kind": "benchmark",
+          "label": "BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. The ONLY run that measures fitness — trust the trend, not one result.",
+          "day": 4,
+          "km": 7
+        },
+        {
+          "kind": "long",
+          "label": "Long run 6 km (talk test)",
+          "day": 6,
+          "km": 6
         }
       ]
     },
@@ -218,56 +249,62 @@
       "end": "2026-08-08",
       "phase": "Build",
       "down_week": false,
-      "note": "Long day switches to TIME-ON-FEET — the race is 5-7 hours, not 25 km. Walking counts as training. Quality enters: one weekly hill tempo (uphill). Also: CP power test on base-built legs.",
+      "note": "Long day switches to TIME-ON-FEET — the race is 6-10 hours, not 25 km. Walking counts. CP power test on base-built legs.",
       "sessions": [
         {
-          "kind": "long",
-          "label": "Long day 1h30 time-on-feet (run/walk, walk the climbs)",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 11.2,
-          "minutes": 90
-        },
-        {
-          "kind": "eccentric",
-          "label": "Downhill dose in the long day (decline / down-ramps)",
-          "day": 0
-        },
-        {
-          "kind": "push",
-          "label": "Push (upper)",
-          "day": 1
+          "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km (easy — talk test)",
+          "label": "Easy run 5 km (talk test)",
           "day": 2,
           "km": 5
         },
         {
-          "kind": "hill_tempo",
-          "label": "Hill tempo 25 min (uphill cruise intervals)",
-          "day": 3,
-          "minutes": 25
+          "kind": "push",
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
         },
         {
           "kind": "legs",
-          "label": "Legs — heavy, brief",
-          "day": 4
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "day": 3
         },
         {
-          "kind": "pull",
-          "label": "Pull (upper)",
-          "day": 4
+          "kind": "vertical",
+          "label": "Vertical 25 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
+          "minutes": 25
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (easy — talk test)",
+          "label": "Easy run 6 km (talk test)",
           "day": 5,
           "km": 6
         },
         {
+          "kind": "pull",
+          "label": "Pull (upper) — after the run",
+          "day": 5
+        },
+        {
           "kind": "cp_test",
-          "label": "CP 3+12 power test — warm up well, 12 min all-out (even pace), 20-30 min easy, then 3 min all-out. Sets your real power zones. On base-built legs, NOT before.",
+          "label": "CP 3+12 power test — warm up, 12 min all-out even pace, 20-30 min easy, then 3 min all-out. Sets real power zones. On base-built legs.",
+          "day": 4
+        },
+        {
+          "kind": "long",
+          "label": "Long day 2h00 time-on-feet (run/walk, walk the climbs)",
+          "day": 6,
+          "km": 15,
+          "minutes": 120
+        },
+        {
+          "kind": "eccentric",
+          "label": "Descent dose: decline treadmill or long stair descents, easy and controlled",
           "day": 6
         }
       ]
@@ -281,49 +318,50 @@
       "note": "",
       "sessions": [
         {
-          "kind": "long",
-          "label": "Long day 1h45 time-on-feet (run/walk, walk the climbs)",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 13.1,
-          "minutes": 105
-        },
-        {
-          "kind": "eccentric",
-          "label": "Downhill dose in the long day (decline / down-ramps)",
-          "day": 0
-        },
-        {
-          "kind": "push",
-          "label": "Push (upper)",
-          "day": 1
+          "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km (easy — talk test)",
+          "label": "Easy run 5 km (talk test)",
           "day": 2,
           "km": 5
         },
         {
-          "kind": "hill_tempo",
-          "label": "Hill tempo 25 min (uphill cruise intervals)",
-          "day": 3,
-          "minutes": 25
+          "kind": "push",
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
         },
         {
           "kind": "legs",
-          "label": "Legs — heavy, brief",
-          "day": 4
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "day": 3
         },
         {
-          "kind": "pull",
-          "label": "Pull (upper)",
-          "day": 4
+          "kind": "vertical",
+          "label": "Vertical 25 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
+          "minutes": 25
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (easy — talk test)",
+          "label": "Easy run 6 km (talk test)",
           "day": 5,
           "km": 6
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper) — after the run",
+          "day": 5
+        },
+        {
+          "kind": "long",
+          "label": "Long day 2h15 time-on-feet (run/walk, walk the climbs)",
+          "day": 6,
+          "km": 17,
+          "minutes": 135
         }
       ]
     },
@@ -336,49 +374,55 @@
       "note": "",
       "sessions": [
         {
-          "kind": "long",
-          "label": "Long day 2h time-on-feet (run/walk, walk the climbs)",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 15.0,
-          "minutes": 120
-        },
-        {
-          "kind": "eccentric",
-          "label": "Downhill dose in the long day (decline / down-ramps)",
-          "day": 0
-        },
-        {
-          "kind": "push",
-          "label": "Push (upper)",
-          "day": 1
+          "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (easy — talk test)",
+          "label": "Easy run 6 km (talk test)",
           "day": 2,
           "km": 6
         },
         {
-          "kind": "hill_tempo",
-          "label": "Hill tempo 30 min (uphill cruise intervals)",
-          "day": 3,
-          "minutes": 30
+          "kind": "push",
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
         },
         {
           "kind": "legs",
-          "label": "Legs — heavy, brief",
-          "day": 4
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "day": 3
         },
         {
-          "kind": "pull",
-          "label": "Pull (upper)",
-          "day": 4
+          "kind": "vertical",
+          "label": "Vertical 30 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
+          "minutes": 30
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (easy — talk test)",
+          "label": "Easy run 6 km (talk test)",
           "day": 5,
           "km": 6
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper) — after the run",
+          "day": 5
+        },
+        {
+          "kind": "long",
+          "label": "Long day 2h30 time-on-feet (run/walk, walk the climbs)",
+          "day": 6,
+          "km": 19,
+          "minutes": 150
+        },
+        {
+          "kind": "eccentric",
+          "label": "Descent dose — build total descending minutes, still controlled",
+          "day": 6
         }
       ]
     },
@@ -388,52 +432,59 @@
       "end": "2026-08-29",
       "phase": "Build",
       "down_week": true,
-      "note": "Down week — halve hill-tempo volume, lighter legs.",
+      "note": "Down week + benchmark #2.",
       "sessions": [
         {
-          "kind": "long",
-          "label": "Long day 1h30 time-on-feet (run/walk, walk the climbs)",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 11.2,
-          "minutes": 90
-        },
-        {
-          "kind": "eccentric",
-          "label": "Downhill dose in the long day (decline / down-ramps)",
-          "day": 0
-        },
-        {
-          "kind": "push",
-          "label": "Push (upper)",
-          "day": 1
-        },
-        {
-          "kind": "benchmark",
-          "label": "BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. Record pace + HR + power. Read: HR-at-power (lower = fitter). This is the ONLY run that measures fitness — trust the trend over 6+ of them, not one.",
-          "day": 2,
-          "km": 7
-        },
-        {
-          "kind": "hill_tempo",
-          "label": "Hill tempo 20 min (uphill cruise intervals)",
-          "day": 3,
-          "minutes": 20
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — heavy, brief",
-          "day": 4
-        },
-        {
-          "kind": "pull",
-          "label": "Pull (upper)",
-          "day": 4
+          "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km (easy — talk test)",
+          "label": "Easy run 5 km (talk test)",
+          "day": 2,
+          "km": 5
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "day": 3
+        },
+        {
+          "kind": "vertical",
+          "label": "Vertical 20 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
+          "minutes": 20
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km (talk test)",
           "day": 5,
           "km": 5
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper) — after the run",
+          "day": 5
+        },
+        {
+          "kind": "benchmark",
+          "label": "BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. The ONLY run that measures fitness — trust the trend, not one result.",
+          "day": 4,
+          "km": 7
+        },
+        {
+          "kind": "long",
+          "label": "Long day 1h45 time-on-feet (run/walk, walk the climbs)",
+          "day": 6,
+          "km": 13,
+          "minutes": 105
         }
       ]
     },
@@ -446,49 +497,55 @@
       "note": "",
       "sessions": [
         {
-          "kind": "long",
-          "label": "Long day 2h15 time-on-feet (run/walk, walk the climbs)",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 16.9,
-          "minutes": 135
-        },
-        {
-          "kind": "eccentric",
-          "label": "Downhill dose in the long day (decline / down-ramps)",
-          "day": 0
-        },
-        {
-          "kind": "push",
-          "label": "Push (upper)",
-          "day": 1
+          "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (easy — talk test)",
+          "label": "Easy run 6 km (talk test)",
           "day": 2,
           "km": 6
         },
         {
-          "kind": "hill_tempo",
-          "label": "Hill tempo 30 min (uphill cruise intervals)",
-          "day": 3,
-          "minutes": 30
+          "kind": "push",
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
         },
         {
           "kind": "legs",
-          "label": "Legs — heavy, brief",
-          "day": 4
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "day": 3
         },
         {
-          "kind": "pull",
-          "label": "Pull (upper)",
-          "day": 4
+          "kind": "vertical",
+          "label": "Vertical 30 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
+          "minutes": 30
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (easy — talk test)",
+          "label": "Easy run 6 km (talk test)",
           "day": 5,
           "km": 6
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper) — after the run",
+          "day": 5
+        },
+        {
+          "kind": "long",
+          "label": "Long day 2h45 time-on-feet (run/walk, walk the climbs)",
+          "day": 6,
+          "km": 21,
+          "minutes": 165
+        },
+        {
+          "kind": "eccentric",
+          "label": "Descent dose — progress the grade, not the speed",
+          "day": 6
         }
       ]
     },
@@ -501,49 +558,50 @@
       "note": "",
       "sessions": [
         {
-          "kind": "long",
-          "label": "Long day 2h30 time-on-feet (run/walk, walk the climbs)",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 18.8,
-          "minutes": 150
-        },
-        {
-          "kind": "eccentric",
-          "label": "Downhill dose in the long day (decline / down-ramps)",
-          "day": 0
-        },
-        {
-          "kind": "push",
-          "label": "Push (upper)",
-          "day": 1
+          "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (easy — talk test)",
+          "label": "Easy run 6 km (talk test)",
           "day": 2,
           "km": 6
         },
         {
-          "kind": "hill_tempo",
-          "label": "Hill tempo 35 min (uphill cruise intervals)",
-          "day": 3,
-          "minutes": 35
+          "kind": "push",
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
         },
         {
           "kind": "legs",
-          "label": "Legs — heavy, brief",
-          "day": 4
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "day": 3
         },
         {
-          "kind": "pull",
-          "label": "Pull (upper)",
-          "day": 4
+          "kind": "vertical",
+          "label": "Vertical 35 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
+          "minutes": 35
         },
         {
           "kind": "easy",
-          "label": "Easy run 7 km (easy — talk test)",
+          "label": "Easy run 7 km (talk test)",
           "day": 5,
           "km": 7
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper) — after the run",
+          "day": 5
+        },
+        {
+          "kind": "long",
+          "label": "Long day 3h00 time-on-feet (run/walk, walk the climbs)",
+          "day": 6,
+          "km": 22,
+          "minutes": 180
         }
       ]
     },
@@ -553,52 +611,58 @@
       "end": "2026-09-19",
       "phase": "Build",
       "down_week": false,
-      "note": "HILL TRIP 1. First sustained descent load — this is the single biggest race-specific gap and flat Amsterdam cannot fill it. Conservative on grade; expect 2-3 days of quad DOMS. That soreness IS the adaptation.",
+      "note": "HILL TRIP 1. First sustained descent load — flat Amsterdam cannot supply this.",
       "sessions": [
         {
-          "kind": "long",
-          "label": "HILL TRIP 1 — Limburg / Ardennes / Sauerland. Long day on real hills. Power-hike the climbs, run the descents easy and short-strided. First sustained descent load: go conservative on grade, expect quad DOMS for 2-3 days.",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 15.0,
-          "minutes": 180
-        },
-        {
-          "kind": "eccentric",
-          "label": "Downhill dose in the long day (decline / down-ramps)",
-          "day": 0
-        },
-        {
-          "kind": "push",
-          "label": "Push (upper)",
-          "day": 1
+          "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 7 km (easy — talk test)",
+          "label": "Easy run 7 km (talk test)",
           "day": 2,
           "km": 7
         },
         {
-          "kind": "hill_tempo",
-          "label": "Hill tempo 35 min (uphill cruise intervals)",
-          "day": 3,
-          "minutes": 35
+          "kind": "push",
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
         },
         {
           "kind": "legs",
-          "label": "Legs — heavy, brief",
-          "day": 4
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "day": 3
         },
         {
-          "kind": "pull",
-          "label": "Pull (upper)",
-          "day": 4
+          "kind": "vertical",
+          "label": "Vertical 35 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
+          "minutes": 35
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (easy — talk test)",
+          "label": "Easy run 6 km (talk test)",
           "day": 5,
           "km": 6
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper) — after the run",
+          "day": 5
+        },
+        {
+          "kind": "long",
+          "label": "HILL TRIP 1 — Limburg / Ardennes / Sauerland. First sustained descent load. Power-hike the climbs, run descents easy and short-strided. Conservative on grade; expect 2-3 days of quad DOMS.",
+          "day": 6,
+          "km": 18,
+          "minutes": 210
+        },
+        {
+          "kind": "eccentric",
+          "label": "Sustained real descent — the whole point of the trip",
+          "day": 6
         }
       ]
     },
@@ -608,52 +672,59 @@
       "end": "2026-09-26",
       "phase": "Peak",
       "down_week": true,
-      "note": "Down week — recover from the hill trip before the dress rehearsal.",
+      "note": "Down week + benchmark #3. Recover from the trip before the dress rehearsal.",
       "sessions": [
         {
-          "kind": "long",
-          "label": "Long day 1h45 time-on-feet (hilly, run/walk, descend easy)",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 13.1,
-          "minutes": 105
-        },
-        {
-          "kind": "eccentric",
-          "label": "Short descent touch (10-15 min, easy) — keep the adaptation live, do not fatigue.",
-          "day": 0
-        },
-        {
-          "kind": "push",
-          "label": "Push (upper, lighter)",
-          "day": 1
-        },
-        {
-          "kind": "benchmark",
-          "label": "BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. Record pace + HR + power. Read: HR-at-power (lower = fitter). This is the ONLY run that measures fitness — trust the trend over 6+ of them, not one.",
-          "day": 2,
-          "km": 7
-        },
-        {
-          "kind": "vertical",
-          "label": "Sustained climbs 30 min (race simulation)",
-          "day": 3,
-          "minutes": 30
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — reduced volume (maintain, don't build)",
-          "day": 4
-        },
-        {
-          "kind": "pull",
-          "label": "Pull (upper, lighter)",
-          "day": 4
+          "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km (easy — talk test)",
+          "label": "Easy run 6 km (talk test)",
+          "day": 2,
+          "km": 6
+        },
+        {
+          "kind": "push",
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet). Reduced volume — maintain, don't build.",
+          "day": 3
+        },
+        {
+          "kind": "vertical",
+          "label": "Vertical 30 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
+          "minutes": 30
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km (talk test)",
           "day": 5,
           "km": 5
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper) — after the run",
+          "day": 5
+        },
+        {
+          "kind": "benchmark",
+          "label": "BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. The ONLY run that measures fitness — trust the trend, not one result.",
+          "day": 4,
+          "km": 7
+        },
+        {
+          "kind": "long",
+          "label": "Long day 2h00 time-on-feet (run/walk, walk the climbs)",
+          "day": 6,
+          "km": 15,
+          "minutes": 120
         }
       ]
     },
@@ -666,49 +737,55 @@
       "note": "Biggest home week. Full fuel + kit rehearsal on the long day.",
       "sessions": [
         {
-          "kind": "long",
-          "label": "Long day 3h15 time-on-feet (hilly, run/walk, descend easy)",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 24.4,
-          "minutes": 195
-        },
-        {
-          "kind": "eccentric",
-          "label": "Downhill dose in the long day (decline / down-ramps)",
-          "day": 0
-        },
-        {
-          "kind": "push",
-          "label": "Push (upper, lighter)",
-          "day": 1
+          "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (easy — talk test)",
+          "label": "Easy run 6 km (talk test)",
           "day": 2,
           "km": 6
         },
         {
-          "kind": "vertical",
-          "label": "Sustained climbs 40 min (race simulation)",
-          "day": 3,
-          "minutes": 40
+          "kind": "push",
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
         },
         {
           "kind": "legs",
-          "label": "Legs — reduced volume (maintain, don't build)",
-          "day": 4
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet). Reduced volume — maintain, don't build.",
+          "day": 3
         },
         {
-          "kind": "pull",
-          "label": "Pull (upper, lighter)",
-          "day": 4
+          "kind": "vertical",
+          "label": "Vertical 40 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
+          "minutes": 40
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (easy — talk test)",
+          "label": "Easy run 6 km (talk test)",
           "day": 5,
           "km": 6
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper) — after the run",
+          "day": 5
+        },
+        {
+          "kind": "long",
+          "label": "Long day 3h45 time-on-feet (run/walk, walk the climbs)",
+          "day": 6,
+          "km": 28,
+          "minutes": 225
+        },
+        {
+          "kind": "eccentric",
+          "label": "Descent dose — last home session before the dress rehearsal",
+          "day": 6
         }
       ]
     },
@@ -718,52 +795,58 @@
       "end": "2026-10-10",
       "phase": "Peak",
       "down_week": false,
-      "note": "KEYSTONE WEEK. Hill trip 2 = dress rehearsal: longest day (3h30), full kit, full fuelling, real descent. Last big descent load — the repeated-bout protection you build here is what carries your quads through race day.",
+      "note": "KEYSTONE WEEK. Dress rehearsal, and the LAST big descent — 4 weeks out so protection is live on race day.",
       "sessions": [
         {
-          "kind": "long",
-          "label": "HILL TRIP 2 — DRESS REHEARSAL. Longest day of the block on real hills. Full kit, full fuelling plan, poles if race-legal. This is the race, rehearsed. Last big descent load — repeated-bout protection from here carries to race day.",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 17.5,
-          "minutes": 210
-        },
-        {
-          "kind": "eccentric",
-          "label": "Last real descent session — moderate, early in the week. After this, nothing that makes your quads sore.",
-          "day": 0
-        },
-        {
-          "kind": "push",
-          "label": "Push (upper, lighter)",
-          "day": 1
+          "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (easy — talk test)",
+          "label": "Easy run 6 km (talk test)",
           "day": 2,
           "km": 6
         },
         {
-          "kind": "vertical",
-          "label": "Sustained climbs 35 min (race simulation)",
-          "day": 3,
-          "minutes": 35
+          "kind": "push",
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
         },
         {
           "kind": "legs",
-          "label": "Legs — reduced volume (maintain, don't build)",
-          "day": 4
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet). Reduced volume — maintain, don't build.",
+          "day": 3
         },
         {
-          "kind": "pull",
-          "label": "Pull (upper, lighter)",
-          "day": 4
+          "kind": "vertical",
+          "label": "Vertical 35 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
+          "minutes": 35
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (easy — talk test)",
+          "label": "Easy run 6 km (talk test)",
           "day": 5,
           "km": 6
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper) — after the run",
+          "day": 5
+        },
+        {
+          "kind": "long",
+          "label": "HILL TRIP 2 — DRESS REHEARSAL. Longest day, real hills, full kit and fuelling plan. LAST big descent load: 4 weeks out, so repeated-bout protection is still live on race day.",
+          "day": 6,
+          "km": 20,
+          "minutes": 240
+        },
+        {
+          "kind": "eccentric",
+          "label": "Sustained real descent — the whole point of the trip",
+          "day": 6
         }
       ]
     },
@@ -773,42 +856,58 @@
       "end": "2026-10-17",
       "phase": "Taper",
       "down_week": false,
-      "note": "Taper begins — volume drops ~40%. One short descent touch early in the week keeps the adaptation live. Nothing after this that makes your quads sore.",
+      "note": "Taper begins. Last heavy legs ~10-14 days out, then stop. One short descent touch only.",
       "sessions": [
         {
-          "kind": "long",
-          "label": "Long day 2h time-on-feet (easy, hilly if possible)",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 15.0,
-          "minutes": 120
-        },
-        {
-          "kind": "eccentric",
-          "label": "Short descent touch (10-15 min, easy) — keep the adaptation live, do not fatigue.",
-          "day": 2
+          "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run + short uphill strides",
+          "label": "Easy run 6 km (talk test)",
           "day": 2,
           "km": 6
         },
         {
-          "kind": "vertical",
-          "label": "Short vertical 15-20 min (maintain, don't build)",
-          "day": 3,
-          "minutes": 20
+          "kind": "push",
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
         },
         {
           "kind": "legs",
-          "label": "Legs — last heavy session ~10 days out, then stop",
-          "day": 4
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet). Reduced volume — maintain, don't build.",
+          "day": 3
+        },
+        {
+          "kind": "vertical",
+          "label": "Vertical 20 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
+          "minutes": 20
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km (easy — talk test)",
+          "label": "Easy run 5 km (talk test)",
           "day": 5,
           "km": 5
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper) — after the run",
+          "day": 5
+        },
+        {
+          "kind": "long",
+          "label": "Long day 2h00 time-on-feet (run/walk, walk the climbs)",
+          "day": 6,
+          "km": 15,
+          "minutes": 120
+        },
+        {
+          "kind": "eccentric",
+          "label": "Short descent touch (10-15 min, easy) — keep the adaptation live, do not fatigue",
+          "day": 6
         }
       ]
     },
@@ -818,32 +917,53 @@
       "end": "2026-10-24",
       "phase": "Taper",
       "down_week": false,
-      "note": "Taper — arrive fresh. No descents, no heavy legs. Nothing you do this week makes you fitter; plenty could make you tired.",
+      "note": "Taper. No descents, no heavy legs. Nothing this week makes you fitter; plenty could make you tired.",
       "sessions": [
         {
-          "kind": "long",
-          "label": "Long day 90 min time-on-feet (easy)",
+          "kind": "cycling",
+          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
           "day": 0,
-          "km": 11.2,
-          "minutes": 90
+          "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (easy — talk test)",
+          "label": "Easy run 6 km (talk test)",
           "day": 2,
           "km": 6
         },
         {
+          "kind": "push",
+          "label": "Push (upper) — after the run, no leg cost",
+          "day": 2
+        },
+        {
+          "kind": "legs",
+          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet). Reduced volume — maintain, don't build.",
+          "day": 3
+        },
+        {
           "kind": "vertical",
-          "label": "Vertical 20 min (light)",
-          "day": 3,
+          "label": "Vertical 20 min (stairs/ramp/incline) — climbing, concentric",
+          "day": 4,
           "minutes": 20
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km (easy — talk test)",
+          "label": "Easy run 5 km (talk test)",
           "day": 5,
           "km": 5
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper) — after the run",
+          "day": 5
+        },
+        {
+          "kind": "long",
+          "label": "Long day 1h30 time-on-feet (run/walk, walk the climbs)",
+          "day": 6,
+          "km": 11,
+          "minutes": 90
         }
       ]
     },
@@ -853,7 +973,7 @@
       "end": "2026-11-01",
       "phase": "Race",
       "down_week": false,
-      "note": "Race week — fitness is banked; the taper's only job is freshness. Power-hike every real climb from the gun. Brake controlled on descents, short steps. Fuel on a clock. HR is a passenger today.",
+      "note": "Race week. Fitness is banked; the taper's only job is freshness. Power-hike every real climb from the gun. Brake controlled on descents, short steps. Fuel on a clock. HR is a passenger.",
       "sessions": [
         {
           "kind": "easy",
@@ -875,7 +995,7 @@
         },
         {
           "kind": "race",
-          "label": "RACE — Madeira 25K",
+          "label": "RACE — Ultra X Madeira 25K · Sao Jorge to Machico · 1,970 m D+/D- · cut-off 11.5 h",
           "day": 7,
           "km": 25
         }
