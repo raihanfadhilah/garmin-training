@@ -1,0 +1,1095 @@
+<title>Sea Level to Machico</title>
+<style>
+:root{
+  --ground:#EFF1EB; --surface:#F8F9F5; --raised:#FFFFFF;
+  --ink:#151A16; --ink-2:#3C453E; --muted:#6B756C; --line:#D6DBD2; --line-2:#E4E8DF;
+  --madeira:#17564A; --madeira-soft:#DCE8E2;
+  --hyrox:#3B4870; --hyrox-soft:#DFE2EC;
+  --venice:#1A6685; --venice-soft:#DAE7ED;
+  --signal:#A2411C; --signal-soft:#F2E1D8;
+  --grid:#DDE2D8;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#0E1210; --surface:#151A17; --raised:#1B211D;
+    --ink:#E5E9E1; --ink-2:#B4BDB4; --muted:#828C83; --line:#2A322C; --line-2:#222925;
+    --madeira:#6BBFA6; --madeira-soft:#17322A;
+    --hyrox:#94A3D4; --hyrox-soft:#1D2334;
+    --venice:#63B6D8; --venice-soft:#132C38;
+    --signal:#E08A5F; --signal-soft:#2E1B12;
+    --grid:#232A25;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0E1210; --surface:#151A17; --raised:#1B211D;
+  --ink:#E5E9E1; --ink-2:#B4BDB4; --muted:#828C83; --line:#2A322C; --line-2:#222925;
+  --madeira:#6BBFA6; --madeira-soft:#17322A;
+  --hyrox:#94A3D4; --hyrox-soft:#1D2334;
+  --venice:#63B6D8; --venice-soft:#132C38;
+  --signal:#E08A5F; --signal-soft:#2E1B12;
+  --grid:#232A25;
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--ground); color:var(--ink);
+  font-family:Georgia,'Iowan Old Style','Times New Roman',serif;
+  font-size:17px; line-height:1.62; margin:0;
+  -webkit-font-smoothing:antialiased;
+}
+.sans{font-family:system-ui,-apple-system,'Segoe UI',sans-serif}
+.mono,td.n,th.n{font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace;font-variant-numeric:tabular-nums}
+
+h1,h2,h3,h4{font-family:system-ui,-apple-system,'Segoe UI',sans-serif;text-wrap:balance;margin:0}
+h1{font-size:clamp(2.4rem,6vw,4rem);font-weight:800;letter-spacing:-.035em;line-height:1.02}
+h2{font-size:clamp(1.5rem,3.4vw,2.1rem);font-weight:750;letter-spacing:-.022em;line-height:1.12}
+h3{font-size:1.14rem;font-weight:700;letter-spacing:-.008em}
+h4{font-size:.94rem;font-weight:700;letter-spacing:-.004em}
+p{margin:0}
+a{color:inherit}
+
+.eyebrow{
+  font-family:ui-monospace,'SF Mono',Menlo,monospace;
+  font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--muted);font-variant-numeric:tabular-nums;
+}
+
+.wrap{max-width:1120px;margin:0 auto;padding:0 clamp(18px,4vw,40px)}
+.stack{display:flex;flex-direction:column}
+.g8{gap:8px}.g12{gap:12px}.g16{gap:16px}.g22{gap:22px}.g32{gap:32px}.g48{gap:48px}
+.prose{max-width:68ch}
+
+/* ── masthead ─────────────────────────────── */
+.mast{border-bottom:1px solid var(--line);padding:clamp(40px,7vw,76px) 0 clamp(28px,4vw,44px);position:relative;overflow:hidden}
+#contour{position:absolute;inset:0;width:100%;height:100%;opacity:.5;pointer-events:none}
+.mast .wrap{position:relative}
+.mast-grid{display:grid;gap:28px}
+@media(min-width:820px){.mast-grid{grid-template-columns:1fr auto;align-items:end}}
+.subtitle{font-size:1.05rem;color:var(--ink-2);max-width:52ch}
+.vitals{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+@media(min-width:560px){.vitals{grid-template-columns:repeat(4,minmax(0,1fr))}}
+.vital{background:var(--surface);padding:12px 14px;display:flex;flex-direction:column;gap:3px}
+.vital b{font-family:ui-monospace,'SF Mono',Menlo,monospace;font-size:1.22rem;font-weight:600;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+
+/* ── nav ─────────────────────────────── */
+nav{position:sticky;top:0;z-index:40;background:color-mix(in srgb,var(--ground) 92%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+nav .wrap{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none}
+nav .wrap::-webkit-scrollbar{display:none}
+nav a{
+  font-family:ui-monospace,'SF Mono',Menlo,monospace;font-size:.7rem;letter-spacing:.09em;text-transform:uppercase;
+  color:var(--muted);text-decoration:none;padding:13px 12px;white-space:nowrap;border-bottom:2px solid transparent;
+}
+nav a:hover{color:var(--ink)}
+nav a:focus-visible{outline:2px solid var(--madeira);outline-offset:-3px}
+
+section{padding:clamp(44px,6.5vw,80px) 0;border-bottom:1px solid var(--line-2)}
+.sec-head{display:flex;flex-direction:column;gap:10px;margin-bottom:clamp(24px,3.5vw,38px)}
+
+/* ── blocks colour scoping ───────────────── */
+.blk{--c:var(--madeira);--c-soft:var(--madeira-soft)}
+.blk.hy{--c:var(--hyrox);--c-soft:var(--hyrox-soft)}
+.blk.ve{--c:var(--venice);--c-soft:var(--venice-soft)}
+.rule{height:3px;background:var(--c);width:52px;border-radius:2px}
+.tag{display:inline-flex;align-items:center;gap:7px;font-family:ui-monospace,'SF Mono',Menlo,monospace;font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--c);background:var(--c-soft);padding:5px 10px;border-radius:3px;font-weight:600}
+
+/* ── timeline ─────────────────────────────── */
+.tl{display:flex;flex-direction:column;gap:0;border:1px solid var(--line);background:var(--surface)}
+.tl-row{display:grid;grid-template-columns:minmax(0,1fr);gap:0;border-bottom:1px solid var(--line-2)}
+.tl-row:last-child{border-bottom:0}
+@media(min-width:760px){.tl-row{grid-template-columns:190px minmax(0,1fr) 150px}}
+.tl-when{padding:16px 18px;border-bottom:1px solid var(--line-2)}
+.tl-what{padding:16px 18px;border-bottom:1px solid var(--line-2)}
+.tl-out{padding:16px 18px;background:color-mix(in srgb,var(--c-soft) 55%,transparent)}
+@media(min-width:760px){
+  .tl-when{border-bottom:0;border-right:1px solid var(--line-2)}
+  .tl-what{border-bottom:0;border-right:1px solid var(--line-2)}
+}
+.tl-bar{height:5px;border-radius:3px;background:var(--c);margin-top:9px}
+
+/* ── tables ───────────────────────────────── */
+.tbl-wrap{overflow-x:auto;border:1px solid var(--line);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:.9rem;font-family:system-ui,-apple-system,sans-serif}
+th,td{text-align:left;padding:9px 13px;border-bottom:1px solid var(--line-2);vertical-align:top}
+thead th{
+  font-family:ui-monospace,'SF Mono',Menlo,monospace;font-size:.66rem;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--muted);font-weight:600;border-bottom:1px solid var(--line);white-space:nowrap;
+}
+tbody tr:last-child td{border-bottom:0}
+td.n,th.n{text-align:right;white-space:nowrap}
+tbody tr.hi td{background:var(--c-soft)}
+caption{caption-side:bottom;padding:10px 13px;font-size:.8rem;color:var(--muted);text-align:left;font-family:system-ui,sans-serif}
+
+/* ── cards / callouts ─────────────────────── */
+.cards{display:grid;gap:14px}
+@media(min-width:700px){.cards.c2{grid-template-columns:repeat(2,1fr)}.cards.c3{grid-template-columns:repeat(3,1fr)}}
+.card{background:var(--surface);border:1px solid var(--line);padding:18px 20px;display:flex;flex-direction:column;gap:9px}
+.card .big{font-family:ui-monospace,'SF Mono',Menlo,monospace;font-size:1.9rem;font-weight:600;letter-spacing:-.03em;color:var(--c);font-variant-numeric:tabular-nums;line-height:1}
+
+.note{border-left:3px solid var(--c);background:var(--c-soft);padding:15px 18px;display:flex;flex-direction:column;gap:7px}
+.warn{border-left:3px solid var(--signal);background:var(--signal-soft);padding:15px 18px;display:flex;flex-direction:column;gap:7px}
+.warn .eyebrow{color:var(--signal)}
+.note p,.warn p{font-size:.94rem}
+
+.figure{border:1px solid var(--line);background:var(--surface);padding:16px}
+canvas{display:block;width:100%;height:auto}
+
+ul{margin:0;padding-left:1.15em}
+li{margin-bottom:5px}
+li::marker{color:var(--muted)}
+.tick li::marker{content:'— '}
+
+.week{display:grid;gap:1px;background:var(--line);border:1px solid var(--line);grid-template-columns:repeat(2,1fr)}
+@media(min-width:640px){.week{grid-template-columns:repeat(7,1fr)}}
+.day{background:var(--surface);padding:11px 12px;display:flex;flex-direction:column;gap:5px;min-height:104px}
+.day.rest{background:color-mix(in srgb,var(--ground) 60%,var(--surface))}
+.day.key{background:var(--c-soft)}
+.day .dn{font-family:ui-monospace,'SF Mono',Menlo,monospace;font-size:.64rem;letter-spacing:.11em;text-transform:uppercase;color:var(--muted)}
+.day .ds{font-family:system-ui,sans-serif;font-size:.83rem;line-height:1.35}
+.day.key .ds{font-weight:650}
+
+footer{padding:44px 0 60px;color:var(--muted);font-size:.86rem}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+
+<div class="mast blk">
+  <canvas id="contour"></canvas>
+  <div class="wrap">
+    <div class="mast-grid">
+      <div class="stack g16">
+        <span class="eyebrow">Training plan · 17 Aug 2026 → 24 Apr 2027 · v1</span>
+        <h1>Sea Level<br>to Machico</h1>
+        <p class="subtitle">Eight months, three races, one athlete at 56&nbsp;kg. Built from measured data and published evidence — every number here is sourced, and the places where it isn't are marked.</p>
+      </div>
+      <div class="vitals">
+        <div class="vital"><span class="eyebrow">Mass</span><b>56 kg</b></div>
+        <div class="vital"><span class="eyebrow">VO₂max</span><b>53</b></div>
+        <div class="vital"><span class="eyebrow">FTP est.</span><b>~165 W</b></div>
+        <div class="vital"><span class="eyebrow">Longest run</span><b>17.0 km</b></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<nav>
+  <div class="wrap">
+    <a href="#now">Where you are</a>
+    <a href="#season">The season</a>
+    <a href="#madeira">Madeira</a>
+    <a href="#hyrox">Hyrox</a>
+    <a href="#venice">Venice</a>
+    <a href="#fuel">Fuelling</a>
+    <a href="#kit">Kit &amp; money</a>
+    <a href="#evidence">Evidence</a>
+    <a href="#rules">Rules</a>
+  </div>
+</nav>
+
+<!-- ═══ WHERE YOU ARE ═══ -->
+<section id="now" class="blk">
+  <div class="wrap stack g32">
+    <div class="sec-head">
+      <div class="rule"></div>
+      <h2>Where you actually are</h2>
+      <p class="prose" style="color:var(--ink-2)">The honest baseline, from your own Garmin history rather than from how training feels.</p>
+    </div>
+
+    <div class="cards c3">
+      <div class="card">
+        <span class="eyebrow">The engine</span>
+        <span class="big">−0.8%</span>
+        <p style="font-size:.92rem">Aerobic decoupling across 17 km. Your long-run durability went from <b>+13.3% in March</b> to <b>−0.8% in August</b>. That is a genuine, large improvement.</p>
+      </div>
+      <div class="card">
+        <span class="eyebrow">The gap</span>
+        <span class="big">118 m</span>
+        <p style="font-size:.92rem">Biggest climb in any single run you have ever done. Madeira asks for <b>2,003 m</b>. Your steepest run is 7.3 m/km; the race is <b>80 m/km</b>.</p>
+      </div>
+      <div class="card">
+        <span class="eyebrow">The risk</span>
+        <span class="big">131 km</span>
+        <p style="font-size:.92rem">Total running in 2026 through mid-August, across five and a half months — with <b>April completely blank</b>. Consistency, not capacity, is the binding constraint.</p>
+      </div>
+    </div>
+
+    <div class="figure">
+      <span class="eyebrow">Monthly volume, 2026</span>
+      <canvas id="volume" height="230" aria-label="Bar chart of monthly running and cycling volume in 2026, showing a blank April and a July peak"></canvas>
+    </div>
+
+    <div class="cards c2">
+      <div class="note">
+        <span class="eyebrow">What you have proved</span>
+        <p>17.01 km at 6:44/km, negative-split, with power rising and heart rate falling through the second half. 2,794 m of ascent and 2,742 m of descent on Rinjani, including a double summit at 3,726 m. 56 km at 27.5 km/h. <b>The aerobic system is not the problem.</b></p>
+      </div>
+      <div class="warn">
+        <span class="eyebrow">What the data won't tell you</span>
+        <p>Your wrist sensor under-reads by roughly 37 bpm for the first 2–3 minutes of every session — confirmed across four independent analyses. Your lactate-threshold HR of 181 was <b>auto-detected from that sensor</b>, so every zone inherits the error. Trust resting HR and power; treat readiness scores as weak signals.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ SEASON ═══ -->
+<section id="season" class="blk">
+  <div class="wrap stack g32">
+    <div class="sec-head">
+      <div class="rule"></div>
+      <h2>The season</h2>
+      <p class="prose" style="color:var(--ink-2)">Three races, two transitions, and a single thread running through all of it.</p>
+    </div>
+
+    <div class="tl">
+      <div class="tl-row blk">
+        <div class="tl-when"><span class="eyebrow">17 Aug → 1 Nov 2026</span><div class="tl-bar"></div><p class="mono" style="font-size:.82rem;color:var(--muted);margin-top:7px">11 weeks remaining</p></div>
+        <div class="tl-what stack g8">
+          <h3>Ultra X Madeira 25K</h3>
+          <p style="font-size:.94rem;color:var(--ink-2)">São Jorge → Machico. 25 km, <b>2,003 m D+/D−</b>, cut-off 11.5 h, start 11:00. Priority: <b>descent tolerance</b>.</p>
+        </div>
+        <div class="tl-out"><span class="eyebrow">Target</span><p class="mono" style="font-size:1.28rem;font-weight:600">6:15–6:45</p></div>
+      </div>
+
+      <div class="tl-row blk hy">
+        <div class="tl-when"><span class="eyebrow">15 Nov → 23 Jan 2027</span><div class="tl-bar"></div><p class="mono" style="font-size:.82rem;color:var(--muted);margin-top:7px">10 weeks</p></div>
+        <div class="tl-what stack g8">
+          <h3>HYROX Amsterdam · Doubles</h3>
+          <p style="font-size:.94rem;color:var(--ink-2)">RAI. 8 × 1 km plus 8 stations, shared. Priority: <b>running speed and stations</b>. Swimming starts inside this block.</p>
+        </div>
+        <div class="tl-out"><span class="eyebrow">Target</span><p class="mono" style="font-size:1.28rem;font-weight:600">88–95 min</p></div>
+      </div>
+
+      <div class="tl-row blk ve">
+        <div class="tl-when"><span class="eyebrow">31 Jan → 24 Apr 2027</span><div class="tl-bar"></div><p class="mono" style="font-size:.82rem;color:var(--muted);margin-top:7px">12 weeks</p></div>
+        <div class="tl-what stack g8">
+          <h3>IRONMAN 70.3 Venice-Jesolo</h3>
+          <p style="font-size:.94rem;color:var(--ink-2)">1.9 km sea swim · 90 km flat bike · 21.1 km run. Entry paid, €1,032, non-refundable. Priority: <b>the swim</b>.</p>
+        </div>
+        <div class="tl-out"><span class="eyebrow">Target</span><p class="mono" style="font-size:1.28rem;font-weight:600">6:15–7:15</p></div>
+      </div>
+    </div>
+
+    <div class="cards c2">
+      <div class="note">
+        <span class="eyebrow">The thread</span>
+        <p><b>Consistent aerobic running, three times a week, without gaps.</b> It is Madeira's base, 55.8% of Hyrox doubles race time, and the discipline you will be most tired for in Venice. If you protect one thing across eight months, protect this.</p>
+      </div>
+      <div class="card">
+        <span class="eyebrow">Seeding runs forward only</span>
+        <ul class="tick" style="font-size:.92rem">
+          <li>Madeira block seeds Hyrox: sled technique, grip, erg skill</li>
+          <li>Hyrox block seeds Venice: compromised running <i>is</i> brick training</li>
+          <li>Nothing seeds backwards — so there is no case for pulling work earlier</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ MADEIRA ═══ -->
+<section id="madeira" class="blk">
+  <div class="wrap stack g32">
+    <div class="sec-head">
+      <span class="tag">Block 01 · 11 weeks</span>
+      <h2>Madeira — the descent problem</h2>
+      <p class="prose" style="color:var(--ink-2)">You are aerobically prepared for a race you are structurally unprepared for. The climb is a cardiovascular problem and yours is solved. The 2,003 m of <i>descent</i> is a muscle-damage problem, and it is the whole race.</p>
+    </div>
+
+    <div class="figure">
+      <span class="eyebrow">Course profile · São Jorge → Machico · 25 km · 2,003 m D+</span>
+      <canvas id="course" height="210" aria-label="Elevation profile showing a long first climb to about 510 metres, a very steep early descent, a rolling middle section, a second climb and a jagged sawtooth, then a final descent to sea level"></canvas>
+      <p style="font-size:.84rem;color:var(--muted);margin-top:10px">Reconstructed from the official profile graphic. <b>No GPX has been published</b> — segment distances are estimates and should be replaced when the race releases the file.</p>
+    </div>
+
+    <div class="cards c3">
+      <div class="card"><span class="eyebrow">Saves</span><span class="big">~10 min</span><p style="font-size:.92rem">Racing the first steep descent</p></div>
+      <div class="card"><span class="eyebrow">Costs</span><span class="big">17–46 min</span><p style="font-size:.92rem">Later, across the sawtooth and final descent</p></div>
+      <div class="card"><span class="eyebrow">And</span><span class="big">79%</span><p style="font-size:.92rem">Descent VO₂ as a share of threshold — <b>your breathing will tell you nothing</b></p></div>
+    </div>
+
+    <div class="warn">
+      <span class="eyebrow">The single decision that decides this race</span>
+      <p><b>Descend the first steep section at an effort where you could hold a conversation and stop within two strides.</b> If you are passing people there, you are going too fast. Across 23,207 finishers in 56 races, later finishers over-spent time in the <i>first</i> segment in 91% of them — after the opening, everyone paces the remainder alike. The damage is done at the start.</p>
+    </div>
+
+    <h3 style="margin-top:8px">Periodisation</h3>
+    <div class="figure">
+      <span class="eyebrow">Weekly vertical metres and running volume, weeks 7–17</span>
+      <canvas id="mad-periodisation" height="250" aria-label="Bar chart of weekly vertical training minutes and running kilometres, building from week 7 to a peak at week 15, with cutback weeks at 10 and 13, then a two-week taper"></canvas>
+    </div>
+
+    <div class="tbl-wrap">
+      <table>
+        <caption>Long-day progression. Measured in <b>time and vertical metres</b>, never kilometres — the metabolic cost of terrain swings 5.6× across gradients, which makes distance an invalid unit.</caption>
+        <thead><tr><th>Week</th><th>Starts</th><th>Phase</th><th class="n">Long day</th><th class="n">Vert in session</th><th class="n">Weekly vert</th></tr></thead>
+        <tbody>
+          <tr class="hi"><td>7</td><td class="mono">16 Aug</td><td>Build</td><td class="n">1:50</td><td class="n">300 m</td><td class="n">500–700</td></tr>
+          <tr><td>8</td><td class="mono">23 Aug</td><td>Build</td><td class="n">2:05</td><td class="n">500 m</td><td class="n">900–1,100</td></tr>
+          <tr><td>9</td><td class="mono">30 Aug</td><td>Build</td><td class="n">2:20</td><td class="n">700 m</td><td class="n">1,200–1,500</td></tr>
+          <tr><td>10</td><td class="mono">6 Sep</td><td>Cutback</td><td class="n">1:30</td><td class="n">400 m</td><td class="n">~700</td></tr>
+          <tr><td>11</td><td class="mono">13 Sep</td><td>Build · <b>Posbank</b></td><td class="n">2:35</td><td class="n">900 m</td><td class="n">1,600–1,900</td></tr>
+          <tr><td>12</td><td class="mono">20 Sep</td><td>Build</td><td class="n">2:55</td><td class="n">1,100 m</td><td class="n">2,000–2,300</td></tr>
+          <tr><td>13</td><td class="mono">27 Sep</td><td>Cutback</td><td class="n">2:00</td><td class="n">600 m</td><td class="n">~1,200</td></tr>
+          <tr><td>14</td><td class="mono">4 Oct</td><td>Peak · <b>Posbank</b></td><td class="n">3:20</td><td class="n">1,400 m</td><td class="n">2,600–3,000</td></tr>
+          <tr class="hi"><td>15</td><td class="mono">11 Oct</td><td><b>PEAK — Sat 17 Oct</b></td><td class="n">3:45–4:00</td><td class="n">1,600–1,800 m</td><td class="n">3,000–3,500</td></tr>
+          <tr><td>16</td><td class="mono">18 Oct</td><td>Taper</td><td class="n">2:00</td><td class="n">700 m</td><td class="n">~1,400</td></tr>
+          <tr><td>17</td><td class="mono">25 Oct</td><td>Race week</td><td class="n">—</td><td class="n">—</td><td class="n">&lt;400</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="cards c2">
+      <div class="note">
+        <span class="eyebrow">Why the peak sits 15 days out</span>
+        <p>A meta-analysis of 14 studies found the largest taper effect at <b>8–14 days</b>, with a 41–60% volume cut beating both smaller and larger reductions, and progressive beating step. Pre-taper overload beat conventional taper. <b>Week 15 is that overload.</b> Expected gain: 2–3%, or 7–11 minutes on a six-hour race.</p>
+      </div>
+      <div class="warn">
+        <span class="eyebrow">Hard stop</span>
+        <p><b>Nothing eccentric after 21 October.</b> Last heavy lower-body work, last plyometrics, last downhill. Force loss takes 3 days to recover and soreness 4; anything closer arrives at the start line as fatigue rather than adaptation.</p>
+      </div>
+    </div>
+
+    <h3 style="margin-top:8px">The week</h3>
+    <div class="week">
+      <div class="day rest"><span class="dn">Sun</span><span class="ds">Optional easy ride 60–75 min<br><span style="color:var(--muted)">first to cut</span></span></div>
+      <div class="day rest"><span class="dn">Mon</span><span class="ds" style="color:var(--muted)">Rest</span></div>
+      <div class="day key"><span class="dn">Tue</span><span class="ds">Legs only + preconditioning walk + sled technique</span></div>
+      <div class="day"><span class="dn">Wed</span><span class="ds">Easy run + strides + push</span></div>
+      <div class="day"><span class="dn">Thu</span><span class="ds">Vertical + pull<br><span style="color:var(--muted)">intervals from wk 9</span></span></div>
+      <div class="day rest"><span class="dn">Fri</span><span class="ds" style="color:var(--muted)">Rest</span></div>
+      <div class="day key"><span class="dn">Sat</span><span class="ds">Long day — time on feet</span></div>
+    </div>
+    <p style="font-size:.92rem;color:var(--ink-2)">Five training days, two full rest days — the documented five-day modification of the standard six-day ultra template. <b>Eccentric work sits 48 h apart throughout</b>: Tuesday heavy, Thursday moderate, Saturday long. That spacing is the constraint the whole week is built around.</p>
+
+    <h3 style="margin-top:8px">Exercise selection</h3>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>Session</th><th>Work</th><th>Why this and not something else</th></tr></thead>
+        <tbody>
+          <tr class="hi">
+            <td><b>Preconditioning walk</b><br><span class="mono" style="font-size:.8rem;color:var(--muted)">Tue, every 2–3 wks</span></td>
+            <td>5 min walking <i>down</i> stairs, 5.6 kg pack (10% BW). ~110 m descent, ≈37 flights.</td>
+            <td>The best evidence-to-effort ratio in the entire plan. One bout at −28% cut strength loss <b>49%</b>, peak CK <b>47%</b> and soreness <b>66%</b> a week later. It is walking, so it is safe on a strained athlete.</td>
+          </tr>
+          <tr>
+            <td><b>Decline squat</b><br><span class="mono" style="font-size:.8rem;color:var(--muted)">3–5 × 3–6 @ ≥80% 1RM</span></td>
+            <td>Heavy, never to failure.</td>
+            <td>Best reproduces downhill loading. High-load strength work carries ES −0.469 for endurance performance; combined with plyometrics, −1.035. Slow-heavy eccentric (~4 s/rep at 90%) beat fast for thickness.</td>
+          </tr>
+          <tr>
+            <td><b>Eccentric step-downs</b><br><span class="mono" style="font-size:.8rem;color:var(--muted)">3 × 8–10/leg, 3–4 s lower</span></td>
+            <td>Single-leg, free leg unloaded, tap and drive back up.</td>
+            <td>The tempo is the whole exercise. Stair descending alone raised eccentric peak torque <b>+12.3%</b> over six weeks.</td>
+          </tr>
+          <tr>
+            <td><b>Hip abductors</b><br><span class="mono" style="font-size:.8rem;color:var(--muted)">side planks, banded walks</span></td>
+            <td>Frontal plane, every legs session.</td>
+            <td>Hip drop measures <b>23.7 mm at −15%</b> versus 7.6 mm uphill — a very large effect. Descending is a hip problem, not only a quad problem.</td>
+          </tr>
+          <tr>
+            <td><b>Single-leg calf raises</b></td>
+            <td>Full range, slow lowering.</td>
+            <td>Plantar-flexor strength independently predicts uphill speed.</td>
+          </tr>
+          <tr>
+            <td><b>Vertical</b><br><span class="mono" style="font-size:.8rem;color:var(--muted)">Thu, stairwell</span></td>
+            <td>15-floor repeats. Lift up, <b>walk down</b>.</td>
+            <td>Dutch stair pitch is 30–33°, inside the 20–35° range where cost per vertical metre is minimised — a 15% treadmill is only 8.5°. And Madeira is full of stone staircases. Zero travel.</td>
+          </tr>
+          <tr>
+            <td><b>Uphill intervals</b><br><span class="mono" style="font-size:.8rem;color:var(--muted)">from wk 9</span></td>
+            <td>3–5 × (5 min hard @ 90–95% HRmax + 3 min easy erg).</td>
+            <td>Target distribution is 80–85% easy / 15–20% hard, with the hard work on incline. The erg stations are upper-body and aerobic, so they add nothing to eccentric load — and they double as Hyrox compromised running.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="warn">
+      <span class="eyebrow">The honest limit of all this</span>
+      <p>The repeated-bout effect protects <b>soreness and CK, not strength</b>. Ten downhill sessions across four weeks moved soreness from 23.6 mm to 6.7 mm — but knee-extensor strength loss went −13.9% → −9.3%, not significant throughout. <b>You will reach the second climb with weakened quads regardless.</b> That is why race-day descent pacing is co-equal with training, not a footnote.</p>
+    </div>
+
+    <h3 style="margin-top:8px">Race plan</h3>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>Segment</th><th class="n">RPE</th><th>Do</th><th>Don't</th></tr></thead>
+        <tbody>
+          <tr><td>Start → first climb</td><td class="n">3–4</td><td>Let the field go. Hike anything above 15%. Poles out.</td><td>Don't start in the top third.</td></tr>
+          <tr><td>First big climb</td><td class="n">5–6</td><td>Power-hike at 550–700 m/h. Eat at the base and near the top.</td><td>Don't exceed RPE 6.</td></tr>
+          <tr class="hi"><td><b>Steep early descent</b></td><td class="n">4–5</td><td>Short steps, <b>185–195 spm</b>, midfoot under hips, gaze 4–5 m ahead on the second foothold. Walk the staircases and the wet.</td><td><b>The most important don't in the race.</b> No heel-braking. No calories here.</td></tr>
+          <tr><td>Rolling middle</td><td class="n">5–6</td><td>Run the runnable. Fuel hard. Refill.</td><td>Don't chase lost time.</td></tr>
+          <tr><td>Second climb</td><td class="n">6–7</td><td>Hike. Compromised quads are normal here.</td><td>Don't chase HR — it reads low.</td></tr>
+          <tr><td>Sawtooth</td><td class="n">6–7</td><td>Descents still controlled. Watch knee-extensor RPE.</td><td>Don't surge the short climbs.</td></tr>
+          <tr><td>Final descent</td><td class="n">7–8</td><td>Spend what is left.</td><td>Don't spend it before the finish is visible.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="cards c3">
+      <div class="card"><span class="eyebrow">Start</span><span class="big">11:00</span><p style="font-size:.92rem">Sunset 18:17, civil twilight ends 18:41. A 7:30 finish is <b>dark on exposed cliff paths</b> — the head torch is safety kit.</p></div>
+      <div class="card"><span class="eyebrow">2025 field median</span><span class="big">5:24:37</span><p style="font-size:.92rem">13.0 min/km, n=34. Winner 3:02:21, last finisher 8:03:43.</p></div>
+      <div class="card"><span class="eyebrow">Checkpoints</span><span class="big">WATER ONLY</span><p style="font-size:.92rem">Two of them, ~10 km apart. No crew, no pacers, no drop bags. You carry <b>420–490 g of carbohydrate</b>.</p></div>
+    </div>
+
+    <div class="note">
+      <span class="eyebrow">In-race diagnostic</span>
+      <p>Compare your <b>climb rate per heartbeat on the second climb against the first</b>. More than 5% worse means you overcooked the descent — concede ten minutes immediately and save the day. In mountain ultras heart rate falls ~34 bpm across the race while RPE rises from 4.3 to 6.9; they decouple in opposite directions, so HR is a ceiling in the first third only.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ HYROX ═══ -->
+<section id="hyrox" class="blk hy">
+  <div class="wrap stack g32">
+    <div class="sec-head">
+      <span class="tag">Block 02 · 10 weeks</span>
+      <h2>Hyrox — a running race with furniture</h2>
+      <p class="prose" style="color:var(--ink-2)">Running is <b>55.8%</b> of doubles race time — a bigger share than in singles, because splitting stations halves the station work and leaves the 8 km untouched. Run time alone explains R² = 0.81 of finish time.</p>
+    </div>
+
+    <div class="figure">
+      <span class="eyebrow">Measured 1 km splits by finish band · Open Doubles Men, n = 170,416</span>
+      <canvas id="hyrox-splits" height="250" aria-label="Line chart of 1 km split times across the eight runs for three finish bands, all showing run 1 fastest, a step up after the sled block, and run 8 slowest"></canvas>
+    </div>
+
+    <div class="cards c3">
+      <div class="card"><span class="eyebrow">Target</span><span class="big">88–95</span><p style="font-size:.92rem">minutes. The 80–85 band requires <b>5:47/km</b> across eight compromised reps — beyond both of you this block.</p></div>
+      <div class="card"><span class="eyebrow">Free time available</span><span class="big">~3 min</span><p style="font-size:.92rem">In roxzone. Doubles teams get almost no transition discount over singles: 6:39 vs 7:19 median. Top 10% spend 4:31.</p></div>
+      <div class="card"><span class="eyebrow">Wall balls matter</span><span class="big">r = 0.27</span><p style="font-size:.92rem">Lowest correlation with finish time of <b>any</b> segment in doubles. Do not train them. Train lunges, burpees and sled pull.</p></div>
+    </div>
+
+    <div class="tbl-wrap">
+      <table>
+        <caption>Where an 80-minute team beats a 95-minute team. Running is 57.7% of the gap; roxzone is 14.8%; every station combined is 25.8%.</caption>
+        <thead><tr><th>Segment</th><th class="n">80 min</th><th class="n">95 min</th><th class="n">Gap</th><th class="n">Share of gap</th></tr></thead>
+        <tbody>
+          <tr class="hi"><td><b>Running</b></td><td class="n">45:02</td><td class="n">53:40</td><td class="n">+8:38</td><td class="n">57.7%</td></tr>
+          <tr class="hi"><td><b>Roxzone</b></td><td class="n">7:09</td><td class="n">9:22</td><td class="n">+2:13</td><td class="n">14.8%</td></tr>
+          <tr><td>Sandbag lunges</td><td class="n">3:46</td><td class="n">4:29</td><td class="n">+0:43</td><td class="n">4.8%</td></tr>
+          <tr><td>Burpee broad jumps</td><td class="n">3:23</td><td class="n">4:03</td><td class="n">+0:40</td><td class="n">4.5%</td></tr>
+          <tr><td>Wall balls</td><td class="n">4:30</td><td class="n">5:10</td><td class="n">+0:40</td><td class="n">4.5%</td></tr>
+          <tr><td>Sled pull</td><td class="n">3:29</td><td class="n">4:04</td><td class="n">+0:35</td><td class="n">3.9%</td></tr>
+          <tr><td>Row</td><td class="n">4:36</td><td class="n">4:57</td><td class="n">+0:21</td><td class="n">2.3%</td></tr>
+          <tr><td>Sled push</td><td class="n">1:51</td><td class="n">2:07</td><td class="n">+0:16</td><td class="n">1.8%</td></tr>
+          <tr><td>SkiErg</td><td class="n">4:07</td><td class="n">4:21</td><td class="n">+0:14</td><td class="n">1.6%</td></tr>
+          <tr><td>Farmers carry</td><td class="n">1:43</td><td class="n">1:55</td><td class="n">+0:12</td><td class="n">1.3%</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3 style="margin-top:8px">Station splitting at 56 kg</h3>
+    <div class="tbl-wrap">
+      <table>
+        <caption>Split to protect your partner's legs, not to optimise station throughput — you both run all 8 km at the slower runner's pace, and a 1-minute penalty applies if one runs ahead.</caption>
+        <thead><tr><th>Station</th><th>Load</th><th class="n">× your BW</th><th>Split</th><th>Reasoning</th></tr></thead>
+        <tbody>
+          <tr class="hi"><td>Sled push 50 m</td><td>152 kg</td><td class="n">2.71×</td><td>B 37.5 / you 12.5</td><td>You are at or past the slip threshold every time it stops</td></tr>
+          <tr><td>Sled pull 50 m</td><td>103 kg</td><td class="n">1.84×</td><td>B 37.5 / you 12.5</td><td>Rolling force only 0.59× BW — <b>not traction-limited. Your real opportunity.</b></td></tr>
+          <tr><td>Farmers carry 200 m</td><td>2 × 24 kg</td><td class="n">0.86×</td><td>B 120 / you 80</td><td>Grip-limited at your size</td></tr>
+          <tr><td>SkiErg 1000 m</td><td>—</td><td class="n">—</td><td>You 600–650</td><td>Your strength, least leg cost</td></tr>
+          <tr><td>Row 1000 m</td><td>—</td><td class="n">—</td><td>You 550 / B 450</td><td>Bias less than ski — Concept2 weight adjustment implies you are ~6.7% slower at equal fitness</td></tr>
+          <tr><td>Burpee broad jumps 80 m</td><td>bodyweight</td><td class="n">—</td><td>You 45–50</td><td>Light athlete, aerobic movement</td></tr>
+          <tr><td>Sandbag lunges 100 m</td><td>20 kg</td><td class="n">0.36×</td><td>You 50–60</td><td>Cheap for you — <b>load yourself here to spare him before the last run</b></td></tr>
+          <tr><td>Wall balls 100 total</td><td>6 kg → 3.00 m</td><td class="n">—</td><td>You 50+</td><td>Total work per rep is ~274 J at your size vs ~435 J at 185 cm / 85 kg. You squat less mass through a shorter range.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="cards c2">
+      <div class="note">
+        <span class="eyebrow">Sled technique — the one to drill</span>
+        <p>Forearms hooked on the posts, 30–45° lean, short choppy steps of 20–30 cm at 3–4 per second, and <b>never let it stop</b>. At 56 kg you need 1.03× bodyweight of horizontal force to break a stationary sled versus 0.81× to keep one rolling. Grippy solid-rubber shoes are worth 30–60 s. Venue friction varies enough to swing any sled split by ±60–90 s.</p>
+      </div>
+      <div class="warn">
+        <span class="eyebrow">Two beliefs the data killed</span>
+        <p><b>Even pacing is not a lever.</b> Adding pacing-evenness to a fitness model changes R² by 0.0000. Optimal is a controlled 12–15% positive split; zero teams at any level produce an even one.<br><b>"Don't go out hard" is not visible either.</b> Matched for fitness, teams with a fast first kilometre finish faster, and their run 8 is no slower.</p>
+      </div>
+    </div>
+
+    <h3 style="margin-top:8px">Ten-week structure</h3>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>Weeks</th><th>Phase</th><th>Emphasis</th></tr></thead>
+        <tbody>
+          <tr class="hi"><td class="mono">1–2</td><td>Post-ultra re-entry</td><td><b>No lunges, no burpee broad jumps, no heavy sled.</b> Muscle damage from Madeira is detectable for four weeks. Ergs, grip and technique only. Swimming starts. <b>Week 2 is a 5 km time trial</b> — every pace target keys off it, and Garmin over-predicts for athletes who never race hard.</td></tr>
+          <tr><td class="mono">3–5</td><td>Base + station skill</td><td>Aerobic rebuild, movement standards, sled at 50–65% load, grip work begins. One compromised session weekly.</td></tr>
+          <tr><td class="mono">6–8</td><td>Build</td><td>Compromised running becomes the anchor — 400 m reps → 1 km reps with stations. Race-weight station intervals. First doubles session week 7. <b>Dedicated roxzone drilling week 8.</b></td></tr>
+          <tr><td class="mono">9</td><td>Peak</td><td>Full simulation at 80–90%. Whatever it says is your real target.</td></tr>
+          <tr><td class="mono">10</td><td>Taper · race</td><td>Volume −40–50%, intensity held. Last joint session 5–7 days out.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="warn">
+      <span class="eyebrow">The biggest lever is not yours</span>
+      <p>Your partner does sprints and no endurance. Running is 56% of doubles race time, correlates <b>r = 0.90</b> with finish, and you move at his pace for all 8 km. Ten weeks of him building an aerobic base would do more for your team result than anything on your side of the plan.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ VENICE ═══ -->
+<section id="venice" class="blk ve">
+  <div class="wrap stack g32">
+    <div class="sec-head">
+      <span class="tag">Block 03 · 12 weeks</span>
+      <h2>Venice — learning to swim in public</h2>
+      <p class="prose" style="color:var(--ink-2)">Everything except the swim is within reach. The swim starts from zero, and the block that decides it runs <b>November to January</b> — not February.</p>
+    </div>
+
+    <div class="cards c3">
+      <div class="card"><span class="eyebrow">Cut-off needs</span><span class="big">3:41</span><p style="font-size:.92rem">per 100 m. A comfortable breaststroke. <b>Any stroke is legal</b>, and you may hold a buoy or kayak to rest.</p></div>
+      <div class="card"><span class="eyebrow">You will swim</span><span class="big">51–55</span><p style="font-size:.92rem">minutes, in a wetsuit. Buffer to the 1:10 cut-off: <b>15–19 minutes</b>.</p></div>
+      <div class="card"><span class="eyebrow">But</span><span class="big">0 / 19,137</span><p style="font-size:.92rem">finishers swam over 70:00. Slowest finisher swim: <b>69:56</b>. No grace period.</p></div>
+    </div>
+
+    <div class="figure">
+      <span class="eyebrow">Swim ladder · gates are capability-based, not calendar-based</span>
+      <canvas id="swim-ladder" height="220" aria-label="Stepped chart showing swim progression from water comfort through 25 metres, 100 metres, 800 metres and finally 1900 metres continuous across 22 weeks"></canvas>
+    </div>
+
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>Phase</th><th>Weeks</th><th class="n">Freq</th><th>Content</th><th>Gate</th></tr></thead>
+        <tbody>
+          <tr><td>Water comfort</td><td class="mono">1–3</td><td class="n">4×</td><td>Continuous exhale face-down, sink-downs, star float, bobbing</td><td><b>Relaxed with face in water</b></td></tr>
+          <tr><td>Balance &amp; kick</td><td class="mono">3–6</td><td class="n">4×</td><td>Streamline glide, kickboard flutter from the hips, side-kick, breathing without lifting the head</td><td><b>25 m unbroken</b></td></tr>
+          <tr><td>Stroke assembly</td><td class="mono">6–10</td><td class="n">4×</td><td>Catch-up, fingertip drag, 3-strokes-6-kicks, high-elbow catch</td><td><b>100 m continuous</b></td></tr>
+          <tr class="hi"><td>Continuous build</td><td class="mono">10–16</td><td class="n">3–4×</td><td>Drill:swim ratio flips 80/20 → 20/80. 4×100 → 5×200 → 3×400</td><td><b>800 m unbroken by end of Jan</b></td></tr>
+          <tr><td>Race distance</td><td class="mono">16–20</td><td class="n">3×</td><td>1,000 → 1,500 → 2,000 m. Sighting, wetsuit, no-wall sets</td><td><b>1,900 m under 55 min</b></td></tr>
+          <tr><td>Taper</td><td class="mono">21–22</td><td class="n">3×</td><td>25–30 min, short and sharp</td><td>Never skip — layoffs cost adult-onset swimmers disproportionately</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="cards c2">
+      <div class="note">
+        <span class="eyebrow">Frequency beats volume</span>
+        <p><b>4 × 30–40 min beats 2 × 75 min</b>, because fatigue compromises motor-pattern learning. Never let a gap exceed five days — students returning after breaks "often appear to forget everything they once knew." This is the single design decision the swim depends on.</p>
+      </div>
+      <div class="warn">
+        <span class="eyebrow">The failure mode is breathing, not fitness</span>
+        <p>Hold breath → CO₂ builds → desperate gasp → head lifts → hips sink → work harder → more breathless. <b>Continuous gentle exhale whenever the face is submerged</b> is taught first and is non-negotiable. Of 120 sudden deaths in US triathlon, <b>90 occurred in the swim</b> — the mechanism is panic in cold open water, not cardiac capacity.</p>
+      </div>
+    </div>
+
+    <div class="cards c3">
+      <div class="card"><span class="eyebrow">Cold shock</span><span class="big">5–6</span><p style="font-size:.92rem">immersions of 2–3 min <b>halve</b> the cold-shock response, and the adaptation lasts ~14 months. Cheapest intervention in the plan. Starts December.</p></div>
+      <div class="card"><span class="eyebrow">Water temp</span><span class="big">15–17°C</span><p style="font-size:.92rem">The 2027 race is <b>9–13 days earlier</b> than any recent edition. Wetsuit certain; neoprene booties legal below 18.3°C — take them.</p></div>
+      <div class="card"><span class="eyebrow">Start</span><span class="big">Rolling</span><p style="font-size:.92rem">Self-seeded, 3 athletes every 6 s. <b>Seed honestly at 55–60 min</b>, start ~08:15, enter at the edge of your box.</p></div>
+    </div>
+
+    <h3 style="margin-top:8px">Weekly structure</h3>
+    <div class="week">
+      <div class="day key"><span class="dn">Sun</span><span class="ds">Long ride 60 → 110 km</span></div>
+      <div class="day"><span class="dn">Mon</span><span class="ds">Swim + easy run 5 km</span></div>
+      <div class="day"><span class="dn">Tue</span><span class="ds">Run intervals</span></div>
+      <div class="day"><span class="dn">Wed</span><span class="ds">Swim + legs maintenance</span></div>
+      <div class="day rest"><span class="dn">Thu</span><span class="ds" style="color:var(--muted)">Rest</span></div>
+      <div class="day"><span class="dn">Fri</span><span class="ds">Swim</span></div>
+      <div class="day key"><span class="dn">Sat</span><span class="ds">Long run or brick</span></div>
+    </div>
+    <p style="font-size:.92rem;color:var(--ink-2)">Three runs, 3–4 swims, two bikes, one legs. <b>~9–10 h/week — intermediate volume</b>; MyProCoach's beginner 70.3 plan averages 7 h. If adherence slips, scale to the beginner shape rather than abandoning weeks. Long run capped at <b>18 km</b>: athletes whose long run sits at 15–21 km average 2:03 for the half, and only 26.3% train beyond 21 km.</p>
+
+    <div class="tbl-wrap">
+      <table>
+        <caption>Projected splits. The bike checkpoint is passed around 4:10 against a 5:30 cut-off — <b>the only cut-off that matters is the swim</b>.</caption>
+        <thead><tr><th>Leg</th><th class="n">Estimate</th><th>Note</th></tr></thead>
+        <tbody>
+          <tr class="hi"><td>Swim 1.9 km</td><td class="n">51–57</td><td>Single-loop rectangle, Lighthouse Beach, buoys every 100 m — unusually easy to sight</td></tr>
+          <tr><td>T1</td><td class="n">7–9</td><td>Venice median is 7:02 — a slow-transition race. Practise wetsuit removal.</td></tr>
+          <tr><td>Bike 90 km</td><td class="n">2:55–3:20</td><td><b>11 m of vertical range across the entire course.</b> Target IF 0.68–0.72; cap the first 30 min 5 W below. Non-drafting — 6 lengths clear, 5-min penalty.</td></tr>
+          <tr><td>T2</td><td class="n">4–5</td><td>A fumbled pair of transitions costs 8–12 min — more than most gain from a block of bike work</td></tr>
+          <tr><td>Run 21.1 km</td><td class="n">2:25–2:50</td><td>3 loops × 7.03 km, 9 aid stations. <b>9 min run / 1 min walk from km 0</b> — the plan, not the fallback. Blends to ~7:24/km.</td></tr>
+          <tr class="hi"><td><b>Total</b></td><td class="n"><b>6:15–7:15</b></td><td>Central ~6:32. Venice runs ~28 min faster than the global 70.3 average — a 6:30 is p80 globally but <b>p95 here</b>.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="warn">
+      <span class="eyebrow">Administrative — this stops you racing</span>
+      <p>Italy requires a <b>certificato medico agonistico</b>: an ECG-based sports medical on the official FITRI form, plus a federation or one-day licence. Turn up without it and you are not issued a race pack. <b>Book by February 2027.</b> ~€80–150, and it was not in the entry fee.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ FUELLING ═══ -->
+<section id="fuel" class="blk">
+  <div class="wrap stack g32">
+    <div class="sec-head">
+      <div class="rule"></div>
+      <h2>Fuelling</h2>
+      <p class="prose" style="color:var(--ink-2)">The largest single risk in eight months of training is not an injury mechanism or a bad session. It is eating too little at 56 kg while volume rises.</p>
+    </div>
+
+    <div class="cards c3">
+      <div class="card"><span class="eyebrow">Floor</span><span class="big">≥45</span><p style="font-size:.92rem">kcal per kg fat-free mass — <b>~2,250 kcal before exercise is counted</b>. Four days at 30 vs 45 suppressed bone formation markers in an RCT, and high protein did not rescue it.</p></div>
+      <div class="card"><span class="eyebrow">Peak day</span><span class="big">4,800</span><p style="font-size:.92rem">to 5,000 kcal on a four-hour session day. Under-fuelling the peak weekend is the most likely route to a stress fracture.</p></div>
+      <div class="card"><span class="eyebrow">The test</span><span class="big">±0 kg</span><p style="font-size:.92rem">Weigh weekly, same conditions. <b>Body mass must not trend down.</b> If it does, you are under-eating whatever any calculation says.</p></div>
+    </div>
+
+    <div class="warn">
+      <span class="eyebrow">Measured, 15–16 August</span>
+      <p>Saturday's 17 km burned 1,135 kcal; Sunday's 56 km ride burned 1,155. Requirement each day ≈ 3,550 kcal. Intake ≈ 2,860. <b>You were roughly 700 kcal short on both days.</b> Protein was not the problem — at ~142 g you are 15% above target.</p><p><b>Carbohydrate is the actual gap, and it is worse than first estimated: ~233 g, or 4.2 g/kg.</b> The cause is that Factor meals are low-carb by design — 520 kcal each, but 32 g protein, ~34 g fat and only <b>22 g of carbohydrate</b>. Two of them contribute 44 g between them. They are protein-and-fat meals, not fuel.</p>
+    </div>
+
+    <div class="tbl-wrap"><table><caption>Carbohydrate is the variable to watch, not calories or protein. Rest-day intake is already adequate; training days are where the shortfall sits.</caption><thead><tr><th>Day type</th><th class="n">kcal</th><th class="n">Carbs</th><th class="n">g/kg</th><th>Status</th></tr></thead><tbody><tr><td>Rest</td><td class="n">~2,600</td><td class="n">~230 g</td><td class="n">4.1</td><td>Adequate</td></tr><tr class="hi"><td><b>Training</b></td><td class="n">~3,100</td><td class="n"><b>300–350 g</b></td><td class="n">5.4–6.3</td><td><b>Currently ~100 g short</b></td></tr><tr class="hi"><td><b>Long day</b></td><td class="n">~3,650</td><td class="n"><b>350–450 g</b></td><td class="n">6.3–8.0</td><td><b>Currently ~150 g short</b></td></tr></tbody></table></div><div class="note"><span class="eyebrow">The fix is two items</span><p><b>Porridge adds ~95 g of carbohydrate. The peanut butter sandwich and banana add ~60 g.</b> Together that is ~155 g — more than closing the training-day gap, for about €1.50 a day. Nothing else in the diet needs to change.</p></div><h3 style="margin-top:8px">Daily templates</h3>
+    <div class="cards c3">
+      <div class="card">
+        <span class="eyebrow">Rest day · ~2,600 kcal</span>
+        <ul class="tick" style="font-size:.9rem">
+          <li>Croissant + 2 cappuccinos</li>
+          <li>Factor meal — office</li>
+          <li>Factor meal — office</li>
+          <li>6 eggs, ¾ cup rice, 25 g butter</li>
+        </ul>
+      </div>
+      <div class="card">
+        <span class="eyebrow">Training day · ~3,100 kcal</span>
+        <ul class="tick" style="font-size:.9rem">
+          <li><b>Porridge, full-fat milk, banana</b> — not the croissant</li>
+          <li>Factor meal + nuts</li>
+          <li><b>16:00: peanut butter sandwich + banana</b></li>
+          <li>Session</li>
+          <li>8 eggs, 1 cup rice, 25 g butter</li>
+        </ul>
+      </div>
+      <div class="card">
+        <span class="eyebrow">Long day · ~3,650 kcal</span>
+        <ul class="tick" style="font-size:.9rem">
+          <li><b>06:30</b> porridge, milk, banana, honey, peanut butter</li>
+          <li><b>08:30</b> banana</li>
+          <li><b>09:45+</b> bottle and gels, ~400 kcal</li>
+          <li><b>11:45</b> egg, rice and butter — inside the hour</li>
+          <li>15:00 Factor + rice · 19:00 Factor + oil</li>
+          <li>21:30 Greek yoghurt, honey, nuts</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="cards c2">
+      <div class="note">
+        <span class="eyebrow">The two changes that matter</span>
+        <p><b>Something substantial 2–3 hours before a long session.</b> A croissant is 250 kcal of nothing before a two-hour effort; porridge with full-fat milk and a banana is 700 kcal that is actually available to you.<br><b>Eat within an hour of finishing.</b> The egg-rice-butter meal is 1,430 kcal and 63 g of protein — move it there rather than to the evening.</p>
+      </div>
+      <div class="card">
+        <span class="eyebrow">Cheapest calories, by kcal per euro</span>
+        <div class="tbl-wrap" style="border:0">
+          <table>
+            <tbody>
+              <tr><td>Oats</td><td class="n mono">~1,900</td></tr>
+              <tr><td>Rice</td><td class="n mono">~1,500</td></tr>
+              <tr><td>Peanut butter</td><td class="n mono">~1,200</td></tr>
+              <tr><td>Olive oil</td><td class="n mono">~800</td></tr>
+              <tr><td>Eggs</td><td class="n mono">~300</td></tr>
+              <tr><td>Factor meals</td><td class="n mono">~70</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p style="font-size:.88rem;color:var(--muted)">Oats, peanut butter, rice and olive oil close a 700 kcal gap for about €1.50 a day. A third Factor meal costs €8 for the same.</p>
+      </div>
+    </div>
+
+    <h3 style="margin-top:8px">Porridge, properly</h3>
+<div class="cards c2">
+  <div class="card">
+    <span class="eyebrow">Method · 4 min · microwave</span>
+    <p style="font-size:.94rem"><b>Everything in the bowl at the start:</b> 80 g oats, 300 ml volle melk, a pinch of salt, half a banana mashed in.</p>
+    <p style="font-size:.94rem"><b>2 min → stir hard for 20 seconds → 1–2 min more.</b></p>
+    <p style="font-size:.94rem">Stir the peanut butter <b>all the way through</b>, not a dollop on top. Stand 1 minute. Slice the other half of the banana on top.</p>
+    <p style="font-size:.94rem"><b>~700 kcal, ~95 g carbohydrate.</b> Use a big bowl — it climbs.</p>
+  </div>
+  <div class="card">
+    <span class="eyebrow">The three things that fix it</span>
+    <p style="font-size:.94rem"><b>Salt at the start.</b> It does not make it salty — it makes the oats taste toasted and the banana taste sweeter. Most people skip it and wonder why porridge is bland.</p>
+    <p style="font-size:.94rem"><b>Banana mashed in from the beginning</b>, not halfway. It dissolves and sweetens the whole bowl instead of leaving sweet pockets.</p>
+    <p style="font-size:.94rem"><b>Twenty seconds of hard stirring mid-cook.</b> This replaces the five minutes of stovetop stirring that makes porridge creamy rather than lumpy. Stir like you mean it.</p>
+  </div>
+</div>
+<div class="tbl-wrap">
+  <table>
+    <caption>Pair within families. Berries and peanut butter fight — berries are tart and acidic, peanut butter is rich and savoury, and they pull in opposite directions.</caption>
+    <thead><tr><th>Combination</th><th>Add at</th><th class="n">kcal</th><th>Note</th></tr></thead>
+    <tbody>
+      <tr class="hi"><td><b>Peanut butter + banana + salt</b></td><td>banana at start, PB stirred through at end</td><td class="n">~720</td><td>The default. Tastes like a milkshake.</td></tr>
+      <tr><td><b>Cocoa + banana + peanut butter</b></td><td>cocoa at start</td><td class="n">~735</td><td>Essentially a Snickers. Best variety per euro on the shopping list.</td></tr>
+      <tr><td>Raisins + cinnamon</td><td>both at start</td><td class="n">~745</td><td>Raisins plump up as they cook</td></tr>
+      <tr><td>Berries + honey + nuts</td><td>berries in frozen at start</td><td class="n">~765</td><td><b>No peanut butter</b></td></tr>
+      <tr><td><b>Caramelised banana + peanut butter</b></td><td>pan-fry the topping</td><td class="n">~760</td><td>Slice, fry in butter with a teaspoon of sugar, 2 min a side. Three extra minutes, completely different breakfast.</td></tr>
+    </tbody>
+  </table>
+</div>
+<h3 style="margin-top:8px">Race and session fuelling</h3>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>Context</th><th class="n">Carbs/h</th><th>Detail</th></tr></thead>
+        <tbody>
+          <tr><td>Easy ride</td><td class="n">30–40 g</td><td>One bottle at 6–8%, plus water</td></tr>
+          <tr><td>Long session</td><td class="n">60–70 g</td><td>Build from 40–50 g in week 9, +10 g every two weeks</td></tr>
+          <tr class="hi"><td><b>Madeira</b></td><td class="n">60–75 g</td><td>~420–490 g total carried. Water-only checkpoints. <b>Fuel on the climbs, drink on the flats, take nothing on the steep descents.</b></td></tr>
+          <tr><td>Venice bike</td><td class="n">60–70 g</td><td>Below 70 kg, measured exogenous glucose oxidation is 33 g/h vs 45 g/h above — <b>your ceiling is genuinely lower</b>. Do not chase 90.</td></tr>
+          <tr><td>Venice run</td><td class="n">40–60 g</td><td>Walk every aid station, 5–15 s</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="cards c2">
+      <div class="note">
+        <span class="eyebrow">Concentration is the rule people break</span>
+        <p><b>Keep drink mix at 6–8%</b> — ~35 g of sugar per 500 ml, ~60 g per 750 ml. Above 500 mOsm/kg, <b>42.1% of a 10% drink was still in the stomach</b> versus 0.3% of a 2% drink. A 500 ml flask carrying 80 g is 16% and a documented route to nausea.</p>
+      </div>
+      <div class="card">
+        <span class="eyebrow">Product</span>
+        <p style="font-size:.92rem"><b>Upfront Gel PRO</b> — 40 g carbs, 1:0.8 glucose:fructose, €2.33 each. That is <b>~€5.83 per 100 g of carbs</b> against ~€11 for SIS Beta Fuel and ~€19 for Maurten, at identical spec.</p>
+        <p style="font-size:.92rem">The packaging is genuinely bad and unusable on the bike. <b>Decant into a soft flask</b> for running; use sugar-water bottles on the bike. Label the flask with contents and total kcal — every food item must carry its calorie count at kit check.</p>
+        <p style="font-size:.92rem"><b>Train on DIY:</b> maltodextrin + fructose at 1:0.8 is ~€1 per 100 g of carbs. Race on gels. Saves ~€66 across the Madeira block.</p>
+      </div>
+    </div>
+
+    <div class="warn">
+      <span class="eyebrow">Sodium — largely unsupported</span>
+      <p>At Western States, hyponatraemic runners took 297 and 554 mg/h versus 515 ± 315 for non-hyponatraemic — <b>p = 0.62</b>. No difference between crampers and non-crampers either. Consensus guidance is drink to thirst (Grade 1C); sodium supplementation is <b>not recommended</b> for preventing hyponatraemia. A pinch of salt in the bottle is enough. <b>Never combine salt capsules with fixed-schedule drinking beyond thirst</b> — that combination is the documented route to the problem.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ KIT & MONEY ═══ -->
+<section id="kit" class="blk">
+  <div class="wrap stack g32">
+    <div class="sec-head">
+      <div class="rule"></div>
+      <h2>Kit &amp; money</h2>
+      <p class="prose" style="color:var(--ink-2)">Kit checks at Madeira are enforced at the start, on route and at the finish. Failure is disqualification.</p>
+    </div>
+
+    <div class="tbl-wrap">
+      <table>
+        <caption>Ultra X Madeira mandatory kit — <b>25 km column only</b>. Note the 25 km requires a foil blanket where longer distances require a survival bag.</caption>
+        <thead><tr><th>#</th><th>Item</th><th>Status</th><th class="n">Cost</th></tr></thead>
+        <tbody>
+          <tr><td class="mono">1</td><td>Running pack</td><td>Owns — Salomon ADV Skin 5L</td><td class="n">—</td></tr>
+          <tr class="hi"><td class="mono">2</td><td><b>Hydration, min 1.5 L capacity</b></td><td><b>Needs</b> — has 1.0 L</td><td class="n">€15–20</td></tr>
+          <tr><td class="mono">3</td><td>Durable waterproof jacket with hood</td><td>Owns — Arc'teryx Beta LT · <b>hose-test the DWR</b></td><td class="n">€12 if it fails</td></tr>
+          <tr><td class="mono">4</td><td>High quality head torch</td><td>Owns — <b>test it, buy spare batteries</b></td><td class="n">€5</td></tr>
+          <tr><td class="mono">5</td><td>Whistle</td><td>Check the vest sternum strap</td><td class="n">€0–5</td></tr>
+          <tr><td class="mono">6</td><td>Foil blanket</td><td>Owns</td><td class="n">—</td></tr>
+          <tr class="hi"><td class="mono">7</td><td><b>Emergency food, 800 kcal min</b></td><td><b>Needs</b></td><td class="n">€10–15</td></tr>
+          <tr><td class="mono">8</td><td>Phone with GPX uploaded</td><td>Owns — GPX not yet published</td><td class="n">—</td></tr>
+          <tr><td class="mono">9</td><td>Printed insurance with policy number</td><td>Free, but must be printed</td><td class="n">—</td></tr>
+          <tr class="hi"><td class="mono">10</td><td><b>Beaker ≥15 cl — flasks NOT accepted</b></td><td><b>Needs</b></td><td class="n">€5–10</td></tr>
+          <tr><td class="mono">+</td><td>Extreme weather addition: waterproof trousers &amp; gloves</td><td>One week's notice · <b>buy in Amsterdam, not on the island</b></td><td class="n">€40–80</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="tbl-wrap">
+      <table>
+        <caption>Purchase schedule. Amex closes on the 16th — buying on the 17th moves a charge a full month for one day of calendar.</caption>
+        <thead><tr><th>When</th><th>What</th><th class="n">Cost</th><th>Why then</th></tr></thead>
+        <tbody>
+          <tr class="hi"><td class="mono"><b>Now</b></td><td><b>Kit gap</b> — flask, beaker, 800 kcal, batteries, DWR wash</td><td class="n">€35–62</td><td>Mandatory, cheapest, and the only item where the downside is a DNS</td></tr>
+          <tr class="hi"><td class="mono"><b>18–20 Sep</b></td><td><b>Trail shoes + poles</b></td><td class="n">€160–260</td><td>Shoes need 100+ km break-in; poles need six weeks — <b>the least experienced pole user in a field study got slower</b></td></tr>
+          <tr><td class="mono">after 17 Sep</td><td>Gel box + bulk carb powder</td><td class="n">€46</td><td>Race rehearsals are October</td></tr>
+          <tr><td class="mono">~25 Oct</td><td>Extreme weather kit, if triggered</td><td class="n">€40–80</td><td>Self-schedules onto the November bill</td></tr>
+          <tr><td class="mono">17 Nov</td><td>First swim card + <b>HR chest strap</b></td><td class="n">€154–174</td><td>The 5 km benchmark is week 2 of the Hyrox block and every pace target keys off it</td></tr>
+          <tr><td class="mono">Dec–Apr</td><td>Swim cards 2–3, lessons, wetsuit, medical certificate</td><td class="n">€508–888</td><td>Spread. Wetsuit second-hand is fine.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="cards c2">
+      <div class="note">
+        <span class="eyebrow">Pool</span>
+        <p><b>Sloterparkbad, three 25-visit cards, €372.</b> Chosen on proximity, not pool quality — 10–15 min from Lelylaan against 20–25 for De Mirandabad, across 66–78 winter visits. <b>A pool you go to beats a better pool you skip.</b> Buy the cards spaced, not up front; they stay valid a year.</p>
+      </div>
+      <div class="card">
+        <span class="eyebrow">Checked and rejected</span>
+        <ul class="tick" style="font-size:.9rem">
+          <li><b>Urban Sports Club</b> — top tier is 18 check-ins/month at €154. You need 20–24. Costs the same as now for fewer sessions, plus a 12-month lock-in.</li>
+          <li><b>Ardennes trip</b> — €200, unfunded. Second Posbank day at ~€30 stands instead. Hard expiry 17 Oct regardless.</li>
+          <li><b>Gym switch</b> — saves €13–73 net across Feb–Apr. Not worth a mid-build disruption. <b>Ask Trainmore about the €1-per-workout discount instead</b> — up to €18/month, starting immediately.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ EVIDENCE ═══ -->
+<section id="evidence" class="blk">
+  <div class="wrap stack g32">
+    <div class="sec-head">
+      <div class="rule"></div>
+      <h2>What the evidence actually says</h2>
+      <p class="prose" style="color:var(--ink-2)">The findings that drove decisions in this plan — including the ones that overturned an earlier version of it.</p>
+    </div>
+
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>Claim</th><th>Verdict</th><th>Evidence</th></tr></thead>
+        <tbody>
+          <tr class="hi"><td>A single 5-min weighted downhill walk confers protection</td><td><b>Supported</b></td><td>−28% gradient, 5 km/h, 10% BW. One week later: strength loss −19.2% → −9.9%, CK 635 → 339 U/L, soreness 81.4 → 27.8 mm. Single study, treadmill-controlled, but large effects and near-zero risk.</td></tr>
+          <tr class="hi"><td>The repeated-bout effect protects strength</td><td><b>Not supported</b></td><td>Ten sessions over four weeks moved soreness 23.6 → 6.7 mm (p = 0.01) but knee-extensor strength loss −13.9% → −9.3%, n.s. throughout.</td></tr>
+          <tr><td>Hike above 10% gradient</td><td><b>Folklore</b></td><td>Cost per vertical metre is minimised at 20.4–35.0°; walking beats running at every angle ≥15.8°. The transition depends on grade <i>and</i> speed jointly. At 550–700 m/h, running a climb never pays.</td></tr>
+          <tr><td>The 10% rule for weekly volume increases</td><td><b>Falsified</b></td><td>RCT, n = 532: no difference in injury incidence (~20% both arms). Defensible bound is under ~30% week-on-week.</td></tr>
+          <tr><td>ACWR predicts injury</td><td><b>Discredited</b></td><td>Ratio-data artefacts, arbitrary windows, no causal estimation. Null in the one ultra cohort that tested it. What <i>did</i> precede injury: loads dropping 16–24% then rebounding 15–37% — <b>yo-yo loading, not absolute load</b>.</td></tr>
+          <tr><td>Longest run = 70–80% of race duration</td><td><b>No study exists</b></td><td>Koop has coached successful ultrarunners whose longest runs were 20–80% of race distance. Treated here as risk management at 55–70%.</td></tr>
+          <tr><td>Poles save energy</td><td><b>Mostly not</b></td><td>Vertical cost of transport −2.0 to −2.8% at 25–36°, <b>nothing at 10–20°</b>. But RPE −14.4 to −18.5%, and over a Snowdon ascent-and-descent with a daypack, damage was reduced "almost to the point of complete disappearance." <b>Use them for damage and RPE, not economy.</b> Pole length 58% of height ≈ 93 cm.</td></tr>
+          <tr><td>Even pacing is a lever in Hyrox</td><td><b>Not supported</b></td><td>ΔR² = 0.0000 when added to a fitness model. Within a matched run-speed decile (n = 17,032), most-even and least-even 20% both finished 1:14:16 — zero seconds apart.</td></tr>
+          <tr><td>Forefoot striking protects on descents</td><td><b>Backwards</b></td><td>Over 6.5 km / 1,264 m of descent, <b>the more anterior the foot strike, the larger the quad torque drop and strength loss at 2 days.</b> Deliberate manipulation shows no benefit on any variable. Let terrain dictate it.</td></tr>
+          <tr><td>Endurance training lowers testosterone</td><td><b>True, wrong mechanism</b></td><td>Prevalence ~15–25%, most still clinically normal at the low end. But it is <b>secondary to low energy availability, not to endurance per se</b>, and normalises when fuelling improves — without intervention.</td></tr>
+          <tr><td>Seed oils cause inflammation</td><td><b>Not supported</b></td><td>15 RCTs then 30 RCTs: no significant change across 11 inflammatory markers including CRP. Cochrane, ~59,000 participants: replacing saturated with polyunsaturated fat cut cardiovascular events <b>21%</b>.</td></tr>
+          <tr><td>Whey is a poor protein source</td><td><b>Backwards</b></td><td>Whey isolate DIAAS ~109, egg ~113, beef ~111 — same top tier. Potato protein also scores above 100.</td></tr>
+          <tr><td>Low-intensity cardio harms health</td><td><b>Contradicted</b></td><td>Meta-analysis, 102,980 participants: RR 0.87 per 1-MET of aerobic capacity. Across 750,000 veterans, cardiorespiratory fitness beat every traditional risk factor — and <b>"extremely high" fitness carried no mortality penalty</b>.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="warn">
+      <span class="eyebrow">Known unknowns</span>
+      <p><b>No GPX or elevation profile exists for the Madeira 25K</b> — checked the race site, the 11-page pack, ITRA, UTMB and four aggregators. The segment shape here is reconstructed from a low-resolution graphic and remains an assumption. 2025 was the first running, so there are no race reports. Exact checkpoint locations unconfirmed. <b>Request the GPX and pole policy from Ultra X.</b></p>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ RULES ═══ -->
+<section id="rules" class="blk" style="border-bottom:0">
+  <div class="wrap stack g32">
+    <div class="sec-head">
+      <div class="rule"></div>
+      <h2>The rules</h2>
+      <p class="prose" style="color:var(--ink-2)">What to do when the plan meets a five-day office job, a bad night, or a week that falls apart.</p>
+    </div>
+
+    <div class="cards c3">
+      <div class="card"><span class="eyebrow">Madeira · cut order</span><ol style="font-size:.92rem;padding-left:1.2em"><li>Sunday ride</li><li>Thursday vertical</li></ol><p style="font-size:.92rem"><b>Never</b> Saturday's long day or Tuesday's legs.</p></div>
+      <div class="card blk hy"><span class="eyebrow">Hyrox · cut order</span><ol style="font-size:.92rem;padding-left:1.2em"><li>Sunday long run</li><li>The fourth swim</li></ol><p style="font-size:.92rem"><b>Never</b> compromised running, or below three swims.</p></div>
+      <div class="card blk ve"><span class="eyebrow">Venice · cut order</span><ol style="font-size:.92rem;padding-left:1.2em"><li>Monday easy run</li><li>Fourth swim</li><li>Legs</li></ol><p style="font-size:.92rem"><b>Never</b> the long ride, the long run, or below three swims.</p></div>
+    </div>
+
+    <div class="cards c2">
+      <div class="note">
+        <span class="eyebrow">Score or feel</span>
+        <p><b>Resting HR is your most trustworthy number</b>; readiness is a composite that weights sleep heavily and pins at 1 without distinguishing degrees. Multi-day figures — training status, HRV weekly baseline — are computed over windows and are reliable.</p>
+        <p>Then feel, with a calibration: your history is 17 km when told 13.7, and HR 152 when told 140. <b>Trust feel when it says stop. Distrust it when it says push.</b></p>
+      </div>
+      <div class="warn">
+        <span class="eyebrow">Non-negotiables</span>
+        <ul class="tick" style="font-size:.92rem">
+          <li>Three runs a week, every week — the thread through all three races</li>
+          <li>Nothing eccentric after <b>21 October</b></li>
+          <li>Two full weeks of recovery after Madeira, 1–14 November</li>
+          <li>Swim four times a week from 15 November, no gap over five days</li>
+          <li>Body mass must not trend down</li>
+          <li>Descend the first steep section slower than feels necessary</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="note">
+      <span class="eyebrow">The two things most likely to decide the outcome</span>
+      <p><b>1. Whether you arrive at Madeira with legs that have absorbed enough eccentric loading to survive 2,003 m of descent.</b> The cheapest large win is the five-minute weighted downhill walk, done early and repeated every two to three weeks.</p>
+      <p><b>2. Whether you eat enough during an eleven-week ramp at 56 kg.</b> Neither of these is about how long your long run is. The race is roughly a 40–45 km flat-equivalent effort against a 17 km longest run — that gap, not the vertical, is the headline problem.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap stack g8">
+    <p class="mono" style="font-size:.78rem">Compiled 17 Aug 2026 · plans/madeira25k.json · plans/hyrox2027.json · plans/venice703.json</p>
+    <p>Figures drawn from the athlete's own Garmin history, the Ultra X Madeira race pack and kit list, the HYROX Doubles Rulebook 26/27 and public results database, the IRONMAN 70.3 Venice-Jesolo athlete guide, and the peer-reviewed literature cited throughout. Where a claim rests on a single study, a small sample, or a derivation rather than a published result, it is marked as such in the text.</p>
+  </div>
+</footer>
+
+<script>
+(function(){
+  const css = k => getComputedStyle(document.documentElement).getPropertyValue(k).trim();
+  const dpr = () => Math.min(window.devicePixelRatio || 1, 2);
+
+  function setup(cv, h){
+    const w = cv.clientWidth || cv.parentElement.clientWidth;
+    cv.width = w * dpr(); cv.height = h * dpr();
+    cv.style.height = h + 'px';
+    const c = cv.getContext('2d');
+    c.setTransform(dpr(),0,0,dpr(),0,0);
+    c.clearRect(0,0,w,h);
+    return {c,w,h};
+  }
+
+  /* ── masthead contours ─────────────── */
+  function contour(){
+    const cv = document.getElementById('contour');
+    const {c,w,h} = setup(cv, cv.parentElement.offsetHeight);
+    c.strokeStyle = css('--grid'); c.lineWidth = 1;
+    for(let i=0;i<14;i++){
+      c.beginPath();
+      const base = h*0.30 + i*13, amp = 16 + i*2.1, ph = i*0.42;
+      for(let x=0;x<=w;x+=4){
+        const t = x/w;
+        const y = base - amp*Math.sin(t*3.0+ph) - amp*0.45*Math.sin(t*7.3+ph*1.7);
+        x===0 ? c.moveTo(x,y) : c.lineTo(x,y);
+      }
+      c.globalAlpha = 0.85 - i*0.045;
+      c.stroke();
+    }
+    c.globalAlpha = 1;
+  }
+
+  /* ── monthly volume ─────────────── */
+  function volume(){
+    const cv = document.getElementById('volume'); if(!cv) return;
+    const {c,w,h} = setup(cv,230);
+    const data=[{m:'Mar',r:20.3,b:0},{m:'Apr',r:0,b:0},{m:'May',r:5.3,b:0},{m:'Jun',r:23.0,b:0},{m:'Jul',r:56.2,b:91.5},{m:'Aug',r:27.0,b:125.7}];
+    const pad={l:38,r:14,t:16,b:30}, iw=w-pad.l-pad.r, ih=h-pad.t-pad.b;
+    const max=130, bw=iw/data.length;
+    c.strokeStyle=css('--grid'); c.lineWidth=1; c.font='11px ui-monospace,Menlo,monospace'; c.fillStyle=css('--muted');
+    for(let v=0; v<=max; v+=nice(max)){
+      const y=pad.t+ih-(v/max)*ih;
+      c.beginPath(); c.moveTo(pad.l,y); c.lineTo(w-pad.r,y); c.stroke();
+      c.textAlign='right'; c.textBaseline='middle'; c.fillText(v,pad.l-7,y);
+    }
+    data.forEach((d,i)=>{
+      const x=pad.l+i*bw, gap=8, half=(bw-gap*2)/2;
+      const rh=(d.r/max)*ih, bh=(d.b/max)*ih;
+      c.fillStyle=css('--madeira');
+      c.fillRect(x+gap*0.6, pad.t+ih-rh, half, rh);
+      c.fillStyle=css('--venice');
+      c.fillRect(x+gap*0.6+half+3, pad.t+ih-bh, half, bh);
+      c.fillStyle=css('--muted'); c.textAlign='center'; c.textBaseline='top';
+      c.fillText(d.m, x+bw/2, pad.t+ih+8);
+      if(d.r===0){ c.fillStyle=css('--signal'); c.font='700 11px ui-monospace,Menlo,monospace'; c.fillText('0 km', x+bw/2, pad.t+ih-18); c.font='11px ui-monospace,Menlo,monospace'; }
+    });
+    legend(c,pad.l,pad.t+2,[['Running km',css('--madeira')],['Cycling km',css('--venice')]]);
+  }
+  function nice(m){ return m<=60?20:m<=150?30:50 }
+  function legend(c,x,y,items){
+    c.textAlign='left'; c.textBaseline='middle'; c.font='11px ui-monospace,Menlo,monospace';
+    let dx=x;
+    items.forEach(([label,col])=>{
+      c.fillStyle=col; c.fillRect(dx,y-4,9,9);
+      c.fillStyle=css('--muted'); c.fillText(label,dx+14,y);
+      dx += c.measureText(label).width + 34;
+    });
+  }
+
+  /* ── Madeira course profile ─────────────── */
+  function course(){
+    const cv=document.getElementById('course'); if(!cv) return;
+    const {c,w,h}=setup(cv,210);
+    const pad={l:40,r:14,t:14,b:26}, iw=w-pad.l-pad.r, ih=h-pad.t-pad.b;
+    const pts=[[0,60],[.04,120],[.08,200],[.12,270],[.17,330],[.21,395],[.25,455],[.28,505],[.30,510],[.32,470],[.34,300],[.355,110],[.37,60],[.40,75],[.42,155],[.44,90],[.47,80],[.50,120],[.52,195],[.545,205],[.56,140],[.58,70],[.60,85],[.62,150],[.65,280],[.67,380],[.70,415],[.72,455],[.735,400],[.75,470],[.765,395],[.78,440],[.80,490],[.82,455],[.84,470],[.855,410],[.87,395],[.89,340],[.91,330],[.93,320],[.95,300],[.97,290],[.985,120],[1,55]];
+    const maxE=560;
+    const X=t=>pad.l+t*iw, Y=e=>pad.t+ih-(e/maxE)*ih;
+    c.strokeStyle=css('--grid'); c.lineWidth=1; c.font='11px ui-monospace,Menlo,monospace'; c.fillStyle=css('--muted');
+    [0,200,400].forEach(v=>{ const y=Y(v); c.beginPath(); c.moveTo(pad.l,y); c.lineTo(w-pad.r,y); c.stroke();
+      c.textAlign='right'; c.textBaseline='middle'; c.fillText(v+'m',pad.l-7,y); });
+    c.beginPath(); c.moveTo(X(0),Y(0));
+    pts.forEach(p=>c.lineTo(X(p[0]),Y(p[1])));
+    c.lineTo(X(1),Y(0)); c.closePath();
+    c.fillStyle=css('--madeira-soft'); c.fill();
+    c.beginPath();
+    pts.forEach((p,i)=> i? c.lineTo(X(p[0]),Y(p[1])) : c.moveTo(X(p[0]),Y(p[1])));
+    c.strokeStyle=css('--madeira'); c.lineWidth=2; c.stroke();
+    /* the descent that matters */
+    c.fillStyle=css('--signal'); c.globalAlpha=.14;
+    c.fillRect(X(.30),pad.t,X(.37)-X(.30),ih); c.globalAlpha=1;
+    c.strokeStyle=css('--signal'); c.lineWidth=1.5; c.setLineDash([4,3]);
+    c.beginPath(); c.moveTo(X(.335),pad.t+4); c.lineTo(X(.335),pad.t+ih); c.stroke(); c.setLineDash([]);
+    c.fillStyle=css('--signal'); c.font='700 11px ui-monospace,Menlo,monospace';
+    c.textAlign='center'; c.textBaseline='top'; c.fillText('THE DESCENT', X(.335), pad.t+2);
+    c.fillStyle=css('--muted'); c.font='11px ui-monospace,Menlo,monospace'; c.textBaseline='top';
+    c.textAlign='left'; c.fillText('São Jorge · sea level', pad.l, pad.t+ih+8);
+    c.textAlign='right'; c.fillText('Machico · sea level', w-pad.r, pad.t+ih+8);
+  }
+
+  /* ── Hyrox splits ─────────────── */
+  function splits(){
+    const cv=document.getElementById('hyrox-splits'); if(!cv) return;
+    const {c,w,h}=setup(cv,250);
+    const pad={l:46,r:112,t:16,b:32}, iw=w-pad.l-pad.r, ih=h-pad.t-pad.b;
+    const series=[
+      {n:'65–70 min', col:css('--hyrox'), d:[259,265,282,283,289,285,286,297], dash:[]},
+      {n:'80–85 min', col:css('--madeira'), d:[313,321,344,347,358,351,351,376], dash:[]},
+      {n:'90–100 min', col:css('--signal'), d:[341,360,389,396,413,402,403,448], dash:[5,4]}
+    ];
+    const lo=240, hi=460;
+    const X=i=>pad.l+(i/7)*iw, Y=v=>pad.t+ih-((v-lo)/(hi-lo))*ih;
+    c.strokeStyle=css('--grid'); c.lineWidth=1; c.font='11px ui-monospace,Menlo,monospace'; c.fillStyle=css('--muted');
+    [240,300,360,420].forEach(v=>{ const y=Y(v); c.beginPath(); c.moveTo(pad.l,y); c.lineTo(pad.l+iw,y); c.stroke();
+      c.textAlign='right'; c.textBaseline='middle'; c.fillText(Math.floor(v/60)+':'+String(v%60).padStart(2,'0'), pad.l-7, y); });
+    series.forEach(s=>{
+      c.beginPath(); c.setLineDash(s.dash); c.strokeStyle=s.col; c.lineWidth=2.2;
+      s.d.forEach((v,i)=> i? c.lineTo(X(i),Y(v)) : c.moveTo(X(i),Y(v)));
+      c.stroke(); c.setLineDash([]);
+      s.d.forEach((v,i)=>{ c.beginPath(); c.arc(X(i),Y(v),2.6,0,7); c.fillStyle=s.col; c.fill(); });
+      c.fillStyle=s.col; c.textAlign='left'; c.textBaseline='middle'; c.font='600 11px ui-monospace,Menlo,monospace';
+      c.fillText(s.n, pad.l+iw+10, Y(s.d[7]));
+      c.font='11px ui-monospace,Menlo,monospace';
+    });
+    c.fillStyle=css('--muted'); c.textAlign='center'; c.textBaseline='top';
+    for(let i=0;i<8;i++) c.fillText('R'+(i+1), X(i), pad.t+ih+9);
+  }
+
+  /* ── Madeira periodisation ─────────────── */
+  function periodisation(){
+    const cv=document.getElementById('mad-periodisation'); if(!cv) return;
+    const {c,w,h}=setup(cv,250);
+    const d=[{w:7,v:600,k:19},{w:8,v:1000,k:20},{w:9,v:1350,k:23},{w:10,v:700,k:15,down:1},{w:11,v:1750,k:24},{w:12,v:2150,k:26},{w:13,v:1200,k:19,down:1},{w:14,v:2800,k:28},{w:15,v:3250,k:31,peak:1},{w:16,v:1400,k:19},{w:17,v:300,k:34,race:1}];
+    const pad={l:46,r:44,t:18,b:34}, iw=w-pad.l-pad.r, ih=h-pad.t-pad.b;
+    const maxV=3500, maxK=36, bw=iw/d.length;
+    c.strokeStyle=css('--grid'); c.lineWidth=1; c.font='11px ui-monospace,Menlo,monospace';
+    [0,1000,2000,3000].forEach(v=>{ const y=pad.t+ih-(v/maxV)*ih;
+      c.beginPath(); c.moveTo(pad.l,y); c.lineTo(pad.l+iw,y); c.stroke();
+      c.fillStyle=css('--muted'); c.textAlign='right'; c.textBaseline='middle'; c.fillText(v?v/1000+'k':'0', pad.l-7, y); });
+    d.forEach((x,i)=>{
+      const bx=pad.l+i*bw+bw*0.19, bwid=bw*0.62, bh=(x.v/maxV)*ih;
+      c.fillStyle = x.peak? css('--signal') : x.down? css('--madeira-soft') : css('--madeira');
+      c.fillRect(bx, pad.t+ih-bh, bwid, bh);
+      if(x.down){ c.strokeStyle=css('--madeira'); c.lineWidth=1; c.strokeRect(bx+.5, pad.t+ih-bh+.5, bwid-1, bh-1); }
+      c.fillStyle=css('--muted'); c.textAlign='center'; c.textBaseline='top';
+      c.fillText(x.w, bx+bwid/2, pad.t+ih+9);
+    });
+    c.beginPath(); c.strokeStyle=css('--ink-2'); c.lineWidth=1.6; c.setLineDash([3,3]);
+    d.forEach((x,i)=>{ const px=pad.l+i*bw+bw/2, py=pad.t+ih-(x.k/maxK)*ih; i? c.lineTo(px,py) : c.moveTo(px,py); });
+    c.stroke(); c.setLineDash([]);
+    c.fillStyle=css('--signal'); c.font='700 11px ui-monospace,Menlo,monospace'; c.textAlign='center';
+    const pk=d.findIndex(x=>x.peak);
+    c.fillText('PEAK · 17 OCT', pad.l+pk*bw+bw/2, pad.t+ih-(d[pk].v/maxV)*ih-15);
+    legend(c,pad.l,pad.t+2,[['Weekly vertical (m)',css('--madeira')],['Running km',css('--ink-2')]]);
+    c.fillStyle=css('--muted'); c.font='11px ui-monospace,Menlo,monospace'; c.textAlign='center'; c.textBaseline='top';
+    c.fillText('week', pad.l+iw/2, pad.t+ih+23);
+  }
+
+  /* ── swim ladder ─────────────── */
+  function ladder(){
+    const cv=document.getElementById('swim-ladder'); if(!cv) return;
+    const {c,w,h}=setup(cv,220);
+    const steps=[{l:'Face in water',w0:0,w1:3,v:0},{l:'25 m',w0:3,w1:6,v:25},{l:'100 m',w0:6,w1:10,v:100},{l:'800 m',w0:10,w1:16,v:800},{l:'1,900 m',w0:16,w1:22,v:1900}];
+    const pad={l:52,r:16,t:20,b:34}, iw=w-pad.l-pad.r, ih=h-pad.t-pad.b;
+    const X=t=>pad.l+(t/22)*iw, Y=v=>pad.t+ih-(Math.sqrt(v)/Math.sqrt(1900))*ih;
+    c.strokeStyle=css('--grid'); c.lineWidth=1; c.font='11px ui-monospace,Menlo,monospace';
+    [0,100,800,1900].forEach(v=>{ const y=Y(v); c.beginPath(); c.moveTo(pad.l,y); c.lineTo(pad.l+iw,y); c.stroke();
+      c.fillStyle=css('--muted'); c.textAlign='right'; c.textBaseline='middle'; c.fillText(v||'0', pad.l-7, y); });
+    steps.forEach((s,i)=>{
+      const x0=X(s.w0), x1=X(s.w1), y=Y(s.v);
+      c.fillStyle = i===3? css('--signal') : css('--venice');
+      c.globalAlpha = i===3? .22 : .16;
+      c.fillRect(x0, y, x1-x0, pad.t+ih-y); c.globalAlpha=1;
+      c.strokeStyle = i===3? css('--signal') : css('--venice'); c.lineWidth=2.2;
+      c.beginPath(); c.moveTo(x0,y); c.lineTo(x1,y); c.stroke();
+      c.fillStyle = i===3? css('--signal') : css('--venice');
+      c.font='600 11px ui-monospace,Menlo,monospace'; c.textAlign='left'; c.textBaseline='bottom';
+      c.fillText(s.l, x0+5, y-5);
+    });
+    c.fillStyle=css('--muted'); c.font='11px ui-monospace,Menlo,monospace'; c.textAlign='center'; c.textBaseline='top';
+    [0,4,8,12,16,20,22].forEach(t=> c.fillText('wk '+t, X(t), pad.t+ih+9));
+    c.textAlign='left'; c.fillText('15 Nov', X(0), pad.t+ih+23);
+    c.textAlign='right'; c.fillText('24 Apr', X(22), pad.t+ih+23);
+  }
+
+  function drawAll(){ contour(); volume(); course(); splits(); periodisation(); ladder(); }
+  drawAll();
+  let t; window.addEventListener('resize',()=>{ clearTimeout(t); t=setTimeout(drawAll,140) });
+  if(window.matchMedia){
+    const mq = window.matchMedia('(prefers-color-scheme: dark)');
+    mq.addEventListener ? mq.addEventListener('change',drawAll) : mq.addListener(drawAll);
+  }
+})();
+</script>
