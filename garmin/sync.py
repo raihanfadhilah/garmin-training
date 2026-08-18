@@ -15,6 +15,7 @@ from garmin.parse import (
     endurance_scores,
     hill_scores,
     race_prediction_row,
+    sleep_row,
     wellness_row,
 )
 
@@ -112,6 +113,7 @@ class SyncService:
             while current <= end:
                 iso = current.isoformat()
                 row = wellness_row(current, self._client.daily_stats(iso))
+                row.update(sleep_row(self._client.sleep(iso)))
                 if iso in endurance:
                     row["endurance_score"] = endurance[iso]
                 if iso in hills:

@@ -1,0 +1,491 @@
+{
+  "race": {
+    "name": "HYROX Amsterdam Doubles",
+    "date": "2027-01-23"
+  },
+  "settings": {
+    "easy_hr_cap": 158,
+    "benchmark_hr": 150,
+    "benchmark_km": 5,
+    "cadence_target": 178,
+    "easy_target_pct": 80.0,
+    "decoupling_target": 5.0
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2026-11-15",
+      "end": "2026-11-21",
+      "phase": "Base",
+      "down_week": false,
+      "note": "Re-entry. Madeira's 2,003 m of descent is an eccentric-damage event - strength markers return to baseline around day 9 and muscle damage is detectable up to 4 weeks. NO lunges, NO burpee broad jumps, NO heavy sled this week or next: those are precisely the movements your quads cannot absorb yet. Ergs, grip and technique only. SWIMMING STARTS NOW. Swim frequency beats swim volume: 4 x 30-40 min beats 2 x 75, because fatigue compromises motor learning. Never let a gap exceed 5 days - adult-onset swimmers lose motor patterns fast. Book private lessons NOW for weeks 1-8.",
+      "sessions": [
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km (talk test)",
+          "day": 0,
+          "km": 5
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 30 min - TECHNIQUE. Breathing, body position, catch. Distance is irrelevant for six weeks.",
+          "day": 2,
+          "minutes": 30
+        },
+        {
+          "kind": "station",
+          "label": "ERG technique only - SkiErg hinge (80% of power is the first third of the pull), rower damper 3-4 for a light athlete. No legs.",
+          "day": 3
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 30 min - TECHNIQUE. Breathing, body position, catch. Distance is irrelevant for six weeks.",
+          "day": 4,
+          "minutes": 30
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km (talk test)",
+          "day": 5,
+          "km": 5
+        },
+        {
+          "kind": "swim",
+          "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 across weeks 1-8 - highest-ROI line item in the whole season. One or two cues at a time, never a list. Video every 1-2 weeks.",
+          "day": 6,
+          "minutes": 45
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "start": "2026-11-22",
+      "end": "2026-11-28",
+      "phase": "Base",
+      "down_week": false,
+      "note": "BENCHMARK WEEK. Garmin predicts a 24:20 5K; your logged runs say 28-29. Garmin over-predicts for athletes who never race hard, and you have 21 logged runs with no time trial. Every pace target in this block depends on getting the real number. Still no lunges or burpees.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long easy run 8 km",
+          "day": 0,
+          "km": 8
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 30 min - TECHNIQUE. Breathing, body position, catch. Distance is irrelevant for six weeks.",
+          "day": 1,
+          "minutes": 30
+        },
+        {
+          "kind": "benchmark",
+          "label": "BENCHMARK 5 km TIME TRIAL - flat, fresh, all-out. This sets every pace in the block. Do not skip it.",
+          "day": 2,
+          "km": 5
+        },
+        {
+          "kind": "station",
+          "label": "ERG + grip. Dead hang for time (target 90 s by week 8). Farmers hold. No leg loading.",
+          "day": 3
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 30 min - TECHNIQUE. Breathing, body position, catch. Distance is irrelevant for six weeks.",
+          "day": 4,
+          "minutes": 30
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km",
+          "day": 6,
+          "km": 5
+        },
+        {
+          "kind": "swim",
+          "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 across weeks 1-8 - highest-ROI line item in the whole season. One or two cues at a time, never a list. Video every 1-2 weeks.",
+          "day": 6,
+          "minutes": 45
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "start": "2026-11-29",
+      "end": "2026-12-05",
+      "phase": "Base",
+      "down_week": false,
+      "note": "Sled introduced at TECHNIQUE load only (50-65%). Your traction physics: at 56 kg you need 0.81x bodyweight of horizontal force rolling and 1.03x at a dead start - you are at or past the slip threshold every time it stops. Learn to never let it stop.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long easy run 10 km",
+          "day": 0,
+          "km": 10
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min - technique + first continuous 100 m efforts",
+          "day": 1,
+          "minutes": 35
+        },
+        {
+          "kind": "strides",
+          "label": "8 x 400 m at 5K effort, 90 s jog recovery",
+          "day": 2,
+          "km": 7
+        },
+        {
+          "kind": "station",
+          "label": "Sled push technique 8-10 x 12.5 m @ 100 kg (65%), 60-90 s rest. Forearms hooked on posts, 30-45 deg lean, short choppy steps. Plus grip work.",
+          "day": 3
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min",
+          "day": 4,
+          "minutes": 35
+        },
+        {
+          "kind": "legs",
+          "label": "Legs - squat and hinge patterns return. Still no loaded lunges (week 4).",
+          "day": 5
+        },
+        {
+          "kind": "swim",
+          "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 across weeks 1-8 - highest-ROI line item in the whole season. One or two cues at a time, never a list. Video every 1-2 weeks.",
+          "day": 6,
+          "minutes": 45
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "start": "2026-12-06",
+      "end": "2026-12-12",
+      "phase": "Build",
+      "down_week": false,
+      "note": "Four weeks post-Madeira: lunges and burpees are cleared. Compromised running starts - this is THE session and nothing substitutes for it. Grip work is now weekly; it takes 4-6 weeks to change the farmers carry.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long easy run 12 km",
+          "day": 0,
+          "km": 12
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 40 min - build to 200 m continuous",
+          "day": 1,
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "label": "5 x 800 m at 10K effort, 2 min recovery",
+          "day": 2,
+          "km": 8
+        },
+        {
+          "kind": "legs",
+          "label": "Legs - trap-bar DL 4x5, Bulgarian split squat 4x8/leg, backward sled drag, farmers 4x40 m",
+          "day": 3
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 40 min",
+          "day": 4,
+          "minutes": 40
+        },
+        {
+          "kind": "compromised",
+          "label": "COMPROMISED RUN: 400 m + 50 m sled push + 400 m + 400 m row. Then 6 x 25 m sled push @ 90 s.",
+          "day": 5,
+          "km": 4
+        },
+        {
+          "kind": "swim",
+          "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 across weeks 1-8 - highest-ROI line item in the whole season. One or two cues at a time, never a list. Video every 1-2 weeks.",
+          "day": 6,
+          "minutes": 45
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "start": "2026-12-13",
+      "end": "2026-12-19",
+      "phase": "Build",
+      "down_week": false,
+      "note": "Priority order from 182k measured doubles teams: running (r=0.90 with finish) > roxzone > lunges/burpees/sled pull. Wall balls correlate r=0.266 - the LOWEST of any segment in doubles. Do not spend training on them. Cold immersions start this week and run through February - 5-6 short exposures halve the cold-shock response, which is the mechanism behind most swim DNFs and 90 of 120 recorded sudden deaths in US triathlon.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long easy run 14 km",
+          "day": 0,
+          "km": 14
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 40 min - 300 m continuous",
+          "day": 1,
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "label": "6 x 800 m at 10K effort, 2 min recovery",
+          "day": 2,
+          "km": 9
+        },
+        {
+          "kind": "legs",
+          "label": "Legs - sled push dead-start practice (6-8 x 15 m @ 180 kg), sandbag lunges long stride, grip",
+          "day": 3
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 40 min",
+          "day": 4,
+          "minutes": 40
+        },
+        {
+          "kind": "compromised",
+          "label": "COMPROMISED RUN: 1 km + 50 m push + 1 km + 50 m pull, x3. Sled pull is your real opportunity - rolling force is only 0.59x bodyweight, not traction-limited.",
+          "day": 5,
+          "km": 6
+        },
+        {
+          "kind": "swim",
+          "label": "COLD IMMERSION 2-3 min. Five to six of these HALVES the cold-shock response, and the adaptation lasts ~14 months. Venice will be 15-17 C. Cold showers are a partial substitute, not an equivalent.",
+          "day": 6,
+          "minutes": 15
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "start": "2026-12-20",
+      "end": "2026-12-26",
+      "phase": "Build",
+      "down_week": true,
+      "note": "Christmas - down week by design. Hold swim and one compromised session, drop the rest guilt-free.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long easy run 10 km",
+          "day": 0,
+          "km": 10
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 30 min",
+          "day": 2,
+          "minutes": 30
+        },
+        {
+          "kind": "compromised",
+          "label": "COMPROMISED RUN: 1 km + 200 m farmers + 1 km + 100 m lunges, x2",
+          "day": 4,
+          "km": 4
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 30 min",
+          "day": 6,
+          "minutes": 30
+        },
+        {
+          "kind": "swim",
+          "label": "COLD IMMERSION 2-3 min. Five to six of these HALVES the cold-shock response, and the adaptation lasts ~14 months. Venice will be 15-17 C. Cold showers are a partial substitute, not an equivalent.",
+          "day": 6,
+          "minutes": 15
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "start": "2026-12-27",
+      "end": "2027-01-02",
+      "phase": "Build",
+      "down_week": false,
+      "note": "FIRST DOUBLES SESSION. Splitting is a skill and neither of you has practised it. Split to protect his legs, not to optimise station throughput: running is 55.8% of doubles race time and you both run all 8 km at the slower man's pace.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long easy run 16 km",
+          "day": 0,
+          "km": 16
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 45 min - 400 m continuous",
+          "day": 1,
+          "minutes": 45
+        },
+        {
+          "kind": "strides",
+          "label": "4 x 1 km at 10K effort, 2 min recovery",
+          "day": 2,
+          "km": 9
+        },
+        {
+          "kind": "legs",
+          "label": "Legs - race-load sled, lunges with 1.0-1.1 m stride (91-100 reps vs 167 at short stride - the single biggest lever, worth 30-90 s)",
+          "day": 3
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 45 min",
+          "day": 4,
+          "minutes": 45
+        },
+        {
+          "kind": "compromised",
+          "label": "DOUBLES: 6 x (1 km + 1 station, split). Sled push B 37.5 m / A 12.5 m. Sled pull B 37.5 / A 12.5. Farmers B 120 / A 80. Ski A 600. Lunges A 60. Wall balls A 50+.",
+          "day": 5,
+          "km": 6
+        },
+        {
+          "kind": "swim",
+          "label": "COLD IMMERSION 2-3 min. Five to six of these HALVES the cold-shock response, and the adaptation lasts ~14 months. Venice will be 15-17 C. Cold showers are a partial substitute, not an equivalent.",
+          "day": 6,
+          "minutes": 15
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "start": "2027-01-03",
+      "end": "2027-01-09",
+      "phase": "Peak",
+      "down_week": false,
+      "note": "ROXZONE SESSION this week. Measured: doubles teams get almost no transition discount over singles (6:39 vs 7:19 median). An 80-85 team spends 7:29 in roxzone; the top 10% spend 4:31. That is ~3 minutes available with zero change in fitness - the cheapest unclaimed time in the format.",
+      "sessions": [
+        {
+          "kind": "long",
+          "label": "Long easy run 14 km",
+          "day": 0,
+          "km": 14
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 45 min - 600 m continuous",
+          "day": 1,
+          "minutes": 45
+        },
+        {
+          "kind": "strides",
+          "label": "5 x 1 km at 10K effort",
+          "day": 2,
+          "km": 10
+        },
+        {
+          "kind": "station",
+          "label": "ROXZONE DRILL: rehearse all 8 transitions ~50 times. Pre-assign who starts each station. Resting partner must stay ON FEET - no kneeling. Walk the roxzone route.",
+          "day": 3
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 45 min",
+          "day": 4,
+          "minutes": 45
+        },
+        {
+          "kind": "sim",
+          "label": "HALF SIMULATION with partner: 4 runs + 4 stations. Record every split and every transition.",
+          "day": 6,
+          "km": 4
+        },
+        {
+          "kind": "swim",
+          "label": "COLD IMMERSION 2-3 min. Five to six of these HALVES the cold-shock response, and the adaptation lasts ~14 months. Venice will be 15-17 C. Cold showers are a partial substitute, not an equivalent.",
+          "day": 6,
+          "minutes": 15
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "start": "2027-01-10",
+      "end": "2027-01-16",
+      "phase": "Peak",
+      "down_week": false,
+      "note": "Full simulation, then nothing hard again. Whatever this says is your target - trust it over any estimate, mine included.",
+      "sessions": [
+        {
+          "kind": "easy",
+          "label": "Easy run 8 km",
+          "day": 0,
+          "km": 8
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 45 min - 800 m continuous",
+          "day": 1,
+          "minutes": 45
+        },
+        {
+          "kind": "strides",
+          "label": "4 x 1 km at race effort",
+          "day": 2,
+          "km": 9
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 45 min",
+          "day": 4,
+          "minutes": 45
+        },
+        {
+          "kind": "sim",
+          "label": "FULL SIMULATION with partner at 80-90%: all 8 runs + 8 stations, race kit, race splitting.",
+          "day": 6,
+          "km": 8
+        },
+        {
+          "kind": "swim",
+          "label": "COLD IMMERSION 2-3 min. Five to six of these HALVES the cold-shock response, and the adaptation lasts ~14 months. Venice will be 15-17 C. Cold showers are a partial substitute, not an equivalent.",
+          "day": 6,
+          "minutes": 15
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "start": "2027-01-17",
+      "end": "2027-01-23",
+      "phase": "Race",
+      "down_week": false,
+      "note": "RACE WEEK. Target 88-95 min, NOT 80-85 - measured doubles station totals are 28:23, not the 25 I first assumed, so the 80-85 band actually needs 5:47/km over 8 compromised reps. TACTICS: (1) expect R8 to be your slowest run at every level - it is for everyone; (2) a controlled 12-15% positive split is optimal, even pacing is NOT a lever (measured dR2 = 0.000); (3) never let the sled stop - at 56 kg you pay the breakaway cost every restart; (4) grippy solid-rubber shoes are worth 30-60 s on the sled; (5) don't chase wall balls, flex that split to whoever is holding up.",
+      "sessions": [
+        {
+          "kind": "easy",
+          "label": "Easy shakeout 5 km",
+          "day": 0,
+          "km": 5
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 30 min easy",
+          "day": 1,
+          "minutes": 30
+        },
+        {
+          "kind": "strides",
+          "label": "Easy 4 km + strides",
+          "day": 2,
+          "km": 4
+        },
+        {
+          "kind": "station",
+          "label": "Light movement patterns only, no load. Confirm shoes.",
+          "day": 3
+        },
+        {
+          "kind": "race",
+          "label": "RACE - HYROX Amsterdam Doubles (RAI) - 8 x 1 km + 8 stations - target 88-95 min",
+          "day": 6,
+          "km": 8
+        }
+      ]
+    }
+  ]
+}

@@ -8,8 +8,10 @@ from typing import Any
 
 DEFAULT_PLAN = Path(__file__).parent.parent / "plans" / "madeira25k.json"
 
-RUN_KINDS = frozenset({"easy", "long", "hill_tempo", "strides", "race", "benchmark"})
-LONG_KINDS = frozenset({"long", "race"})
+RUN_KINDS = frozenset(
+    {"easy", "long", "hill_tempo", "strides", "race", "benchmark", "brick", "compromised", "sim"}
+)
+LONG_KINDS = frozenset({"long", "race", "brick"})
 CLIMB_KINDS = frozenset({"vertical", "hill_tempo"})
 
 SUN, MON, TUE, WED, THU, FRI, SAT, RACE_DAY = 0, 1, 2, 3, 4, 5, 6, 7

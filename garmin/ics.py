@@ -4,6 +4,7 @@ from garmin import plan
 
 PRODID = "-//garmin training//Madeira 25K plan//EN"
 CALENDAR_NAME = f"{plan.RACE_NAME} training"
+SLUG = "".join(c for c in plan.RACE_NAME.lower() if c.isalnum())
 FOLD_WIDTH = 73
 
 
@@ -44,11 +45,13 @@ def _details(week: plan.PlanWeek, session: plan.Session) -> str:
     return "\n".join(lines)
 
 
-def _event(week: plan.PlanWeek, session: plan.Session, now: datetime) -> list[str]:
+def _event(
+    week: plan.PlanWeek, session: plan.Session, index: int, now: datetime
+) -> list[str]:
     day = week.start + timedelta(days=session.day)
     return [
         "BEGIN:VEVENT",
-        f"UID:w{week.number}-d{session.day}-{session.kind}@garmin-training",
+        f"UID:{SLUG}-w{week.number}-s{index}-{session.kind}@garmin-training",
         f"DTSTAMP:{_stamp(now)}",
         f"DTSTART;VALUE=DATE:{day:%Y%m%d}",
         f"DTEND;VALUE=DATE:{day + timedelta(days=1):%Y%m%d}",
@@ -70,8 +73,8 @@ def build(now: datetime | None = None) -> str:
         f"X-WR-CALNAME:{_escape(CALENDAR_NAME)}",
     ]
     for week in plan.PLAN:
-        for session in week.sessions:
-            lines.extend(_event(week, session, moment))
+        for index, session in enumerate(week.sessions):
+            lines.extend(_event(week, session, index, moment))
     lines.append("END:VCALENDAR")
     return "\r\n".join(_fold(line) for line in lines) + "\r\n"
 

@@ -1,0 +1,675 @@
+{
+  "race": {
+    "name": "IRONMAN 70.3 Venice-Jesolo",
+    "date": "2027-04-24"
+  },
+  "settings": {
+    "easy_hr_cap": 158,
+    "benchmark_hr": 150,
+    "benchmark_km": 10,
+    "cadence_target": 178,
+    "easy_target_pct": 80.0,
+    "decoupling_target": 5.0
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2027-01-31",
+      "end": "2027-02-06",
+      "phase": "Base",
+      "down_week": false,
+      "note": "ADMIN FIRST: (1) book the certificato medico agonistico - Italy legally requires an ECG-based sports medical on the FITRI form, and without it you are not issued a race pack. Schedule by February. (2) Pull your best 20-min power from Garmin/Strava history, x0.95 = FTP. Every bike split below is a guess until you do. Swim goes to FOUR short sessions - frequency beats volume, fatigue compromises motor learning. SESSION COUNT: 3 runs, 3-4 swims, 2 bikes, 1 legs, 6 days with Thursday off. That is ~9-10 h/week, which is INTERMEDIATE volume - MyProCoach's beginner 70.3 plan averages 7 h. If adherence slips, scale to the beginner shape rather than abandoning weeks. CUT ORDER: (1) Monday easy run, (2) the fourth swim, (3) Wednesday legs. Never cut the long ride, the long run, or below three swims.",
+      "sessions": [
+        {
+          "kind": "cycling",
+          "label": "Long ride 60 km steady, HR ~140",
+          "day": 0,
+          "minutes": 150
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min - 1000 m continuous",
+          "day": 1,
+          "minutes": 35
+        },
+        {
+          "kind": "strides",
+          "label": "6 x 800 m at 10K effort",
+          "day": 2,
+          "km": 9
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min - technique + sighting drills off the lane wall",
+          "day": 3,
+          "minutes": 35
+        },
+        {
+          "kind": "legs",
+          "label": "Legs - maintenance. Keep glute-med: cycling+running together is a known ITBS risk and hip abductor weakness is the named driver.",
+          "day": 3
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min",
+          "day": 5,
+          "minutes": 35
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min - no-wall set (touch, stop, no push-off)",
+          "day": 6,
+          "minutes": 35
+        },
+        {
+          "kind": "long",
+          "label": "Long run 12 km easy",
+          "day": 6,
+          "km": 12
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
+          "day": 1,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "start": "2027-02-07",
+      "end": "2027-02-13",
+      "phase": "Base",
+      "down_week": false,
+      "note": "First brick. Start the run within 5 minutes of racking the bike and expect the first 10 min to feel wrong - it normalises by km 3 regardless of fitness. Get a bike fit booked: saddle height and cleat alignment are named ITBS contributors and you are about to add 3 h/week of riding.",
+      "sessions": [
+        {
+          "kind": "cycling",
+          "label": "Long ride 65 km steady",
+          "day": 0,
+          "minutes": 160
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min - 1200 m continuous",
+          "day": 1,
+          "minutes": 35
+        },
+        {
+          "kind": "strides",
+          "label": "5 x 1 km at 10K effort",
+          "day": 2,
+          "km": 9
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min - drills",
+          "day": 3,
+          "minutes": 35
+        },
+        {
+          "kind": "legs",
+          "label": "Legs - maintenance + glute-med",
+          "day": 3
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min",
+          "day": 5,
+          "minutes": 35
+        },
+        {
+          "kind": "brick",
+          "label": "BRICK: 40 km ride + 5 km run. Run first 10 min 20-30 s/km slower than standalone.",
+          "day": 6,
+          "km": 5
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
+          "day": 1,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "start": "2027-02-14",
+      "end": "2027-02-20",
+      "phase": "Base",
+      "down_week": false,
+      "note": "Buy the wetsuit now. Buy for BUOYANCY not speed - beginner suits run 5 mm through core/hips/legs, which directly fixes the sinking-legs problem. Wetsuits give the biggest gain to inefficient low-buoyancy swimmers, i.e. you: 5-11%, roughly 2-4 min over 1.9 km. Also buy neoprene BOOTIES - legal below 18.3 C and the water will be 15-17 C.",
+      "sessions": [
+        {
+          "kind": "cycling",
+          "label": "Long ride 70 km steady",
+          "day": 0,
+          "minutes": 170
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 40 min - 1400 m continuous",
+          "day": 1,
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "label": "6 x 1 km at 10K effort",
+          "day": 2,
+          "km": 10
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 40 min - first session IN THE WETSUIT (pool). Chest constriction can feel like breathlessness; get used to it now.",
+          "day": 3,
+          "minutes": 40
+        },
+        {
+          "kind": "legs",
+          "label": "Legs - maintenance",
+          "day": 3
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min",
+          "day": 5,
+          "minutes": 35
+        },
+        {
+          "kind": "long",
+          "label": "Long run 15 km easy",
+          "day": 6,
+          "km": 15
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
+          "day": 1,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "start": "2027-02-21",
+      "end": "2027-02-27",
+      "phase": "Build",
+      "down_week": false,
+      "note": "GUT TRAINING STARTS - 8-12 weeks out is the window. Target 60-70 g carb/h on the bike, NOT 90: measured exogenous glucose oxidation is 33 g/h under 70 kg vs 45 g/h above it. At 56 kg your ceiling is genuinely lower. Fuel every session over 75 min, +10-15 g/h every 1-2 weeks, and use the exact race products (Maurten, Precision PH 1000).",
+      "sessions": [
+        {
+          "kind": "cycling",
+          "label": "Long ride 80 km, last 20 km at race effort, fuelling 60 g/h",
+          "day": 0,
+          "minutes": 185
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 40 min - 1600 m continuous",
+          "day": 1,
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "label": "5 x 1 km at 10K effort",
+          "day": 2,
+          "km": 10
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 40 min - wetsuit + sighting every 6 strokes",
+          "day": 3,
+          "minutes": 40
+        },
+        {
+          "kind": "legs",
+          "label": "Legs - maintenance",
+          "day": 3
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min",
+          "day": 5,
+          "minutes": 35
+        },
+        {
+          "kind": "brick",
+          "label": "BRICK: 50 km ride + 7 km run, practise 9 min run / 1 min walk",
+          "day": 6,
+          "km": 7
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
+          "day": 1,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "start": "2027-02-28",
+      "end": "2027-03-06",
+      "phase": "Build",
+      "down_week": false,
+      "note": "TRANSITION PRACTICE this week. Measured Venice T1 median is 7:02 and T2 5:21; p90 is 11:05 and 7:08. A fumbled pair of transitions costs 8-12 minutes - more than most people gain from an entire block of bike work. Practise wetsuit removal until it is boring.",
+      "sessions": [
+        {
+          "kind": "cycling",
+          "label": "Long ride 85 km steady",
+          "day": 0,
+          "minutes": 195
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 45 min - 1800 m continuous",
+          "day": 1,
+          "minutes": 45
+        },
+        {
+          "kind": "strides",
+          "label": "4 x 1.5 km at threshold",
+          "day": 2,
+          "km": 11
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 40 min + T1 DRILL: swim, exit, strip wetsuit, mount. 10 reps.",
+          "day": 3,
+          "minutes": 40
+        },
+        {
+          "kind": "legs",
+          "label": "Legs - maintenance",
+          "day": 3
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min",
+          "day": 5,
+          "minutes": 35
+        },
+        {
+          "kind": "long",
+          "label": "Long run 17 km easy",
+          "day": 6,
+          "km": 17
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
+          "day": 1,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "start": "2027-03-07",
+      "end": "2027-03-13",
+      "phase": "Build",
+      "down_week": true,
+      "note": "Down week. Volume drops, frequency does not - never let a swim gap exceed 5 days, adult-onset swimmers lose motor patterns fast. Use the spare hours to book the medical certificate appointment if it is not done.",
+      "sessions": [
+        {
+          "kind": "cycling",
+          "label": "Easy ride 60 km",
+          "day": 0,
+          "minutes": 150
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min - 1500 m",
+          "day": 1,
+          "minutes": 35
+        },
+        {
+          "kind": "strides",
+          "label": "4 x 1 km at 10K effort",
+          "day": 2,
+          "km": 8
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min",
+          "day": 3,
+          "minutes": 35
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min",
+          "day": 5,
+          "minutes": 35
+        },
+        {
+          "kind": "long",
+          "label": "Long run 12 km easy",
+          "day": 6,
+          "km": 12
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
+          "day": 1,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "start": "2027-03-14",
+      "end": "2027-03-20",
+      "phase": "Build",
+      "down_week": false,
+      "note": "TARGET: 1900 m continuous. The cutoff needs only 3:41/100 m and ANY STROKE IS LEGAL - breaststroke the whole thing is permitted, and you may hold a buoy or kayak to rest provided you make no forward progress. Knowing that is what stops the panic that actually causes swim DNFs.",
+      "sessions": [
+        {
+          "kind": "cycling",
+          "label": "Long ride 90 km - full race distance, fuelling rehearsal 60-70 g/h",
+          "day": 0,
+          "minutes": 205
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 55 min - ATTEMPT 1900 m CONTINUOUS",
+          "day": 1,
+          "minutes": 55
+        },
+        {
+          "kind": "strides",
+          "label": "5 x 1 km at threshold",
+          "day": 2,
+          "km": 10
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 40 min - wetsuit",
+          "day": 3,
+          "minutes": 40
+        },
+        {
+          "kind": "legs",
+          "label": "Legs - maintenance",
+          "day": 3
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min",
+          "day": 5,
+          "minutes": 35
+        },
+        {
+          "kind": "brick",
+          "label": "BRICK: 60 km ride + 10 km run at race effort",
+          "day": 6,
+          "km": 10
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
+          "day": 1,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "start": "2027-03-21",
+      "end": "2027-03-27",
+      "phase": "Build",
+      "down_week": false,
+      "note": "Biggest week. Bike pacing: target IF 0.68-0.72, cap the first 30 min 5 W BELOW target. Above 0.80 on a flat course is almost always a bike PB and a run blow-up. Also: this is a NON-DRAFTING race - 6 bike lengths clear, pass within 25 s, 5-minute penalty box. You ride in groups; this is a skill you do not have.",
+      "sessions": [
+        {
+          "kind": "cycling",
+          "label": "Long ride 100 km steady at IF 0.70",
+          "day": 0,
+          "minutes": 225
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 55 min - 1900 m at race pace",
+          "day": 1,
+          "minutes": 55
+        },
+        {
+          "kind": "strides",
+          "label": "6 x 1 km at threshold",
+          "day": 2,
+          "km": 11
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 40 min - wetsuit + crowded-lane contact practice",
+          "day": 3,
+          "minutes": 40
+        },
+        {
+          "kind": "legs",
+          "label": "Legs - maintenance",
+          "day": 3
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min",
+          "day": 5,
+          "minutes": 35
+        },
+        {
+          "kind": "long",
+          "label": "Long run 18 km easy - THIS IS THE CAP. Athletes whose long run is 15-21 km average 2:03 for the half; only 26% run over 21 km in training.",
+          "day": 6,
+          "km": 18
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
+          "day": 1,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "start": "2027-03-28",
+      "end": "2027-04-03",
+      "phase": "Peak",
+      "down_week": false,
+      "note": "OPEN WATER STARTS - the single highest-consequence item in this plan. 90 of 120 sudden deaths in US triathlon occurred in the swim, and the mechanism is cold-water panic, not fitness. You should already have done 5-6 cold immersions over the winter; this is where it gets applied in a wetsuit.",
+      "sessions": [
+        {
+          "kind": "cycling",
+          "label": "Long ride 110 km - longest of the block",
+          "day": 0,
+          "minutes": 245
+        },
+        {
+          "kind": "swim",
+          "label": "OPEN WATER 30-40 min in wetsuit + booties. Sight every 6-10 strokes. Rehearse the bail-out: roll to back, float, breathe, restart.",
+          "day": 1,
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "label": "5 x 1 km at threshold",
+          "day": 2,
+          "km": 10
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 50 min pool - 1900 m",
+          "day": 3,
+          "minutes": 50
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min",
+          "day": 5,
+          "minutes": 35
+        },
+        {
+          "kind": "brick",
+          "label": "BRICK: 70 km ride + 12 km run, full race nutrition",
+          "day": 6,
+          "km": 12
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
+          "day": 1,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "start": "2027-04-04",
+      "end": "2027-04-10",
+      "phase": "Peak",
+      "down_week": false,
+      "note": "Full dress rehearsal. Run plan is RUN/WALK from km 0, not as a fallback: 9 min run / 1 min walk blends to ~7:24/km and beats an even-paced blow-up by minutes per km. The course gives you 3 loops x 7.03 km with 9 aid stations - walk every one, 5-15 s, 3-5 good gulps.",
+      "sessions": [
+        {
+          "kind": "cycling",
+          "label": "Long ride 90 km at race effort",
+          "day": 0,
+          "minutes": 200
+        },
+        {
+          "kind": "swim",
+          "label": "OPEN WATER 40 min - practise a self-seeded start, swim close to someone",
+          "day": 1,
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "label": "4 x 1 km at race effort",
+          "day": 2,
+          "km": 9
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 50 min - 1900 m TIMED. This is your race prediction and your seeding.",
+          "day": 3,
+          "minutes": 50
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min easy",
+          "day": 5,
+          "minutes": 35
+        },
+        {
+          "kind": "brick",
+          "label": "BRICK: 60 km ride + 15 km run at race pace, 9:1 run/walk, full nutrition",
+          "day": 6,
+          "km": 15
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
+          "day": 1,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "start": "2027-04-11",
+      "end": "2027-04-17",
+      "phase": "Taper",
+      "down_week": false,
+      "note": "Taper: volume down 30-50%, intensity retained, swim FREQUENCY untouched. Carb load the day before is 8-12 g/kg = 450-670 g - that is a lot of food for 56 kg and it must be rehearsed, not improvised.",
+      "sessions": [
+        {
+          "kind": "cycling",
+          "label": "Ride 60 km easy with 3 x 5 min at race effort",
+          "day": 0,
+          "minutes": 140
+        },
+        {
+          "kind": "swim",
+          "label": "OPEN WATER 30 min - final cold exposure",
+          "day": 1,
+          "minutes": 30
+        },
+        {
+          "kind": "strides",
+          "label": "4 x 800 m at race effort",
+          "day": 2,
+          "km": 8
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 35 min - 1200 m easy",
+          "day": 3,
+          "minutes": 35
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 30 min",
+          "day": 5,
+          "minutes": 30
+        },
+        {
+          "kind": "brick",
+          "label": "BRICK: 30 km ride + 5 km run at race pace",
+          "day": 6,
+          "km": 5
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
+          "day": 1,
+          "km": 5
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "start": "2027-04-18",
+      "end": "2027-04-24",
+      "phase": "Race",
+      "down_week": false,
+      "note": "RACE WEEK. Swim 1,898 m single counterclockwise loop from Lighthouse Beach, 4 turn buoys plus directional buoys every 100 m - unusually easy to sight. SELF-SEEDED ROLLING START, 3 athletes every 6 s: seed HONESTLY at 55-60 min, you will start ~08:15-08:30. Enter at the EDGE of your box. Water 15-17 C. Warm up in the water 06:30-07:00 then stay warm for 90 min. Swim the first 200 m deliberately too slowly. CUT-OFFS: swim 1:10 (absolute - zero finishers in 19,137 splits swam over 70:00), bike 5:30, overall 8:30. TRANSITION IS ~1 KM FROM THE SWIM START - two venues, walk it Friday. Target 6:15-7:15. Venice is a fast race: M25-29 median is 5:12, so you will be near the back of a quick field. That is fine.",
+      "sessions": [
+        {
+          "kind": "cycling",
+          "label": "Easy spin 40 km",
+          "day": 0,
+          "minutes": 90
+        },
+        {
+          "kind": "swim",
+          "label": "Swim 25 min easy",
+          "day": 1,
+          "minutes": 25
+        },
+        {
+          "kind": "strides",
+          "label": "Easy 5 km + strides",
+          "day": 2,
+          "km": 5
+        },
+        {
+          "kind": "swim",
+          "label": "Sea swim 15 min - sight the buoys, feel the temperature",
+          "day": 4,
+          "minutes": 15
+        },
+        {
+          "kind": "easy",
+          "label": "Shakeout 3 km. Walk transition. Confirm medical certificate and licence.",
+          "day": 5,
+          "km": 3
+        },
+        {
+          "kind": "race",
+          "label": "RACE - IRONMAN 70.3 Venice-Jesolo - 1.9 km / 90 km / 21.1 km",
+          "day": 6,
+          "km": 21.1
+        }
+      ]
+    }
+  ]
+}

@@ -81,7 +81,15 @@ class DailyMetric(Base):
     raw_readiness: Mapped[dict[str, Any] | list[Any] | None] = mapped_column(JSON)
     raw_max_metrics: Mapped[dict[str, Any] | list[Any] | None] = mapped_column(JSON)
     raw_hrv: Mapped[dict[str, Any] | None] = mapped_column(JSON)
+    sleep_seconds: Mapped[int | None] = mapped_column(Integer)
+    sleep_deep_seconds: Mapped[int | None] = mapped_column(Integer)
+    sleep_light_seconds: Mapped[int | None] = mapped_column(Integer)
+    sleep_rem_seconds: Mapped[int | None] = mapped_column(Integer)
+    sleep_awake_seconds: Mapped[int | None] = mapped_column(Integer)
+    sleep_score: Mapped[int | None] = mapped_column(Integer)
+    sleep_quality: Mapped[str | None] = mapped_column(String)
     raw_stats: Mapped[dict[str, Any] | None] = mapped_column(JSON)
+    raw_sleep: Mapped[dict[str, Any] | None] = mapped_column(JSON)
     synced_at: Mapped[datetime] = mapped_column(DateTime)
 
 

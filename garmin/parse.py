@@ -154,6 +154,26 @@ def wellness_row(day: date, stats: Any) -> dict[str, Any]:
     }
 
 
+def sleep_row(payload: Any) -> dict[str, Any]:
+    data = payload if isinstance(payload, dict) else {}
+    dto = data.get("dailySleepDTO")
+    dto = dto if isinstance(dto, dict) else {}
+    scores = dto.get("sleepScores")
+    scores = scores if isinstance(scores, dict) else {}
+    overall = scores.get("overall")
+    overall = overall if isinstance(overall, dict) else {}
+    return {
+        "sleep_seconds": as_int(dto.get("sleepTimeSeconds")),
+        "sleep_deep_seconds": as_int(dto.get("deepSleepSeconds")),
+        "sleep_light_seconds": as_int(dto.get("lightSleepSeconds")),
+        "sleep_rem_seconds": as_int(dto.get("remSleepSeconds")),
+        "sleep_awake_seconds": as_int(dto.get("awakeSleepSeconds")),
+        "sleep_score": as_int(overall.get("value")),
+        "sleep_quality": overall.get("qualifierKey"),
+        "raw_sleep": dto or None,
+    }
+
+
 def endurance_scores(payload: Any) -> dict[str, int]:
     out: dict[str, int] = {}
     if not isinstance(payload, dict):

@@ -1,0 +1,924 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//garmin training//Madeira 25K plan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HYROX Amsterdam Doubles training
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w1-s0-easy@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Easy run 5 km (talk test)
+DESCRIPTION:Week 1 of 10 - Base\nKeep HR under 158. Walk the climbs. Talk
+  test.\nRe-entry. Madeira's 2\,003 m of descent is an eccentric-damage e
+ vent - strength markers return to baseline around day 9 and muscle damag
+ e is detectable up to 4 weeks. NO lunges\, NO burpee broad jumps\, NO he
+ avy sled this week or next: those are precisely the movements your quads
+  cannot absorb yet. Ergs\, grip and technique only. SWIMMING STARTS NOW.
+  Swim frequency beats swim volume: 4 x 30-40 min beats 2 x 75\, because 
+ fatigue compromises motor learning. Never let a gap exceed 5 days - adul
+ t-onset swimmers lose motor patterns fast. Book private lessons NOW for 
+ weeks 1-8.\n69 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w1-s1-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Swim 30 min - TECHNIQUE. Breathing\, body position\, catch. Dista
+ nce is irrelevant for six weeks.
+DESCRIPTION:Week 1 of 10 - Base\nRe-entry. Madeira's 2\,003 m of descent 
+ is an eccentric-damage event - strength markers return to baseline aroun
+ d day 9 and muscle damage is detectable up to 4 weeks. NO lunges\, NO bu
+ rpee broad jumps\, NO heavy sled this week or next: those are precisely 
+ the movements your quads cannot absorb yet. Ergs\, grip and technique on
+ ly. SWIMMING STARTS NOW. Swim frequency beats swim volume: 4 x 30-40 min
+  beats 2 x 75\, because fatigue compromises motor learning. Never let a 
+ gap exceed 5 days - adult-onset swimmers lose motor patterns fast. Book 
+ private lessons NOW for weeks 1-8.\n67 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w1-s2-station@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:ERG technique only - SkiErg hinge (80% of power is the first thir
+ d of the pull)\, rower damper 3-4 for a light athlete. No legs.
+DESCRIPTION:Week 1 of 10 - Base\nRe-entry. Madeira's 2\,003 m of descent 
+ is an eccentric-damage event - strength markers return to baseline aroun
+ d day 9 and muscle damage is detectable up to 4 weeks. NO lunges\, NO bu
+ rpee broad jumps\, NO heavy sled this week or next: those are precisely 
+ the movements your quads cannot absorb yet. Ergs\, grip and technique on
+ ly. SWIMMING STARTS NOW. Swim frequency beats swim volume: 4 x 30-40 min
+  beats 2 x 75\, because fatigue compromises motor learning. Never let a 
+ gap exceed 5 days - adult-onset swimmers lose motor patterns fast. Book 
+ private lessons NOW for weeks 1-8.\n66 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w1-s3-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Swim 30 min - TECHNIQUE. Breathing\, body position\, catch. Dista
+ nce is irrelevant for six weeks.
+DESCRIPTION:Week 1 of 10 - Base\nRe-entry. Madeira's 2\,003 m of descent 
+ is an eccentric-damage event - strength markers return to baseline aroun
+ d day 9 and muscle damage is detectable up to 4 weeks. NO lunges\, NO bu
+ rpee broad jumps\, NO heavy sled this week or next: those are precisely 
+ the movements your quads cannot absorb yet. Ergs\, grip and technique on
+ ly. SWIMMING STARTS NOW. Swim frequency beats swim volume: 4 x 30-40 min
+  beats 2 x 75\, because fatigue compromises motor learning. Never let a 
+ gap exceed 5 days - adult-onset swimmers lose motor patterns fast. Book 
+ private lessons NOW for weeks 1-8.\n65 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w1-s4-easy@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Easy run 5 km (talk test)
+DESCRIPTION:Week 1 of 10 - Base\nKeep HR under 158. Walk the climbs. Talk
+  test.\nRe-entry. Madeira's 2\,003 m of descent is an eccentric-damage e
+ vent - strength markers return to baseline around day 9 and muscle damag
+ e is detectable up to 4 weeks. NO lunges\, NO burpee broad jumps\, NO he
+ avy sled this week or next: those are precisely the movements your quads
+  cannot absorb yet. Ergs\, grip and technique only. SWIMMING STARTS NOW.
+  Swim frequency beats swim volume: 4 x 30-40 min beats 2 x 75\, because 
+ fatigue compromises motor learning. Never let a gap exceed 5 days - adul
+ t-onset swimmers lose motor patterns fast. Book private lessons NOW for 
+ weeks 1-8.\n64 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w1-s5-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:SWIM LESSON (1-on-1\, 45 min). Book 6-10 across weeks 1-8 - highe
+ st-ROI line item in the whole season. One or two cues at a time\, never 
+ a list. Video every 1-2 weeks.
+DESCRIPTION:Week 1 of 10 - Base\nRe-entry. Madeira's 2\,003 m of descent 
+ is an eccentric-damage event - strength markers return to baseline aroun
+ d day 9 and muscle damage is detectable up to 4 weeks. NO lunges\, NO bu
+ rpee broad jumps\, NO heavy sled this week or next: those are precisely 
+ the movements your quads cannot absorb yet. Ergs\, grip and technique on
+ ly. SWIMMING STARTS NOW. Swim frequency beats swim volume: 4 x 30-40 min
+  beats 2 x 75\, because fatigue compromises motor learning. Never let a 
+ gap exceed 5 days - adult-onset swimmers lose motor patterns fast. Book 
+ private lessons NOW for weeks 1-8.\n63 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w2-s0-long@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Long easy run 8 km
+DESCRIPTION:Week 2 of 10 - Base\nKeep HR under 158. Walk the climbs. Talk
+  test.\nBENCHMARK WEEK. Garmin predicts a 24:20 5K\; your logged runs sa
+ y 28-29. Garmin over-predicts for athletes who never race hard\, and you
+  have 21 logged runs with no time trial. Every pace target in this block
+  depends on getting the real number. Still no lunges or burpees.\n62 day
+ s to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w2-s1-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Swim 30 min - TECHNIQUE. Breathing\, body position\, catch. Dista
+ nce is irrelevant for six weeks.
+DESCRIPTION:Week 2 of 10 - Base\nBENCHMARK WEEK. Garmin predicts a 24:20 
+ 5K\; your logged runs say 28-29. Garmin over-predicts for athletes who n
+ ever race hard\, and you have 21 logged runs with no time trial. Every p
+ ace target in this block depends on getting the real number. Still no lu
+ nges or burpees.\n61 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w2-s2-benchmark@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:BENCHMARK 5 km TIME TRIAL - flat\, fresh\, all-out. This sets eve
+ ry pace in the block. Do not skip it.
+DESCRIPTION:Week 2 of 10 - Base\nBENCHMARK WEEK. Garmin predicts a 24:20 
+ 5K\; your logged runs say 28-29. Garmin over-predicts for athletes who n
+ ever race hard\, and you have 21 logged runs with no time trial. Every p
+ ace target in this block depends on getting the real number. Still no lu
+ nges or burpees.\n60 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w2-s3-station@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:ERG + grip. Dead hang for time (target 90 s by week 8). Farmers h
+ old. No leg loading.
+DESCRIPTION:Week 2 of 10 - Base\nBENCHMARK WEEK. Garmin predicts a 24:20 
+ 5K\; your logged runs say 28-29. Garmin over-predicts for athletes who n
+ ever race hard\, and you have 21 logged runs with no time trial. Every p
+ ace target in this block depends on getting the real number. Still no lu
+ nges or burpees.\n59 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w2-s4-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Swim 30 min - TECHNIQUE. Breathing\, body position\, catch. Dista
+ nce is irrelevant for six weeks.
+DESCRIPTION:Week 2 of 10 - Base\nBENCHMARK WEEK. Garmin predicts a 24:20 
+ 5K\; your logged runs say 28-29. Garmin over-predicts for athletes who n
+ ever race hard\, and you have 21 logged runs with no time trial. Every p
+ ace target in this block depends on getting the real number. Still no lu
+ nges or burpees.\n58 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w2-s5-easy@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Easy run 5 km
+DESCRIPTION:Week 2 of 10 - Base\nKeep HR under 158. Walk the climbs. Talk
+  test.\nBENCHMARK WEEK. Garmin predicts a 24:20 5K\; your logged runs sa
+ y 28-29. Garmin over-predicts for athletes who never race hard\, and you
+  have 21 logged runs with no time trial. Every pace target in this block
+  depends on getting the real number. Still no lunges or burpees.\n56 day
+ s to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w2-s6-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:SWIM LESSON (1-on-1\, 45 min). Book 6-10 across weeks 1-8 - highe
+ st-ROI line item in the whole season. One or two cues at a time\, never 
+ a list. Video every 1-2 weeks.
+DESCRIPTION:Week 2 of 10 - Base\nBENCHMARK WEEK. Garmin predicts a 24:20 
+ 5K\; your logged runs say 28-29. Garmin over-predicts for athletes who n
+ ever race hard\, and you have 21 logged runs with no time trial. Every p
+ ace target in this block depends on getting the real number. Still no lu
+ nges or burpees.\n56 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w3-s0-long@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Long easy run 10 km
+DESCRIPTION:Week 3 of 10 - Base\nKeep HR under 158. Walk the climbs. Talk
+  test.\nSled introduced at TECHNIQUE load only (50-65%). Your traction p
+ hysics: at 56 kg you need 0.81x bodyweight of horizontal force rolling a
+ nd 1.03x at a dead start - you are at or past the slip threshold every t
+ ime it stops. Learn to never let it stop.\n55 days to HYROX Amsterdam Do
+ ubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w3-s1-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Swim 35 min - technique + first continuous 100 m efforts
+DESCRIPTION:Week 3 of 10 - Base\nSled introduced at TECHNIQUE load only (
+ 50-65%). Your traction physics: at 56 kg you need 0.81x bodyweight of ho
+ rizontal force rolling and 1.03x at a dead start - you are at or past th
+ e slip threshold every time it stops. Learn to never let it stop.\n54 da
+ ys to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w3-s2-strides@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:8 x 400 m at 5K effort\, 90 s jog recovery (7 km)
+DESCRIPTION:Week 3 of 10 - Base\nSled introduced at TECHNIQUE load only (
+ 50-65%). Your traction physics: at 56 kg you need 0.81x bodyweight of ho
+ rizontal force rolling and 1.03x at a dead start - you are at or past th
+ e slip threshold every time it stops. Learn to never let it stop.\n53 da
+ ys to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w3-s3-station@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Sled push technique 8-10 x 12.5 m @ 100 kg (65%)\, 60-90 s rest. 
+ Forearms hooked on posts\, 30-45 deg lean\, short choppy steps. Plus gri
+ p work.
+DESCRIPTION:Week 3 of 10 - Base\nSled introduced at TECHNIQUE load only (
+ 50-65%). Your traction physics: at 56 kg you need 0.81x bodyweight of ho
+ rizontal force rolling and 1.03x at a dead start - you are at or past th
+ e slip threshold every time it stops. Learn to never let it stop.\n52 da
+ ys to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w3-s4-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Swim 35 min
+DESCRIPTION:Week 3 of 10 - Base\nSled introduced at TECHNIQUE load only (
+ 50-65%). Your traction physics: at 56 kg you need 0.81x bodyweight of ho
+ rizontal force rolling and 1.03x at a dead start - you are at or past th
+ e slip threshold every time it stops. Learn to never let it stop.\n51 da
+ ys to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w3-s5-legs@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Legs - squat and hinge patterns return. Still no loaded lunges (w
+ eek 4).
+DESCRIPTION:Week 3 of 10 - Base\nSled introduced at TECHNIQUE load only (
+ 50-65%). Your traction physics: at 56 kg you need 0.81x bodyweight of ho
+ rizontal force rolling and 1.03x at a dead start - you are at or past th
+ e slip threshold every time it stops. Learn to never let it stop.\n50 da
+ ys to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w3-s6-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:SWIM LESSON (1-on-1\, 45 min). Book 6-10 across weeks 1-8 - highe
+ st-ROI line item in the whole season. One or two cues at a time\, never 
+ a list. Video every 1-2 weeks.
+DESCRIPTION:Week 3 of 10 - Base\nSled introduced at TECHNIQUE load only (
+ 50-65%). Your traction physics: at 56 kg you need 0.81x bodyweight of ho
+ rizontal force rolling and 1.03x at a dead start - you are at or past th
+ e slip threshold every time it stops. Learn to never let it stop.\n49 da
+ ys to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w4-s0-long@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Long easy run 12 km
+DESCRIPTION:Week 4 of 10 - Build\nKeep HR under 158. Walk the climbs. Tal
+ k test.\nFour weeks post-Madeira: lunges and burpees are cleared. Compro
+ mised running starts - this is THE session and nothing substitutes for i
+ t. Grip work is now weekly\; it takes 4-6 weeks to change the farmers ca
+ rry.\n48 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w4-s1-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Swim 40 min - build to 200 m continuous
+DESCRIPTION:Week 4 of 10 - Build\nFour weeks post-Madeira: lunges and bur
+ pees are cleared. Compromised running starts - this is THE session and n
+ othing substitutes for it. Grip work is now weekly\; it takes 4-6 weeks 
+ to change the farmers carry.\n47 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w4-s2-strides@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:5 x 800 m at 10K effort\, 2 min recovery (8 km)
+DESCRIPTION:Week 4 of 10 - Build\nFour weeks post-Madeira: lunges and bur
+ pees are cleared. Compromised running starts - this is THE session and n
+ othing substitutes for it. Grip work is now weekly\; it takes 4-6 weeks 
+ to change the farmers carry.\n46 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w4-s3-legs@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Legs - trap-bar DL 4x5\, Bulgarian split squat 4x8/leg\, backward
+  sled drag\, farmers 4x40 m
+DESCRIPTION:Week 4 of 10 - Build\nFour weeks post-Madeira: lunges and bur
+ pees are cleared. Compromised running starts - this is THE session and n
+ othing substitutes for it. Grip work is now weekly\; it takes 4-6 weeks 
+ to change the farmers carry.\n45 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w4-s4-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Swim 40 min
+DESCRIPTION:Week 4 of 10 - Build\nFour weeks post-Madeira: lunges and bur
+ pees are cleared. Compromised running starts - this is THE session and n
+ othing substitutes for it. Grip work is now weekly\; it takes 4-6 weeks 
+ to change the farmers carry.\n44 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w4-s5-compromised@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:COMPROMISED RUN: 400 m + 50 m sled push + 400 m + 400 m row. Then
+  6 x 25 m sled push @ 90 s. (4 km)
+DESCRIPTION:Week 4 of 10 - Build\nFour weeks post-Madeira: lunges and bur
+ pees are cleared. Compromised running starts - this is THE session and n
+ othing substitutes for it. Grip work is now weekly\; it takes 4-6 weeks 
+ to change the farmers carry.\n43 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w4-s6-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:SWIM LESSON (1-on-1\, 45 min). Book 6-10 across weeks 1-8 - highe
+ st-ROI line item in the whole season. One or two cues at a time\, never 
+ a list. Video every 1-2 weeks.
+DESCRIPTION:Week 4 of 10 - Build\nFour weeks post-Madeira: lunges and bur
+ pees are cleared. Compromised running starts - this is THE session and n
+ othing substitutes for it. Grip work is now weekly\; it takes 4-6 weeks 
+ to change the farmers carry.\n42 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w5-s0-long@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Long easy run 14 km
+DESCRIPTION:Week 5 of 10 - Build\nKeep HR under 158. Walk the climbs. Tal
+ k test.\nPriority order from 182k measured doubles teams: running (r=0.9
+ 0 with finish) > roxzone > lunges/burpees/sled pull. Wall balls correlat
+ e r=0.266 - the LOWEST of any segment in doubles. Do not spend training 
+ on them. Cold immersions start this week and run through February - 5-6 
+ short exposures halve the cold-shock response\, which is the mechanism b
+ ehind most swim DNFs and 90 of 120 recorded sudden deaths in US triathlo
+ n.\n41 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w5-s1-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Swim 40 min - 300 m continuous
+DESCRIPTION:Week 5 of 10 - Build\nPriority order from 182k measured doubl
+ es teams: running (r=0.90 with finish) > roxzone > lunges/burpees/sled p
+ ull. Wall balls correlate r=0.266 - the LOWEST of any segment in doubles
+ . Do not spend training on them. Cold immersions start this week and run
+  through February - 5-6 short exposures halve the cold-shock response\, 
+ which is the mechanism behind most swim DNFs and 90 of 120 recorded sudd
+ en deaths in US triathlon.\n40 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w5-s2-strides@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:6 x 800 m at 10K effort\, 2 min recovery (9 km)
+DESCRIPTION:Week 5 of 10 - Build\nPriority order from 182k measured doubl
+ es teams: running (r=0.90 with finish) > roxzone > lunges/burpees/sled p
+ ull. Wall balls correlate r=0.266 - the LOWEST of any segment in doubles
+ . Do not spend training on them. Cold immersions start this week and run
+  through February - 5-6 short exposures halve the cold-shock response\, 
+ which is the mechanism behind most swim DNFs and 90 of 120 recorded sudd
+ en deaths in US triathlon.\n39 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w5-s3-legs@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Legs - sled push dead-start practice (6-8 x 15 m @ 180 kg)\, sand
+ bag lunges long stride\, grip
+DESCRIPTION:Week 5 of 10 - Build\nPriority order from 182k measured doubl
+ es teams: running (r=0.90 with finish) > roxzone > lunges/burpees/sled p
+ ull. Wall balls correlate r=0.266 - the LOWEST of any segment in doubles
+ . Do not spend training on them. Cold immersions start this week and run
+  through February - 5-6 short exposures halve the cold-shock response\, 
+ which is the mechanism behind most swim DNFs and 90 of 120 recorded sudd
+ en deaths in US triathlon.\n38 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w5-s4-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Swim 40 min
+DESCRIPTION:Week 5 of 10 - Build\nPriority order from 182k measured doubl
+ es teams: running (r=0.90 with finish) > roxzone > lunges/burpees/sled p
+ ull. Wall balls correlate r=0.266 - the LOWEST of any segment in doubles
+ . Do not spend training on them. Cold immersions start this week and run
+  through February - 5-6 short exposures halve the cold-shock response\, 
+ which is the mechanism behind most swim DNFs and 90 of 120 recorded sudd
+ en deaths in US triathlon.\n37 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w5-s5-compromised@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:COMPROMISED RUN: 1 km + 50 m push + 1 km + 50 m pull\, x3. Sled p
+ ull is your real opportunity - rolling force is only 0.59x bodyweight\, 
+ not traction-limited.
+DESCRIPTION:Week 5 of 10 - Build\nPriority order from 182k measured doubl
+ es teams: running (r=0.90 with finish) > roxzone > lunges/burpees/sled p
+ ull. Wall balls correlate r=0.266 - the LOWEST of any segment in doubles
+ . Do not spend training on them. Cold immersions start this week and run
+  through February - 5-6 short exposures halve the cold-shock response\, 
+ which is the mechanism behind most swim DNFs and 90 of 120 recorded sudd
+ en deaths in US triathlon.\n36 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w5-s6-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:COLD IMMERSION 2-3 min. Five to six of these HALVES the cold-shoc
+ k response\, and the adaptation lasts ~14 months. Venice will be 15-17 C
+ . Cold showers are a partial substitute\, not an equivalent.
+DESCRIPTION:Week 5 of 10 - Build\nPriority order from 182k measured doubl
+ es teams: running (r=0.90 with finish) > roxzone > lunges/burpees/sled p
+ ull. Wall balls correlate r=0.266 - the LOWEST of any segment in doubles
+ . Do not spend training on them. Cold immersions start this week and run
+  through February - 5-6 short exposures halve the cold-shock response\, 
+ which is the mechanism behind most swim DNFs and 90 of 120 recorded sudd
+ en deaths in US triathlon.\n35 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w6-s0-long@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Long easy run 10 km
+DESCRIPTION:Week 6 of 10 - Build\nDOWN WEEK - recover\, do not add volume
+ .\nKeep HR under 158. Walk the climbs. Talk test.\nChristmas - down week
+  by design. Hold swim and one compromised session\, drop the rest guilt-
+ free.\n34 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w6-s1-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Swim 30 min
+DESCRIPTION:Week 6 of 10 - Build\nDOWN WEEK - recover\, do not add volume
+ .\nChristmas - down week by design. Hold swim and one compromised sessio
+ n\, drop the rest guilt-free.\n32 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w6-s2-compromised@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:COMPROMISED RUN: 1 km + 200 m farmers + 1 km + 100 m lunges\, x2
+DESCRIPTION:Week 6 of 10 - Build\nDOWN WEEK - recover\, do not add volume
+ .\nChristmas - down week by design. Hold swim and one compromised sessio
+ n\, drop the rest guilt-free.\n30 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w6-s3-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Swim 30 min
+DESCRIPTION:Week 6 of 10 - Build\nDOWN WEEK - recover\, do not add volume
+ .\nChristmas - down week by design. Hold swim and one compromised sessio
+ n\, drop the rest guilt-free.\n28 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w6-s4-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:COLD IMMERSION 2-3 min. Five to six of these HALVES the cold-shoc
+ k response\, and the adaptation lasts ~14 months. Venice will be 15-17 C
+ . Cold showers are a partial substitute\, not an equivalent.
+DESCRIPTION:Week 6 of 10 - Build\nDOWN WEEK - recover\, do not add volume
+ .\nChristmas - down week by design. Hold swim and one compromised sessio
+ n\, drop the rest guilt-free.\n28 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w7-s0-long@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Long easy run 16 km
+DESCRIPTION:Week 7 of 10 - Build\nKeep HR under 158. Walk the climbs. Tal
+ k test.\nFIRST DOUBLES SESSION. Splitting is a skill and neither of you 
+ has practised it. Split to protect his legs\, not to optimise station th
+ roughput: running is 55.8% of doubles race time and you both run all 8 k
+ m at the slower man's pace.\n27 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w7-s1-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Swim 45 min - 400 m continuous
+DESCRIPTION:Week 7 of 10 - Build\nFIRST DOUBLES SESSION. Splitting is a s
+ kill and neither of you has practised it. Split to protect his legs\, no
+ t to optimise station throughput: running is 55.8% of doubles race time 
+ and you both run all 8 km at the slower man's pace.\n26 days to HYROX Am
+ sterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w7-s2-strides@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:4 x 1 km at 10K effort\, 2 min recovery
+DESCRIPTION:Week 7 of 10 - Build\nFIRST DOUBLES SESSION. Splitting is a s
+ kill and neither of you has practised it. Split to protect his legs\, no
+ t to optimise station throughput: running is 55.8% of doubles race time 
+ and you both run all 8 km at the slower man's pace.\n25 days to HYROX Am
+ sterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w7-s3-legs@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Legs - race-load sled\, lunges with 1.0-1.1 m stride (91-100 reps
+  vs 167 at short stride - the single biggest lever\, worth 30-90 s)
+DESCRIPTION:Week 7 of 10 - Build\nFIRST DOUBLES SESSION. Splitting is a s
+ kill and neither of you has practised it. Split to protect his legs\, no
+ t to optimise station throughput: running is 55.8% of doubles race time 
+ and you both run all 8 km at the slower man's pace.\n24 days to HYROX Am
+ sterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w7-s4-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Swim 45 min
+DESCRIPTION:Week 7 of 10 - Build\nFIRST DOUBLES SESSION. Splitting is a s
+ kill and neither of you has practised it. Split to protect his legs\, no
+ t to optimise station throughput: running is 55.8% of doubles race time 
+ and you both run all 8 km at the slower man's pace.\n23 days to HYROX Am
+ sterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w7-s5-compromised@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:DOUBLES: 6 x (1 km + 1 station\, split). Sled push B 37.5 m / A 1
+ 2.5 m. Sled pull B 37.5 / A 12.5. Farmers B 120 / A 80. Ski A 600. Lunge
+ s A 60. Wall balls A 50+.
+DESCRIPTION:Week 7 of 10 - Build\nFIRST DOUBLES SESSION. Splitting is a s
+ kill and neither of you has practised it. Split to protect his legs\, no
+ t to optimise station throughput: running is 55.8% of doubles race time 
+ and you both run all 8 km at the slower man's pace.\n22 days to HYROX Am
+ sterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w7-s6-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:COLD IMMERSION 2-3 min. Five to six of these HALVES the cold-shoc
+ k response\, and the adaptation lasts ~14 months. Venice will be 15-17 C
+ . Cold showers are a partial substitute\, not an equivalent.
+DESCRIPTION:Week 7 of 10 - Build\nFIRST DOUBLES SESSION. Splitting is a s
+ kill and neither of you has practised it. Split to protect his legs\, no
+ t to optimise station throughput: running is 55.8% of doubles race time 
+ and you both run all 8 km at the slower man's pace.\n21 days to HYROX Am
+ sterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w8-s0-long@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Long easy run 14 km
+DESCRIPTION:Week 8 of 10 - Peak\nKeep HR under 158. Walk the climbs. Talk
+  test.\nROXZONE SESSION this week. Measured: doubles teams get almost no
+  transition discount over singles (6:39 vs 7:19 median). An 80-85 team s
+ pends 7:29 in roxzone\; the top 10% spend 4:31. That is ~3 minutes avail
+ able with zero change in fitness - the cheapest unclaimed time in the fo
+ rmat.\n20 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w8-s1-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Swim 45 min - 600 m continuous
+DESCRIPTION:Week 8 of 10 - Peak\nROXZONE SESSION this week. Measured: dou
+ bles teams get almost no transition discount over singles (6:39 vs 7:19 
+ median). An 80-85 team spends 7:29 in roxzone\; the top 10% spend 4:31. 
+ That is ~3 minutes available with zero change in fitness - the cheapest 
+ unclaimed time in the format.\n19 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w8-s2-strides@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:5 x 1 km at 10K effort
+DESCRIPTION:Week 8 of 10 - Peak\nROXZONE SESSION this week. Measured: dou
+ bles teams get almost no transition discount over singles (6:39 vs 7:19 
+ median). An 80-85 team spends 7:29 in roxzone\; the top 10% spend 4:31. 
+ That is ~3 minutes available with zero change in fitness - the cheapest 
+ unclaimed time in the format.\n18 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w8-s3-station@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:ROXZONE DRILL: rehearse all 8 transitions ~50 times. Pre-assign w
+ ho starts each station. Resting partner must stay ON FEET - no kneeling.
+  Walk the roxzone route.
+DESCRIPTION:Week 8 of 10 - Peak\nROXZONE SESSION this week. Measured: dou
+ bles teams get almost no transition discount over singles (6:39 vs 7:19 
+ median). An 80-85 team spends 7:29 in roxzone\; the top 10% spend 4:31. 
+ That is ~3 minutes available with zero change in fitness - the cheapest 
+ unclaimed time in the format.\n17 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w8-s4-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Swim 45 min
+DESCRIPTION:Week 8 of 10 - Peak\nROXZONE SESSION this week. Measured: dou
+ bles teams get almost no transition discount over singles (6:39 vs 7:19 
+ median). An 80-85 team spends 7:29 in roxzone\; the top 10% spend 4:31. 
+ That is ~3 minutes available with zero change in fitness - the cheapest 
+ unclaimed time in the format.\n16 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w8-s5-sim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:HALF SIMULATION with partner: 4 runs + 4 stations. Record every s
+ plit and every transition. (4 km)
+DESCRIPTION:Week 8 of 10 - Peak\nROXZONE SESSION this week. Measured: dou
+ bles teams get almost no transition discount over singles (6:39 vs 7:19 
+ median). An 80-85 team spends 7:29 in roxzone\; the top 10% spend 4:31. 
+ That is ~3 minutes available with zero change in fitness - the cheapest 
+ unclaimed time in the format.\n14 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w8-s6-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:COLD IMMERSION 2-3 min. Five to six of these HALVES the cold-shoc
+ k response\, and the adaptation lasts ~14 months. Venice will be 15-17 C
+ . Cold showers are a partial substitute\, not an equivalent.
+DESCRIPTION:Week 8 of 10 - Peak\nROXZONE SESSION this week. Measured: dou
+ bles teams get almost no transition discount over singles (6:39 vs 7:19 
+ median). An 80-85 team spends 7:29 in roxzone\; the top 10% spend 4:31. 
+ That is ~3 minutes available with zero change in fitness - the cheapest 
+ unclaimed time in the format.\n14 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w9-s0-easy@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Easy run 8 km
+DESCRIPTION:Week 9 of 10 - Peak\nKeep HR under 158. Walk the climbs. Talk
+  test.\nFull simulation\, then nothing hard again. Whatever this says is
+  your target - trust it over any estimate\, mine included.\n13 days to H
+ YROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w9-s1-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Swim 45 min - 800 m continuous
+DESCRIPTION:Week 9 of 10 - Peak\nFull simulation\, then nothing hard agai
+ n. Whatever this says is your target - trust it over any estimate\, mine
+  included.\n12 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w9-s2-strides@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:4 x 1 km at race effort
+DESCRIPTION:Week 9 of 10 - Peak\nFull simulation\, then nothing hard agai
+ n. Whatever this says is your target - trust it over any estimate\, mine
+  included.\n11 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w9-s3-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Swim 45 min
+DESCRIPTION:Week 9 of 10 - Peak\nFull simulation\, then nothing hard agai
+ n. Whatever this says is your target - trust it over any estimate\, mine
+  included.\n9 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w9-s4-sim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:FULL SIMULATION with partner at 80-90%: all 8 runs + 8 stations\,
+  race kit\, race splitting. (8 km)
+DESCRIPTION:Week 9 of 10 - Peak\nFull simulation\, then nothing hard agai
+ n. Whatever this says is your target - trust it over any estimate\, mine
+  included.\n7 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w9-s5-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:COLD IMMERSION 2-3 min. Five to six of these HALVES the cold-shoc
+ k response\, and the adaptation lasts ~14 months. Venice will be 15-17 C
+ . Cold showers are a partial substitute\, not an equivalent.
+DESCRIPTION:Week 9 of 10 - Peak\nFull simulation\, then nothing hard agai
+ n. Whatever this says is your target - trust it over any estimate\, mine
+  included.\n7 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w10-s0-easy@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Easy shakeout 5 km
+DESCRIPTION:Week 10 of 10 - Race\nKeep HR under 158. Walk the climbs. Tal
+ k test.\nRACE WEEK. Target 88-95 min\, NOT 80-85 - measured doubles stat
+ ion totals are 28:23\, not the 25 I first assumed\, so the 80-85 band ac
+ tually needs 5:47/km over 8 compromised reps. TACTICS: (1) expect R8 to 
+ be your slowest run at every level - it is for everyone\; (2) a controll
+ ed 12-15% positive split is optimal\, even pacing is NOT a lever (measur
+ ed dR2 = 0.000)\; (3) never let the sled stop - at 56 kg you pay the bre
+ akaway cost every restart\; (4) grippy solid-rubber shoes are worth 30-6
+ 0 s on the sled\; (5) don't chase wall balls\, flex that split to whoeve
+ r is holding up.\n6 days to HYROX Amsterdam Doubles.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w10-s1-swim@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Swim 30 min easy
+DESCRIPTION:Week 10 of 10 - Race\nRACE WEEK. Target 88-95 min\, NOT 80-85
+  - measured doubles station totals are 28:23\, not the 25 I first assume
+ d\, so the 80-85 band actually needs 5:47/km over 8 compromised reps. TA
+ CTICS: (1) expect R8 to be your slowest run at every level - it is for e
+ veryone\; (2) a controlled 12-15% positive split is optimal\, even pacin
+ g is NOT a lever (measured dR2 = 0.000)\; (3) never let the sled stop - 
+ at 56 kg you pay the breakaway cost every restart\; (4) grippy solid-rub
+ ber shoes are worth 30-60 s on the sled\; (5) don't chase wall balls\, f
+ lex that split to whoever is holding up.\n5 days to HYROX Amsterdam Doub
+ les.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w10-s2-strides@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Easy 4 km + strides
+DESCRIPTION:Week 10 of 10 - Race\nRACE WEEK. Target 88-95 min\, NOT 80-85
+  - measured doubles station totals are 28:23\, not the 25 I first assume
+ d\, so the 80-85 band actually needs 5:47/km over 8 compromised reps. TA
+ CTICS: (1) expect R8 to be your slowest run at every level - it is for e
+ veryone\; (2) a controlled 12-15% positive split is optimal\, even pacin
+ g is NOT a lever (measured dR2 = 0.000)\; (3) never let the sled stop - 
+ at 56 kg you pay the breakaway cost every restart\; (4) grippy solid-rub
+ ber shoes are worth 30-60 s on the sled\; (5) don't chase wall balls\, f
+ lex that split to whoever is holding up.\n4 days to HYROX Amsterdam Doub
+ les.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w10-s3-station@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Light movement patterns only\, no load. Confirm shoes.
+DESCRIPTION:Week 10 of 10 - Race\nRACE WEEK. Target 88-95 min\, NOT 80-85
+  - measured doubles station totals are 28:23\, not the 25 I first assume
+ d\, so the 80-85 band actually needs 5:47/km over 8 compromised reps. TA
+ CTICS: (1) expect R8 to be your slowest run at every level - it is for e
+ veryone\; (2) a controlled 12-15% positive split is optimal\, even pacin
+ g is NOT a lever (measured dR2 = 0.000)\; (3) never let the sled stop - 
+ at 56 kg you pay the breakaway cost every restart\; (4) grippy solid-rub
+ ber shoes are worth 30-60 s on the sled\; (5) don't chase wall balls\, f
+ lex that split to whoever is holding up.\n3 days to HYROX Amsterdam Doub
+ les.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyroxamsterdamdoubles-w10-s4-race@garmin-training
+DTSTAMP:20260818T134502Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:RACE - HYROX Amsterdam Doubles (RAI) - 8 x 1 km + 8 stations - ta
+ rget 88-95 min
+DESCRIPTION:Week 10 of 10 - Race\nRACE WEEK. Target 88-95 min\, NOT 80-85
+  - measured doubles station totals are 28:23\, not the 25 I first assume
+ d\, so the 80-85 band actually needs 5:47/km over 8 compromised reps. TA
+ CTICS: (1) expect R8 to be your slowest run at every level - it is for e
+ veryone\; (2) a controlled 12-15% positive split is optimal\, even pacin
+ g is NOT a lever (measured dR2 = 0.000)\; (3) never let the sled stop - 
+ at 56 kg you pay the breakaway cost every restart\; (4) grippy solid-rub
+ ber shoes are worth 30-60 s on the sled\; (5) don't chase wall balls\, f
+ lex that split to whoever is holding up.\n0 days to HYROX Amsterdam Doub
+ les.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
