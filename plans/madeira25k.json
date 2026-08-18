@@ -128,56 +128,44 @@
       "end": "2026-07-25",
       "phase": "Base",
       "down_week": false,
-      "note": "RECOVERY WEEK. Superseded by a 16.1 km run + 40 km bike. Only two things matter: the talk test on a cool morning, and Saturday's descents.",
+      "note": "RECOVERY WEEK. Upper/Lower split: two upper sessions (Tue, Fri) so chest and back get 2x frequency at zero cost to running; one lower session (Thu), which is all the race can afford. Only two sessions actually matter: the talk test on a cool morning, and Saturday's descents.",
       "sessions": [
         {
-          "kind": "cycling",
-          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
-          "day": 0,
-          "minutes": 75
-        },
-        {
-          "kind": "easy",
-          "label": "Easy run 5 km (talk test)",
-          "day": 2,
-          "km": 5
-        },
-        {
           "kind": "push",
-          "label": "Push (upper) — after the run, no leg cost",
+          "label": "UPPER A (push-emphasis) — bench/press + a row. No leg cost, won't touch tomorrow's test.",
           "day": 2
         },
         {
-          "kind": "legs",
-          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
-          "day": 3
+          "kind": "easy",
+          "label": "TALK TEST 5 km — MORNING, cool, fresh. Step the pace up every 3-5 min, say a sentence aloud, note the HR where it turns from comfortable to 'comfortable but harder'.",
+          "day": 3,
+          "km": 5
         },
         {
-          "kind": "vertical",
-          "label": "Vertical 25 min (stairs/ramp/incline) — climbing, concentric",
-          "day": 4,
-          "minutes": 25
+          "kind": "legs",
+          "label": "LOWER — own day, no running. Strength focus (squat/split squat, single-leg RDL, calf, tib, glute-med). NOT eccentric-emphasised — Saturday is the eccentric day.",
+          "day": 4
         },
         {
           "kind": "easy",
-          "label": "Easy run 4 km (talk test)",
+          "label": "Easy run 4 km (talk test) — or the TALK TEST if Wednesday slipped",
           "day": 5,
           "km": 4
         },
         {
           "kind": "pull",
-          "label": "Pull (upper) — after the run",
+          "label": "UPPER B (pull-emphasis) — pull-ups/rows + a press. Second upper session: chest and back both hit 2x this week.",
           "day": 5
         },
         {
-          "kind": "long",
-          "label": "Long run 5 km (talk test)",
+          "kind": "vertical",
+          "label": "Vertical 25 min (stairs/ramp/incline) — climbing",
           "day": 6,
-          "km": 5
+          "minutes": 25
         },
         {
           "kind": "eccentric",
-          "label": "Controlled stair/ramp descents — first real eccentric load, on fresh quads",
+          "label": "Controlled stair/ramp descents after the vertical — THE eccentric session. First real descent load.",
           "day": 6
         }
       ]
@@ -188,58 +176,25 @@
       "end": "2026-08-01",
       "phase": "Base",
       "down_week": true,
-      "note": "Down week + first BENCHMARK. Cut volume, lighter everything.",
+      "note": "Barcelona Tue-Fri, then festival at Amsterdamse Bos (Fri evening, Sat, Sun). Down week — the travel timing is ideal; nothing here builds fitness. Benchmark deferred to a cool, recovered morning (Week 6). The long run folds into Sat festival morning. Festival walking covers the volume; do not add load.",
       "sessions": [
         {
-          "kind": "cycling",
-          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
-          "day": 0,
-          "minutes": 75
-        },
-        {
           "kind": "easy",
-          "label": "Easy run 3 km (talk test)",
-          "day": 2,
+          "label": "Easy 3 km — Barcelona, early AM by feel. Heat inflates HR; ignore pace and HR, run by breath.",
+          "day": 3,
           "km": 3
-        },
-        {
-          "kind": "push",
-          "label": "Push (upper) — after the run, no leg cost",
-          "day": 2
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
-          "day": 3
         },
         {
           "kind": "vertical",
-          "label": "Vertical 20 min (stairs/ramp/incline) — climbing, concentric",
+          "label": "Optional vertical — hike Montjuic or Bunkers del Carmel in Barcelona. No benchmark this week; heat and travel would void the data.",
           "day": 4,
-          "minutes": 20
-        },
-        {
-          "kind": "easy",
-          "label": "Easy run 3 km (talk test)",
-          "day": 5,
-          "km": 3
-        },
-        {
-          "kind": "pull",
-          "label": "Pull (upper) — after the run",
-          "day": 5
-        },
-        {
-          "kind": "benchmark",
-          "label": "BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. The ONLY run that measures fitness — trust the trend, not one result.",
-          "day": 4,
-          "km": 7
+          "minutes": 30
         },
         {
           "kind": "long",
-          "label": "Long run 6 km (talk test)",
+          "label": "Long run 6-7 km — Sat morning from Lelylaan into Amsterdamse Bos, easy by feel; scope the festival grounds. Hydrate hard before the day.",
           "day": 6,
-          "km": 6
+          "km": 7
         }
       ]
     },
@@ -249,63 +204,25 @@
       "end": "2026-08-08",
       "phase": "Build",
       "down_week": false,
-      "note": "Long day switches to TIME-ON-FEET — the race is 6-10 hours, not 25 km. Walking counts. CP power test on base-built legs.",
+      "note": "EASY RE-ENTRY — recovering from the festival weekend. No max efforts, no heavy legs, no CP test (moved to Week 6, now a power test on fresh legs). Optional easy 4 km Thu or rest — your call. Run easy by feel, hydrate; only if you feel decent. Getting back to baseline is the whole job this week.",
       "sessions": [
         {
-          "kind": "cycling",
-          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
-          "day": 0,
-          "minutes": 75
-        },
-        {
           "kind": "easy",
-          "label": "Easy run 5 km (talk test)",
-          "day": 2,
+          "label": "Easy 4-5 km recovery jog — by feel, conversational, ignore pace/HR. Walk it in if you feel rough.",
+          "day": 3,
           "km": 5
         },
         {
-          "kind": "push",
-          "label": "Push (upper) — after the run, no leg cost",
-          "day": 2
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
-          "day": 3
-        },
-        {
-          "kind": "vertical",
-          "label": "Vertical 25 min (stairs/ramp/incline) — climbing, concentric",
-          "day": 4,
-          "minutes": 25
-        },
-        {
           "kind": "easy",
-          "label": "Easy run 6 km (talk test)",
+          "label": "Easy 5-6 km by feel. Optional light pull if you are feeling good.",
           "day": 5,
           "km": 6
         },
         {
-          "kind": "pull",
-          "label": "Pull (upper) — after the run",
-          "day": 5
-        },
-        {
-          "kind": "cp_test",
-          "label": "CP 3+12 power test — warm up, 12 min all-out even pace, 20-30 min easy, then 3 min all-out. Sets real power zones. On base-built legs.",
-          "day": 4
-        },
-        {
-          "kind": "long",
-          "label": "Long day 2h00 time-on-feet (run/walk, walk the climbs)",
+          "kind": "cycling",
+          "label": "Easy bike ride instead of the long run — zero impact, aerobic recovery. Keep it chill; save the legs for Tuesday's power test.",
           "day": 6,
-          "km": 15,
-          "minutes": 120
-        },
-        {
-          "kind": "eccentric",
-          "label": "Descent dose: decline treadmill or long stair descents, easy and controlled",
-          "day": 6
+          "minutes": 90
         }
       ]
     },
@@ -315,7 +232,7 @@
       "end": "2026-08-15",
       "phase": "Build",
       "down_week": false,
-      "note": "",
+      "note": "First real fitness read of the block — the CP power test, Tuesday on fresh legs (Mon rest before it). Power, not HR: after the sensor audit, power is the channel we trust. This sets your real training zones. HR benchmark is shelved until a chest strap.",
       "sessions": [
         {
           "kind": "cycling",
@@ -324,10 +241,9 @@
           "minutes": 75
         },
         {
-          "kind": "easy",
-          "label": "Easy run 5 km (talk test)",
-          "day": 2,
-          "km": 5
+          "kind": "cp_test",
+          "label": "CP 3+12 power test — warm up, 12 min all-out even pace, 20-30 min easy, then 3 min all-out. Sets real power zones on fresh legs. Power is our trusted channel now.",
+          "day": 2
         },
         {
           "kind": "push",
@@ -371,58 +287,52 @@
       "end": "2026-08-22",
       "phase": "Build",
       "down_week": false,
-      "note": "",
+      "note": "RESET WEEK. Two corrections that change everything. (1) You have steep terrain 20-25 MINUTES away - Zuid-Kennemerland dunes by train, faces at 30-45%. I told you the nearest hills were 2.5-3 h; that was wrong. (2) Your plan's vertical is an ORDER OF MAGNITUDE short: 40 min/week is ~400 m against a 2,003 m race. From here everything is measured in time and vertical metres, never kilometres. LOCKED WEEK SHAPE: Sun optional easy ride - MON REST - TUE legs + preconditioning walk ONLY (this is THE eccentric day - keep it focused, no upper) - WED easy run + strides + push - THU vertical + pull - FRI REST - SAT LONG DAY. Eccentric work sits 48 h apart throughout: Tue heavy, Thu moderate, Sat long. That spacing is the constraint - force loss needs 3 days to recover and soreness 4, so 24 h between eccentric sessions compounds damage instead of building tolerance. Cutbacks weeks 10 and 13. CUT ORDER: (1) Sunday ride, (2) Thursday vertical. Never Saturday's long day or Tuesday's legs. HYROX SEEDING STARTS: only via substitution inside Thursday's pull session - erg warm-up, farmers carry, dead hangs. NOT wall balls, sandbag lunges or burpee broad jumps - those are all quad and eccentric load competing directly with the descent block. NOT compromised running - it breaks the 80/20 distribution Madeira needs. The point is to arrive in November with technique and grip already built, so the first two Hyrox weeks are productive instead of remedial.",
       "sessions": [
         {
           "kind": "cycling",
-          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
+          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
           "day": 0,
           "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (talk test)",
-          "day": 2,
+          "label": "Easy run 6 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "day": 3,
           "km": 6
         },
         {
           "kind": "push",
-          "label": "Push (upper) — after the run, no leg cost",
-          "day": 2
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed.",
           "day": 3
         },
         {
-          "kind": "vertical",
-          "label": "Vertical 30 min (stairs/ramp/incline) — climbing, concentric",
-          "day": 4,
-          "minutes": 30
+          "kind": "legs",
+          "label": "Legs ONLY, no upper - heavy eccentric. Decline squat 3-5 x 3-6 at 80%+ 1RM, step-downs 3 x 8-10/leg with 3-4 s lowering, Nordics 3 x 5, single-leg calf raises. Never to failure. 48-72 h before the long day. Add hip abductors - side plank raises, banded lateral walks, single-leg hip drops. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphill (very large effect). Descending is a frontal-plane hip problem, not just a quad problem. HYROX SLED TECHNIQUE at the end, 8-10 x 12.5 m at 50-65% load (~100 kg), 60-90 s rest. TECHNIQUE ONLY, never to fatigue. Forearms hooked on the posts, 30-45 deg lean, short choppy steps 20-30 cm at 3-4 per second, and never let the sled stop. Sled push is PURELY CONCENTRIC, so it costs your descent block nothing - which is why it is the one Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of horizontal force to break a stationary sled versus 0.81x to keep one rolling, so learning not to stop is worth more to you than to anyone heavier. About 8 minutes.",
+          "day": 2
         },
         {
-          "kind": "easy",
-          "label": "Easy run 6 km (talk test)",
-          "day": 5,
-          "km": 6
+          "kind": "vertical",
+          "label": "VERTICAL 45 min - STAIRWELL, your own building or a car park. ~12 x 15 floors, about 540 m. Lift up, WALK DOWN - the descent is the point. Dutch stair pitch is 30-33 deg, inside the optimal climbing range, and Madeira is full of stone staircases. Zero travel, weather-proof.",
+          "day": 4,
+          "minutes": 45
         },
         {
           "kind": "pull",
-          "label": "Pull (upper) — after the run",
-          "day": 5
+          "label": "Pull (upper) - after the vertical session. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 2-3 x max, target 90 s by October. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
+          "day": 4
         },
         {
           "kind": "long",
-          "label": "Long day 2h30 time-on-feet (run/walk, walk the climbs)",
+          "label": "LONG DAY 1:50 time-on-feet, 300 m vert. Dunes if you can get there.",
           "day": 6,
-          "km": 19,
-          "minutes": 150
+          "minutes": 110,
+          "km": 13
         },
         {
-          "kind": "eccentric",
-          "label": "Descent dose — build total descending minutes, still controlled",
-          "day": 6
+          "kind": "descent",
+          "label": "PRECONDITIONING DOWNHILL WALK - 5 minutes, 5.6 kg in the pack, walking DOWN stairs. Lift up, walk down, repeat for 5 min. ~110 m of descent, about 37 flights. One bout cuts strength loss 49%, CK 47%, soreness 66% a week later. Five minutes, in your own building, no travel.",
+          "day": 2
         }
       ]
     },
@@ -431,60 +341,48 @@
       "start": "2026-08-23",
       "end": "2026-08-29",
       "phase": "Build",
-      "down_week": true,
-      "note": "Down week + benchmark #2.",
+      "down_week": false,
+      "note": "Poles introduced this week. They save little metabolically but cut RPE 14-18% and measurably reduce muscle damage over a climb-and-descent day. Length = 58% of your height = ~93 cm, shorter than a standard fitting. Confirm Ultra X's pole policy.",
       "sessions": [
         {
           "kind": "cycling",
-          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
+          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
           "day": 0,
           "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km (talk test)",
-          "day": 2,
-          "km": 5
+          "label": "Easy run 6 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "day": 3,
+          "km": 6
         },
         {
           "kind": "push",
-          "label": "Push (upper) — after the run, no leg cost",
-          "day": 2
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed.",
           "day": 3
         },
         {
-          "kind": "vertical",
-          "label": "Vertical 20 min (stairs/ramp/incline) — climbing, concentric",
-          "day": 4,
-          "minutes": 20
+          "kind": "legs",
+          "label": "Legs ONLY, no upper - heavy eccentric. Decline squat 3-5 x 3-6 at 80%+ 1RM, step-downs 3 x 8-10/leg with 3-4 s lowering, Nordics 3 x 5, single-leg calf raises. Never to failure. 48-72 h before the long day. Add hip abductors - side plank raises, banded lateral walks, single-leg hip drops. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphill (very large effect). Descending is a frontal-plane hip problem, not just a quad problem. HYROX SLED TECHNIQUE at the end, 8-10 x 12.5 m at 50-65% load (~100 kg), 60-90 s rest. TECHNIQUE ONLY, never to fatigue. Forearms hooked on the posts, 30-45 deg lean, short choppy steps 20-30 cm at 3-4 per second, and never let the sled stop. Sled push is PURELY CONCENTRIC, so it costs your descent block nothing - which is why it is the one Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of horizontal force to break a stationary sled versus 0.81x to keep one rolling, so learning not to stop is worth more to you than to anyone heavier. About 8 minutes.",
+          "day": 2
         },
         {
-          "kind": "easy",
-          "label": "Easy run 5 km (talk test)",
-          "day": 5,
-          "km": 5
+          "kind": "vertical",
+          "label": "VERTICAL 55 min - STAIRWELL, your own building or a car park. ~15 x 15 floors, about 675 m. Lift up, WALK DOWN - the descent is the point. Dutch stair pitch is 30-33 deg, inside the optimal climbing range, and Madeira is full of stone staircases. Zero travel, weather-proof.",
+          "day": 4,
+          "minutes": 55
         },
         {
           "kind": "pull",
-          "label": "Pull (upper) — after the run",
-          "day": 5
-        },
-        {
-          "kind": "benchmark",
-          "label": "BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. The ONLY run that measures fitness — trust the trend, not one result.",
-          "day": 4,
-          "km": 7
+          "label": "Pull (upper) - after the vertical session. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 2-3 x max, target 90 s by October. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
+          "day": 4
         },
         {
           "kind": "long",
-          "label": "Long day 1h45 time-on-feet (run/walk, walk the climbs)",
+          "label": "LONG DAY 2:05, 500 m vert. First session with poles.",
           "day": 6,
-          "km": 13,
-          "minutes": 105
+          "minutes": 125,
+          "km": 14
         }
       ]
     },
@@ -494,58 +392,58 @@
       "end": "2026-09-05",
       "phase": "Build",
       "down_week": false,
-      "note": "",
+      "note": "GUT TRAINING STARTS. Target 60-80 g carb/h by week 14, from 40-50 now, +10 g every two weeks. No drop bags and no crew at Madeira - only ~2 checkpoints, ~10 km apart - so you carry 400-500 g of carbohydrate yourself. Rehearse the weight and the stowage, not just the products. INTENSITY STARTS THIS WEEK. Thursday's vertical becomes intervals - the plan had no hard sessions at all through weeks 7-8, which was a gap. Target distribution is 80-85% easy, 15-20% hard, with the hard work on incline.",
       "sessions": [
         {
           "kind": "cycling",
-          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
+          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
           "day": 0,
           "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (talk test)",
-          "day": 2,
-          "km": 6
+          "label": "Easy run 7 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "day": 3,
+          "km": 7
         },
         {
           "kind": "push",
-          "label": "Push (upper) — after the run, no leg cost",
-          "day": 2
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed.",
           "day": 3
         },
         {
-          "kind": "vertical",
-          "label": "Vertical 30 min (stairs/ramp/incline) — climbing, concentric",
-          "day": 4,
-          "minutes": 30
+          "kind": "legs",
+          "label": "Legs ONLY, no upper - heavy eccentric. Decline squat 3-5 x 3-6 at 80%+ 1RM, step-downs 3 x 8-10/leg with 3-4 s lowering, Nordics 3 x 5, single-leg calf raises. Never to failure. 48-72 h before the long day. Add hip abductors - side plank raises, banded lateral walks, single-leg hip drops. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphill (very large effect). Descending is a frontal-plane hip problem, not just a quad problem. HYROX SLED TECHNIQUE at the end, 8-10 x 12.5 m at 50-65% load (~100 kg), 60-90 s rest. TECHNIQUE ONLY, never to fatigue. Forearms hooked on the posts, 30-45 deg lean, short choppy steps 20-30 cm at 3-4 per second, and never let the sled stop. Sled push is PURELY CONCENTRIC, so it costs your descent block nothing - which is why it is the one Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of horizontal force to break a stationary sled versus 0.81x to keep one rolling, so learning not to stop is worth more to you than to anyone heavier. About 8 minutes.",
+          "day": 2
         },
         {
-          "kind": "easy",
-          "label": "Easy run 6 km (talk test)",
-          "day": 5,
-          "km": 6
+          "kind": "vertical",
+          "label": "VERTICAL 60 min WITH INTERVALS - stairwell. Warm up 10 min steady, then 3 x (5 min HARD up at 90-95% HRmax + 3 min EASY SkiErg or rower). Walk down between reps. Steady climbing for whatever time is left. This is the only hard session of your week and it does two jobs: uphill intervals for Madeira (the research wants 15-20% of training hard, nearly all of it on incline) and compromised running for Hyrox. The erg stations are deliberate - upper-body and aerobic, so they add nothing to the eccentric load your quads are already carrying.",
+          "day": 4,
+          "minutes": 60
         },
         {
           "kind": "pull",
-          "label": "Pull (upper) — after the run",
-          "day": 5
+          "label": "Pull (upper) - after the vertical session. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 2-3 x max, target 90 s by October. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
+          "day": 4
         },
         {
           "kind": "long",
-          "label": "Long day 2h45 time-on-feet (run/walk, walk the climbs)",
+          "label": "LONG DAY 2:20, 700 m vert, fuelling 40-50 g/h",
           "day": 6,
-          "km": 21,
-          "minutes": 165
+          "minutes": 140,
+          "km": 16
         },
         {
-          "kind": "eccentric",
-          "label": "Descent dose — progress the grade, not the speed",
-          "day": 6
+          "kind": "descent",
+          "label": "KIT REHEARSAL: load the vest to ~2.6 kg with full race carbohydrate (~13 gels plus pre-measured mix) and walk 60 min. Checkpoints are WATER ONLY - you carry every calorie across three ~2h10 legs. Drink mix must stay 6-8%: a 500 ml flask holding 80 g is 16%, and 42% of a 10% drink is still in the stomach an hour later.",
+          "day": 0,
+          "minutes": 60
+        },
+        {
+          "kind": "descent",
+          "label": "PRECONDITIONING DOWNHILL WALK - 5 minutes, 5.6 kg in the pack, walking DOWN stairs. Lift up, walk down, repeat for 5 min. ~110 m of descent, about 37 flights. One bout cuts strength loss 49%, CK 47%, soreness 66% a week later. Five minutes, in your own building, no travel.",
+          "day": 2
         }
       ]
     },
@@ -554,54 +452,48 @@
       "start": "2026-09-06",
       "end": "2026-09-12",
       "phase": "Build",
-      "down_week": false,
-      "note": "",
+      "down_week": true,
+      "note": "Cutback. Deliberate, and the reason matters: in trail runners, injury weeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading, not absolute load, is what precedes injury. This dip is planned and the rebound is controlled.",
       "sessions": [
         {
           "kind": "cycling",
-          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
+          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
           "day": 0,
           "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (talk test)",
-          "day": 2,
-          "km": 6
+          "label": "Easy run 5 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "day": 3,
+          "km": 5
         },
         {
           "kind": "push",
-          "label": "Push (upper) — after the run, no leg cost",
-          "day": 2
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed.",
           "day": 3
         },
         {
-          "kind": "vertical",
-          "label": "Vertical 35 min (stairs/ramp/incline) — climbing, concentric",
-          "day": 4,
-          "minutes": 35
+          "kind": "legs",
+          "label": "Legs ONLY, no upper - maintenance. Volume down, load held at 80%+ 1RM. HYROX SLED TECHNIQUE at the end, 8-10 x 12.5 m at 50-65% load (~100 kg), 60-90 s rest. TECHNIQUE ONLY, never to fatigue. Forearms hooked on the posts, 30-45 deg lean, short choppy steps 20-30 cm at 3-4 per second, and never let the sled stop. Sled push is PURELY CONCENTRIC, so it costs your descent block nothing - which is why it is the one Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of horizontal force to break a stationary sled versus 0.81x to keep one rolling, so learning not to stop is worth more to you than to anyone heavier. About 8 minutes.",
+          "day": 2
         },
         {
-          "kind": "easy",
-          "label": "Easy run 7 km (talk test)",
-          "day": 5,
-          "km": 7
+          "kind": "vertical",
+          "label": "VERTICAL 40 min - STAIRWELL, your own building or a car park. ~11 x 15 floors, about 495 m. Lift up, WALK DOWN - the descent is the point. Dutch stair pitch is 30-33 deg, inside the optimal climbing range, and Madeira is full of stone staircases. Zero travel, weather-proof.",
+          "day": 4,
+          "minutes": 40
         },
         {
           "kind": "pull",
-          "label": "Pull (upper) — after the run",
-          "day": 5
+          "label": "Pull (upper) - after the vertical session. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 2-3 x max, target 90 s by October. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
+          "day": 4
         },
         {
           "kind": "long",
-          "label": "Long day 3h00 time-on-feet (run/walk, walk the climbs)",
+          "label": "LONG DAY 1:30, 400 m vert",
           "day": 6,
-          "km": 22,
-          "minutes": 180
+          "minutes": 90,
+          "km": 10
         }
       ]
     },
@@ -611,58 +503,47 @@
       "end": "2026-09-19",
       "phase": "Build",
       "down_week": false,
-      "note": "HILL TRIP 1. First sustained descent load — flat Amsterdam cannot supply this.",
+      "note": "TERRAIN WEEKEND #1 of 2 - Posbank/Veluwezoom, ~1h15 by car, ~EUR 30 of petrol. Hard-surface descents, 90-110 m climbs. Twenty reps is 1,800 m of real ascent AND descent. One day there beats ten stairwell sessions, because sand is compliant and actually REDUCES muscle damage relative to firm ground. Madeira is rock and stone steps.",
       "sessions": [
         {
           "kind": "cycling",
-          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
+          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
           "day": 0,
           "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 7 km (talk test)",
-          "day": 2,
+          "label": "Easy run 7 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "day": 3,
           "km": 7
         },
         {
           "kind": "push",
-          "label": "Push (upper) — after the run, no leg cost",
-          "day": 2
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet).",
+          "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed.",
           "day": 3
         },
         {
-          "kind": "vertical",
-          "label": "Vertical 35 min (stairs/ramp/incline) — climbing, concentric",
-          "day": 4,
-          "minutes": 35
+          "kind": "legs",
+          "label": "Legs ONLY, no upper - heavy eccentric. Decline squat 3-5 x 3-6 at 80%+ 1RM, step-downs 3 x 8-10/leg with 3-4 s lowering, Nordics 3 x 5, single-leg calf raises. Never to failure. 48-72 h before the long day. Add hip abductors - side plank raises, banded lateral walks, single-leg hip drops. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphill (very large effect). Descending is a frontal-plane hip problem, not just a quad problem. HYROX SLED TECHNIQUE at the end, 8-10 x 12.5 m at 50-65% load (~100 kg), 60-90 s rest. TECHNIQUE ONLY, never to fatigue. Forearms hooked on the posts, 30-45 deg lean, short choppy steps 20-30 cm at 3-4 per second, and never let the sled stop. Sled push is PURELY CONCENTRIC, so it costs your descent block nothing - which is why it is the one Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of horizontal force to break a stationary sled versus 0.81x to keep one rolling, so learning not to stop is worth more to you than to anyone heavier. About 8 minutes.",
+          "day": 2
         },
         {
-          "kind": "easy",
-          "label": "Easy run 6 km (talk test)",
-          "day": 5,
-          "km": 6
+          "kind": "vertical",
+          "label": "VERTICAL 70 min WITH INTERVALS - stairwell. Warm up 10 min steady, then 4 x (5 min HARD up at 90-95% HRmax + 3 min EASY SkiErg or rower). Walk down between reps. Steady climbing for whatever time is left. This is the only hard session of your week and it does two jobs: uphill intervals for Madeira (the research wants 15-20% of training hard, nearly all of it on incline) and compromised running for Hyrox. The erg stations are deliberate - upper-body and aerobic, so they add nothing to the eccentric load your quads are already carrying.",
+          "day": 4,
+          "minutes": 70
         },
         {
           "kind": "pull",
-          "label": "Pull (upper) — after the run",
-          "day": 5
+          "label": "Pull (upper) - after the vertical session. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 2-3 x max, target 90 s by October. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
+          "day": 4
         },
         {
           "kind": "long",
-          "label": "HILL TRIP 1 — Limburg / Ardennes / Sauerland. First sustained descent load. Power-hike the climbs, run descents easy and short-strided. Conservative on grade; expect 2-3 days of quad DOMS.",
+          "label": "LONG DAY 2:35, 900 m vert - Posbank if possible, descents on hard surface DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it.",
           "day": 6,
-          "km": 18,
-          "minutes": 210
-        },
-        {
-          "kind": "eccentric",
-          "label": "Sustained real descent — the whole point of the trip",
-          "day": 6
+          "minutes": 155,
+          "km": 17
         }
       ]
     },
@@ -670,61 +551,60 @@
       "number": 12,
       "start": "2026-09-20",
       "end": "2026-09-26",
-      "phase": "Peak",
-      "down_week": true,
-      "note": "Down week + benchmark #3. Recover from the trip before the dress rehearsal.",
+      "phase": "Build",
+      "down_week": false,
+      "note": "Biggest vertical week so far, ~2,000-2,300 m. HR is now unreliable as a guide: in mountain ultras heart rate FALLS ~34 bpm across the race while RPE rises from 4.3 to 6.9. Pace off knee-extensor RPE - how your quads feel - not the watch.",
       "sessions": [
         {
           "kind": "cycling",
-          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
+          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
           "day": 0,
           "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (talk test)",
-          "day": 2,
-          "km": 6
-        },
-        {
-          "kind": "push",
-          "label": "Push (upper) — after the run, no leg cost",
-          "day": 2
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet). Reduced volume — maintain, don't build.",
-          "day": 3
-        },
-        {
-          "kind": "vertical",
-          "label": "Vertical 30 min (stairs/ramp/incline) — climbing, concentric",
-          "day": 4,
-          "minutes": 30
-        },
-        {
-          "kind": "easy",
-          "label": "Easy run 5 km (talk test)",
-          "day": 5,
-          "km": 5
-        },
-        {
-          "kind": "pull",
-          "label": "Pull (upper) — after the run",
-          "day": 5
-        },
-        {
-          "kind": "benchmark",
-          "label": "BENCHMARK 7 km — hold HR 150, steady, NO walk breaks. Cool morning, flat, same route every time. Log temperature. The ONLY run that measures fitness — trust the trend, not one result.",
-          "day": 4,
+          "label": "Easy run 7 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "day": 3,
           "km": 7
         },
         {
+          "kind": "push",
+          "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed.",
+          "day": 3
+        },
+        {
+          "kind": "legs",
+          "label": "Legs ONLY, no upper - heavy eccentric. Decline squat 3-5 x 3-6 at 80%+ 1RM, step-downs 3 x 8-10/leg with 3-4 s lowering, Nordics 3 x 5, single-leg calf raises. Never to failure. 48-72 h before the long day. Add hip abductors - side plank raises, banded lateral walks, single-leg hip drops. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphill (very large effect). Descending is a frontal-plane hip problem, not just a quad problem. HYROX SLED TECHNIQUE at the end, 8-10 x 12.5 m at 50-65% load (~100 kg), 60-90 s rest. TECHNIQUE ONLY, never to fatigue. Forearms hooked on the posts, 30-45 deg lean, short choppy steps 20-30 cm at 3-4 per second, and never let the sled stop. Sled push is PURELY CONCENTRIC, so it costs your descent block nothing - which is why it is the one Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of horizontal force to break a stationary sled versus 0.81x to keep one rolling, so learning not to stop is worth more to you than to anyone heavier. About 8 minutes.",
+          "day": 2
+        },
+        {
+          "kind": "vertical",
+          "label": "VERTICAL 75 min WITH INTERVALS - stairwell. Warm up 10 min steady, then 4 x (5 min HARD up at 90-95% HRmax + 3 min EASY SkiErg or rower). Walk down between reps. Steady climbing for whatever time is left. This is the only hard session of your week and it does two jobs: uphill intervals for Madeira (the research wants 15-20% of training hard, nearly all of it on incline) and compromised running for Hyrox. The erg stations are deliberate - upper-body and aerobic, so they add nothing to the eccentric load your quads are already carrying.",
+          "day": 4,
+          "minutes": 75
+        },
+        {
+          "kind": "pull",
+          "label": "Pull (upper) - after the vertical session. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 2-3 x max, target 90 s by October. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
+          "day": 4
+        },
+        {
           "kind": "long",
-          "label": "Long day 2h00 time-on-feet (run/walk, walk the climbs)",
+          "label": "LONG DAY 2:55, 1,100 m vert, full kit, poles, 60 g/h DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it.",
           "day": 6,
-          "km": 15,
-          "minutes": 120
+          "minutes": 175,
+          "km": 19
+        },
+        {
+          "kind": "descent",
+          "label": "ZIG-ZAG AND WET-ROCK PRACTICE 45 min. Traversing at 60 deg to the fall line halves the gradient, 28% -> 14%. Wet volcanic rock and wet wooden steps sit at friction 0.3-0.5 - barely enough to stand on a 28% slope, let alone brake. In the wet, zig-zagging and side-stepping are technique, not cowardice.",
+          "day": 0,
+          "minutes": 45
+        },
+        {
+          "kind": "descent",
+          "label": "PRECONDITIONING DOWNHILL WALK - 5 minutes, 5.6 kg in the pack, walking DOWN stairs. Lift up, walk down, repeat for 5 min. ~110 m of descent, about 37 flights. One bout cuts strength loss 49%, CK 47%, soreness 66% a week later. Five minutes, in your own building, no travel.",
+          "day": 2
         }
       ]
     },
@@ -732,60 +612,49 @@
       "number": 13,
       "start": "2026-09-27",
       "end": "2026-10-03",
-      "phase": "Peak",
-      "down_week": false,
-      "note": "Biggest home week. Full fuel + kit rehearsal on the long day.",
+      "phase": "Build",
+      "down_week": true,
+      "note": "Cutback before the two biggest weeks. Eat. At 56 kg with ~50 kg FFM you need at least 2,250 kcal before exercise is counted - peak-week days run 4,800-5,000 kcal. Under-fuelling an 11-week ramp is the most likely route to a stress fracture, and your body mass must not trend down.",
       "sessions": [
         {
           "kind": "cycling",
-          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
+          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
           "day": 0,
           "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (talk test)",
-          "day": 2,
+          "label": "Easy run 6 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "day": 3,
           "km": 6
         },
         {
           "kind": "push",
-          "label": "Push (upper) — after the run, no leg cost",
-          "day": 2
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet). Reduced volume — maintain, don't build.",
+          "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed.",
           "day": 3
         },
         {
-          "kind": "vertical",
-          "label": "Vertical 40 min (stairs/ramp/incline) — climbing, concentric",
-          "day": 4,
-          "minutes": 40
+          "kind": "legs",
+          "label": "Legs ONLY, no upper - maintenance. Volume down, load held at 80%+ 1RM. HYROX SLED TECHNIQUE at the end, 8-10 x 12.5 m at 50-65% load (~100 kg), 60-90 s rest. TECHNIQUE ONLY, never to fatigue. Forearms hooked on the posts, 30-45 deg lean, short choppy steps 20-30 cm at 3-4 per second, and never let the sled stop. Sled push is PURELY CONCENTRIC, so it costs your descent block nothing - which is why it is the one Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of horizontal force to break a stationary sled versus 0.81x to keep one rolling, so learning not to stop is worth more to you than to anyone heavier. About 8 minutes.",
+          "day": 2
         },
         {
-          "kind": "easy",
-          "label": "Easy run 6 km (talk test)",
-          "day": 5,
-          "km": 6
+          "kind": "vertical",
+          "label": "VERTICAL 45 min - STAIRWELL, your own building or a car park. ~12 x 15 floors, about 540 m. Lift up, WALK DOWN - the descent is the point. Dutch stair pitch is 30-33 deg, inside the optimal climbing range, and Madeira is full of stone staircases. Zero travel, weather-proof.",
+          "day": 4,
+          "minutes": 45
         },
         {
           "kind": "pull",
-          "label": "Pull (upper) — after the run",
-          "day": 5
+          "label": "Pull (upper) - after the vertical session. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 2-3 x max, target 90 s by October. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
+          "day": 4
         },
         {
           "kind": "long",
-          "label": "Long day 3h45 time-on-feet (run/walk, walk the climbs)",
+          "label": "LONG DAY 2:00, 600 m vert",
           "day": 6,
-          "km": 28,
-          "minutes": 225
-        },
-        {
-          "kind": "eccentric",
-          "label": "Descent dose — last home session before the dress rehearsal",
-          "day": 6
+          "minutes": 120,
+          "km": 13
         }
       ]
     },
@@ -795,58 +664,47 @@
       "end": "2026-10-10",
       "phase": "Peak",
       "down_week": false,
-      "note": "KEYSTONE WEEK. Dress rehearsal, and the LAST big descent — 4 weeks out so protection is live on race day.",
+      "note": "TERRAIN WEEKEND #2 - POSBANK AGAIN, not the Ardennes. Roughly EUR 30 of petrol against EUR 200, and twenty reps of a 90-110 m climb is 1,800 m of ascent AND hard-surface descent - close to the whole race. Sustained descending on firm ground is the one thing stairs cannot replicate, and it is what decides your day. POLES: bought 18-20 Sep, so you have had three weeks on them by now. Use them the whole session. They cut RPE 14-18% and measurably reduce muscle damage over a climb-and-descent day - but an inexperienced pole user in a field study actually got SLOWER, so the practice is the point. KIT-CHECK HABIT STARTS HERE: every food item must be labelled with its calorie count, and all disposable packaging must carry your bib number. Tape a strip on your gel flask reading contents and total kcal (e.g. '4x Upfront Gel PRO - 640 kcal'). Do it from this session on, not at registration.",
       "sessions": [
         {
           "kind": "cycling",
-          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
+          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
           "day": 0,
           "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (talk test)",
-          "day": 2,
-          "km": 6
+          "label": "Easy run 7 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "day": 3,
+          "km": 7
         },
         {
           "kind": "push",
-          "label": "Push (upper) — after the run, no leg cost",
-          "day": 2
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet). Reduced volume — maintain, don't build.",
+          "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed.",
           "day": 3
         },
         {
-          "kind": "vertical",
-          "label": "Vertical 35 min (stairs/ramp/incline) — climbing, concentric",
-          "day": 4,
-          "minutes": 35
+          "kind": "legs",
+          "label": "Legs ONLY, no upper - heavy eccentric. Decline squat 3-5 x 3-6 at 80%+ 1RM, step-downs 3 x 8-10/leg with 3-4 s lowering, Nordics 3 x 5, single-leg calf raises. Never to failure. 48-72 h before the long day. Add hip abductors - side plank raises, banded lateral walks, single-leg hip drops. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphill (very large effect). Descending is a frontal-plane hip problem, not just a quad problem. HYROX SLED TECHNIQUE at the end, 8-10 x 12.5 m at 50-65% load (~100 kg), 60-90 s rest. TECHNIQUE ONLY, never to fatigue. Forearms hooked on the posts, 30-45 deg lean, short choppy steps 20-30 cm at 3-4 per second, and never let the sled stop. Sled push is PURELY CONCENTRIC, so it costs your descent block nothing - which is why it is the one Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of horizontal force to break a stationary sled versus 0.81x to keep one rolling, so learning not to stop is worth more to you than to anyone heavier. About 8 minutes.",
+          "day": 2
         },
         {
-          "kind": "easy",
-          "label": "Easy run 6 km (talk test)",
-          "day": 5,
-          "km": 6
+          "kind": "vertical",
+          "label": "VERTICAL 80 min WITH INTERVALS - stairwell. Warm up 10 min steady, then 5 x (5 min HARD up at 90-95% HRmax + 3 min EASY SkiErg or rower). Walk down between reps. Steady climbing for whatever time is left. This is the only hard session of your week and it does two jobs: uphill intervals for Madeira (the research wants 15-20% of training hard, nearly all of it on incline) and compromised running for Hyrox. The erg stations are deliberate - upper-body and aerobic, so they add nothing to the eccentric load your quads are already carrying.",
+          "day": 4,
+          "minutes": 80
         },
         {
           "kind": "pull",
-          "label": "Pull (upper) — after the run",
-          "day": 5
+          "label": "Pull (upper) - after the vertical session. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 2-3 x max, target 90 s by October. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
+          "day": 4
         },
         {
           "kind": "long",
-          "label": "HILL TRIP 2 — DRESS REHEARSAL. Longest day, real hills, full kit and fuelling plan. LAST big descent load: 4 weeks out, so repeated-bout protection is still live on race day.",
+          "label": "LONG DAY 3:20, 1,400 m vert - Posbank, hard-surface descents, full kit, poles, race fuelling. Switch from DIY mix to race gels this week: everything you carry now must be labelled.",
           "day": 6,
-          "km": 20,
-          "minutes": 240
-        },
-        {
-          "kind": "eccentric",
-          "label": "Sustained real descent — the whole point of the trip",
-          "day": 6
+          "minutes": 200,
+          "km": 21
         }
       ]
     },
@@ -854,60 +712,54 @@
       "number": 15,
       "start": "2026-10-11",
       "end": "2026-10-17",
-      "phase": "Taper",
+      "phase": "Peak",
       "down_week": false,
-      "note": "Taper begins. Last heavy legs ~10-14 days out, then stop. One short descent touch only.",
+      "note": "PEAK WEEKEND - Sat 17 Oct, 15 days out. This is the overload the taper is built on; the evidence favours peaking 14-15 days out, not five weeks. 3:45-4:00 and 1,600-1,800 m: roughly 60-70% of race duration but 80-90% of race vertical. Vertical specificity is the lever, not duration.",
       "sessions": [
         {
           "kind": "cycling",
-          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
+          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
           "day": 0,
           "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (talk test)",
-          "day": 2,
-          "km": 6
+          "label": "Easy run 7 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "day": 3,
+          "km": 7
         },
         {
           "kind": "push",
-          "label": "Push (upper) — after the run, no leg cost",
-          "day": 2
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet). Reduced volume — maintain, don't build.",
+          "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed.",
           "day": 3
         },
         {
-          "kind": "vertical",
-          "label": "Vertical 20 min (stairs/ramp/incline) — climbing, concentric",
-          "day": 4,
-          "minutes": 20
+          "kind": "legs",
+          "label": "Legs ONLY, no upper - heavy eccentric. Decline squat 3-5 x 3-6 at 80%+ 1RM, step-downs 3 x 8-10/leg with 3-4 s lowering, Nordics 3 x 5, single-leg calf raises. Never to failure. 48-72 h before the long day. Add hip abductors - side plank raises, banded lateral walks, single-leg hip drops. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphill (very large effect). Descending is a frontal-plane hip problem, not just a quad problem. HYROX SLED TECHNIQUE at the end, 8-10 x 12.5 m at 50-65% load (~100 kg), 60-90 s rest. TECHNIQUE ONLY, never to fatigue. Forearms hooked on the posts, 30-45 deg lean, short choppy steps 20-30 cm at 3-4 per second, and never let the sled stop. Sled push is PURELY CONCENTRIC, so it costs your descent block nothing - which is why it is the one Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of horizontal force to break a stationary sled versus 0.81x to keep one rolling, so learning not to stop is worth more to you than to anyone heavier. About 8 minutes.",
+          "day": 2
         },
         {
-          "kind": "easy",
-          "label": "Easy run 5 km (talk test)",
-          "day": 5,
-          "km": 5
+          "kind": "vertical",
+          "label": "VERTICAL 80 min WITH INTERVALS - stairwell. Warm up 10 min steady, then 5 x (5 min HARD up at 90-95% HRmax + 3 min EASY SkiErg or rower). Walk down between reps. Steady climbing for whatever time is left. This is the only hard session of your week and it does two jobs: uphill intervals for Madeira (the research wants 15-20% of training hard, nearly all of it on incline) and compromised running for Hyrox. The erg stations are deliberate - upper-body and aerobic, so they add nothing to the eccentric load your quads are already carrying.",
+          "day": 4,
+          "minutes": 80
         },
         {
           "kind": "pull",
-          "label": "Pull (upper) — after the run",
-          "day": 5
+          "label": "Pull (upper) - after the vertical session. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 2-3 x max, target 90 s by October. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
+          "day": 4
         },
         {
           "kind": "long",
-          "label": "Long day 2h00 time-on-feet (run/walk, walk the climbs)",
+          "label": "PEAK LONG DAY 3:45-4:00, 1,600-1,800 m vert. Race kit, poles, race fuelling, race shoes. Alternate 20-25 min climbing with 15-20 min flat to rehearse the sawtooth. DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it.",
           "day": 6,
-          "km": 15,
-          "minutes": 120
+          "minutes": 225,
+          "km": 24
         },
         {
-          "kind": "eccentric",
-          "label": "Short descent touch (10-15 min, easy) — keep the adaptation live, do not fatigue",
-          "day": 6
+          "kind": "descent",
+          "label": "PRECONDITIONING DOWNHILL WALK - 5 minutes, 5.6 kg in the pack, walking DOWN stairs. Lift up, walk down, repeat for 5 min. ~110 m of descent, about 37 flights. One bout cuts strength loss 49%, CK 47%, soreness 66% a week later. Five minutes, in your own building, no travel.",
+          "day": 2
         }
       ]
     },
@@ -917,53 +769,37 @@
       "end": "2026-10-24",
       "phase": "Taper",
       "down_week": false,
-      "note": "Taper. No descents, no heavy legs. Nothing this week makes you fitter; plenty could make you tired.",
+      "note": "Taper starts. Volume down 45-55%, intensity and frequency UNCHANGED - that combination is worth 2-3%, about 7-11 minutes on a 6-hour race. NOTHING ECCENTRIC AFTER 21 OCTOBER. Last heavy lower-body work is done.",
       "sessions": [
         {
           "kind": "cycling",
-          "label": "Easy ride 60-90 min — the day after the long run. Zero impact, HR ~130. Aerobic volume without tissue cost.",
+          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
           "day": 0,
           "minutes": 75
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (talk test)",
-          "day": 2,
+          "label": "Easy 6 km + 5 x 3 min at race-uphill effort on 10-12% incline + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "day": 3,
           "km": 6
         },
         {
           "kind": "push",
-          "label": "Push (upper) — after the run, no leg cost",
-          "day": 2
-        },
-        {
-          "kind": "legs",
-          "label": "Legs — OWN DAY, no running. Single-leg + posterior chain, glute-med (IT band), tib raises (flat feet). Reduced volume — maintain, don't build.",
+          "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed.",
           "day": 3
         },
         {
           "kind": "vertical",
-          "label": "Vertical 20 min (stairs/ramp/incline) — climbing, concentric",
+          "label": "VERTICAL 40 min - STAIRWELL, your own building or a car park. ~11 x 15 floors, about 495 m. Lift up, WALK DOWN - the descent is the point. Dutch stair pitch is 30-33 deg, inside the optimal climbing range, and Madeira is full of stone staircases. Zero travel, weather-proof.",
           "day": 4,
-          "minutes": 20
-        },
-        {
-          "kind": "easy",
-          "label": "Easy run 5 km (talk test)",
-          "day": 5,
-          "km": 5
-        },
-        {
-          "kind": "pull",
-          "label": "Pull (upper) — after the run",
-          "day": 5
+          "minutes": 40
         },
         {
           "kind": "long",
-          "label": "Long day 1h30 time-on-feet (run/walk, walk the climbs)",
+          "label": "LAST LONG SESSION 2:00, 600-800 m vert, race kit and shoes, ~20 min of downhill",
           "day": 6,
-          "km": 11,
-          "minutes": 90
+          "minutes": 120,
+          "km": 13
         }
       ]
     },
@@ -973,7 +809,7 @@
       "end": "2026-11-01",
       "phase": "Race",
       "down_week": false,
-      "note": "Race week. Fitness is banked; the taper's only job is freshness. Power-hike every real climb from the gun. Brake controlled on descents, short steps. Fuel on a clock. HR is a passenger.",
+      "note": "RACE WEEK. Sunday 1 Nov, Calhau de Sao Jorge to Machico. THE START IS 11:00, NOT DAWN - sunset is 18:17 and civil twilight ends 18:41. A 6:30 finish is daylight; 7:00 is dusk; 7:30 is DARK on exposed cliff paths. YOUR HEADTORCH IS SAFETY KIT, NOT A FORMALITY - carry it charged. The late start also gives you an unhurried fuelling morning: eat properly, this is an advantage. CHECKPOINTS ARE WATER ONLY - the 'water and snacks' line is wrong. Carry 420-490 g of carbohydrate yourself (~13 gels plus mix) across three ~2h10 legs, roughly 2.6 kg of vest. Only ~2 checkpoints, ~10 km apart. KIT: 1.5 L hydration capacity, taped-seam hooded waterproof, emergency blanket, 800 kcal reserve, phone with GPX, spare warm layer, and a BEAKER of at least 15 cl - bottles and flasks are explicitly not accepted. Checks are enforced. CALIBRATION from the 2025 field (n=34): winner 3:02:21, median 5:24:37 (13.0 min/km), last finisher 8:03:43, cut-off 11.5 h. Your target is 6:15-6:45. The 25K is the final 25 km of the 50K route - the organiser gave the SHORT race the STEEPEST ground, 80 m/km against 63.5 for the 50K. PACING - the single strongest result in the literature (n=23,207): in 91% of races, slower finishers overspent in the FIRST segment; after the opening everyone paces the rest alike. The damage is done at the start. Hike every gradient above 15% from the gun. HR: race average 138-150, climb ceiling 155, descents 120-140. Above 160 for two minutes on a climb, walk. Your 17 km run averaged 163 - you cannot hold that for six hours. THE DESCENT IS THE RACE. Racing the first steep descent saves ~10 minutes and costs 17-46 minutes later: 3:1 to 5:1 against, before you count the fall risk. And it will never feel hard - VO2 on descents is only 79% of threshold versus 100% uphill, so your breathing will tell you nothing. That is the trap. Short steps, 185-195 spm, gaze 4-5 m ahead on the second upcoming foothold, walk the stone staircases, zig-zag the wet sections. IN-RACE DIAGNOSTIC: compare climb rate per heartbeat on the second climb against the first. More than 5% worse means you overcooked the descent - concede ten minutes immediately and save the day. FUEL: 60-75 g/h at 2:1 glucose:fructose, drink to thirst, skip the salt capsules (no evidence they prevent hyponatraemia or cramp). Carb load 8-10 g/kg for 36-48 h = 450-560 g. Caffeine ~100 mg at 3 h and 75-100 mg at 4.5 h, 150-200 mg total - do not scale from 70 kg examples. WEATHER: use Santana on the north coast, not Funchal - 18 C max, 110 mm of rain across ~40% of days. Wet basalt and hypothermia are the risks here, not heat. Bib pickup Fri 30 Oct or Sat 31 Oct, 18:00-20:00, Machico Forum. No crew, no pacers, no drop bags.",
       "sessions": [
         {
           "kind": "easy",
@@ -983,19 +819,13 @@
         },
         {
           "kind": "strides",
-          "label": "Easy 3-4 km + strides",
+          "label": "Easy 3-4 km + 4 x 90 s at race-climb effort. Do not skip this.",
           "day": 3,
           "km": 4
         },
         {
-          "kind": "easy",
-          "label": "Shakeout in Machico 3-4 km",
-          "day": 5,
-          "km": 4
-        },
-        {
           "kind": "race",
-          "label": "RACE — Ultra X Madeira 25K · Sao Jorge to Machico · 1,970 m D+/D- · cut-off 11.5 h",
+          "label": "RACE - Ultra X Madeira 25K - Sao Jorge to Machico - 2,003 m D+/D- - START 11:00 - cut-off 11.5 h - target 6:15-6:45 - HEADTORCH MANDATORY",
           "day": 7,
           "km": 25
         }
