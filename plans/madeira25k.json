@@ -750,7 +750,7 @@
         },
         {
           "kind": "easy",
-          "label": "VO2MAX - 5 x 3 min HARD, 2 min easy jog between. Faster than threshold: you can say one word. HR 170-180. This is the session that moves 5 km pace most, and it is only worth doing now that you have four weeks of threshold behind you.",
+          "label": "THRESHOLD - 5 x 5 min comfortably hard, 90 s jog. NOT VO2max: Thursday's stairs are already a VO2max session (5 x 5 min at 90-95% HRmax) and two of those in one week on 30 km of running is how people get hurt in October. Flat threshold and stair VO2max cover different things - that is the point.",
           "day": 1,
           "km": 9,
           "minutes": 50
@@ -812,10 +812,10 @@
         },
         {
           "kind": "easy",
-          "label": "VO2MAX - 5 x 3 min HARD, 2 min jog. Last real speed session before Madeira. If your legs are heavy from Saturday's peak long day, cut to 4 reps - the long day matters more.",
+          "label": "EASY 6 km ONLY - no quality. Saturday is the peak long day, 3:45-4:00 with 1,600-1,800 m of vert, and that session matters more than any interval you could run on a Monday. Protect it.",
           "day": 1,
-          "km": 9,
-          "minutes": 50
+          "km": 6,
+          "minutes": 35
         }
       ]
     },
@@ -859,7 +859,7 @@
         },
         {
           "kind": "easy",
-          "label": "TAPER - 3 x 3 min at VO2max effort, 2 min jog. Short and sharp, keeps the legs awake without costing anything. Do not add reps because you feel good.",
+          "label": "TAPER - 3 x 4 min at threshold, 90 s jog, then 4 x 20 s strides. Keeps the legs awake, costs nothing. Do not add reps because you feel fresh - that is what the taper is supposed to make you feel.",
           "day": 1,
           "km": 6,
           "minutes": 35
