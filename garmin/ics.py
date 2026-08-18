@@ -24,16 +24,48 @@ def _stamp(moment: datetime) -> str:
     return moment.strftime("%Y%m%dT%H%M%SZ")
 
 
+SUMMARY_MAX = 48
+KIND_ICONS = {
+    "long": "\u25b2",
+    "race": "\u2691",
+    "legs": "\u25c6",
+    "vertical": "\u25b2",
+    "descent": "\u25bc",
+    "swim": "\u2248",
+    "cycling": "\u25cb",
+    "brick": "\u25d0",
+}
+
+
+def _headline(label: str) -> tuple[str, bool]:
+    for sep in (" - ", "\u2014 ", ". "):
+        if sep in label:
+            label = label.split(sep, 1)[0]
+            break
+    label = label.strip().rstrip(".")
+    if len(label) <= SUMMARY_MAX:
+        return label, False
+    if " (" in label:
+        short = label.split(" (", 1)[0].strip()
+        if len(short) <= SUMMARY_MAX:
+            return short, False
+    return label[:SUMMARY_MAX].rsplit(" ", 1)[0] + "\u2026", True
+
+
 def _title(week: plan.PlanWeek, session: plan.Session) -> str:
-    if session.km and "km" not in session.label:
-        return f"{session.label} ({session.km:g} km)"
-    if session.minutes and "min" not in session.label:
-        return f"{session.label} ({session.minutes} min)"
-    return session.label
+    text, clipped = _headline(session.label)
+    if not clipped:
+        if session.km and "km" not in text:
+            text = f"{text} ({session.km:g} km)"
+        elif session.minutes and "min" not in text:
+            text = f"{text} ({session.minutes} min)"
+    icon = KIND_ICONS.get(session.kind)
+    return f"{icon} {text}" if icon else text
 
 
 def _details(week: plan.PlanWeek, session: plan.Session) -> str:
-    lines = [f"Week {week.number} of {len(plan.PLAN)} - {week.phase}"]
+    lines = [session.label, ""]
+    lines.append(f"Week {week.number} of {len(plan.PLAN)} - {week.phase}")
     if week.down_week:
         lines.append("DOWN WEEK - recover, do not add volume.")
     if session.kind in {"easy", "long"}:
