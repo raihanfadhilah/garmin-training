@@ -425,7 +425,7 @@
         },
         {
           "kind": "vertical",
-          "label": "VERTICAL 60 min WITH INTERVALS - stairwell. Warm up 10 min steady, then 3 x (5 min HARD up at 90-95% HRmax + 3 min EASY SkiErg or rower). Walk down between reps. Steady climbing for whatever time is left. This is the only hard session of your week and it does two jobs: uphill intervals for Madeira (the research wants 15-20% of training hard, nearly all of it on incline) and compromised running for Hyrox. The erg stations are deliberate - upper-body and aerobic, so they add nothing to the eccentric load your quads are already carrying.",
+          "label": "VERTICAL 60 min STEADY - stairwell, your own building or a car park. ~16 x 15 floors, about 720 m. Lift up, WALK DOWN - the descent is the point. NO INTERVALS: the hard session moved to Monday on flat ground, because Hyrox is 8 x 1 km on the flat and stair fitness does not transfer to flat running economy. This is now climbing endurance for Madeira - steady, conversational, just keep moving. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
           "day": 4,
           "minutes": 60
         },
@@ -454,10 +454,10 @@
         },
         {
           "kind": "easy",
-          "label": "Easy 6 km. Still no intervals - you are building the habit and the volume. Keep it conversational, HR under 150. The hard session this week is Thursday's stairs.",
+          "label": "THRESHOLD 4 x 4 min, 90 s easy jog between. Warm up 10 min, cool down 10 min. Comfortably hard - three or four words at a time, HR roughly 160-168. Your first structured interval session: threshold before VO2max because it recovers faster and you are two weeks into having a third run at all.",
           "day": 1,
-          "km": 6,
-          "minutes": 35
+          "km": 7,
+          "minutes": 45
         }
       ]
     },
@@ -511,7 +511,7 @@
         },
         {
           "kind": "benchmark",
-          "label": "5 KM TIME TRIAL - the number the whole plan has been missing. Warm up 10-15 min easy + 4-6 x 20 s strides + 3-4 min rest. Then 5 km flat, hard as you can SUSTAIN. Go out at 5:15/km and hold; check in at 2 km; kick from 4 km. Do NOT start at 4:40 - a blown TT gives an unusable number. Flat, no lights, no turns: Vondelpark outer loop or the Amstel. Auto-lap every 1 km. Down week, Sunday rest behind you - no better day exists.",
+          "label": "5 KM TIME TRIAL - the number this whole plan has been missing. Warm up 10-15 min easy + 4-6 x 20 s strides + 3-4 min rest. Then 5 km flat, hard as you can SUSTAIN. Go out at 5:15/km and hold, check in at 2 km, kick from 4 km. Do NOT start at 4:40 - a blown TT gives an unusable number. Flat, no lights, no turns: Vondelpark outer loop or the Amstel. Auto-lap every 1 km. Down week with Sunday rest behind you.",
           "day": 1,
           "km": 5,
           "minutes": 45
@@ -550,7 +550,7 @@
         },
         {
           "kind": "vertical",
-          "label": "VERTICAL 70 min WITH INTERVALS - stairwell. Warm up 10 min steady, then 4 x (5 min HARD up at 90-95% HRmax + 3 min EASY SkiErg or rower). Walk down between reps. Steady climbing for whatever time is left. This is the only hard session of your week and it does two jobs: uphill intervals for Madeira (the research wants 15-20% of training hard, nearly all of it on incline) and compromised running for Hyrox. The erg stations are deliberate - upper-body and aerobic, so they add nothing to the eccentric load your quads are already carrying.",
+          "label": "VERTICAL 70 min STEADY - stairwell, your own building or a car park. ~19 x 15 floors, about 840 m. Lift up, WALK DOWN - the descent is the point. NO INTERVALS: the hard session moved to Monday on flat ground, because Hyrox is 8 x 1 km on the flat and stair fitness does not transfer to flat running economy. This is now climbing endurance for Madeira - steady, conversational, just keep moving. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
           "day": 4,
           "minutes": 70
         },
@@ -568,10 +568,10 @@
         },
         {
           "kind": "easy",
-          "label": "THRESHOLD - 4 x 5 min comfortably hard, 90 s easy jog between. Warm up 10 min, cool down 10 min. Effort: you can say three or four words, not a sentence. HR roughly 160-168. Pace off the week 10 TT. Threshold first, not VO2max - it recovers faster and it is what raises the pace you can hold.",
+          "label": "VO2MAX 5 x 3 min HARD, 2 min easy jog. Warm up 10 min, cool down 10 min. Harder than threshold - one word at a time, HR 170-180. Pace off the week 10 TT: roughly your 5 km pace, no faster. THIS IS NOW YOUR ONLY HARD SESSION, so run it properly. It is the single session that most moves 5 km pace, and 5 km pace is what your Hyrox runs are made of.",
           "day": 1,
-          "km": 8,
-          "minutes": 45
+          "km": 9,
+          "minutes": 50
         }
       ]
     },
@@ -607,7 +607,7 @@
         },
         {
           "kind": "vertical",
-          "label": "VERTICAL 75 min WITH INTERVALS - stairwell. Warm up 10 min steady, then 4 x (5 min HARD up at 90-95% HRmax + 3 min EASY SkiErg or rower). Walk down between reps. Steady climbing for whatever time is left. This is the only hard session of your week and it does two jobs: uphill intervals for Madeira (the research wants 15-20% of training hard, nearly all of it on incline) and compromised running for Hyrox. The erg stations are deliberate - upper-body and aerobic, so they add nothing to the eccentric load your quads are already carrying.",
+          "label": "VERTICAL 75 min STEADY - stairwell, your own building or a car park. ~20 x 15 floors, about 900 m. Lift up, WALK DOWN - the descent is the point. NO INTERVALS: the hard session moved to Monday on flat ground, because Hyrox is 8 x 1 km on the flat and stair fitness does not transfer to flat running economy. This is now climbing endurance for Madeira - steady, conversational, just keep moving. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
           "day": 4,
           "minutes": 75
         },
@@ -636,7 +636,7 @@
         },
         {
           "kind": "easy",
-          "label": "THRESHOLD - 5 x 5 min, 90 s jog. Same effort as last week, one more rep. If the last rep is falling apart you went too hard on the first.",
+          "label": "VO2MAX 5 x 3 min HARD, 2 min jog. Same as last week - repeat before you progress. If rep 5 falls apart you started rep 1 too fast; even splits beat a fast start every time.",
           "day": 1,
           "km": 9,
           "minutes": 50
@@ -693,7 +693,7 @@
         },
         {
           "kind": "easy",
-          "label": "DOWN WEEK - THRESHOLD 3 x 5 min, 90 s jog. Volume down, intensity held. Do not use a down week to prove something.",
+          "label": "DOWN WEEK - THRESHOLD 3 x 5 min, 90 s jog. Volume down, intensity down a notch. Do not use a down week to prove something.",
           "day": 1,
           "km": 7,
           "minutes": 40
@@ -732,7 +732,7 @@
         },
         {
           "kind": "vertical",
-          "label": "VERTICAL 80 min WITH INTERVALS - stairwell. Warm up 10 min steady, then 5 x (5 min HARD up at 90-95% HRmax + 3 min EASY SkiErg or rower). Walk down between reps. Steady climbing for whatever time is left. This is the only hard session of your week and it does two jobs: uphill intervals for Madeira (the research wants 15-20% of training hard, nearly all of it on incline) and compromised running for Hyrox. The erg stations are deliberate - upper-body and aerobic, so they add nothing to the eccentric load your quads are already carrying.",
+          "label": "VERTICAL 80 min STEADY - stairwell, your own building or a car park. ~21 x 15 floors, about 960 m. Lift up, WALK DOWN - the descent is the point. NO INTERVALS: the hard session moved to Monday on flat ground, because Hyrox is 8 x 1 km on the flat and stair fitness does not transfer to flat running economy. This is now climbing endurance for Madeira - steady, conversational, just keep moving. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
           "day": 4,
           "minutes": 80
         },
@@ -750,10 +750,10 @@
         },
         {
           "kind": "easy",
-          "label": "THRESHOLD - 5 x 5 min comfortably hard, 90 s jog. NOT VO2max: Thursday's stairs are already a VO2max session (5 x 5 min at 90-95% HRmax) and two of those in one week on 30 km of running is how people get hurt in October. Flat threshold and stair VO2max cover different things - that is the point.",
+          "label": "VO2MAX 6 x 3 min HARD, 2 min jog. One more rep than week 12. Biggest running week of the block.",
           "day": 1,
-          "km": 9,
-          "minutes": 50
+          "km": 10,
+          "minutes": 55
         }
       ]
     },
@@ -789,7 +789,7 @@
         },
         {
           "kind": "vertical",
-          "label": "VERTICAL 80 min WITH INTERVALS - stairwell. Warm up 10 min steady, then 5 x (5 min HARD up at 90-95% HRmax + 3 min EASY SkiErg or rower). Walk down between reps. Steady climbing for whatever time is left. This is the only hard session of your week and it does two jobs: uphill intervals for Madeira (the research wants 15-20% of training hard, nearly all of it on incline) and compromised running for Hyrox. The erg stations are deliberate - upper-body and aerobic, so they add nothing to the eccentric load your quads are already carrying.",
+          "label": "VERTICAL 80 min STEADY - stairwell, your own building or a car park. ~21 x 15 floors, about 960 m. Lift up, WALK DOWN - the descent is the point. NO INTERVALS: the hard session moved to Monday on flat ground, because Hyrox is 8 x 1 km on the flat and stair fitness does not transfer to flat running economy. This is now climbing endurance for Madeira - steady, conversational, just keep moving. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
           "day": 4,
           "minutes": 80
         },
@@ -812,10 +812,10 @@
         },
         {
           "kind": "easy",
-          "label": "EASY 6 km ONLY - no quality. Saturday is the peak long day, 3:45-4:00 with 1,600-1,800 m of vert, and that session matters more than any interval you could run on a Monday. Protect it.",
+          "label": "VO2MAX 4 x 3 min HARD, 2 min jog. Cut back a rep - Saturday is the peak long day, 3:45-4:00 with 1,600-1,800 m of vert, and Monday is five days clear of it so this is affordable. If your legs are still flat from last Saturday, run 3 reps.",
           "day": 1,
-          "km": 6,
-          "minutes": 35
+          "km": 8,
+          "minutes": 45
         }
       ]
     },
@@ -859,7 +859,7 @@
         },
         {
           "kind": "easy",
-          "label": "TAPER - 3 x 4 min at threshold, 90 s jog, then 4 x 20 s strides. Keeps the legs awake, costs nothing. Do not add reps because you feel fresh - that is what the taper is supposed to make you feel.",
+          "label": "TAPER - 3 x 3 min at VO2max effort, 2 min jog, then 4 x 20 s strides. Short and sharp. Do not add reps because you feel fresh - feeling fresh is the taper working.",
           "day": 1,
           "km": 6,
           "minutes": 35
