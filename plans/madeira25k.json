@@ -346,7 +346,7 @@
       "sessions": [
         {
           "kind": "cycling",
-          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
+          "label": "OPTIONAL easy spin 45-60 min - Sunday is now a REST day by default. Take the ride only if you feel good and Monday's run is easy. With a quality session on Monday you need this rest more than you need the ride.",
           "day": 0,
           "minutes": 75
         },
@@ -383,6 +383,13 @@
           "day": 6,
           "minutes": 125,
           "km": 14
+        },
+        {
+          "kind": "easy",
+          "label": "NEW SPEED SLOT - easy 5 km only. Monday is now your quality day: Sunday is full rest, so you arrive fresh. This week is just about adding the run, not the intensity. Volume before speed - 2 runs a week cannot produce a 5 km time no matter how hard you run them.",
+          "day": 1,
+          "km": 5,
+          "minutes": 30
         }
       ]
     },
@@ -396,7 +403,7 @@
       "sessions": [
         {
           "kind": "cycling",
-          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
+          "label": "OPTIONAL easy spin 45-60 min - Sunday is now a REST day by default. Take the ride only if you feel good and Monday's run is easy. With a quality session on Monday you need this rest more than you need the ride.",
           "day": 0,
           "minutes": 75
         },
@@ -444,6 +451,13 @@
           "kind": "descent",
           "label": "PRECONDITIONING DOWNHILL WALK - 5 minutes, 5.6 kg in the pack, walking DOWN stairs. Lift up, walk down, repeat for 5 min. ~110 m of descent, about 37 flights. One bout cuts strength loss 49%, CK 47%, soreness 66% a week later. Five minutes, in your own building, no travel.",
           "day": 2
+        },
+        {
+          "kind": "easy",
+          "label": "Easy 6 km. Still no intervals - you are building the habit and the volume. Keep it conversational, HR under 150. The hard session this week is Thursday's stairs.",
+          "day": 1,
+          "km": 6,
+          "minutes": 35
         }
       ]
     },
@@ -457,7 +471,7 @@
       "sessions": [
         {
           "kind": "cycling",
-          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
+          "label": "OPTIONAL easy spin 45-60 min - Sunday is now a REST day by default. Take the ride only if you feel good and Monday's run is easy. With a quality session on Monday you need this rest more than you need the ride.",
           "day": 0,
           "minutes": 75
         },
@@ -494,6 +508,13 @@
           "day": 6,
           "minutes": 90,
           "km": 10
+        },
+        {
+          "kind": "benchmark",
+          "label": "5 KM TIME TRIAL - the number the whole plan has been missing. Warm up 10-15 min easy + 4-6 x 20 s strides + 3-4 min rest. Then 5 km flat, hard as you can SUSTAIN. Go out at 5:15/km and hold; check in at 2 km; kick from 4 km. Do NOT start at 4:40 - a blown TT gives an unusable number. Flat, no lights, no turns: Vondelpark outer loop or the Amstel. Auto-lap every 1 km. Down week, Sunday rest behind you - no better day exists.",
+          "day": 1,
+          "km": 5,
+          "minutes": 45
         }
       ]
     },
@@ -507,7 +528,7 @@
       "sessions": [
         {
           "kind": "cycling",
-          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
+          "label": "OPTIONAL easy spin 45-60 min - Sunday is now a REST day by default. Take the ride only if you feel good and Monday's run is easy. With a quality session on Monday you need this rest more than you need the ride.",
           "day": 0,
           "minutes": 75
         },
@@ -544,6 +565,13 @@
           "day": 6,
           "minutes": 155,
           "km": 17
+        },
+        {
+          "kind": "easy",
+          "label": "THRESHOLD - 4 x 5 min comfortably hard, 90 s easy jog between. Warm up 10 min, cool down 10 min. Effort: you can say three or four words, not a sentence. HR roughly 160-168. Pace off the week 10 TT. Threshold first, not VO2max - it recovers faster and it is what raises the pace you can hold.",
+          "day": 1,
+          "km": 8,
+          "minutes": 45
         }
       ]
     },
@@ -557,7 +585,7 @@
       "sessions": [
         {
           "kind": "cycling",
-          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
+          "label": "OPTIONAL easy spin 45-60 min - Sunday is now a REST day by default. Take the ride only if you feel good and Monday's run is easy. With a quality session on Monday you need this rest more than you need the ride.",
           "day": 0,
           "minutes": 75
         },
@@ -605,6 +633,13 @@
           "kind": "descent",
           "label": "PRECONDITIONING DOWNHILL WALK - 5 minutes, 5.6 kg in the pack, walking DOWN stairs. Lift up, walk down, repeat for 5 min. ~110 m of descent, about 37 flights. One bout cuts strength loss 49%, CK 47%, soreness 66% a week later. Five minutes, in your own building, no travel.",
           "day": 2
+        },
+        {
+          "kind": "easy",
+          "label": "THRESHOLD - 5 x 5 min, 90 s jog. Same effort as last week, one more rep. If the last rep is falling apart you went too hard on the first.",
+          "day": 1,
+          "km": 9,
+          "minutes": 50
         }
       ]
     },
@@ -618,7 +653,7 @@
       "sessions": [
         {
           "kind": "cycling",
-          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
+          "label": "OPTIONAL easy spin 45-60 min - Sunday is now a REST day by default. Take the ride only if you feel good and Monday's run is easy. With a quality session on Monday you need this rest more than you need the ride.",
           "day": 0,
           "minutes": 75
         },
@@ -655,6 +690,13 @@
           "day": 6,
           "minutes": 120,
           "km": 13
+        },
+        {
+          "kind": "easy",
+          "label": "DOWN WEEK - THRESHOLD 3 x 5 min, 90 s jog. Volume down, intensity held. Do not use a down week to prove something.",
+          "day": 1,
+          "km": 7,
+          "minutes": 40
         }
       ]
     },
@@ -668,7 +710,7 @@
       "sessions": [
         {
           "kind": "cycling",
-          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
+          "label": "OPTIONAL easy spin 45-60 min - Sunday is now a REST day by default. Take the ride only if you feel good and Monday's run is easy. With a quality session on Monday you need this rest more than you need the ride.",
           "day": 0,
           "minutes": 75
         },
@@ -705,6 +747,13 @@
           "day": 6,
           "minutes": 200,
           "km": 21
+        },
+        {
+          "kind": "easy",
+          "label": "VO2MAX - 5 x 3 min HARD, 2 min easy jog between. Faster than threshold: you can say one word. HR 170-180. This is the session that moves 5 km pace most, and it is only worth doing now that you have four weeks of threshold behind you.",
+          "day": 1,
+          "km": 9,
+          "minutes": 50
         }
       ]
     },
@@ -718,7 +767,7 @@
       "sessions": [
         {
           "kind": "cycling",
-          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
+          "label": "OPTIONAL easy spin 45-60 min - Sunday is now a REST day by default. Take the ride only if you feel good and Monday's run is easy. With a quality session on Monday you need this rest more than you need the ride.",
           "day": 0,
           "minutes": 75
         },
@@ -760,6 +809,13 @@
           "kind": "descent",
           "label": "PRECONDITIONING DOWNHILL WALK - 5 minutes, 5.6 kg in the pack, walking DOWN stairs. Lift up, walk down, repeat for 5 min. ~110 m of descent, about 37 flights. One bout cuts strength loss 49%, CK 47%, soreness 66% a week later. Five minutes, in your own building, no travel.",
           "day": 2
+        },
+        {
+          "kind": "easy",
+          "label": "VO2MAX - 5 x 3 min HARD, 2 min jog. Last real speed session before Madeira. If your legs are heavy from Saturday's peak long day, cut to 4 reps - the long day matters more.",
+          "day": 1,
+          "km": 9,
+          "minutes": 50
         }
       ]
     },
@@ -773,7 +829,7 @@
       "sessions": [
         {
           "kind": "cycling",
-          "label": "OPTIONAL easy ride 60-75 min - the day after the long day. Zero impact. THIS IS THE FIRST THING TO CUT when work bites.",
+          "label": "OPTIONAL easy spin 45-60 min - Sunday is now a REST day by default. Take the ride only if you feel good and Monday's run is easy. With a quality session on Monday you need this rest more than you need the ride.",
           "day": 0,
           "minutes": 75
         },
@@ -800,6 +856,13 @@
           "day": 6,
           "minutes": 120,
           "km": 13
+        },
+        {
+          "kind": "easy",
+          "label": "TAPER - 3 x 3 min at VO2max effort, 2 min jog. Short and sharp, keeps the legs awake without costing anything. Do not add reps because you feel good.",
+          "day": 1,
+          "km": 6,
+          "minutes": 35
         }
       ]
     },
