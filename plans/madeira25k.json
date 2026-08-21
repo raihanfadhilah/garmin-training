@@ -386,7 +386,7 @@
         },
         {
           "kind": "easy",
-          "label": "NEW SPEED SLOT - easy 5 km with the LAST 1 KM at threshold effort. Comfortably hard, three or four words at a time, HR around 160-168. One kilometre, that is all. This is a progression run, not an interval session: you get a real quality stimulus for almost no recovery cost, in a week where vertical also goes 45 to 55 min and the long day goes 1:50 to 2:05. Volume is the thing being added this week - the last km is a taste, not the point.",
+          "label": "NEW SPEED SLOT - easy 5 km with the LAST 1 KM at threshold effort. Comfortably hard, three or four words at a time, HR 168-176 (max HR is 200, measured 7 Jun, not the 190 an age formula assumes). One kilometre, that is all. This is a progression run, not an interval session: you get a real quality stimulus for almost no recovery cost, in a week where vertical also goes 45 to 55 min and the long day goes 1:50 to 2:05. Volume is the thing being added this week - the last km is a taste, not the point.",
           "day": 1,
           "km": 5,
           "minutes": 30
@@ -454,7 +454,7 @@
         },
         {
           "kind": "easy",
-          "label": "THRESHOLD 4 x 4 min, 90 s easy jog between. Warm up 10 min, cool down 10 min. Comfortably hard - three or four words at a time, HR roughly 160-168. Your first structured interval session: threshold before VO2max because it recovers faster and you are two weeks into having a third run at all.",
+          "label": "THRESHOLD 4 x 4 min, 90 s easy jog between. Warm up 10 min, cool down 10 min. Comfortably hard - three or four words at a time, HR 168-176 (max HR 200, measured - your easy runs already sit at 161, so 160-168 would not be a stimulus). Your first structured interval session: threshold before VO2max because it recovers faster and you are two weeks into having a third run at all.",
           "day": 1,
           "km": 7,
           "minutes": 45
@@ -568,7 +568,7 @@
         },
         {
           "kind": "easy",
-          "label": "VO2MAX 5 x 3 min HARD, 2 min easy jog. Warm up 10 min, cool down 10 min. Harder than threshold - one word at a time, HR 170-180. Pace off the week 10 TT: roughly your 5 km pace, no faster. THIS IS NOW YOUR ONLY HARD SESSION, so run it properly. It is the single session that most moves 5 km pace, and 5 km pace is what your Hyrox runs are made of.",
+          "label": "VO2MAX 5 x 3 min HARD, 2 min easy jog. Warm up 10 min, cool down 10 min. Harder than threshold - one word at a time, HR 180-190. Pace off the week 10 TT: roughly your 5 km pace, no faster. THIS IS NOW YOUR ONLY HARD SESSION, so run it properly. It is the single session that most moves 5 km pace, and 5 km pace is what your Hyrox runs are made of.",
           "day": 1,
           "km": 9,
           "minutes": 50
