@@ -342,7 +342,7 @@
       "end": "2026-08-29",
       "phase": "Build",
       "down_week": false,
-      "note": "Poles introduced this week. They save little metabolically but cut RPE 14-18% and measurably reduce muscle damage over a climb-and-descent day. Length = 58% of your height = ~93 cm, shorter than a standard fitting. Confirm Ultra X's pole policy.",
+      "note": "Poles introduced this week. They save little metabolically but cut RPE 14-18% and measurably reduce muscle damage over a climb-and-descent day. Length = height x 0.67 = 107 cm, so 105 cm is the correct fit (Mountain King chart: 155-165 cm -> 105 cm). Nobody manufactures 93 cm - 100 cm is the shortest size made. Decathlon only sells 110/120/130, and its own chart puts 155-171 cm on 110, which is also what sub-165 cm coaches actually run. Buy the Kiprun 500 aluminium at 110 cm, EUR 70. Aluminium bends where carbon snaps, which is the right failure mode on wet basalt for a first-time pole user. Ultra X's 2026 race rules contain no restriction on poles.",
       "sessions": [
         {
           "kind": "cycling",
@@ -399,7 +399,7 @@
       "end": "2026-09-05",
       "phase": "Build",
       "down_week": false,
-      "note": "GUT TRAINING STARTS. Target 60-80 g carb/h by week 14, from 40-50 now, +10 g every two weeks. No drop bags and no crew at Madeira - only ~2 checkpoints, ~10 km apart - so you carry 400-500 g of carbohydrate yourself. Rehearse the weight and the stowage, not just the products. INTENSITY STARTS THIS WEEK. Thursday's vertical becomes intervals - the plan had no hard sessions at all through weeks 7-8, which was a gap. Target distribution is 80-85% easy, 15-20% hard, with the hard work on incline.",
+      "note": "GUT TRAINING STARTS. Target 60-80 g carb/h by week 14, from 40-50 now, +10 g every two weeks. No drop bags and no crew at Madeira - only ~2 checkpoints, ~10 km apart - so you carry 400-500 g of carbohydrate yourself. Rehearse the weight and the stowage, not just the products. INTENSITY STARTS THIS WEEK, on flat ground: Thursday's vertical stays STEADY because Hyrox is 8 x 1 km flat and stair fitness does not transfer. Target distribution is 80-85% easy, 15-20% hard. ORDER CHANGED 31 Aug - threshold Mon -> Tue, legs Tue -> Wed, easy run + push Wed -> Mon. Reason is measurement, not fatigue: resting HR was 55 against a 50-52 baseline and HRV 78 against an 89 weekly average, which distorts the HR-work relationship in both directions. This is the first structured interval session of the block and its job is to establish what threshold feels like - a reference set on a distorted day gets trained off for weeks. Load is unchanged: three runs, two gym sessions, one vertical, one rest day, Friday still free. Legs on Wednesday keeps 72 h before the long day, the outer edge of the 48-72 h rule. Push stays paired with the easy run, pull with the vertical. STOPPING RULE: the threshold session happens Tuesday regardless of readiness unless sleep is under 6 h or HRV drops below 70.",
       "sessions": [
         {
           "kind": "cycling",
@@ -410,18 +410,18 @@
         {
           "kind": "easy",
           "label": "Easy run 7 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
-          "day": 3,
+          "day": 1,
           "km": 7
         },
         {
           "kind": "push",
           "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed.",
-          "day": 3
+          "day": 1
         },
         {
           "kind": "legs",
           "label": "Legs ONLY, no upper - heavy eccentric. Three quad lifts doing three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 85 kg (18 Aug: 75x6x3 with 4+ reps in reserve, so 1RM is nearer 100 - autoregulate to 2 REPS IN RESERVE and add 5 kg when the last set still feels easy), LOADED UNILATERAL Bulgarian split squat 3 x 8/leg with dumbbells, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg with 3-4 s lowering. Then Nordics 3 x 5 and single-leg calf raises. Never to failure. 48-72 h before the long day. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphill (very large effect), so descending is a frontal-plane hip problem and not only a quad problem - loaded Bulgarians carry that demand, which is why standalone side planks and cable abduction came out. HYROX SLED TECHNIQUE at the end, 8-10 x 12.5 m at 50-65% load (~100 kg), 60-90 s rest. TECHNIQUE ONLY, never to fatigue. Forearms hooked on the posts, 30-45 deg lean, short choppy steps 20-30 cm at 3-4 per second, and never let the sled stop. Sled push is PURELY CONCENTRIC, so it costs your descent block nothing - which is why it is the one Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of horizontal force to break a stationary sled versus 0.81x to keep one rolling, so learning not to stop is worth more to you than to anyone heavier. About 8 minutes.",
-          "day": 2
+          "day": 3
         },
         {
           "kind": "vertical",
@@ -455,7 +455,7 @@
         {
           "kind": "easy",
           "label": "THRESHOLD 4 x 4 min, 90 s easy jog between. Warm up 10 min, cool down 10 min. Comfortably hard - three or four words at a time, HR 168-176 (max HR 200, measured - your easy runs already sit at 161, so 160-168 would not be a stimulus). Your first structured interval session: threshold before VO2max because it recovers faster and you are two weeks into having a third run at all.",
-          "day": 1,
+          "day": 2,
           "km": 7,
           "minutes": 45
         }
