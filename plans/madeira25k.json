@@ -467,7 +467,7 @@
       "end": "2026-09-12",
       "phase": "Build",
       "down_week": true,
-      "note": "Cutback. Deliberate, and the reason matters: in trail runners, injury weeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading, not absolute load, is what precedes injury. This dip is planned and the rebound is controlled. RESHUFFLED 6 Sep: time trial held on Monday (Sunday is a full rest day, which is the setup a TT wants - 9.6 h sleep and HRV 98 the night before), pull moved to Tuesday as the recovery day, legs to Wednesday, easy 5 km to Friday, and Thursday's stairwell session replaced by casual football. Three runs held: TT, Friday easy, Saturday long. Push moved Wednesday -> Tuesday: Tuesday is now a single upper day and Wednesday is legs only.",
+      "note": "Cutback. Deliberate, and the reason matters: in trail runners, injury weeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading, not absolute load, is what precedes injury. This dip is planned and the rebound is controlled. RESHUFFLED 6 Sep: time trial held on Monday (Sunday is a full rest day, which is the setup a TT wants - 9.6 h sleep and HRV 98 the night before), pull moved to Tuesday as the recovery day, legs to Wednesday, easy 5 km to Friday, and Thursday's stairwell session replaced by casual football. Three runs held: TT, Friday easy, Saturday long. Push moved Wednesday -> Tuesday: Tuesday is now a single upper day and Wednesday is legs only. Easy run moved Friday -> Tuesday to sit directly after the time trial: hard/easy back to back for the train-low effect, and it moves run #3 out of the post-football Friday slot that has been the one getting skipped. Friday is now empty, which is the better setup for Saturday.",
       "sessions": [
         {
           "kind": "cycling",
@@ -477,8 +477,8 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
-          "day": 5,
+          "label": "Easy run 5 km (talk test) - THE DAY AFTER THE TIME TRIAL, deliberately. This is the one easy run in the week that does more than add volume: you start it with glycogen partially depleted from Monday, and mitochondrial signalling is amplified when a session begins in that state. Do NOT carb-load for it - a light breakfast or fasted is the point. Eat normally the rest of the day and eat properly after Monday's TT; train-low applies to the session, not the day. Keep it genuinely easy, HR under 155, it is not a workout. NO STRIDES - nothing sharp two days after a max effort. Run first, upper session later.",
+          "day": 2,
           "km": 5
         },
         {
