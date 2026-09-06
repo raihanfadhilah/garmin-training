@@ -524,7 +524,7 @@
       "end": "2026-09-19",
       "phase": "Build",
       "down_week": false,
-      "note": "TERRAIN WEEKEND #1 of 2 - Posbank/Veluwezoom, ~1h15 by car, ~EUR 30 of petrol. Hard-surface descents, 90-110 m climbs. Twenty reps is 1,800 m of real ascent AND descent. One day there beats ten stairwell sessions, because sand is compliant and actually REDUCES muscle damage relative to firm ground. Madeira is rock and stone steps.",
+      "note": "TERRAIN WEEKEND #1 of 2 - Posbank/Veluwezoom, ~1h15 by car, ~EUR 30 of petrol. Hard-surface descents, 90-110 m climbs. Twenty reps is 1,800 m of real ascent AND descent. One day there beats ten stairwell sessions, because sand is compliant and actually REDUCES muscle damage relative to firm ground. Madeira is rock and stone steps. REVISED 6 Sep: this was the highest-risk week in the plan - VO2max, heavy eccentric legs, 70 min of stairs and a 2:35/900 m long day, all landing off a 14.9 km week. Thursday's stairs cut 70 -> 50 min and the long day 900 -> 800 m, taking weekly vertical from 1,740 m to ~1,300 m. Running kilometres are unchanged at 33: that equals a week already completed on 24 August, and percentage progression rules mislead at 20-35 km/wk where a 10% step is 2 km.",
       "sessions": [
         {
           "kind": "cycling",
@@ -550,9 +550,9 @@
         },
         {
           "kind": "vertical",
-          "label": "VERTICAL 70 min STEADY - stairwell, your own building or a car park. ~19 x 15 floors, about 840 m. Lift up, WALK DOWN - the descent is the point. NO INTERVALS: the hard session moved to Monday on flat ground, because Hyrox is 8 x 1 km on the flat and stair fitness does not transfer to flat running economy. This is now climbing endurance for Madeira - steady, conversational, just keep moving. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
+          "label": "VERTICAL 50 min STEADY - stairwell, your own building or a car park. WALK UP, LIFT DOWN. This is a CLIMBING session and the descent is NOT the point: riding down keeps the eccentric cost at zero, which is deliberate, because the descent stimulus is dosed separately on Tuesdays. Target ~500 m, about 11 x 15 floors, at roughly 600 m/h including lift transitions - already about twice Madeira's race climb rate of ~310 m/h, so it should feel steady and conversational, not hard. TIME IS THE PRESCRIPTION and vertical is only the check: finishing near 400 m is fine, do not chase the number by rushing the climbs. NO INTERVALS - the hard session is on Monday on flat ground, because Hyrox is 8 x 1 km flat and stair fitness does not transfer to flat running economy. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
           "day": 4,
-          "minutes": 70
+          "minutes": 50
         },
         {
           "kind": "pull",
@@ -561,10 +561,10 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 2:35, 900 m vert - Posbank if possible, descents on hard surface DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it.",
+          "label": "LONG DAY 2:30, 800 m vert - trimmed from 2:35/900 m. Your best long-day vertical ever is 118 m, so week 10's 600 m is already a five-fold jump; 800 m here keeps the ladder at 600 -> 800 -> 1,100 instead of a 50% step onto ground you have never covered - Posbank if possible, descents on hard surface DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it.",
           "day": 6,
-          "minutes": 155,
-          "km": 17
+          "minutes": 150,
+          "km": 16
         },
         {
           "kind": "easy",
@@ -607,7 +607,7 @@
         },
         {
           "kind": "vertical",
-          "label": "VERTICAL 75 min STEADY - stairwell, your own building or a car park. ~20 x 15 floors, about 900 m. Lift up, WALK DOWN - the descent is the point. NO INTERVALS: the hard session moved to Monday on flat ground, because Hyrox is 8 x 1 km on the flat and stair fitness does not transfer to flat running economy. This is now climbing endurance for Madeira - steady, conversational, just keep moving. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
+          "label": "VERTICAL 75 min STEADY - stairwell, your own building or a car park. WALK UP, LIFT DOWN. This is a CLIMBING session and the descent is NOT the point: riding down keeps the eccentric cost at zero, which is deliberate, because the descent stimulus is dosed separately on Tuesdays. Target ~750 m, about 17 x 15 floors, at roughly 600 m/h including lift transitions - already about twice Madeira's race climb rate of ~310 m/h, so it should feel steady and conversational, not hard. TIME IS THE PRESCRIPTION and vertical is only the check: finishing near 600 m is fine, do not chase the number by rushing the climbs. NO INTERVALS - the hard session is on Monday on flat ground, because Hyrox is 8 x 1 km flat and stair fitness does not transfer to flat running economy. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
           "day": 4,
           "minutes": 75
         },
@@ -675,7 +675,7 @@
         },
         {
           "kind": "vertical",
-          "label": "VERTICAL 45 min - STAIRWELL, your own building or a car park. ~12 x 15 floors, about 540 m. Lift up, WALK DOWN - the descent is the point. Dutch stair pitch is 30-33 deg, inside the optimal climbing range, and Madeira is full of stone staircases. Zero travel, weather-proof.",
+          "label": "VERTICAL 45 min STEADY - stairwell, your own building or a car park. WALK UP, LIFT DOWN. This is a CLIMBING session and the descent is NOT the point: riding down keeps the eccentric cost at zero, which is deliberate, because the descent stimulus is dosed separately on Tuesdays. Target ~450 m, about 10 x 15 floors, at roughly 600 m/h including lift transitions - already about twice Madeira's race climb rate of ~310 m/h, so it should feel steady and conversational, not hard. TIME IS THE PRESCRIPTION and vertical is only the check: finishing near 360 m is fine, do not chase the number by rushing the climbs. NO INTERVALS - the hard session is on Monday on flat ground, because Hyrox is 8 x 1 km flat and stair fitness does not transfer to flat running economy. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
           "day": 4,
           "minutes": 45
         },
@@ -732,7 +732,7 @@
         },
         {
           "kind": "vertical",
-          "label": "VERTICAL 80 min STEADY - stairwell, your own building or a car park. ~21 x 15 floors, about 960 m. Lift up, WALK DOWN - the descent is the point. NO INTERVALS: the hard session moved to Monday on flat ground, because Hyrox is 8 x 1 km on the flat and stair fitness does not transfer to flat running economy. This is now climbing endurance for Madeira - steady, conversational, just keep moving. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
+          "label": "VERTICAL 80 min STEADY - stairwell, your own building or a car park. WALK UP, LIFT DOWN. This is a CLIMBING session and the descent is NOT the point: riding down keeps the eccentric cost at zero, which is deliberate, because the descent stimulus is dosed separately on Tuesdays. Target ~800 m, about 18 x 15 floors, at roughly 600 m/h including lift transitions - already about twice Madeira's race climb rate of ~310 m/h, so it should feel steady and conversational, not hard. TIME IS THE PRESCRIPTION and vertical is only the check: finishing near 640 m is fine, do not chase the number by rushing the climbs. NO INTERVALS - the hard session is on Monday on flat ground, because Hyrox is 8 x 1 km flat and stair fitness does not transfer to flat running economy. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
           "day": 4,
           "minutes": 80
         },
@@ -789,7 +789,7 @@
         },
         {
           "kind": "vertical",
-          "label": "VERTICAL 80 min STEADY - stairwell, your own building or a car park. ~21 x 15 floors, about 960 m. Lift up, WALK DOWN - the descent is the point. NO INTERVALS: the hard session moved to Monday on flat ground, because Hyrox is 8 x 1 km on the flat and stair fitness does not transfer to flat running economy. This is now climbing endurance for Madeira - steady, conversational, just keep moving. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
+          "label": "VERTICAL 80 min STEADY - stairwell, your own building or a car park. WALK UP, LIFT DOWN. This is a CLIMBING session and the descent is NOT the point: riding down keeps the eccentric cost at zero, which is deliberate, because the descent stimulus is dosed separately on Tuesdays. Target ~800 m, about 18 x 15 floors, at roughly 600 m/h including lift transitions - already about twice Madeira's race climb rate of ~310 m/h, so it should feel steady and conversational, not hard. TIME IS THE PRESCRIPTION and vertical is only the check: finishing near 640 m is fine, do not chase the number by rushing the climbs. NO INTERVALS - the hard session is on Monday on flat ground, because Hyrox is 8 x 1 km flat and stair fitness does not transfer to flat running economy. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
           "day": 4,
           "minutes": 80
         },
@@ -846,7 +846,7 @@
         },
         {
           "kind": "vertical",
-          "label": "VERTICAL 40 min - STAIRWELL, your own building or a car park. ~11 x 15 floors, about 495 m. Lift up, WALK DOWN - the descent is the point. Dutch stair pitch is 30-33 deg, inside the optimal climbing range, and Madeira is full of stone staircases. Zero travel, weather-proof.",
+          "label": "VERTICAL 40 min STEADY - stairwell, your own building or a car park. WALK UP, LIFT DOWN. This is a CLIMBING session and the descent is NOT the point: riding down keeps the eccentric cost at zero, which is deliberate, because the descent stimulus is dosed separately on Tuesdays. Target ~400 m, about 9 x 15 floors, at roughly 600 m/h including lift transitions - already about twice Madeira's race climb rate of ~310 m/h, so it should feel steady and conversational, not hard. TIME IS THE PRESCRIPTION and vertical is only the check: finishing near 320 m is fine, do not chase the number by rushing the climbs. NO INTERVALS - the hard session is on Monday on flat ground, because Hyrox is 8 x 1 km flat and stair fitness does not transfer to flat running economy. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
           "day": 4,
           "minutes": 40
         },
