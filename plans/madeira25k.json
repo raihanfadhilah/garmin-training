@@ -467,7 +467,7 @@
       "end": "2026-09-12",
       "phase": "Build",
       "down_week": true,
-      "note": "Cutback. Deliberate, and the reason matters: in trail runners, injury weeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading, not absolute load, is what precedes injury. This dip is planned and the rebound is controlled. RESHUFFLED 6 Sep: time trial held on Monday (Sunday is a full rest day, which is the setup a TT wants - 9.6 h sleep and HRV 98 the night before), pull moved to Tuesday as the recovery day, legs to Wednesday, easy 5 km to Friday, and Thursday's stairwell session replaced by casual football. Three runs held: TT, Friday easy, Saturday long.",
+      "note": "Cutback. Deliberate, and the reason matters: in trail runners, injury weeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading, not absolute load, is what precedes injury. This dip is planned and the rebound is controlled. RESHUFFLED 6 Sep: time trial held on Monday (Sunday is a full rest day, which is the setup a TT wants - 9.6 h sleep and HRV 98 the night before), pull moved to Tuesday as the recovery day, legs to Wednesday, easy 5 km to Friday, and Thursday's stairwell session replaced by casual football. Three runs held: TT, Friday easy, Saturday long. Push moved Wednesday -> Tuesday: Tuesday is now a single upper day and Wednesday is legs only.",
       "sessions": [
         {
           "kind": "cycling",
@@ -483,8 +483,8 @@
         },
         {
           "kind": "push",
-          "label": "Push (upper) - stacked with legs on Wednesday. The easy run moved to Friday, so this is a pure strength day: legs first while fresh, push after.",
-          "day": 3
+          "label": "Push (upper) - TUESDAY, paired with pull as a single UPPER DAY. Legs do nothing either way, so it doubles as the time-trial recovery day and it leaves Wednesday as a short, focused legs session 24 h before football. Upper/lower beats push/pull/legs on real-world adherence and the strength difference is 3-4% once adherence is controlled, which is noise - the split that actually gets done wins.",
+          "day": 2
         },
         {
           "kind": "legs",
