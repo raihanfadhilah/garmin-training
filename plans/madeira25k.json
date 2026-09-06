@@ -477,9 +477,10 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km (talk test) - THE DAY AFTER THE TIME TRIAL, deliberately. This is the one easy run in the week that does more than add volume: you start it with glycogen partially depleted from Monday, and mitochondrial signalling is amplified when a session begins in that state. Do NOT carb-load for it - a light breakfast or fasted is the point. Eat normally the rest of the day and eat properly after Monday's TT; train-low applies to the session, not the day. Keep it genuinely easy, HR under 155, it is not a workout. NO STRIDES - nothing sharp two days after a max effort. Tuesday is this run and nothing else.",
+          "label": "Easy run 35 MIN (talk test) - THE DAY AFTER THE TIME TRIAL, deliberately. This is the one easy run in the week that does more than add volume: you start it with glycogen partially depleted from Monday, and mitochondrial signalling is amplified when a session begins in that state. Do NOT carb-load for it - a light breakfast or fasted is the point. Eat normally the rest of the day and eat properly after Monday's TT; train-low applies to the session, not the day. Keep it genuinely easy, HR under 155, it is not a workout. NO STRIDES - nothing sharp two days after a max effort. Tuesday is this run and nothing else. PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards.",
           "day": 2,
-          "km": 5
+          "km": 4.8,
+          "minutes": 35
         },
         {
           "kind": "push",
@@ -498,7 +499,7 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 2:00, 600 m vert - upgraded from 1:30/400 m. This is the bridge in the vertical ladder: 600 m here keeps week 11's 800 m at +33% rather than a jump off 400 m. It is also five times your best long-day vertical ever (118 m), so the vertical is the session - the kilometres are incidental. Expect legs 36 h off an hour of football, so start conservatively and let the vertical, not the pace, be the target. Floor is 500 m if Friday feels rough.",
+          "label": "LONG DAY 2:00, 500 m vert - upgraded from 1:30/400 m. This is the bridge in the vertical ladder: 600 m here keeps week 11's 800 m at +33% rather than a jump off 400 m. It is also five times your best long-day vertical ever (118 m), so the vertical is the session - the kilometres are incidental. Expect legs 36 h off an hour of football, so start conservatively and let the vertical, not the pace, be the target. Floor is 500 m if Friday feels rough.",
           "day": 6,
           "minutes": 120,
           "km": 13
@@ -515,6 +516,12 @@
           "day": 4,
           "minutes": 60,
           "label": "FOOTBALL 21:00 - casual 8-a-side, 1 hour. This REPLACES the 40 min stairwell session; do not do both. The vertical that builds toward Madeira is the long day's, not this one, and cutting it in a down week does not touch the Saturday-to-Saturday ladder. Warm up properly before kick-off - the cutting and decelerating is the highest acute injury risk in your week and an ankle ends the race. Finish 22:00, eat, bed by midnight: Saturday's long day is 36 h later, right through the DOMS peak."
+        },
+        {
+          "kind": "descent",
+          "day": 2,
+          "minutes": 5,
+          "label": "DESCENT LADDER - 5 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 110 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for."
         }
       ]
     },
@@ -534,9 +541,10 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 7 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "label": "Easy run 50 MIN (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout) PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards.",
           "day": 3,
-          "km": 7
+          "km": 6.8,
+          "minutes": 50
         },
         {
           "kind": "push",
@@ -561,7 +569,7 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 2:30, 800 m vert - trimmed from 2:35/900 m. Your best long-day vertical ever is 118 m, so week 10's 600 m is already a five-fold jump; 800 m here keeps the ladder at 600 -> 800 -> 1,100 instead of a 50% step onto ground you have never covered - Posbank if possible, descents on hard surface DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it.",
+          "label": "LONG DAY 2:30, 600 m vert - trimmed from 2:35/900 m. Your best long-day vertical ever is 118 m, so week 10's 600 m is already a five-fold jump; 800 m here keeps the ladder at 600 -> 800 -> 1,100 instead of a 50% step onto ground you have never covered - Posbank if possible, descents on hard surface DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it.",
           "day": 6,
           "minutes": 150,
           "km": 16
@@ -572,6 +580,12 @@
           "day": 1,
           "km": 9,
           "minutes": 50
+        },
+        {
+          "kind": "descent",
+          "day": 2,
+          "minutes": 8,
+          "label": "DESCENT LADDER - 8 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 176 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for."
         }
       ]
     },
@@ -591,9 +605,10 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 7 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "label": "Easy run 50 MIN (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout) PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards.",
           "day": 3,
-          "km": 7
+          "km": 6.8,
+          "minutes": 50
         },
         {
           "kind": "push",
@@ -618,7 +633,7 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 2:55, 1,100 m vert, full kit, poles, 60 g/h DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it.",
+          "label": "LONG DAY 2:55, 700 m vert, full kit, poles, 60 g/h DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it. POSBANK - MANDATORY. Stairs and the StairMaster give you climbing and zero descent, and vertical stepping does not transfer to running mechanics. This is one of only three sessions in the block where you actually run downhill on terrain. Do not substitute it.",
           "day": 6,
           "minutes": 175,
           "km": 19
@@ -631,8 +646,9 @@
         },
         {
           "kind": "descent",
-          "label": "PRECONDITIONING DOWNHILL WALK - 5 minutes, 5.6 kg in the pack, walking DOWN stairs. Lift up, walk down, repeat for 5 min. ~110 m of descent, about 37 flights. One bout cuts strength loss 49%, CK 47%, soreness 66% a week later. Five minutes, in your own building, no travel.",
-          "day": 2
+          "label": "DESCENT LADDER - 12 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 264 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for.",
+          "day": 2,
+          "minutes": 12
         },
         {
           "kind": "easy",
@@ -659,9 +675,10 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 6 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "label": "Easy run 45 MIN (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout) PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards.",
           "day": 3,
-          "km": 6
+          "km": 6.2,
+          "minutes": 45
         },
         {
           "kind": "push",
@@ -686,7 +703,7 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 2:00, 600 m vert",
+          "label": "LONG DAY 2:00, 500 m vert",
           "day": 6,
           "minutes": 120,
           "km": 13
@@ -697,6 +714,12 @@
           "day": 1,
           "km": 7,
           "minutes": 40
+        },
+        {
+          "kind": "descent",
+          "day": 2,
+          "minutes": 10,
+          "label": "DESCENT LADDER - 10 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 220 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for."
         }
       ]
     },
@@ -716,9 +739,10 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 7 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "label": "Easy run 55 MIN (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout) PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards.",
           "day": 3,
-          "km": 7
+          "km": 7.5,
+          "minutes": 55
         },
         {
           "kind": "push",
@@ -743,7 +767,7 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 3:20, 1,400 m vert - Posbank, hard-surface descents, full kit, poles, race fuelling. Switch from DIY mix to race gels this week: everything you carry now must be labelled.",
+          "label": "LONG DAY 3:20, 850 m vert - Posbank, hard-surface descents, full kit, poles, race fuelling. Switch from DIY mix to race gels this week: everything you carry now must be labelled. POSBANK - MANDATORY. Stairs and the StairMaster give you climbing and zero descent, and vertical stepping does not transfer to running mechanics. This is one of only three sessions in the block where you actually run downhill on terrain. Do not substitute it.",
           "day": 6,
           "minutes": 200,
           "km": 21
@@ -754,6 +778,12 @@
           "day": 1,
           "km": 10,
           "minutes": 55
+        },
+        {
+          "kind": "descent",
+          "day": 2,
+          "minutes": 16,
+          "label": "DESCENT LADDER - 16 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 352 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for."
         }
       ]
     },
@@ -773,9 +803,10 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 7 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "label": "Easy run 50 MIN (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout) PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards.",
           "day": 3,
-          "km": 7
+          "km": 6.8,
+          "minutes": 50
         },
         {
           "kind": "push",
@@ -800,15 +831,16 @@
         },
         {
           "kind": "long",
-          "label": "PEAK LONG DAY 3:45-4:00, 1,600-1,800 m vert. Race kit, poles, race fuelling, race shoes. Alternate 20-25 min climbing with 15-20 min flat to rehearse the sawtooth. DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it.",
+          "label": "PEAK LONG DAY 3:45-4:00, 1000 m vert. Race kit, poles, race fuelling, race shoes. Alternate 20-25 min climbing with 15-20 min flat to rehearse the sawtooth. DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it. POSBANK - MANDATORY. Stairs and the StairMaster give you climbing and zero descent, and vertical stepping does not transfer to running mechanics. This is one of only three sessions in the block where you actually run downhill on terrain. Do not substitute it.",
           "day": 6,
           "minutes": 225,
           "km": 24
         },
         {
           "kind": "descent",
-          "label": "PRECONDITIONING DOWNHILL WALK - 5 minutes, 5.6 kg in the pack, walking DOWN stairs. Lift up, walk down, repeat for 5 min. ~110 m of descent, about 37 flights. One bout cuts strength loss 49%, CK 47%, soreness 66% a week later. Five minutes, in your own building, no travel.",
-          "day": 2
+          "label": "DESCENT LADDER - 20 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 440 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for. FINAL HARD DESCENT BOUT - this is the last one that matters. Two weeks out is the timing the evidence gives: long enough to recover, close enough that the repeated-bout protection is still live on race day.",
+          "day": 2,
+          "minutes": 20
         },
         {
           "kind": "easy",
@@ -835,9 +867,10 @@
         },
         {
           "kind": "easy",
-          "label": "Easy 6 km + 5 x 3 min at race-uphill effort on 10-12% incline + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
+          "label": "Easy run 40 MIN - Easy 6 km + 5 x 3 min at race-uphill effort on 10-12% incline + 6-8 x 20 s strides after (relaxed, full recovery, not a workout) PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards.",
           "day": 3,
-          "km": 6
+          "km": 5.3,
+          "minutes": 40
         },
         {
           "kind": "push",
@@ -852,17 +885,23 @@
         },
         {
           "kind": "long",
-          "label": "LAST LONG SESSION 2:00, 600-800 m vert, race kit and shoes, ~20 min of downhill",
+          "label": "LAST LONG SESSION 2:00, 500 m vert, race kit and shoes, ~20 min of downhill",
           "day": 6,
           "minutes": 120,
-          "km": 13
+          "km": 12.5
         },
         {
           "kind": "easy",
-          "label": "TAPER - 3 x 3 min at VO2max effort, 2 min jog, then 4 x 20 s strides. Short and sharp. Do not add reps because you feel fresh - feeling fresh is the taper working.",
+          "label": "Easy run 40 MIN - TAPER - 3 x 3 min at VO2max effort, 2 min jog, then 4 x 20 s strides. Short and sharp. Do not add reps because you feel fresh - feeling fresh is the taper working. PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards.",
           "day": 1,
-          "km": 6,
-          "minutes": 35
+          "km": 5.3,
+          "minutes": 40
+        },
+        {
+          "kind": "descent",
+          "day": 2,
+          "minutes": 6,
+          "label": "DESCENT LADDER - 6 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 132 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for. PRIMER ONLY, not a session - keep it short and unloaded-feeling. The protective work is already done."
         }
       ]
     },
@@ -876,21 +915,29 @@
       "sessions": [
         {
           "kind": "easy",
-          "label": "Easy shakeout 5 km",
+          "label": "Easy run 50 MIN - race week. Volume is down 59% from the week 15 peak, which is the middle of the 41-60% band the taper meta-analysis supports, and FREQUENCY IS HELD AT THREE because cutting frequency is the one thing the evidence says not to do. Keep the intensity, lose the volume.",
           "day": 1,
-          "km": 5
+          "km": 7.0,
+          "minutes": 50
         },
         {
           "kind": "strides",
           "label": "Easy 3-4 km + 4 x 90 s at race-climb effort. Do not skip this.",
           "day": 3,
-          "km": 4
+          "km": 5
         },
         {
           "kind": "race",
           "label": "RACE - Ultra X Madeira 25K - Sao Jorge to Machico - 2,003 m D+/D- - START 11:00 - cut-off 11.5 h - target 6:15-6:45 - HEADTORCH MANDATORY",
           "day": 7,
           "km": 25
+        },
+        {
+          "kind": "easy",
+          "day": 5,
+          "km": 4.0,
+          "minutes": 30,
+          "label": "SHAKEOUT 30 MIN easy, two days out. This run exists to hold taper frequency at three, not to add fitness - nothing is gained after this point and plenty can be lost. Flat, conversational, no strides, no hills. Travel day if you are flying Friday: do it before the airport."
         }
       ]
     }
