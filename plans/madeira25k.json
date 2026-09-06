@@ -467,7 +467,7 @@
       "end": "2026-09-12",
       "phase": "Build",
       "down_week": true,
-      "note": "Cutback. Deliberate, and the reason matters: in trail runners, injury weeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading, not absolute load, is what precedes injury. This dip is planned and the rebound is controlled. RESHUFFLED 6 Sep: time trial held on Monday (Sunday is a full rest day, which is the setup a TT wants - 9.6 h sleep and HRV 98 the night before), pull moved to Tuesday as the recovery day, legs to Wednesday, easy 5 km to Friday, and Thursday's stairwell session replaced by casual football. Three runs held: TT, Friday easy, Saturday long. Push moved Wednesday -> Tuesday: Tuesday is now a single upper day and Wednesday is legs only. Easy run moved Friday -> Tuesday to sit directly after the time trial: hard/easy back to back for the train-low effect, and it moves run #3 out of the post-football Friday slot that has been the one getting skipped. Friday is now empty, which is the better setup for Saturday.",
+      "note": "Cutback. Deliberate, and the reason matters: in trail runners, injury weeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading, not absolute load, is what precedes injury. This dip is planned and the rebound is controlled. RESHUFFLED 6 Sep: time trial held on Monday (Sunday is a full rest day, which is the setup a TT wants - 9.6 h sleep and HRV 98 the night before), pull moved to Tuesday as the recovery day, legs to Wednesday, easy 5 km to Friday, and Thursday's stairwell session replaced by casual football. Three runs held: TT, Friday easy, Saturday long. Push moved Wednesday -> Tuesday: Tuesday is now a single upper day and Wednesday is legs only. Easy run moved Friday -> Tuesday to sit directly after the time trial: hard/easy back to back for the train-low effect, and it moves run #3 out of the post-football Friday slot that has been the one getting skipped. Friday is now empty, which is the better setup for Saturday. Upper moved Tuesday -> Thursday morning: Tuesday is now the easy run alone, and the upper session sits ~12 h before football on legs it does not touch.",
       "sessions": [
         {
           "kind": "cycling",
@@ -477,14 +477,14 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km (talk test) - THE DAY AFTER THE TIME TRIAL, deliberately. This is the one easy run in the week that does more than add volume: you start it with glycogen partially depleted from Monday, and mitochondrial signalling is amplified when a session begins in that state. Do NOT carb-load for it - a light breakfast or fasted is the point. Eat normally the rest of the day and eat properly after Monday's TT; train-low applies to the session, not the day. Keep it genuinely easy, HR under 155, it is not a workout. NO STRIDES - nothing sharp two days after a max effort. Run first, upper session later.",
+          "label": "Easy run 5 km (talk test) - THE DAY AFTER THE TIME TRIAL, deliberately. This is the one easy run in the week that does more than add volume: you start it with glycogen partially depleted from Monday, and mitochondrial signalling is amplified when a session begins in that state. Do NOT carb-load for it - a light breakfast or fasted is the point. Eat normally the rest of the day and eat properly after Monday's TT; train-low applies to the session, not the day. Keep it genuinely easy, HR under 155, it is not a workout. NO STRIDES - nothing sharp two days after a max effort. Tuesday is this run and nothing else.",
           "day": 2,
           "km": 5
         },
         {
           "kind": "push",
-          "label": "Push (upper) - TUESDAY, paired with pull as a single UPPER DAY. Legs do nothing either way, so it doubles as the time-trial recovery day and it leaves Wednesday as a short, focused legs session 24 h before football. Upper/lower beats push/pull/legs on real-world adherence and the strength difference is 3-4% once adherence is controlled, which is noise - the split that actually gets done wins.",
-          "day": 2
+          "label": "Push (upper) - THURSDAY MORNING with pull as one upper day. Upper work does not touch the legs, so it is free before evening football and free before Saturday. This keeps every day in the week to a single focus: Monday run, Tuesday run, Wednesday legs, Thursday upper plus football, Friday empty, Saturday long.",
+          "day": 4
         },
         {
           "kind": "legs",
@@ -493,8 +493,8 @@
         },
         {
           "kind": "pull",
-          "label": "Pull (upper) - TUESDAY, the day after the time trial. Upper body only, so it doubles as the recovery day - legs do nothing. Keep the SkiErg/rower warm-up easy, technique only. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 3 x max. Baseline 20 Aug was 32/36/31 s, so 90 s by October was never realistic: target 55-60 s by 1 Nov and 90 s by Hyrox in January. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
-          "day": 2
+          "label": "Pull (upper) - THURSDAY MORNING, paired with push as a single upper day, ~12 h before football. Different muscle groups entirely, so it costs the game nothing and the gym trip is the only one you make that day. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 3 x max. Baseline 20 Aug was 32/36/31 s, so 90 s by October was never realistic: target 55-60 s by 1 Nov and 90 s by Hyrox in January. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
+          "day": 4
         },
         {
           "kind": "long",
