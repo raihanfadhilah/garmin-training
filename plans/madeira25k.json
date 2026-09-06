@@ -467,7 +467,7 @@
       "end": "2026-09-12",
       "phase": "Build",
       "down_week": true,
-      "note": "Cutback. Deliberate, and the reason matters: in trail runners, injury weeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading, not absolute load, is what precedes injury. This dip is planned and the rebound is controlled. RESHUFFLED 6 Sep: time trial moved Monday -> Tuesday (Saturday's 54 km ride made Monday unusable), pull moved to Monday, legs to Wednesday, easy 5 km to Friday, and Thursday's stairwell session replaced by casual football. Three runs held: TT, Friday easy, Saturday long.",
+      "note": "Cutback. Deliberate, and the reason matters: in trail runners, injury weeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading, not absolute load, is what precedes injury. This dip is planned and the rebound is controlled. RESHUFFLED 6 Sep: time trial held on Monday (Sunday is a full rest day, which is the setup a TT wants - 9.6 h sleep and HRV 98 the night before), pull moved to Tuesday as the recovery day, legs to Wednesday, easy 5 km to Friday, and Thursday's stairwell session replaced by casual football. Three runs held: TT, Friday easy, Saturday long.",
       "sessions": [
         {
           "kind": "cycling",
@@ -493,8 +493,8 @@
         },
         {
           "kind": "pull",
-          "label": "Pull (upper) - MONDAY, 24 h before the time trial. Upper body only, so it costs the TT nothing - but keep the SkiErg/rower warm-up to the 5-8 min technique version, easy: it is the one leg-driven piece in the session. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 3 x max. Baseline 20 Aug was 32/36/31 s, so 90 s by October was never realistic: target 55-60 s by 1 Nov and 90 s by Hyrox in January. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
-          "day": 1
+          "label": "Pull (upper) - TUESDAY, the day after the time trial. Upper body only, so it doubles as the recovery day - legs do nothing. Keep the SkiErg/rower warm-up easy, technique only. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 3 x max. Baseline 20 Aug was 32/36/31 s, so 90 s by October was never realistic: target 55-60 s by 1 Nov and 90 s by Hyrox in January. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
+          "day": 2
         },
         {
           "kind": "long",
@@ -506,7 +506,7 @@
         {
           "kind": "benchmark",
           "label": "5 KM TIME TRIAL - the number this whole plan has been missing. Warm up 10-15 min easy + 4-6 x 20 s strides + 3-4 min rest. Then 5 km flat, hard as you can SUSTAIN. Go out at 5:15/km and hold, check in at 2 km, kick from 4 km. Do NOT start at 4:40 - a blown TT gives an unusable number. Flat, no lights, no turns: Vondelpark outer loop or the Amstel. Auto-lap every 1 km. Down week with Sunday rest behind you.",
-          "day": 2,
+          "day": 1,
           "km": 5,
           "minutes": 45
         },
