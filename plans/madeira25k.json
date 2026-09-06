@@ -467,7 +467,7 @@
       "end": "2026-09-12",
       "phase": "Build",
       "down_week": true,
-      "note": "Cutback. Deliberate, and the reason matters: in trail runners, injury weeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading, not absolute load, is what precedes injury. This dip is planned and the rebound is controlled.",
+      "note": "Cutback. Deliberate, and the reason matters: in trail runners, injury weeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading, not absolute load, is what precedes injury. This dip is planned and the rebound is controlled. RESHUFFLED 6 Sep: time trial moved Monday -> Tuesday (Saturday's 54 km ride made Monday unusable), pull moved to Monday, legs to Wednesday, easy 5 km to Friday, and Thursday's stairwell session replaced by casual football. Three runs held: TT, Friday easy, Saturday long.",
       "sessions": [
         {
           "kind": "cycling",
@@ -478,43 +478,43 @@
         {
           "kind": "easy",
           "label": "Easy run 5 km (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout)",
-          "day": 3,
+          "day": 5,
           "km": 5
         },
         {
           "kind": "push",
-          "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed.",
+          "label": "Push (upper) - stacked with legs on Wednesday. The easy run moved to Friday, so this is a pure strength day: legs first while fresh, push after.",
           "day": 3
         },
         {
           "kind": "legs",
           "label": "Legs ONLY, no upper - maintenance. Volume down, load held at 80%+ 1RM. HYROX SLED TECHNIQUE at the end, 8-10 x 12.5 m at 50-65% load (~100 kg), 60-90 s rest. TECHNIQUE ONLY, never to fatigue. Forearms hooked on the posts, 30-45 deg lean, short choppy steps 20-30 cm at 3-4 per second, and never let the sled stop. Sled push is PURELY CONCENTRIC, so it costs your descent block nothing - which is why it is the one Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of horizontal force to break a stationary sled versus 0.81x to keep one rolling, so learning not to stop is worth more to you than to anyone heavier. About 8 minutes.",
-          "day": 2
-        },
-        {
-          "kind": "vertical",
-          "label": "VERTICAL 40 min - STAIRWELL, your own building or a car park. ~11 x 15 floors, about 495 m. Lift up, WALK DOWN - the descent is the point. Dutch stair pitch is 30-33 deg, inside the optimal climbing range, and Madeira is full of stone staircases. Zero travel, weather-proof.",
-          "day": 4,
-          "minutes": 40
+          "day": 3
         },
         {
           "kind": "pull",
-          "label": "Pull (upper) - after the vertical session. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 3 x max. Baseline 20 Aug was 32/36/31 s, so 90 s by October was never realistic: target 55-60 s by 1 Nov and 90 s by Hyrox in January. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
-          "day": 4
+          "label": "Pull (upper) - MONDAY, 24 h before the time trial. Upper body only, so it costs the TT nothing - but keep the SkiErg/rower warm-up to the 5-8 min technique version, easy: it is the one leg-driven piece in the session. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 3 x max. Baseline 20 Aug was 32/36/31 s, so 90 s by October was never realistic: target 55-60 s by 1 Nov and 90 s by Hyrox in January. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
+          "day": 1
         },
         {
           "kind": "long",
-          "label": "LONG DAY 1:30, 400 m vert",
+          "label": "LONG DAY 2:00, 600 m vert - upgraded from 1:30/400 m. This is the bridge in the vertical ladder: 600 m here keeps week 11's 900 m at +50% rather than a jump off 400 m. Expect legs 36 h off an hour of football, so start conservatively and let the vertical, not the pace, be the target. Floor is 500 m if Friday feels rough.",
           "day": 6,
-          "minutes": 90,
-          "km": 10
+          "minutes": 120,
+          "km": 13
         },
         {
           "kind": "benchmark",
           "label": "5 KM TIME TRIAL - the number this whole plan has been missing. Warm up 10-15 min easy + 4-6 x 20 s strides + 3-4 min rest. Then 5 km flat, hard as you can SUSTAIN. Go out at 5:15/km and hold, check in at 2 km, kick from 4 km. Do NOT start at 4:40 - a blown TT gives an unusable number. Flat, no lights, no turns: Vondelpark outer loop or the Amstel. Auto-lap every 1 km. Down week with Sunday rest behind you.",
-          "day": 1,
+          "day": 2,
           "km": 5,
           "minutes": 45
+        },
+        {
+          "kind": "cross",
+          "day": 4,
+          "minutes": 60,
+          "label": "FOOTBALL 21:00 - casual 8-a-side, 1 hour. This REPLACES the 40 min stairwell session; do not do both. The vertical that builds toward Madeira is the long day's, not this one, and cutting it in a down week does not touch the Saturday-to-Saturday ladder. Warm up properly before kick-off - the cutting and decelerating is the highest acute injury risk in your week and an ankle ends the race. Finish 22:00, eat, bed by midnight: Saturday's long day is 36 h later, right through the DOMS peak."
         }
       ]
     },
