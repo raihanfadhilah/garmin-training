@@ -386,7 +386,7 @@
         },
         {
           "kind": "easy",
-          "label": "NEW SPEED SLOT - easy 5 km with the LAST 1 KM at threshold effort. Comfortably hard, three or four words at a time, HR 168-176 (max HR is 200, measured 7 Jun, not the 190 an age formula assumes). One kilometre, that is all. This is a progression run, not an interval session: you get a real quality stimulus for almost no recovery cost, in a week where vertical also goes 45 to 55 min and the long day goes 1:50 to 2:05. Volume is the thing being added this week - the last km is a taste, not the point.",
+          "label": "NEW SPEED SLOT - easy 5 km with the LAST 1 KM at threshold effort. Comfortably hard, three or four words at a time, HR 172-181 (LTHR measured 181 on the 7 Sep time trial, where 182 was held for 26 min - the old 168-176 band was set before there was a real number). One kilometre, that is all. This is a progression run, not an interval session: you get a real quality stimulus for almost no recovery cost, in a week where vertical also goes 45 to 55 min and the long day goes 1:50 to 2:05. Volume is the thing being added this week - the last km is a taste, not the point.",
           "day": 1,
           "km": 5,
           "minutes": 30
@@ -454,7 +454,7 @@
         },
         {
           "kind": "easy",
-          "label": "THRESHOLD 4 x 4 min, 90 s easy jog between. Warm up 10 min, cool down 10 min. Comfortably hard - three or four words at a time, HR 168-176 (max HR 200, measured - your easy runs already sit at 161, so 160-168 would not be a stimulus). Your first structured interval session: threshold before VO2max because it recovers faster and you are two weeks into having a third run at all.",
+          "label": "THRESHOLD 4 x 4 min, 90 s easy jog between. Warm up 10 min, cool down 10 min. Comfortably hard - three or four words at a time, HR 172-181 (LTHR measured 181 on the 7 Sep time trial - your easy runs sit at 161, so anything under 170 is not a stimulus). Your first structured interval session: threshold before VO2max because it recovers faster and you are two weeks into having a third run at all.",
           "day": 2,
           "km": 7,
           "minutes": 45
@@ -467,7 +467,7 @@
       "end": "2026-09-12",
       "phase": "Build",
       "down_week": true,
-      "note": "Cutback. Deliberate, and the reason matters: in trail runners, injury weeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading, not absolute load, is what precedes injury. This dip is planned and the rebound is controlled. RESHUFFLED 6 Sep: time trial held on Monday (Sunday is a full rest day, which is the setup a TT wants - 9.6 h sleep and HRV 98 the night before), pull moved to Tuesday as the recovery day, legs to Wednesday, easy 5 km to Friday, and Thursday's stairwell session replaced by casual football. Three runs held: TT, Friday easy, Saturday long. Push moved Wednesday -> Tuesday: Tuesday is now a single upper day and Wednesday is legs only. Easy run moved Friday -> Tuesday to sit directly after the time trial: hard/easy back to back for the train-low effect, and it moves run #3 out of the post-football Friday slot that has been the one getting skipped. Friday is now empty, which is the better setup for Saturday. Upper moved Tuesday -> Thursday morning: Tuesday is now the easy run alone, and the upper session sits ~12 h before football on legs it does not touch.",
+      "note": "Cutback. Deliberate, and the reason matters: in trail runners, injury weeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading, not absolute load, is what precedes injury. This dip is planned and the rebound is controlled. RESHUFFLED 6 Sep: time trial held on Monday (Sunday is a full rest day, which is the setup a TT wants - 9.6 h sleep and HRV 98 the night before), pull moved to Tuesday as the recovery day, legs to Wednesday, easy 5 km to Friday, and Thursday's stairwell session replaced by casual football. Three runs held: TT, Friday easy, Saturday long. Push moved Wednesday -> Tuesday: Tuesday is now a single upper day and Wednesday is legs only. Easy run moved Friday -> Tuesday to sit directly after the time trial: hard/easy back to back for the train-low effect, and it moves run #3 out of the post-football Friday slot that has been the one getting skipped. Friday is now empty, which is the better setup for Saturday. Upper moved Tuesday -> Thursday morning: Tuesday is now the easy run alone, and the upper session sits ~12 h before football on legs it does not touch. TIME TRIAL RESULT 7 Sep: 5.01 km in 26:17 timer (31:20 elapsed - two auto-paused stops of 2.2 and 2.9 min), avg HR 182, peak 193, cadence 179. Splits 5:05 / 5:17 / 5:28 / 5:14 / 5:12. Previous best 5 km was 29:15 on 15 Mar, so a 36 s/km improvement. NOT a clean continuous 5 km: 81% of it sat at or above LTHR against 5% in the 1 Sep threshold session, and it opened at 4:09/km for 200 m. Baseline established: 5:15/km sustainable in 8-10 min blocks at HR 181-183, LTHR 181, form holds at 178-184 spm and 100-107 cm stride under duress. Clean retest belongs in the Hyrox block opener in early November, not before Madeira - testing guidance is 6-8 weeks at a block boundary and that lands on race week.",
       "sessions": [
         {
           "kind": "cycling",
@@ -576,7 +576,7 @@
         },
         {
           "kind": "easy",
-          "label": "VO2MAX 5 x 3 min HARD, 2 min easy jog. Warm up 10 min, cool down 10 min. Harder than threshold - one word at a time, HR 180-190. Pace off the week 10 TT: roughly your 5 km pace, no faster. THIS IS NOW YOUR ONLY HARD SESSION, so run it properly. It is the single session that most moves 5 km pace, and 5 km pace is what your Hyrox runs are made of.",
+          "label": "VO2MAX 5 x 3 min HARD, 2 min easy jog. Warm up 15 min easy + 4-6 x 80-100 m PROGRESSIVE strides finishing at 5:15/km, NOT faster - sprint-pace strides in front of hard work cost you on 7 Sep. Cool down 10 min. REPS AT 5:15/km, HR 185-193, anchored on the 7 Sep time trial (5.01 km in 26:17, avg HR 182, peak 193). That pace was held in 8-10 min blocks, so 3 min is well inside it - the failure mode is not the pace, it is surging. DO NOT open a rep faster than 5:15: on 7 Sep the first 400 m went to 4:09/km with cadence collapsing to 156 spm and a 142 cm stride, and the tibialis anterior burned out by 1.6 km. Hold 178-184 spm. THIS IS YOUR ONLY HARD SESSION - run it properly. Record the pace each week at this HR: if it drifts toward 5:05/km that is the progress signal, and it is worth more than retesting.",
           "day": 1,
           "km": 9,
           "minutes": 50
