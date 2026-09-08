@@ -541,7 +541,7 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 50 MIN (talk test) + 4-6 x 20 s strides after, CAPPED AT ABOUT 4:45/km. You have been running these at 3:05-3:24/km with a 143-168 cm stride, which is sprinting, and the tibialis anterior is the known weak link until the lower-leg capacity work has had a few weeks. Relaxed turnover, full recovery, not a workout. PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards.",
+          "label": "Easy run 50 MIN (talk test) + 4-6 x 20 s strides after, CAPPED AT ABOUT 4:45/km. You have been running these at 3:05-3:24/km with a 143-168 cm stride, which is sprinting, and the tibialis anterior is the known weak link until the lower-leg capacity work has had a few weeks. Relaxed turnover, full recovery, not a workout. PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards. HR CEILING 155 - HARD RULE, not a talk test. Twelve weeks of your own data says 47% of your running sits between 160 and 181 bpm, the grey zone, against 1.8% above 181. Novice guidance is about 85% genuinely easy. If holding 155 means walking the bridges, walk them - pace is the output here, not the target.",
           "day": 3,
           "km": 6.8,
           "minutes": 50
@@ -605,7 +605,7 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 50 MIN (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout) PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards.",
+          "label": "Easy run 50 MIN (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout) PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards. HR CEILING 155 - HARD RULE, not a talk test. Twelve weeks of your own data says 47% of your running sits between 160 and 181 bpm, the grey zone, against 1.8% above 181. Novice guidance is about 85% genuinely easy. If holding 155 means walking the bridges, walk them - pace is the output here, not the target.",
           "day": 3,
           "km": 6.8,
           "minutes": 50
@@ -675,7 +675,7 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 45 MIN (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout) PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards.",
+          "label": "Easy run 45 MIN (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout) PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards. HR CEILING 155 - HARD RULE, not a talk test. Twelve weeks of your own data says 47% of your running sits between 160 and 181 bpm, the grey zone, against 1.8% above 181. Novice guidance is about 85% genuinely easy. If holding 155 means walking the bridges, walk them - pace is the output here, not the target.",
           "day": 3,
           "km": 6.2,
           "minutes": 45
@@ -739,7 +739,7 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 55 MIN (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout) PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards.",
+          "label": "Easy run 55 MIN (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout) PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards. HR CEILING 155 - HARD RULE, not a talk test. Twelve weeks of your own data says 47% of your running sits between 160 and 181 bpm, the grey zone, against 1.8% above 181. Novice guidance is about 85% genuinely easy. If holding 155 means walking the bridges, walk them - pace is the output here, not the target.",
           "day": 3,
           "km": 7.5,
           "minutes": 55
@@ -803,7 +803,7 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 50 MIN (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout) PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards.",
+          "label": "Easy run 50 MIN (talk test) + 6-8 x 20 s strides after (relaxed, full recovery, not a workout) PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards. HR CEILING 155 - HARD RULE, not a talk test. Twelve weeks of your own data says 47% of your running sits between 160 and 181 bpm, the grey zone, against 1.8% above 181. Novice guidance is about 85% genuinely easy. If holding 155 means walking the bridges, walk them - pace is the output here, not the target.",
           "day": 3,
           "km": 6.8,
           "minutes": 50
@@ -915,7 +915,7 @@
       "sessions": [
         {
           "kind": "easy",
-          "label": "Easy run 50 MIN - race week. Volume is down 59% from the week 15 peak, which is the middle of the 41-60% band the taper meta-analysis supports, and FREQUENCY IS HELD AT THREE because cutting frequency is the one thing the evidence says not to do. Keep the intensity, lose the volume.",
+          "label": "Easy run 50 MIN - race week. Volume is down 59% from the week 15 peak, which is the middle of the 41-60% band the taper meta-analysis supports, and FREQUENCY IS HELD AT THREE because cutting frequency is the one thing the evidence says not to do. Keep the intensity, lose the volume. HR CEILING 155 - HARD RULE, not a talk test. Twelve weeks of your own data says 47% of your running sits between 160 and 181 bpm, the grey zone, against 1.8% above 181. Novice guidance is about 85% genuinely easy. If holding 155 means walking the bridges, walk them - pace is the output here, not the target.",
           "day": 1,
           "km": 7.0,
           "minutes": 50
@@ -937,7 +937,7 @@
           "day": 5,
           "km": 4.0,
           "minutes": 30,
-          "label": "SHAKEOUT 30 MIN easy, two days out. This run exists to hold taper frequency at three, not to add fitness - nothing is gained after this point and plenty can be lost. Flat, conversational, no strides, no hills. Travel day if you are flying Friday: do it before the airport."
+          "label": "SHAKEOUT 30 MIN easy, two days out. This run exists to hold taper frequency at three, not to add fitness - nothing is gained after this point and plenty can be lost. Flat, conversational, no strides, no hills. Travel day if you are flying Friday: do it before the airport. HR CEILING 155 - HARD RULE, not a talk test. Twelve weeks of your own data says 47% of your running sits between 160 and 181 bpm, the grey zone, against 1.8% above 181. Novice guidance is about 85% genuinely easy. If holding 155 means walking the bridges, walk them - pace is the output here, not the target."
         }
       ]
     }

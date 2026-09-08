@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:IRONMAN 70.3 Venice-Jesolo training
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s0-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:○ Long ride 60 km steady\, HR ~140 (150 min)
@@ -27,7 +27,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s1-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:≈ Swim 35 min
@@ -48,7 +48,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s2-strides@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:6 x 800 m at 10K effort (9 km)
@@ -69,7 +69,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s3-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:≈ Swim 35 min
@@ -91,30 +91,36 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s4-legs@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:◆ Legs
 DESCRIPTION:Legs - maintenance. Keep glute-med: cycling+running together 
- is a known ITBS risk and hip abductor weakness is the named driver.\n\nW
- eek 1 of 12 - Base\nADMIN FIRST: (1) book the certificato medico agonist
- ico - Italy legally requires an ECG-based sports medical on the FITRI fo
- rm\, and without it you are not issued a race pack. Schedule by February
- . (2) Pull your best 20-min power from Garmin/Strava history\, x0.95 = F
- TP. Every bike split below is a guess until you do. Swim goes to FOUR sh
- ort sessions - frequency beats volume\, fatigue compromises motor learni
- ng. SESSION COUNT: 3 runs\, 3-4 swims\, 2 bikes\, 1 legs\, 6 days with T
- hursday off. That is ~9-10 h/week\, which is INTERMEDIATE volume - MyPro
- Coach's beginner 70.3 plan averages 7 h. If adherence slips\, scale to t
- he beginner shape rather than abandoning weeks. CUT ORDER: (1) Monday ea
- sy run\, (2) the fourth swim\, (3) Wednesday legs. Never cut the long ri
- de\, the long run\, or below three swims.\n80 days to IRONMAN 70.3 Venic
- e-Jesolo.
+ is a known ITBS risk and hip abductor weakness is the named driver. LOWE
+ R-LEG AND FOOT\, about 5 min at the end: tibialis anterior raises 3 x 15
+ -20 (heels on a step\, toes lifting)\, heel walks 2 x 20 m\, eccentric d
+ orsiflexion 3 x 10 slow against a band\, short-foot holds 3 x 30 s per s
+ ide\, tennis ball under the arch 60 s. An 8-week RCT in amateur runners 
+ raised lactate threshold velocity 5.9% with intrinsic foot work - but th
+ at was 30 min DAILY\, so treat this as maintaining the tissue that faile
+ d on 7 Sep\, not as a 5.9% gain.\n\nWeek 1 of 12 - Base\nADMIN FIRST: (1
+ ) book the certificato medico agonistico - Italy legally requires an ECG
+ -based sports medical on the FITRI form\, and without it you are not iss
+ ued a race pack. Schedule by February. (2) Pull your best 20-min power f
+ rom Garmin/Strava history\, x0.95 = FTP. Every bike split below is a gue
+ ss until you do. Swim goes to FOUR short sessions - frequency beats volu
+ me\, fatigue compromises motor learning. SESSION COUNT: 3 runs\, 3-4 swi
+ ms\, 2 bikes\, 1 legs\, 6 days with Thursday off. That is ~9-10 h/week\,
+  which is INTERMEDIATE volume - MyProCoach's beginner 70.3 plan averages
+  7 h. If adherence slips\, scale to the beginner shape rather than aband
+ oning weeks. CUT ORDER: (1) Monday easy run\, (2) the fourth swim\, (3) 
+ Wednesday legs. Never cut the long ride\, the long run\, or below three 
+ swims.\n80 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s5-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:≈ Swim 35 min
@@ -135,7 +141,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s6-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:≈ Swim 35 min
@@ -157,7 +163,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s7-long@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:▲ Long run 12 km easy
@@ -179,7 +185,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s8-easy@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -203,7 +209,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s9-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -227,7 +233,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s10-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -250,7 +256,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s0-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:○ Long ride 65 km steady (160 min)
@@ -264,7 +270,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s1-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:≈ Swim 35 min
@@ -278,7 +284,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s2-strides@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:5 x 1 km at 10K effort
@@ -292,7 +298,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s3-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:≈ Swim 35 min
@@ -306,21 +312,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s4-legs@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:◆ Legs
-DESCRIPTION:Legs - maintenance + glute-med\n\nWeek 2 of 12 - Base\nFirst 
- brick. Start the run within 5 minutes of racking the bike and expect the
-  first 10 min to feel wrong - it normalises by km 3 regardless of fitnes
- s. Get a bike fit booked: saddle height and cleat alignment are named IT
- BS contributors and you are about to add 3 h/week of riding.\n73 days to
-  IRONMAN 70.3 Venice-Jesolo.
+DESCRIPTION:Legs - maintenance + glute-med LOWER-LEG AND FOOT\, about 5 m
+ in at the end: tibialis anterior raises 3 x 15-20 (heels on a step\, toe
+ s lifting)\, heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10 slow ag
+ ainst a band\, short-foot holds 3 x 30 s per side\, tennis ball under th
+ e arch 60 s. An 8-week RCT in amateur runners raised lactate threshold v
+ elocity 5.9% with intrinsic foot work - but that was 30 min DAILY\, so t
+ reat this as maintaining the tissue that failed on 7 Sep\, not as a 5.9%
+  gain.\n\nWeek 2 of 12 - Base\nFirst brick. Start the run within 5 minut
+ es of racking the bike and expect the first 10 min to feel wrong - it no
+ rmalises by km 3 regardless of fitness. Get a bike fit booked: saddle he
+ ight and cleat alignment are named ITBS contributors and you are about t
+ o add 3 h/week of riding.\n73 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s5-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:≈ Swim 35 min
@@ -334,7 +346,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s6-brick@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:◐ BRICK: 40 km ride + 5 km run
@@ -349,7 +361,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s7-easy@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -365,7 +377,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s8-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -381,7 +393,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s9-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -397,7 +409,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s0-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:○ Long ride 70 km steady (170 min)
@@ -412,7 +424,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s1-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:≈ Swim 40 min
@@ -427,7 +439,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s2-strides@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:6 x 1 km at 10K effort
@@ -442,7 +454,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s3-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:≈ Swim 40 min
@@ -458,22 +470,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s4-legs@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:◆ Legs
-DESCRIPTION:Legs - maintenance\n\nWeek 3 of 12 - Base\nBuy the wetsuit no
- w. Buy for BUOYANCY not speed - beginner suits run 5 mm through core/hip
- s/legs\, which directly fixes the sinking-legs problem. Wetsuits give th
- e biggest gain to inefficient low-buoyancy swimmers\, i.e. you: 5-11%\, 
- roughly 2-4 min over 1.9 km. Also buy neoprene BOOTIES - legal below 18.
- 3 C and the water will be 15-17 C.\n66 days to IRONMAN 70.3 Venice-Jesol
- o.
+DESCRIPTION:Legs - maintenance LOWER-LEG AND FOOT\, about 5 min at the en
+ d: tibialis anterior raises 3 x 15-20 (heels on a step\, toes lifting)\,
+  heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10 slow against a band
+ \, short-foot holds 3 x 30 s per side\, tennis ball under the arch 60 s.
+  An 8-week RCT in amateur runners raised lactate threshold velocity 5.9%
+  with intrinsic foot work - but that was 30 min DAILY\, so treat this as
+  maintaining the tissue that failed on 7 Sep\, not as a 5.9% gain.\n\nWe
+ ek 3 of 12 - Base\nBuy the wetsuit now. Buy for BUOYANCY not speed - beg
+ inner suits run 5 mm through core/hips/legs\, which directly fixes the s
+ inking-legs problem. Wetsuits give the biggest gain to inefficient low-b
+ uoyancy swimmers\, i.e. you: 5-11%\, roughly 2-4 min over 1.9 km. Also b
+ uy neoprene BOOTIES - legal below 18.3 C and the water will be 15-17 C.\
+ n66 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s5-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:≈ Swim 35 min
@@ -487,7 +505,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s6-long@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:▲ Long run 15 km easy
@@ -502,7 +520,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s7-easy@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -519,7 +537,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s8-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -536,7 +554,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s9-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -552,7 +570,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s0-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:○ Long ride 80 km\, last 20 km at race effort\,…
@@ -567,7 +585,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s1-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
 SUMMARY:≈ Swim 40 min
@@ -582,7 +600,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s2-strides@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
 SUMMARY:5 x 1 km at 10K effort
@@ -597,7 +615,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s3-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:≈ Swim 40 min
@@ -612,22 +630,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s4-legs@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:◆ Legs
-DESCRIPTION:Legs - maintenance\n\nWeek 4 of 12 - Build\nGUT TRAINING STAR
- TS - 8-12 weeks out is the window. Target 60-70 g carb/h on the bike\, N
- OT 90: measured exogenous glucose oxidation is 33 g/h under 70 kg vs 45 
- g/h above it. At 56 kg your ceiling is genuinely lower. Fuel every sessi
- on over 75 min\, +10-15 g/h every 1-2 weeks\, and use the exact race pro
- ducts (Maurten\, Precision PH 1000).\n59 days to IRONMAN 70.3 Venice-Jes
- olo.
+DESCRIPTION:Legs - maintenance LOWER-LEG AND FOOT\, about 5 min at the en
+ d: tibialis anterior raises 3 x 15-20 (heels on a step\, toes lifting)\,
+  heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10 slow against a band
+ \, short-foot holds 3 x 30 s per side\, tennis ball under the arch 60 s.
+  An 8-week RCT in amateur runners raised lactate threshold velocity 5.9%
+  with intrinsic foot work - but that was 30 min DAILY\, so treat this as
+  maintaining the tissue that failed on 7 Sep\, not as a 5.9% gain.\n\nWe
+ ek 4 of 12 - Build\nGUT TRAINING STARTS - 8-12 weeks out is the window. 
+ Target 60-70 g carb/h on the bike\, NOT 90: measured exogenous glucose o
+ xidation is 33 g/h under 70 kg vs 45 g/h above it. At 56 kg your ceiling
+  is genuinely lower. Fuel every session over 75 min\, +10-15 g/h every 1
+ -2 weeks\, and use the exact race products (Maurten\, Precision PH 1000)
+ .\n59 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s5-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:≈ Swim 35 min
@@ -641,7 +665,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s6-brick@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:◐ BRICK: 50 km ride + 7 km run\, practise 9 min…
@@ -656,7 +680,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s7-easy@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -673,7 +697,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s8-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -690,7 +714,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s9-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -706,7 +730,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s0-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:○ Long ride 85 km steady (195 min)
@@ -719,7 +743,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s1-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:≈ Swim 45 min
@@ -733,7 +757,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s2-strides@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:4 x 1.5 km at threshold
@@ -746,7 +770,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s3-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:≈ Swim 40 min + T1 DRILL: swim\, exit\, strip…
@@ -760,20 +784,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s4-legs@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:◆ Legs
-DESCRIPTION:Legs - maintenance\n\nWeek 5 of 12 - Build\nTRANSITION PRACTI
- CE this week. Measured Venice T1 median is 7:02 and T2 5:21\; p90 is 11:
- 05 and 7:08. A fumbled pair of transitions costs 8-12 minutes - more tha
- n most people gain from an entire block of bike work. Practise wetsuit r
- emoval until it is boring.\n52 days to IRONMAN 70.3 Venice-Jesolo.
+DESCRIPTION:Legs - maintenance LOWER-LEG AND FOOT\, about 5 min at the en
+ d: tibialis anterior raises 3 x 15-20 (heels on a step\, toes lifting)\,
+  heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10 slow against a band
+ \, short-foot holds 3 x 30 s per side\, tennis ball under the arch 60 s.
+  An 8-week RCT in amateur runners raised lactate threshold velocity 5.9%
+  with intrinsic foot work - but that was 30 min DAILY\, so treat this as
+  maintaining the tissue that failed on 7 Sep\, not as a 5.9% gain.\n\nWe
+ ek 5 of 12 - Build\nTRANSITION PRACTICE this week. Measured Venice T1 me
+ dian is 7:02 and T2 5:21\; p90 is 11:05 and 7:08. A fumbled pair of tran
+ sitions costs 8-12 minutes - more than most people gain from an entire b
+ lock of bike work. Practise wetsuit removal until it is boring.\n52 days
+  to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s5-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:≈ Swim 35 min
@@ -786,7 +817,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s6-long@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:▲ Long run 17 km easy
@@ -800,7 +831,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s7-easy@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -816,7 +847,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s8-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -832,7 +863,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s9-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -847,7 +878,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s0-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:○ Easy ride 60 km (150 min)
@@ -860,7 +891,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s1-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:≈ Swim 35 min
@@ -873,7 +904,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s2-strides@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:4 x 1 km at 10K effort
@@ -886,7 +917,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s3-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:≈ Swim 35 min
@@ -899,7 +930,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s4-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:≈ Swim 35 min
@@ -912,7 +943,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s5-long@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:▲ Long run 12 km easy
@@ -926,7 +957,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s6-easy@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -942,7 +973,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s7-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -958,7 +989,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s8-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -973,7 +1004,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s0-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:○ Long ride 90 km (205 min)
@@ -987,7 +1018,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s1-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:≈ Swim 55 min
@@ -1001,7 +1032,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s2-strides@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:5 x 1 km at threshold
@@ -1015,7 +1046,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s3-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:≈ Swim 40 min
@@ -1029,21 +1060,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s4-legs@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:◆ Legs
-DESCRIPTION:Legs - maintenance\n\nWeek 7 of 12 - Build\nTARGET: 1900 m co
- ntinuous. The cutoff needs only 3:41/100 m and ANY STROKE IS LEGAL - bre
- aststroke the whole thing is permitted\, and you may hold a buoy or kaya
- k to rest provided you make no forward progress. Knowing that is what st
- ops the panic that actually causes swim DNFs.\n38 days to IRONMAN 70.3 V
- enice-Jesolo.
+DESCRIPTION:Legs - maintenance LOWER-LEG AND FOOT\, about 5 min at the en
+ d: tibialis anterior raises 3 x 15-20 (heels on a step\, toes lifting)\,
+  heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10 slow against a band
+ \, short-foot holds 3 x 30 s per side\, tennis ball under the arch 60 s.
+  An 8-week RCT in amateur runners raised lactate threshold velocity 5.9%
+  with intrinsic foot work - but that was 30 min DAILY\, so treat this as
+  maintaining the tissue that failed on 7 Sep\, not as a 5.9% gain.\n\nWe
+ ek 7 of 12 - Build\nTARGET: 1900 m continuous. The cutoff needs only 3:4
+ 1/100 m and ANY STROKE IS LEGAL - breaststroke the whole thing is permit
+ ted\, and you may hold a buoy or kayak to rest provided you make no forw
+ ard progress. Knowing that is what stops the panic that actually causes 
+ swim DNFs.\n38 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s5-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:≈ Swim 35 min
@@ -1057,7 +1094,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s6-brick@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:◐ BRICK: 60 km ride + 10 km run at race effort
@@ -1071,7 +1108,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s7-easy@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -1087,7 +1124,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s8-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -1103,7 +1140,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s9-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -1119,7 +1156,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s0-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:○ Long ride 100 km steady at IF 0.70 (225 min)
@@ -1133,7 +1170,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s1-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
 SUMMARY:≈ Swim 55 min
@@ -1147,7 +1184,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s2-strides@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
 SUMMARY:6 x 1 km at threshold
@@ -1161,7 +1198,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s3-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:≈ Swim 40 min
@@ -1176,21 +1213,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s4-legs@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:◆ Legs
-DESCRIPTION:Legs - maintenance\n\nWeek 8 of 12 - Build\nBiggest week. Bik
- e pacing: target IF 0.68-0.72\, cap the first 30 min 5 W BELOW target. A
- bove 0.80 on a flat course is almost always a bike PB and a run blow-up.
-  Also: this is a NON-DRAFTING race - 6 bike lengths clear\, pass within 
- 25 s\, 5-minute penalty box. You ride in groups\; this is a skill you do
-  not have.\n31 days to IRONMAN 70.3 Venice-Jesolo.
+DESCRIPTION:Legs - maintenance LOWER-LEG AND FOOT\, about 5 min at the en
+ d: tibialis anterior raises 3 x 15-20 (heels on a step\, toes lifting)\,
+  heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10 slow against a band
+ \, short-foot holds 3 x 30 s per side\, tennis ball under the arch 60 s.
+  An 8-week RCT in amateur runners raised lactate threshold velocity 5.9%
+  with intrinsic foot work - but that was 30 min DAILY\, so treat this as
+  maintaining the tissue that failed on 7 Sep\, not as a 5.9% gain.\n\nWe
+ ek 8 of 12 - Build\nBiggest week. Bike pacing: target IF 0.68-0.72\, cap
+  the first 30 min 5 W BELOW target. Above 0.80 on a flat course is almos
+ t always a bike PB and a run blow-up. Also: this is a NON-DRAFTING race 
+ - 6 bike lengths clear\, pass within 25 s\, 5-minute penalty box. You ri
+ de in groups\; this is a skill you do not have.\n31 days to IRONMAN 70.3
+  Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s5-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:≈ Swim 35 min
@@ -1204,7 +1248,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s6-long@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 SUMMARY:▲ Long run 18 km easy
@@ -1221,7 +1265,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s7-easy@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -1238,7 +1282,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s8-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -1255,7 +1299,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s9-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -1271,7 +1315,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s0-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:○ Long ride 110 km (245 min)
@@ -1285,7 +1329,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s1-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 SUMMARY:≈ OPEN WATER 30-40 min in wetsuit + booties
@@ -1301,7 +1345,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s2-strides@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 SUMMARY:5 x 1 km at threshold
@@ -1315,7 +1359,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s3-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:≈ Swim 50 min pool
@@ -1329,7 +1373,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s4-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 SUMMARY:≈ Swim 35 min
@@ -1343,7 +1387,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s5-brick@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:◐ BRICK: 70 km ride + 12 km run\, full race…
@@ -1357,7 +1401,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s6-easy@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -1374,7 +1418,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s7-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -1391,7 +1435,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s8-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -1407,7 +1451,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s0-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:○ Long ride 90 km at race effort (200 min)
@@ -1421,7 +1465,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s1-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:≈ OPEN WATER 40 min
@@ -1435,7 +1479,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s2-strides@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:4 x 1 km at race effort
@@ -1449,7 +1493,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s3-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:≈ Swim 50 min
@@ -1463,7 +1507,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s4-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:≈ Swim 35 min easy
@@ -1477,7 +1521,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s5-brick@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:◐ BRICK: 60 km ride + 15 km run at race pace\, 9:1…
@@ -1491,7 +1535,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s6-easy@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -1507,7 +1551,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s7-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -1523,7 +1567,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s8-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -1538,7 +1582,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s0-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:○ Ride 60 km easy with 3 x 5 min at race effort
@@ -1551,7 +1595,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s1-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
 SUMMARY:≈ OPEN WATER 30 min
@@ -1564,7 +1608,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s2-strides@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
 SUMMARY:4 x 800 m at race effort (8 km)
@@ -1577,7 +1621,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s3-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 SUMMARY:≈ Swim 35 min
@@ -1590,7 +1634,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s4-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 SUMMARY:≈ Swim 30 min
@@ -1603,7 +1647,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s5-brick@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:◐ BRICK: 30 km ride + 5 km run at race pace
@@ -1616,7 +1660,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s6-easy@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -1631,7 +1675,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s7-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -1646,7 +1690,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s8-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -1660,7 +1704,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s0-cycling@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:○ Easy spin 40 km (90 min)
@@ -1680,7 +1724,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s1-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
 SUMMARY:≈ Swim 25 min easy
@@ -1700,7 +1744,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s2-strides@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Easy 5 km + strides
@@ -1720,7 +1764,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s3-swim@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:≈ Sea swim 15 min
@@ -1740,7 +1784,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s4-easy@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:Shakeout 3 km
@@ -1761,7 +1805,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s5-race@garmin-training
-DTSTAMP:20260908T013023Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:⚑ RACE (21.1 km)

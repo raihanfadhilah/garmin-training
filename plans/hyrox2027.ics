@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:HYROX Amsterdam Doubles training
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w1-s0-easy@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Easy run 5 km (talk test)
@@ -25,7 +25,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w1-s1-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:≈ Swim 30 min
@@ -44,26 +44,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w1-s2-station@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:ERG technique only
 DESCRIPTION:ERG technique only - SkiErg hinge (80% of power is the first 
- third of the pull)\, rower damper 3-4 for a light athlete. No legs.\n\nW
- eek 1 of 10 - Base\nRe-entry. Madeira's 2\,003 m of descent is an eccent
- ric-damage event - strength markers return to baseline around day 9 and 
- muscle damage is detectable up to 4 weeks. NO lunges\, NO burpee broad j
- umps\, NO heavy sled this week or next: those are precisely the movement
- s your quads cannot absorb yet. Ergs\, grip and technique only. SWIMMING
-  STARTS NOW. Swim frequency beats swim volume: 4 x 30-40 min beats 2 x 7
- 5\, because fatigue compromises motor learning. Never let a gap exceed 5
-  days - adult-onset swimmers lose motor patterns fast. Book private less
- ons NOW for weeks 1-8.\n66 days to HYROX Amsterdam Doubles.
+ third of the pull)\, rower damper 3-4 for a light athlete. No legs. LOWE
+ R-LEG AND FOOT\, about 5 min at the end: tibialis anterior raises 3 x 15
+ -20 (heels on a step\, toes lifting)\, heel walks 2 x 20 m\, eccentric d
+ orsiflexion 3 x 10 slow against a band\, short-foot holds 3 x 30 s per s
+ ide\, tennis ball under the arch 60 s. An 8-week RCT in amateur runners 
+ raised lactate threshold velocity 5.9% with intrinsic foot work - but th
+ at was 30 min DAILY\, so treat this as maintaining the tissue that faile
+ d on 7 Sep\, not as a 5.9% gain.\n\nWeek 1 of 10 - Base\nRe-entry. Madei
+ ra's 2\,003 m of descent is an eccentric-damage event - strength markers
+  return to baseline around day 9 and muscle damage is detectable up to 4
+  weeks. NO lunges\, NO burpee broad jumps\, NO heavy sled this week or n
+ ext: those are precisely the movements your quads cannot absorb yet. Erg
+ s\, grip and technique only. SWIMMING STARTS NOW. Swim frequency beats s
+ wim volume: 4 x 30-40 min beats 2 x 75\, because fatigue compromises mot
+ or learning. Never let a gap exceed 5 days - adult-onset swimmers lose m
+ otor patterns fast. Book private lessons NOW for weeks 1-8.\n66 days to 
+ HYROX Amsterdam Doubles.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w1-s3-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:≈ Swim 30 min
@@ -82,7 +89,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w1-s4-easy@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Easy run 5 km (talk test)
@@ -101,7 +108,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w1-s5-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:≈ SWIM LESSON (45 min)
@@ -121,7 +128,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w1-s6-cycling@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:○ BIKE MAINTENANCE 60-75 min zone 2\, HR under 145
@@ -142,7 +149,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w2-s0-long@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:▲ Long easy run 8 km
@@ -156,7 +163,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w2-s1-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:≈ Swim 30 min
@@ -171,7 +178,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w2-s2-benchmark@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:BENCHMARK 5 km TIME TRIAL
@@ -186,21 +193,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w2-s3-station@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:ERG + grip
+SUMMARY:ERG + grip. Dead hang for time
 DESCRIPTION:ERG + grip. Dead hang for time (target 90 s by week 8). Farme
- rs hold. No leg loading.\n\nWeek 2 of 10 - Base\nBENCHMARK WEEK. Garmin 
- predicts a 24:20 5K\; your logged runs say 28-29. Garmin over-predicts f
- or athletes who never race hard\, and you have 21 logged runs with no ti
- me trial. Every pace target in this block depends on getting the real nu
- mber. Still no lunges or burpees.\n59 days to HYROX Amsterdam Doubles.
+ rs hold. No leg loading. LOWER-LEG AND FOOT\, about 5 min at the end: ti
+ bialis anterior raises 3 x 15-20 (heels on a step\, toes lifting)\, heel
+  walks 2 x 20 m\, eccentric dorsiflexion 3 x 10 slow against a band\, sh
+ ort-foot holds 3 x 30 s per side\, tennis ball under the arch 60 s. An 8
+ -week RCT in amateur runners raised lactate threshold velocity 5.9% with
+  intrinsic foot work - but that was 30 min DAILY\, so treat this as main
+ taining the tissue that failed on 7 Sep\, not as a 5.9% gain.\n\nWeek 2 
+ of 10 - Base\nBENCHMARK WEEK. Garmin predicts a 24:20 5K\; your logged r
+ uns say 28-29. Garmin over-predicts for athletes who never race hard\, a
+ nd you have 21 logged runs with no time trial. Every pace target in this
+  block depends on getting the real number. Still no lunges or burpees.\n
+ 59 days to HYROX Amsterdam Doubles.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w2-s4-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:≈ Swim 30 min
@@ -215,7 +229,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w2-s5-easy@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Easy run 5 km
@@ -229,7 +243,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w2-s6-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:≈ SWIM LESSON (45 min)
@@ -245,7 +259,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w2-s7-cycling@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:○ BIKE MAINTENANCE 60-75 min zone 2\, HR under 145
@@ -261,7 +275,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w3-s0-long@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:▲ Long easy run 10 km
@@ -275,7 +289,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w3-s1-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:≈ Swim 35 min
@@ -289,7 +303,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w3-s2-strides@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:8 x 400 m at 5K effort\, 90 s jog recovery (7 km)
@@ -303,7 +317,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w3-s3-station@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Sled push technique 8-10 x 12.5 m @ 100 kg
@@ -318,7 +332,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w3-s4-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:≈ Swim 35 min
@@ -331,21 +345,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w3-s5-legs@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:◆ Legs
 DESCRIPTION:Legs - squat and hinge patterns return. Still no loaded lunge
- s (week 4).\n\nWeek 3 of 10 - Base\nSled introduced at TECHNIQUE load on
- ly (50-65%). Your traction physics: at 56 kg you need 0.81x bodyweight o
- f horizontal force rolling and 1.03x at a dead start - you are at or pas
- t the slip threshold every time it stops. Learn to never let it stop.\n5
- 0 days to HYROX Amsterdam Doubles.
+ s (week 4). LOWER-LEG AND FOOT\, about 5 min at the end: tibialis anteri
+ or raises 3 x 15-20 (heels on a step\, toes lifting)\, heel walks 2 x 20
+  m\, eccentric dorsiflexion 3 x 10 slow against a band\, short-foot hold
+ s 3 x 30 s per side\, tennis ball under the arch 60 s. An 8-week RCT in 
+ amateur runners raised lactate threshold velocity 5.9% with intrinsic fo
+ ot work - but that was 30 min DAILY\, so treat this as maintaining the t
+ issue that failed on 7 Sep\, not as a 5.9% gain.\n\nWeek 3 of 10 - Base\
+ nSled introduced at TECHNIQUE load only (50-65%). Your traction physics:
+  at 56 kg you need 0.81x bodyweight of horizontal force rolling and 1.03
+ x at a dead start - you are at or past the slip threshold every time it 
+ stops. Learn to never let it stop.\n50 days to HYROX Amsterdam Doubles.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w3-s6-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:≈ SWIM LESSON (45 min)
@@ -360,7 +380,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w3-s7-cycling@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:○ BIKE MAINTENANCE 60-75 min zone 2\, HR under 145
@@ -376,7 +396,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w4-s0-long@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:▲ Long easy run 12 km
@@ -389,7 +409,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w4-s1-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:≈ Swim 40 min
@@ -402,7 +422,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w4-s2-strides@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:THRESHOLD 4 x 1.5 km at 5:15/km\, HR 176-181\, 90…
@@ -418,21 +438,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w4-s3-legs@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:◆ Legs
 DESCRIPTION:Legs - trap-bar DL 4x5\, Bulgarian split squat 4x8/leg\, back
- ward sled drag\, farmers 4x40 m\n\nWeek 4 of 10 - Build\nFour weeks post
- -Madeira: lunges and burpees are cleared. Compromised running starts - t
- his is THE session and nothing substitutes for it. Grip work is now week
- ly\; it takes 4-6 weeks to change the farmers carry.\n45 days to HYROX A
- msterdam Doubles.
+ ward sled drag\, farmers 4x40 m LOWER-LEG AND FOOT\, about 5 min at the 
+ end: tibialis anterior raises 3 x 15-20 (heels on a step\, toes lifting)
+ \, heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10 slow against a ba
+ nd\, short-foot holds 3 x 30 s per side\, tennis ball under the arch 60 
+ s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.
+ 9% with intrinsic foot work - but that was 30 min DAILY\, so treat this 
+ as maintaining the tissue that failed on 7 Sep\, not as a 5.9% gain.\n\n
+ Week 4 of 10 - Build\nFour weeks post-Madeira: lunges and burpees are cl
+ eared. Compromised running starts - this is THE session and nothing subs
+ titutes for it. Grip work is now weekly\; it takes 4-6 weeks to change t
+ he farmers carry.\n45 days to HYROX Amsterdam Doubles.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w4-s4-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:≈ Swim 40 min
@@ -445,7 +471,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w4-s5-compromised@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:PARTNER: COMPROMISED RUN: 400 m + 50 m sled…
@@ -462,7 +488,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w4-s6-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:≈ SWIM LESSON (45 min)
@@ -477,7 +503,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w4-s7-cycling@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:○ BIKE MAINTENANCE 60-75 min zone 2\, HR under 145
@@ -493,7 +519,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w5-s0-long@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:▲ Long easy run 14 km
@@ -509,7 +535,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w5-s1-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:≈ Swim 40 min
@@ -525,7 +551,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w5-s2-strides@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:THRESHOLD 5 x 1.5 km at 5:15/km\, HR 176-181\, 90…
@@ -543,24 +569,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w5-s3-legs@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:◆ Legs
 DESCRIPTION:Legs - sled push dead-start practice (6-8 x 15 m @ 180 kg)\, 
- sandbag lunges long stride\, grip\n\nWeek 5 of 10 - Build\nPriority orde
- r from 182k measured doubles teams: running (r=0.90 with finish) > roxzo
- ne > lunges/burpees/sled pull. Wall balls correlate r=0.266 - the LOWEST
-  of any segment in doubles. Do not spend training on them. Cold immersio
- ns start this week and run through February - 5-6 short exposures halve 
- the cold-shock response\, which is the mechanism behind most swim DNFs a
- nd 90 of 120 recorded sudden deaths in US triathlon.\n38 days to HYROX A
- msterdam Doubles.
+ sandbag lunges long stride\, grip LOWER-LEG AND FOOT\, about 5 min at th
+ e end: tibialis anterior raises 3 x 15-20 (heels on a step\, toes liftin
+ g)\, heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10 slow against a 
+ band\, short-foot holds 3 x 30 s per side\, tennis ball under the arch 6
+ 0 s. An 8-week RCT in amateur runners raised lactate threshold velocity 
+ 5.9% with intrinsic foot work - but that was 30 min DAILY\, so treat thi
+ s as maintaining the tissue that failed on 7 Sep\, not as a 5.9% gain.\n
+ \nWeek 5 of 10 - Build\nPriority order from 182k measured doubles teams:
+  running (r=0.90 with finish) > roxzone > lunges/burpees/sled pull. Wall
+  balls correlate r=0.266 - the LOWEST of any segment in doubles. Do not 
+ spend training on them. Cold immersions start this week and run through 
+ February - 5-6 short exposures halve the cold-shock response\, which is 
+ the mechanism behind most swim DNFs and 90 of 120 recorded sudden deaths
+  in US triathlon.\n38 days to HYROX Amsterdam Doubles.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w5-s4-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:≈ Swim 40 min
@@ -576,7 +608,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w5-s5-compromised@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:PARTNER: COMPROMISED RUN: 1 km + 50 m push + 1…
@@ -597,7 +629,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w5-s6-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:≈ COLD IMMERSION 2-3 min
@@ -615,7 +647,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w5-s7-cycling@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:○ BIKE MAINTENANCE 60-75 min zone 2\, HR under 145
@@ -634,7 +666,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w6-s0-long@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:▲ Long easy run 10 km
@@ -646,7 +678,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w6-s1-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:≈ Swim 30 min
@@ -658,7 +690,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w6-s2-compromised@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:PARTNER: COMPROMISED RUN: 1 km + 200 m farmers…
@@ -674,7 +706,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w6-s3-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:≈ Swim 30 min
@@ -686,7 +718,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w6-s4-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:≈ COLD IMMERSION 2-3 min
@@ -700,7 +732,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w6-s5-cycling@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:○ BIKE MAINTENANCE 60-75 min zone 2\, HR under 145
@@ -715,7 +747,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w7-s0-long@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:▲ Long easy run 16 km
@@ -729,7 +761,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w7-s1-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:≈ Swim 30 min easy
@@ -743,7 +775,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w7-s2-strides@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:4 x 1 km at 10K effort\, 2 min recovery
@@ -756,22 +788,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w7-s3-legs@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:◆ Legs
 DESCRIPTION:Legs - race-load sled\, lunges with 1.0-1.1 m stride (91-100 
- reps vs 167 at short stride - the single biggest lever\, worth 30-90 s)\
- n\nWeek 7 of 10 - Build\nFIRST DOUBLES SESSION. Splitting is a skill and
-  neither of you has practised it. Split to protect his legs\, not to opt
- imise station throughput: running is 55.8% of doubles race time and you 
- both run all 8 km at the slower man's pace.\n24 days to HYROX Amsterdam 
- Doubles.
+ reps vs 167 at short stride - the single biggest lever\, worth 30-90 s) 
+ LOWER-LEG AND FOOT\, about 5 min at the end: tibialis anterior raises 3 
+ x 15-20 (heels on a step\, toes lifting)\, heel walks 2 x 20 m\, eccentr
+ ic dorsiflexion 3 x 10 slow against a band\, short-foot holds 3 x 30 s p
+ er side\, tennis ball under the arch 60 s. An 8-week RCT in amateur runn
+ ers raised lactate threshold velocity 5.9% with intrinsic foot work - bu
+ t that was 30 min DAILY\, so treat this as maintaining the tissue that f
+ ailed on 7 Sep\, not as a 5.9% gain.\n\nWeek 7 of 10 - Build\nFIRST DOUB
+ LES SESSION. Splitting is a skill and neither of you has practised it. S
+ plit to protect his legs\, not to optimise station throughput: running i
+ s 55.8% of doubles race time and you both run all 8 km at the slower man
+ 's pace.\n24 days to HYROX Amsterdam Doubles.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w7-s4-compromised@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:PARTNER: DOUBLES: 6 x (6 km)
@@ -790,7 +828,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w7-s5-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:≈ COLD IMMERSION 2-3 min
@@ -806,7 +844,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w8-s0-long@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:▲ Long easy run 14 km
@@ -820,7 +858,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w8-s1-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:≈ Swim 30 min easy
@@ -834,7 +872,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w8-s2-strides@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:5 x 1 km at 10K effort
@@ -848,23 +886,29 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w8-s3-station@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:ROXZONE DRILL: rehearse all 8 transitions ~50…
 DESCRIPTION:ROXZONE DRILL: rehearse all 8 transitions ~50 times. Pre-assi
  gn who starts each station. Resting partner must stay ON FEET - no kneel
- ing. Walk the roxzone route.\n\nWeek 8 of 10 - Peak\nROXZONE SESSION thi
- s week. Measured: doubles teams get almost no transition discount over s
- ingles (6:39 vs 7:19 median). An 80-85 team spends 7:29 in roxzone\; the
-  top 10% spend 4:31. That is ~3 minutes available with zero change in fi
- tness - the cheapest unclaimed time in the format.\n17 days to HYROX Ams
- terdam Doubles.
+ ing. Walk the roxzone route. LOWER-LEG AND FOOT\, about 5 min at the end
+ : tibialis anterior raises 3 x 15-20 (heels on a step\, toes lifting)\, 
+ heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10 slow against a band\
+ , short-foot holds 3 x 30 s per side\, tennis ball under the arch 60 s. 
+ An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% 
+ with intrinsic foot work - but that was 30 min DAILY\, so treat this as 
+ maintaining the tissue that failed on 7 Sep\, not as a 5.9% gain.\n\nWee
+ k 8 of 10 - Peak\nROXZONE SESSION this week. Measured: doubles teams get
+  almost no transition discount over singles (6:39 vs 7:19 median). An 80
+ -85 team spends 7:29 in roxzone\; the top 10% spend 4:31. That is ~3 min
+ utes available with zero change in fitness - the cheapest unclaimed time
+  in the format.\n17 days to HYROX Amsterdam Doubles.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w8-s4-sim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:PARTNER: HALF SIMULATION with partner: 4 runs +…
@@ -882,7 +926,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w8-s5-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:≈ COLD IMMERSION 2-3 min
@@ -898,7 +942,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w9-s0-easy@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Easy run 8 km
@@ -910,7 +954,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w9-s1-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:≈ Swim 30 min easy
@@ -922,7 +966,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w9-s2-strides@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:4 x 1 km at race effort
@@ -934,7 +978,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w9-s3-sim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:PARTNER: FULL SIMULATION with partner at…
@@ -950,7 +994,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w9-s4-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:≈ COLD IMMERSION 2-3 min
@@ -964,7 +1008,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w10-s0-easy@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:Easy shakeout 5 km
@@ -983,7 +1027,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w10-s1-swim@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:≈ Swim 30 min easy
@@ -1001,7 +1045,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w10-s2-strides@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:Easy 4 km + strides
@@ -1019,25 +1063,32 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w10-s3-station@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-SUMMARY:Light movement patterns only\, no load
-DESCRIPTION:Light movement patterns only\, no load. Confirm shoes.\n\nWee
- k 10 of 10 - Race\nRACE WEEK. Target 88-95 min\, NOT 80-85 - measured do
- ubles station totals are 28:23\, not the 25 I first assumed\, so the 80-
- 85 band actually needs 5:47/km over 8 compromised reps. TACTICS: (1) exp
- ect R8 to be your slowest run at every level - it is for everyone\; (2) 
- a controlled 12-15% positive split is optimal\, even pacing is NOT a lev
- er (measured dR2 = 0.000)\; (3) never let the sled stop - at 56 kg you p
- ay the breakaway cost every restart\; (4) grippy solid-rubber shoes are 
- worth 30-60 s on the sled\; (5) don't chase wall balls\, flex that split
-  to whoever is holding up.\n3 days to HYROX Amsterdam Doubles.
+SUMMARY:Light movement patterns only\, no load. Confirm…
+DESCRIPTION:Light movement patterns only\, no load. Confirm shoes. LOWER-
+ LEG AND FOOT\, about 5 min at the end: tibialis anterior raises 3 x 15-2
+ 0 (heels on a step\, toes lifting)\, heel walks 2 x 20 m\, eccentric dor
+ siflexion 3 x 10 slow against a band\, short-foot holds 3 x 30 s per sid
+ e\, tennis ball under the arch 60 s. An 8-week RCT in amateur runners ra
+ ised lactate threshold velocity 5.9% with intrinsic foot work - but that
+  was 30 min DAILY\, so treat this as maintaining the tissue that failed 
+ on 7 Sep\, not as a 5.9% gain.\n\nWeek 10 of 10 - Race\nRACE WEEK. Targe
+ t 88-95 min\, NOT 80-85 - measured doubles station totals are 28:23\, no
+ t the 25 I first assumed\, so the 80-85 band actually needs 5:47/km over
+  8 compromised reps. TACTICS: (1) expect R8 to be your slowest run at ev
+ ery level - it is for everyone\; (2) a controlled 12-15% positive split 
+ is optimal\, even pacing is NOT a lever (measured dR2 = 0.000)\; (3) nev
+ er let the sled stop - at 56 kg you pay the breakaway cost every restart
+ \; (4) grippy solid-rubber shoes are worth 30-60 s on the sled\; (5) don
+ 't chase wall balls\, flex that split to whoever is holding up.\n3 days 
+ to HYROX Amsterdam Doubles.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hyroxamsterdamdoubles-w10-s4-race@garmin-training
-DTSTAMP:20260908T013022Z
+DTSTAMP:20260908T091756Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:⚑ RACE (8 km)
