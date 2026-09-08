@@ -54,6 +54,12 @@
           "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 across weeks 1-8 - highest-ROI line item in the whole season. One or two cues at a time, never a list. Video every 1-2 weeks.",
           "day": 6,
           "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 2,
+          "label": "BIKE MAINTENANCE 60-75 min zone 2, HR under 145. Non-impact, does not touch the Hyrox legs, and it holds the cycling base you already have so Venice does not start from cold on 1 February. Trainer is fine in a Dutch November.",
+          "minutes": 70
         }
       ]
     },
@@ -105,6 +111,12 @@
           "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 across weeks 1-8 - highest-ROI line item in the whole season. One or two cues at a time, never a list. Video every 1-2 weeks.",
           "day": 6,
           "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 1,
+          "label": "BIKE MAINTENANCE 60-75 min zone 2, HR under 145. Non-impact, does not touch the Hyrox legs, and it holds the cycling base you already have so Venice does not start from cold on 1 February. Trainer is fine in a Dutch November.",
+          "minutes": 70
         }
       ]
     },
@@ -155,6 +167,12 @@
           "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 across weeks 1-8 - highest-ROI line item in the whole season. One or two cues at a time, never a list. Video every 1-2 weeks.",
           "day": 6,
           "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 1,
+          "label": "BIKE MAINTENANCE 60-75 min zone 2, HR under 145. Non-impact, does not touch the Hyrox legs, and it holds the cycling base you already have so Venice does not start from cold on 1 February. Trainer is fine in a Dutch November.",
+          "minutes": 70
         }
       ]
     },
@@ -180,7 +198,7 @@
         },
         {
           "kind": "strides",
-          "label": "5 x 800 m at 10K effort, 2 min recovery",
+          "label": "THRESHOLD 4 x 1.5 km at 5:15/km, HR 176-181, 90 s jog between. Warm up 15 min + strides finishing AT 5:15/km and no faster. This is the intensity the block was missing entirely - your measured threshold from 1 Sep, and the limiter for all three races.",
           "day": 2,
           "km": 8
         },
@@ -197,7 +215,7 @@
         },
         {
           "kind": "compromised",
-          "label": "COMPROMISED RUN: 400 m + 50 m sled push + 400 m + 400 m row. Then 6 x 25 m sled push @ 90 s.",
+          "label": "PARTNER: COMPROMISED RUN: 400 m + 50 m sled push + 400 m + 400 m row. Then 6 x 25 m sled push @ 90 s. WITH YOUR PARTNER - this counts as a joint session. Rehearse the actual splits you will race, not an even 50/50: assign each station to whoever is faster at it. Film it; teams that review their sessions save 15-30 s per station in transitions alone.",
           "day": 5,
           "km": 4
         },
@@ -206,6 +224,12 @@
           "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 across weeks 1-8 - highest-ROI line item in the whole season. One or two cues at a time, never a list. Video every 1-2 weeks.",
           "day": 6,
           "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 1,
+          "label": "BIKE MAINTENANCE 60-75 min zone 2, HR under 145. Non-impact, does not touch the Hyrox legs, and it holds the cycling base you already have so Venice does not start from cold on 1 February. Trainer is fine in a Dutch November.",
+          "minutes": 70
         }
       ]
     },
@@ -231,7 +255,7 @@
         },
         {
           "kind": "strides",
-          "label": "6 x 800 m at 10K effort, 2 min recovery",
+          "label": "THRESHOLD 5 x 1.5 km at 5:15/km, HR 176-181, 90 s jog between. One rep more than last week. If HR drifts above 183 on the last two, you started too fast - hold the pace, not the effort.",
           "day": 2,
           "km": 9
         },
@@ -248,7 +272,7 @@
         },
         {
           "kind": "compromised",
-          "label": "COMPROMISED RUN: 1 km + 50 m push + 1 km + 50 m pull, x3. Sled pull is your real opportunity - rolling force is only 0.59x bodyweight, not traction-limited.",
+          "label": "PARTNER: COMPROMISED RUN: 1 km + 50 m push + 1 km + 50 m pull, x3. Sled pull is your real opportunity - rolling force is only 0.59x bodyweight, not traction-limited. WITH YOUR PARTNER - this counts as a joint session. Rehearse the actual splits you will race, not an even 50/50: assign each station to whoever is faster at it. Film it; teams that review their sessions save 15-30 s per station in transitions alone.",
           "day": 5,
           "km": 6
         },
@@ -257,6 +281,12 @@
           "label": "COLD IMMERSION 2-3 min. Five to six of these HALVES the cold-shock response, and the adaptation lasts ~14 months. Venice will be 15-17 C. Cold showers are a partial substitute, not an equivalent.",
           "day": 6,
           "minutes": 15
+        },
+        {
+          "kind": "cycling",
+          "day": 1,
+          "label": "BIKE MAINTENANCE 60-75 min zone 2, HR under 145. Non-impact, does not touch the Hyrox legs, and it holds the cycling base you already have so Venice does not start from cold on 1 February. Trainer is fine in a Dutch November.",
+          "minutes": 70
         }
       ]
     },
@@ -282,7 +312,7 @@
         },
         {
           "kind": "compromised",
-          "label": "COMPROMISED RUN: 1 km + 200 m farmers + 1 km + 100 m lunges, x2",
+          "label": "PARTNER: COMPROMISED RUN: 1 km + 200 m farmers + 1 km + 100 m lunges, x2. WITH YOUR PARTNER - this counts as a joint session. Rehearse the actual splits you will race, not an even 50/50: assign each station to whoever is faster at it. Film it; teams that review their sessions save 15-30 s per station in transitions alone.",
           "day": 4,
           "km": 4
         },
@@ -297,6 +327,12 @@
           "label": "COLD IMMERSION 2-3 min. Five to six of these HALVES the cold-shock response, and the adaptation lasts ~14 months. Venice will be 15-17 C. Cold showers are a partial substitute, not an equivalent.",
           "day": 6,
           "minutes": 15
+        },
+        {
+          "kind": "cycling",
+          "day": 1,
+          "label": "BIKE MAINTENANCE 60-75 min zone 2, HR under 145. Non-impact, does not touch the Hyrox legs, and it holds the cycling base you already have so Venice does not start from cold on 1 February. Trainer is fine in a Dutch November.",
+          "minutes": 70
         }
       ]
     },
@@ -316,7 +352,7 @@
         },
         {
           "kind": "swim",
-          "label": "Swim 45 min - 400 m continuous",
+          "label": "Swim 30 min easy - REDUCED. Peak week: swimming is on hold, not building. Technique touch only, no hard sets.",
           "day": 1,
           "minutes": 45
         },
@@ -332,14 +368,8 @@
           "day": 3
         },
         {
-          "kind": "swim",
-          "label": "Swim 45 min",
-          "day": 4,
-          "minutes": 45
-        },
-        {
           "kind": "compromised",
-          "label": "DOUBLES: 6 x (1 km + 1 station, split). Sled push B 37.5 m / A 12.5 m. Sled pull B 37.5 / A 12.5. Farmers B 120 / A 80. Ski A 600. Lunges A 60. Wall balls A 50+.",
+          "label": "PARTNER: DOUBLES: 6 x (1 km + 1 station, split). Sled push B 37.5 m / A 12.5 m. Sled pull B 37.5 / A 12.5. Farmers B 120 / A 80. Ski A 600. Lunges A 60. Wall balls A 50+. WITH YOUR PARTNER - this counts as a joint session. Rehearse the actual splits you will race, not an even 50/50: assign each station to whoever is faster at it. Film it; teams that review their sessions save 15-30 s per station in transitions alone.",
           "day": 5,
           "km": 6
         },
@@ -367,7 +397,7 @@
         },
         {
           "kind": "swim",
-          "label": "Swim 45 min - 600 m continuous",
+          "label": "Swim 30 min easy - REDUCED. Hold the feel for the water, nothing more.",
           "day": 1,
           "minutes": 45
         },
@@ -383,14 +413,8 @@
           "day": 3
         },
         {
-          "kind": "swim",
-          "label": "Swim 45 min",
-          "day": 4,
-          "minutes": 45
-        },
-        {
           "kind": "sim",
-          "label": "HALF SIMULATION with partner: 4 runs + 4 stations. Record every split and every transition.",
+          "label": "PARTNER: HALF SIMULATION with partner: 4 runs + 4 stations. Record every split and every transition. WITH YOUR PARTNER - this counts as a joint session. Rehearse the actual splits you will race, not an even 50/50: assign each station to whoever is faster at it. Film it; teams that review their sessions save 15-30 s per station in transitions alone.",
           "day": 6,
           "km": 4
         },
@@ -418,7 +442,7 @@
         },
         {
           "kind": "swim",
-          "label": "Swim 45 min - 800 m continuous",
+          "label": "Swim 30 min easy - REDUCED. Last easy water session before race week.",
           "day": 1,
           "minutes": 45
         },
@@ -429,14 +453,8 @@
           "km": 9
         },
         {
-          "kind": "swim",
-          "label": "Swim 45 min",
-          "day": 4,
-          "minutes": 45
-        },
-        {
           "kind": "sim",
-          "label": "FULL SIMULATION with partner at 80-90%: all 8 runs + 8 stations, race kit, race splitting.",
+          "label": "PARTNER: FULL SIMULATION with partner at 80-90%: all 8 runs + 8 stations, race kit, race splitting. WITH YOUR PARTNER - this counts as a joint session. Rehearse the actual splits you will race, not an even 50/50: assign each station to whoever is faster at it. Film it; teams that review their sessions save 15-30 s per station in transitions alone.",
           "day": 6,
           "km": 8
         },

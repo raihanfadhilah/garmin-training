@@ -29,7 +29,7 @@
         {
           "kind": "swim",
           "label": "Swim 35 min - 1000 m continuous",
-          "day": 1,
+          "day": 2,
           "minutes": 35
         },
         {
@@ -69,9 +69,21 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
-          "day": 1,
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "day": 4,
           "km": 5
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
+        },
+        {
+          "kind": "cycling",
+          "day": 5,
+          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
+          "minutes": 70
         }
       ]
     },
@@ -92,7 +104,7 @@
         {
           "kind": "swim",
           "label": "Swim 35 min - 1200 m continuous",
-          "day": 1,
+          "day": 2,
           "minutes": 35
         },
         {
@@ -126,9 +138,21 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
-          "day": 1,
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "day": 4,
           "km": 5
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
+        },
+        {
+          "kind": "cycling",
+          "day": 5,
+          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
+          "minutes": 70
         }
       ]
     },
@@ -149,7 +173,7 @@
         {
           "kind": "swim",
           "label": "Swim 40 min - 1400 m continuous",
-          "day": 1,
+          "day": 2,
           "minutes": 40
         },
         {
@@ -183,9 +207,21 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
-          "day": 1,
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "day": 4,
           "km": 5
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
+        },
+        {
+          "kind": "cycling",
+          "day": 5,
+          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
+          "minutes": 70
         }
       ]
     },
@@ -206,7 +242,7 @@
         {
           "kind": "swim",
           "label": "Swim 40 min - 1600 m continuous",
-          "day": 1,
+          "day": 2,
           "minutes": 40
         },
         {
@@ -240,9 +276,21 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
-          "day": 1,
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "day": 4,
           "km": 5
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
+        },
+        {
+          "kind": "cycling",
+          "day": 5,
+          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
+          "minutes": 70
         }
       ]
     },
@@ -263,7 +311,7 @@
         {
           "kind": "swim",
           "label": "Swim 45 min - 1800 m continuous",
-          "day": 1,
+          "day": 2,
           "minutes": 45
         },
         {
@@ -297,9 +345,21 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
-          "day": 1,
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "day": 4,
           "km": 5
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
+        },
+        {
+          "kind": "cycling",
+          "day": 5,
+          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
+          "minutes": 70
         }
       ]
     },
@@ -320,7 +380,7 @@
         {
           "kind": "swim",
           "label": "Swim 35 min - 1500 m",
-          "day": 1,
+          "day": 2,
           "minutes": 35
         },
         {
@@ -349,9 +409,21 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
-          "day": 1,
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "day": 4,
           "km": 5
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
+        },
+        {
+          "kind": "cycling",
+          "day": 5,
+          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
+          "minutes": 70
         }
       ]
     },
@@ -372,7 +444,7 @@
         {
           "kind": "swim",
           "label": "Swim 55 min - ATTEMPT 1900 m CONTINUOUS",
-          "day": 1,
+          "day": 2,
           "minutes": 55
         },
         {
@@ -406,9 +478,21 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
-          "day": 1,
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "day": 4,
           "km": 5
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
+        },
+        {
+          "kind": "cycling",
+          "day": 5,
+          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
+          "minutes": 70
         }
       ]
     },
@@ -429,7 +513,7 @@
         {
           "kind": "swim",
           "label": "Swim 55 min - 1900 m at race pace",
-          "day": 1,
+          "day": 2,
           "minutes": 55
         },
         {
@@ -463,9 +547,21 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
-          "day": 1,
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "day": 4,
           "km": 5
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
+        },
+        {
+          "kind": "cycling",
+          "day": 5,
+          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
+          "minutes": 70
         }
       ]
     },
@@ -486,7 +582,7 @@
         {
           "kind": "swim",
           "label": "OPEN WATER 30-40 min in wetsuit + booties. Sight every 6-10 strokes. Rehearse the bail-out: roll to back, float, breathe, restart.",
-          "day": 1,
+          "day": 2,
           "minutes": 40
         },
         {
@@ -515,9 +611,21 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
-          "day": 1,
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "day": 4,
           "km": 5
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
+        },
+        {
+          "kind": "cycling",
+          "day": 5,
+          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
+          "minutes": 70
         }
       ]
     },
@@ -538,7 +646,7 @@
         {
           "kind": "swim",
           "label": "OPEN WATER 40 min - practise a self-seeded start, swim close to someone",
-          "day": 1,
+          "day": 2,
           "minutes": 40
         },
         {
@@ -567,9 +675,21 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
-          "day": 1,
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "day": 4,
           "km": 5
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
+        },
+        {
+          "kind": "cycling",
+          "day": 5,
+          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
+          "minutes": 70
         }
       ]
     },
@@ -590,7 +710,7 @@
         {
           "kind": "swim",
           "label": "OPEN WATER 30 min - final cold exposure",
-          "day": 1,
+          "day": 2,
           "minutes": 30
         },
         {
@@ -619,9 +739,21 @@
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km after the swim - third run of the week. Short and genuinely easy. Run FREQUENCY is what protects against injury; distance is what causes it.",
-          "day": 1,
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "day": 4,
           "km": 5
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
+        },
+        {
+          "kind": "cycling",
+          "day": 5,
+          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
+          "minutes": 70
         }
       ]
     },
