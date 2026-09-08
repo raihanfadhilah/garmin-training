@@ -531,7 +531,7 @@
       "end": "2026-09-19",
       "phase": "Build",
       "down_week": false,
-      "note": "TERRAIN WEEKEND #1 of 2 - Posbank/Veluwezoom, ~1h15 by car, ~EUR 30 of petrol. Hard-surface descents, 90-110 m climbs. Twenty reps is 1,800 m of real ascent AND descent. One day there beats ten stairwell sessions, because sand is compliant and actually REDUCES muscle damage relative to firm ground. Madeira is rock and stone steps. REVISED 6 Sep: this was the highest-risk week in the plan - VO2max, heavy eccentric legs, 70 min of stairs and a 2:35/900 m long day, all landing off a 14.9 km week. Thursday's stairs cut 70 -> 50 min and the long day 900 -> 800 m, taking weekly vertical from 1,740 m to ~1,300 m. Running kilometres are unchanged at 33: that equals a week already completed on 24 August, and percentage progression rules mislead at 20-35 km/wk where a 10% step is 2 km. PROGRESS METRIC: do not judge fitness off pace-at-HR inside the VO2max reps - 3 min is too short for HR to settle and accumulated fatigue distorts it. Use a STANDARDISED EASY RUN instead: same route, same target HR, track the pace month to month. That is the signal that replaces retesting until mid-November.",
+      "note": "Time trial week. Vertical drops for one week only; six more weeks of it remain. All three strength sessions kept - only the VO2max session goes, replaced by the trial.",
       "sessions": [
         {
           "kind": "cycling",
@@ -540,32 +540,26 @@
           "minutes": 75
         },
         {
-          "kind": "easy",
-          "label": "Easy run 50 MIN (talk test) + 4-6 x 20 s strides after, CAPPED AT ABOUT 4:45/km. You have been running these at 3:05-3:24/km with a 143-168 cm stride, which is sprinting, and the tibialis anterior is the known weak link until the lower-leg capacity work has had a few weeks. Relaxed turnover, full recovery, not a workout. PRESCRIBED IN MINUTES, not kilometres: at 7:20/km your 5 km was 36 min, and the accepted easy-run band is 30-75 min. Kilometres make the dose shrink as you get faster, which is backwards. HR CEILING 155 - HARD RULE, not a talk test. You already fixed this: since 24 Aug your easy running is about 80% below 160 bpm, up from roughly 50% over June to mid-August. The number is here to hold the habit, not to correct you. Novice guidance is about 85% genuinely easy. If holding 155 means walking the bridges, walk them - pace is the output here, not the target.",
+          "kind": "benchmark",
+          "label": "5 KM TIME TRIAL - SECOND ATTEMPT. 7 Sep measured a pacing error, not fitness: the first 100 m went at 3:50-4:00/km and 390 W, HR hit LTHR 181 at 65 seconds, and everything decayed from there. THE ONE RULE: the first 400 m does not go under 5:10/km. If the watch shows a 4 in the opening two minutes the race is already gone. Warm up 20 min easy + 4-6 strides finishing AT 5:15/km and NO faster. AUTO-PAUSE OFF. Out-and-back, 2.5 km each way, so wind cancels. Shirt off from the start. Target even 5:15-5:20/km throughout. If the shins burn, SLOW DOWN 10-15 s/km - do not stop. A continuous 27:30 beats a broken 26:17 because paces can be built from it.",
           "day": 3,
-          "km": 6.8,
-          "minutes": 50
+          "km": 5.0,
+          "minutes": null
         },
         {
           "kind": "push",
           "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed.",
-          "day": 3
+          "day": 1
         },
         {
           "kind": "legs",
-          "label": "Legs ONLY, no upper - heavy eccentric. Three quad lifts doing three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 85 kg (18 Aug: 75x6x3 with 4+ reps in reserve, so 1RM is nearer 100 - autoregulate to 2 REPS IN RESERVE and add 5 kg when the last set still feels easy), LOADED UNILATERAL Bulgarian split squat 3 x 8/leg with dumbbells, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg with 3-4 s lowering. Then Nordics 3 x 5 and single-leg calf raises. Never to failure. 48-72 h before the long day. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphill (very large effect), so descending is a frontal-plane hip problem and not only a quad problem - loaded Bulgarians carry that demand, which is why standalone side planks and cable abduction came out. HYROX SLED TECHNIQUE at the end, 8-10 x 12.5 m at 50-65% load (~100 kg), 60-90 s rest. TECHNIQUE ONLY, never to fatigue. Forearms hooked on the posts, 30-45 deg lean, short choppy steps 20-30 cm at 3-4 per second, and never let the sled stop. Sled push is PURELY CONCENTRIC, so it costs your descent block nothing - which is why it is the one Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of horizontal force to break a stationary sled versus 0.81x to keep one rolling, so learning not to stop is worth more to you than to anyone heavier. About 8 minutes. LOWER-LEG CAPACITY, about 4 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, and eccentric dorsiflexion 3 x 10 slow against a band. The plan had NOTHING for the anterior lower leg and that is the tissue that failed on the 7 Sep time trial - it is also what controls the foot down on every descending step, which is 2,003 m of Madeira. Progress the load week to week. Keep the soleus and calf work as well; this is added capacity, not a substitution.",
-          "day": 2
-        },
-        {
-          "kind": "vertical",
-          "label": "VERTICAL 50 min STEADY - stairwell, your own building or a car park. WALK UP, LIFT DOWN. This is a CLIMBING session and the descent is NOT the point: riding down keeps the eccentric cost at zero, which is deliberate, because the descent stimulus is dosed separately, in the 5 min weighted preconditioning walks (weeks 12 and 15 - one bout protects for 4-8 weeks, which is why they are spaced and not weekly). Target ~500 m, about 11 x 15 floors, at roughly 600 m/h including lift transitions - already about twice Madeira's race climb rate of ~310 m/h, so it should feel steady and conversational, not hard. TIME IS THE PRESCRIPTION and vertical is only the check: finishing near 400 m is fine, do not chase the number by rushing the climbs. NO INTERVALS - the hard session is on Monday on flat ground, because Hyrox is 8 x 1 km flat and stair fitness does not transfer to flat running economy. Dutch stair pitch is 30-33 deg, inside the optimal climbing range.",
-          "day": 4,
-          "minutes": 50
+          "label": "Legs - MOVED TO THURSDAY, after the time trial. Heavy eccentric quad work 48 h before a 5 km measures your fitness through muscle damage, which was already baked into 7 Sep. Last legs session was 25 Aug - this one is not optional, and the lower-leg capacity block in it has never actually been done. Legs ONLY, no upper - heavy eccentric. Three quad lifts doing three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 85 kg (18 Aug: 75x6x3 with 4+ reps in reserve, so 1RM is nearer 100 - autoregulate to 2 REPS IN RESERVE and add 5 kg when the last set still feels easy), LOADED UNILATERAL Bulgarian split squat 3 x 8/leg with dumbbells, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg with 3-4 s lowering. Then Nordics 3 x 5 and single-leg calf raises. Never to failure. 48-72 h before the long day. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphill (very large effect), so descending is a frontal-plane hip problem and not only a quad problem - loaded Bulgarians carry that demand, which is why standalone side planks and cable abduction came out. HYROX SLED TECHNIQUE at the end, 8-10 x 12.5 m at 50-65% load (~100 kg), 60-90 s rest. TECHNIQUE ONLY, never to fatigue. Forearms hooked on the posts, 30-45 deg lean, short choppy steps 20-30 cm at 3-4 per second, and never let the sled stop. Sled push is PURELY CONCENTRIC, so it costs your descent block nothing - which is why it is the one Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of horizontal force to break a stationary sled versus 0.81x to keep one rolling, so learning not to stop is worth more to you than to anyone heavier. About 8 minutes. LOWER-LEG CAPACITY, about 4 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, and eccentric dorsiflexion 3 x 10 slow against a band. The plan had NOTHING for the anterior lower leg and that is the tissue that failed on the 7 Sep time trial - it is also what controls the foot down on every descending step, which is 2,003 m of Madeira. Progress the load week to week. Keep the soleus and calf work as well; this is added capacity, not a substitution.",
+          "day": 4
         },
         {
           "kind": "pull",
-          "label": "Pull (upper) - after the vertical session. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 3 x max. Baseline 20 Aug was 32/36/31 s, so 90 s by October was never realistic: target 55-60 s by 1 Nov and 90 s by Hyrox in January. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
-          "day": 4
+          "label": "Pull (upper) - moved to Tuesday. Upper body only, nothing that loads the legs: the time trial is Wednesday and legs stay fresh until it is done. Pull (upper) - after the vertical session. HYROX SEEDING, all substitutions not additions: (1) WARM UP ON THE SKIERG OR ROWER, 5-8 min, technique only - hinge and drive the first third of the pull, that is where 80% of ski power comes from. Replaces your normal warm-up, costs nothing. (2) SWAP one row variation for a HEAVY FARMERS CARRY, 4 x 40-60 m. Same pulling pattern, direct Hyrox transfer. (3) Finish with DEAD HANGS, 3 x max. Baseline 20 Aug was 32/36/31 s, so 90 s by October was never realistic: target 55-60 s by 1 Nov and 90 s by Hyrox in January. Grip takes 4-6 weeks to change and it is what limits the farmers carry. About 3 minutes total added to the session.",
+          "day": 2
         },
         {
           "kind": "long",
@@ -576,14 +570,14 @@
         },
         {
           "kind": "easy",
-          "label": "VO2MAX 5 x 3 min HARD, 2 min easy jog. Warm up 15 min easy + 2 min LIGHT dorsiflexion activation (heel walks, toe raises - activation only, NOT fatiguing sets) + 4-6 x 80-100 m PROGRESSIVE strides finishing at 5:15/km and NO faster. Cool down 10 min. RUN THE REPS BY EFFORT, NOT BY HEART RATE: controlled 5 km effort, about 8/10, and OBSERVE what HR does rather than chasing 185-193. Chasing a band is how you surge, and surging is what went wrong on 7 Sep - the first 400 m hit 4:09/km with cadence collapsing to 156 spm and a 142 cm stride. Reference only: the 7 Sep time trial held 5:15/km at HR 182. Hold 178-184 spm. ABORT RULE: if the shin and lateral lower-leg burning returns inside the first two reps despite the full warm-up, STOP the session. That makes it a reproducible pattern rather than an incident, and it becomes a sports-medicine question, not a training one. TURN AUTO-PAUSE OFF before you start.",
+          "label": "Easy run 30-40 MIN, HR under 155. TIME TRIAL WEEK - this is a shakeout, not a session. The VO2max block comes back in week 12. Add 4 x 20 s strides at the end, relaxed, full recovery.",
           "day": 1,
           "km": 9,
           "minutes": 50
         },
         {
           "kind": "descent",
-          "day": 2,
+          "day": 4,
           "minutes": 8,
           "label": "DESCENT LADDER - 8 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 176 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for."
         }
