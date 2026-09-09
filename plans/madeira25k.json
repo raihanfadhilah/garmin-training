@@ -506,7 +506,7 @@
         },
         {
           "kind": "benchmark",
-          "label": "5 KM TIME TRIAL - the number this whole plan has been missing. Warm up 10-15 min easy + 4-6 x 20 s strides + 3-4 min rest. Then 5 km flat, hard as you can SUSTAIN. Go out at threshold EFFORT - HR 172-178, which is 95-98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km; re-anchor off the retest and do not chase a number that predates it and hold, check in at 2 km, kick from 4 km. Do NOT start at 4:40 - a blown TT gives an unusable number. Flat, no lights, no turns: Vondelpark outer loop or the Amstel. Auto-lap every 1 km. Down week with Sunday rest behind you.",
+          "label": "5 KM TIME TRIAL - the number this whole plan has been missing. Warm up 10-15 min easy + 4-6 x 20 s strides + 3-4 min rest. Then 5 km flat, hard as you can SUSTAIN. Go out at threshold EFFORT - HR 175-180, pace 5:25-5:35/km. This is triangulated, not guessed: your 1 Sep 4 x 4 min ran 5:27/5:12/5:20/5:23 at HR 175-178, and VDOT off the time trial independently lands on 5:30. Re-anchor after each retest and hold, check in at 2 km, kick from 4 km. Do NOT start at 4:40 - a blown TT gives an unusable number. Flat, no lights, no turns: Vondelpark outer loop or the Amstel. Auto-lap every 1 km. Down week with Sunday rest behind you.",
           "day": 1,
           "km": 5,
           "minutes": 45
