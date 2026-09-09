@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Ultra X Madeira 25K training
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w1-s0-cycling@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
 SUMMARY:○ Easy ride 60-90 min
@@ -17,7 +17,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w1-s1-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
 SUMMARY:Easy run 4 km (talk test)
@@ -27,7 +27,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w1-s2-push@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
 SUMMARY:Push (upper)
@@ -37,7 +37,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w1-s3-legs@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:◆ Legs
@@ -48,7 +48,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w1-s4-vertical@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:▲ Vertical 20 min (stairs/ramp/incline)
@@ -58,7 +58,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w1-s5-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Easy run 5 km (talk test)
@@ -68,7 +68,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w1-s6-pull@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Pull (upper)
@@ -78,7 +78,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w1-s7-long@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
 SUMMARY:▲ Long run 7 km (talk test)
@@ -88,7 +88,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w2-s0-cycling@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
 SUMMARY:○ Easy ride 60-90 min
@@ -99,7 +99,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w2-s1-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 SUMMARY:Easy run 4 km (talk test)
@@ -109,7 +109,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w2-s2-push@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 SUMMARY:Push (upper)
@@ -119,7 +119,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w2-s3-legs@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
 SUMMARY:◆ Legs
@@ -130,7 +130,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w2-s4-vertical@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
 SUMMARY:▲ Vertical 25 min (stairs/ramp/incline)
@@ -140,7 +140,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w2-s5-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:Easy run 5 km (talk test)
@@ -150,7 +150,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w2-s6-pull@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:Pull (upper)
@@ -160,7 +160,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w2-s7-long@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
 SUMMARY:▲ Long run 8 km (talk test)
@@ -170,7 +170,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w3-s0-push@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
 SUMMARY:UPPER A (push-emphasis)
@@ -185,7 +185,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w3-s1-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
 SUMMARY:TALK TEST 5 km
@@ -201,7 +201,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w3-s2-legs@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 SUMMARY:◆ LOWER
@@ -217,7 +217,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w3-s3-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 SUMMARY:Easy run 4 km (talk test)
@@ -232,7 +232,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w3-s4-pull@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 SUMMARY:UPPER B (pull-emphasis)
@@ -247,7 +247,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w3-s5-vertical@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:▲ Vertical 25 min (stairs/ramp/incline)
@@ -261,7 +261,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w3-s6-eccentric@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:Controlled stair/ramp descents after the…
@@ -276,7 +276,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w4-s0-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
 SUMMARY:Easy 3 km
@@ -292,7 +292,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w4-s1-vertical@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 SUMMARY:▲ Optional vertical (30 min)
@@ -308,7 +308,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w4-s2-long@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:▲ Long run 6-7 km
@@ -325,7 +325,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w5-s0-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:Easy 4-5 km recovery jog
@@ -341,7 +341,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w5-s1-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Easy 5-6 km by feel
@@ -356,7 +356,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w5-s2-cycling@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
 SUMMARY:○ Easy bike ride instead of the long run (90 min)
@@ -371,7 +371,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w6-s0-cycling@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
 SUMMARY:○ Easy ride 60-90 min
@@ -386,7 +386,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w6-s1-cp_test@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
 SUMMARY:CP 3+12 power test
@@ -401,7 +401,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w6-s2-push@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
 SUMMARY:Push (upper)
@@ -415,7 +415,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w6-s3-legs@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:◆ Legs
@@ -429,7 +429,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w6-s4-vertical@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 SUMMARY:▲ Vertical 25 min (stairs/ramp/incline)
@@ -443,7 +443,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w6-s5-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:Easy run 6 km (talk test)
@@ -457,7 +457,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w6-s6-pull@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:Pull (upper)
@@ -470,7 +470,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w6-s7-long@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
 SUMMARY:▲ Long day 2h15 time-on-feet (17 km)
@@ -484,7 +484,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w7-s0-cycling@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
 SUMMARY:○ OPTIONAL easy ride 60-75 min
@@ -515,7 +515,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w7-s1-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Easy run 6 km
@@ -547,7 +547,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w7-s2-push@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Push (upper)
@@ -578,7 +578,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w7-s3-legs@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
 SUMMARY:◆ Legs ONLY\, no upper
@@ -627,7 +627,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w7-s4-vertical@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:▲ VERTICAL 45 min
@@ -661,7 +661,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w7-s5-pull@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:Pull (upper)
@@ -700,7 +700,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w7-s6-long@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:▲ LONG DAY 1:50 time-on-feet\, 300 m vert (13 km)
@@ -731,7 +731,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w7-s7-descent@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
 SUMMARY:▼ PRECONDITIONING DOWNHILL WALK
@@ -765,7 +765,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w8-s0-cycling@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -787,7 +787,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w8-s1-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Easy run 6 km
@@ -808,7 +808,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w8-s2-push@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Push (upper)
@@ -828,7 +828,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w8-s3-legs@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:◆ Legs ONLY\, no upper
@@ -865,7 +865,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w8-s4-vertical@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:▲ VERTICAL 55 min
@@ -888,7 +888,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w8-s5-pull@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Pull (upper)
@@ -916,7 +916,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w8-s6-long@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:▲ LONG DAY 2:05\, 500 m vert (14 km)
@@ -936,7 +936,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w8-s7-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:NEW SPEED SLOT (5 km)
@@ -963,7 +963,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w9-s0-cycling@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -993,7 +993,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w9-s1-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Easy run 7 km
@@ -1023,7 +1023,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w9-s2-push@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Push (upper)
@@ -1052,7 +1052,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w9-s3-legs@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:◆ Legs ONLY\, no upper
@@ -1098,7 +1098,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w9-s4-vertical@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:▲ VERTICAL 60 min STEADY
@@ -1132,7 +1132,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w9-s5-pull@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Pull (upper)
@@ -1169,7 +1169,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w9-s6-long@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:▲ LONG DAY 2:20\, 700 m vert\, fuelling 40-50 g/h (16 km)
@@ -1198,7 +1198,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w9-s7-descent@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:▼ KIT REHEARSAL: load the vest to ~2.6 kg with…
@@ -1230,7 +1230,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w9-s8-descent@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:▼ PRECONDITIONING DOWNHILL WALK
@@ -1261,7 +1261,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w9-s9-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:THRESHOLD 4 x 4 min\, 90 s easy jog between.…
@@ -1295,7 +1295,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w10-s0-cycling@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -1341,7 +1341,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w10-s1-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Easy run 35 MIN (talk test) (4.8 km)
@@ -1396,7 +1396,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w10-s2-push@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Push (upper)
@@ -1443,7 +1443,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w10-s3-legs@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:◆ Legs ONLY\, no upper
@@ -1487,7 +1487,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w10-s4-pull@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Pull (upper)
@@ -1535,7 +1535,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w10-s5-long@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:▲ LONG DAY 2:00\, 500 m vert (13 km)
@@ -1585,7 +1585,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w10-s6-benchmark@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:5 KM TIME TRIAL (5 km)
@@ -1637,7 +1637,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w10-s7-cross@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:FOOTBALL 21:00 (60 min)
@@ -1687,7 +1687,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w10-s8-descent@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:▼ DESCENT LADDER (6 min)
@@ -1698,52 +1698,56 @@ DESCRIPTION:DESCENT LADDER - 6 min walking DOWN stairs with 5.6 kg\, lift
  lished and is not what this buys. What it buys is the repeated bout effe
  ct for the quads - one 20 min downhill bout protects for over 4 weeks\, 
  roughly 42% less soreness and 53% less CK - and Rinjani's protection exp
- ired 25 months ago. The trained variable is DESCENT VELOCITY IN TRAIL SH
- OES\, not metres: you already hit 830-953 m/h for 30-60 min on Rinjani\,
-  which is inside Madeira's band\, but every metre of it was walked\, in 
- hiking shoes\, with poles. Stairs are the specific tool here because Mad
- eira is stepped and volcanic - technical ground forces lower eccentric v
- elocity than smooth runnable downhill\, which is why this beats dune rep
- s.\n\nWeek 10 of 17 - Build\nDOWN WEEK - recover\, do not add volume.\nC
- utback. Deliberate\, and the reason matters: in trail runners\, injury w
- eeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo
-  loading\, not absolute load\, is what precedes injury. This dip is plan
- ned and the rebound is controlled. RESHUFFLED 6 Sep: time trial held on 
- Monday (Sunday is a full rest day\, which is the setup a TT wants - 9.6 
- h sleep and HRV 98 the night before)\, pull moved to Tuesday as the reco
- very day\, legs to Wednesday\, easy 5 km to Friday\, and Thursday's stai
- rwell session replaced by casual football. Three runs held: TT\, Friday 
- easy\, Saturday long. Push moved Wednesday -> Tuesday: Tuesday is now a 
- single upper day and Wednesday is legs only. Easy run moved Friday -> Tu
- esday to sit directly after the time trial: hard/easy back to back for t
- he train-low effect\, and it moves run #3 out of the post-football Frida
- y slot that has been the one getting skipped. Friday is now empty\, whic
- h is the better setup for Saturday. Upper moved Tuesday -> Thursday morn
- ing: Tuesday is now the easy run alone\, and the upper session sits ~12 
- h before football on legs it does not touch. TIME TRIAL RESULT 7 Sep: 5.
- 01 km in 26:17 timer (31:20 elapsed - two auto-paused stops of 2.2 and 2
- .9 min)\, avg HR 182\, peak 193\, cadence 179. Splits 5:05 / 5:17 / 5:28
-  / 5:14 / 5:12. Previous best 5 km was 29:15 on 15 Mar\, so a 36 s/km im
- provement. NOT a clean continuous 5 km: 81% of it sat at or above LTHR a
- gainst 5% in the 1 Sep threshold session\, and it opened at 4:09/km for 
- 200 m. Baseline established: 5:15/km sustainable in 8-10 min blocks at H
- R 181-183\, LTHR 181\, form holds at 178-184 spm and 100-107 cm stride u
- nder duress. SUPERSEDED 8 Sep: retest set for Wednesday 16 September. St
- ream review showed the first 100 m ran at 3:50-4:00/km and 390 W with LT
- HR reached at 65 seconds\, so 7 Sep measured a pacing error rather than 
- fitness - it is not a retest but the first properly executed attempt. We
- dnesday\, not Monday\, so it sits three days clear of the Saturday long 
- day instead of 40 hours. NOT A REAL DOWN WEEK IN PRACTICE: volume is dow
- n but intensity is not - a maximal time trial on Monday\, an hour of foo
- tball on Thursday and 500 m of vertical on Saturday is three hard days. 
- Keep Tuesday and Friday genuinely easy\, and if the shins are still talk
- ing by Thursday\, football is the session that gives\, not Saturday.\n54
-  days to Ultra X Madeira 25K.
+ ired 25 months ago. The trained variable is FOOTWEAR AND MODALITY\, not 
+ rate and not metres. On Rinjani you averaged 732 m/h across 3.55 h of ac
+ tual descending - that IS a 6 h Madeira (742 m/h over 2.7 h)\, held long
+ er than the race asks\, on legs that had climbed 1\,180 m that morning a
+ nd 1\,574 m the day before. Rate is not your problem. What differs is th
+ at every metre was WALKED at cadence 132-140\, in HIKING SHOES\, with po
+ les\, 25 months ago. You will race in less shoe with the protection expi
+ red. Stairs are the specific tool here because Madeira is stepped and vo
+ lcanic - technical ground forces lower eccentric velocity than smooth ru
+ nnable downhill\, which is why this beats dune reps.\n\nWeek 10 of 17 - 
+ Build\nDOWN WEEK - recover\, do not add volume.\nCutback. Deliberate\, a
+ nd the reason matters: in trail runners\, injury weeks were preceded by 
+ load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading\, not absolut
+ e load\, is what precedes injury. This dip is planned and the rebound is
+  controlled. RESHUFFLED 6 Sep: time trial held on Monday (Sunday is a fu
+ ll rest day\, which is the setup a TT wants - 9.6 h sleep and HRV 98 the
+  night before)\, pull moved to Tuesday as the recovery day\, legs to Wed
+ nesday\, easy 5 km to Friday\, and Thursday's stairwell session replaced
+  by casual football. Three runs held: TT\, Friday easy\, Saturday long. 
+ Push moved Wednesday -> Tuesday: Tuesday is now a single upper day and W
+ ednesday is legs only. Easy run moved Friday -> Tuesday to sit directly 
+ after the time trial: hard/easy back to back for the train-low effect\, 
+ and it moves run #3 out of the post-football Friday slot that has been t
+ he one getting skipped. Friday is now empty\, which is the better setup 
+ for Saturday. Upper moved Tuesday -> Thursday morning: Tuesday is now th
+ e easy run alone\, and the upper session sits ~12 h before football on l
+ egs it does not touch. TIME TRIAL RESULT 7 Sep: 5.01 km in 26:17 timer (
+ 31:20 elapsed - two auto-paused stops of 2.2 and 2.9 min)\, avg HR 182\,
+  peak 193\, cadence 179. Splits 5:05 / 5:17 / 5:28 / 5:14 / 5:12. Previo
+ us best 5 km was 29:15 on 15 Mar\, so a 36 s/km improvement. NOT a clean
+  continuous 5 km: 81% of it sat at or above LTHR against 5% in the 1 Sep
+  threshold session\, and it opened at 4:09/km for 200 m. Baseline establ
+ ished: 5:15/km sustainable in 8-10 min blocks at HR 181-183\, LTHR 181\,
+  form holds at 178-184 spm and 100-107 cm stride under duress. SUPERSEDE
+ D 8 Sep: retest set for Wednesday 16 September. Stream review showed the
+  first 100 m ran at 3:50-4:00/km and 390 W with LTHR reached at 65 secon
+ ds\, so 7 Sep measured a pacing error rather than fitness - it is not a 
+ retest but the first properly executed attempt. Wednesday\, not Monday\,
+  so it sits three days clear of the Saturday long day instead of 40 hour
+ s. NOT A REAL DOWN WEEK IN PRACTICE: volume is down but intensity is not
+  - a maximal time trial on Monday\, an hour of football on Thursday and 
+ 500 m of vertical on Saturday is three hard days. Keep Tuesday and Frida
+ y genuinely easy\, and if the shins are still talking by Thursday\, foot
+ ball is the session that gives\, not Saturday.\n54 days to Ultra X Madei
+ ra 25K.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w11-s0-cycling@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -1758,7 +1762,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w11-s1-benchmark@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:5 KM TIME TRIAL (5 km)
@@ -1779,7 +1783,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w11-s2-push@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Push (upper)
@@ -1792,7 +1796,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w11-s3-legs@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:◆ Legs
@@ -1826,7 +1830,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w11-s4-pull@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Pull (upper)
@@ -1842,7 +1846,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w11-s5-long@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:▲ LONG DAY 2:30\, 600 m vert (16 km)
@@ -1866,7 +1870,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w11-s6-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Easy run 30-40 MIN\, HR under 155. TIME TRIAL…
@@ -1881,7 +1885,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w11-s7-descent@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:▼ DESCENT LADDER (10 min)
@@ -1892,21 +1896,24 @@ DESCRIPTION:DESCENT LADDER - 10 min walking DOWN stairs with 5.6 kg\, lif
  blished and is not what this buys. What it buys is the repeated bout eff
  ect for the quads - one 20 min downhill bout protects for over 4 weeks\,
   roughly 42% less soreness and 53% less CK - and Rinjani's protection ex
- pired 25 months ago. The trained variable is DESCENT VELOCITY IN TRAIL S
- HOES\, not metres: you already hit 830-953 m/h for 30-60 min on Rinjani\
- , which is inside Madeira's band\, but every metre of it was walked\, in
-  hiking shoes\, with poles. Stairs are the specific tool here because Ma
- deira is stepped and volcanic - technical ground forces lower eccentric 
- velocity than smooth runnable downhill\, which is why this beats dune re
- ps.\n\nWeek 11 of 17 - Build\nTime trial week. Vertical drops for one we
- ek only\; six more weeks of it remain. All three strength sessions kept 
- - only the VO2max session goes\, replaced by the trial.\n45 days to Ultr
- a X Madeira 25K.
+ pired 25 months ago. The trained variable is FOOTWEAR AND MODALITY\, not
+  rate and not metres. On Rinjani you averaged 732 m/h across 3.55 h of a
+ ctual descending - that IS a 6 h Madeira (742 m/h over 2.7 h)\, held lon
+ ger than the race asks\, on legs that had climbed 1\,180 m that morning 
+ and 1\,574 m the day before. Rate is not your problem. What differs is t
+ hat every metre was WALKED at cadence 132-140\, in HIKING SHOES\, with p
+ oles\, 25 months ago. You will race in less shoe with the protection exp
+ ired. Stairs are the specific tool here because Madeira is stepped and v
+ olcanic - technical ground forces lower eccentric velocity than smooth r
+ unnable downhill\, which is why this beats dune reps.\n\nWeek 11 of 17 -
+  Build\nTime trial week. Vertical drops for one week only\; six more wee
+ ks of it remain. All three strength sessions kept - only the VO2max sess
+ ion goes\, replaced by the trial.\n45 days to Ultra X Madeira 25K.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w11-s8-swim@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:≈ SWIM 30 min
@@ -1924,7 +1931,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w12-s0-cycling@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -1944,7 +1951,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w12-s1-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:SUB-THRESHOLD 6 x 3 min at HR 168-174\, 60 s…
@@ -1970,7 +1977,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w12-s2-push@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Push (upper)
@@ -1988,7 +1995,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w12-s3-legs@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:◆ Legs ONLY\, no upper
@@ -2023,7 +2030,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w12-s4-vertical@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:▲ VERTICAL 75 min STEADY
@@ -2052,7 +2059,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w12-s5-pull@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Pull (upper)
@@ -2074,7 +2081,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w12-s6-long@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:▲ LONG DAY 2:55\, 700 m vert\, full kit\, poles\, 60…
@@ -2106,7 +2113,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w12-s7-descent@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:▼ ZIG-ZAG AND SLIPPERY-SURFACE PRACTICE 45 min
@@ -2129,7 +2136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w12-s8-descent@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:▼ DESCENT LADDER (16 min)
@@ -2140,26 +2147,30 @@ DESCRIPTION:DESCENT LADDER - 16 min walking DOWN stairs with 5.6 kg\, lif
  blished and is not what this buys. What it buys is the repeated bout eff
  ect for the quads - one 20 min downhill bout protects for over 4 weeks\,
   roughly 42% less soreness and 53% less CK - and Rinjani's protection ex
- pired 25 months ago. The trained variable is DESCENT VELOCITY IN TRAIL S
- HOES\, not metres: you already hit 830-953 m/h for 30-60 min on Rinjani\
- , which is inside Madeira's band\, but every metre of it was walked\, in
-  hiking shoes\, with poles. Stairs are the specific tool here because Ma
- deira is stepped and volcanic - technical ground forces lower eccentric 
- velocity than smooth runnable downhill\, which is why this beats dune re
- ps.\n\nWeek 12 of 17 - Build\nBiggest vertical week so far\, ~2\,000-2\,
- 300 m. HR is now unreliable as a guide: in mountain ultras heart rate FA
- LLS ~34 bpm across the race while RPE rises from 4.3 to 6.9. Pace off kn
- ee-extensor RPE - how your quads feel - not the watch. PROGRESS METRIC: 
- do not judge fitness off pace-at-HR inside the VO2max reps - 3 min is to
- o short for HR to settle and accumulated fatigue distorts it. Use a STAN
- DARDISED EASY RUN instead: same route\, same target HR\, track the pace 
- month to month. That is the signal that replaces retesting until mid-Nov
- ember.\n40 days to Ultra X Madeira 25K.
+ pired 25 months ago. The trained variable is FOOTWEAR AND MODALITY\, not
+  rate and not metres. On Rinjani you averaged 732 m/h across 3.55 h of a
+ ctual descending - that IS a 6 h Madeira (742 m/h over 2.7 h)\, held lon
+ ger than the race asks\, on legs that had climbed 1\,180 m that morning 
+ and 1\,574 m the day before. Rate is not your problem. What differs is t
+ hat every metre was WALKED at cadence 132-140\, in HIKING SHOES\, with p
+ oles\, 25 months ago. You will race in less shoe with the protection exp
+ ired. Stairs are the specific tool here because Madeira is stepped and v
+ olcanic - technical ground forces lower eccentric velocity than smooth r
+ unnable downhill\, which is why this beats dune reps.\n\nWeek 12 of 17 -
+  Build\nBiggest vertical week so far\, ~2\,000-2\,300 m. HR is now unrel
+ iable as a guide: in mountain ultras heart rate FALLS ~34 bpm across the
+  race while RPE rises from 4.3 to 6.9. Pace off knee-extensor RPE - how 
+ your quads feel - not the watch. PROGRESS METRIC: do not judge fitness o
+ ff pace-at-HR inside the VO2max reps - 3 min is too short for HR to sett
+ le and accumulated fatigue distorts it. Use a STANDARDISED EASY RUN inst
+ ead: same route\, same target HR\, track the pace month to month. That i
+ s the signal that replaces retesting until mid-November.\n40 days to Ult
+ ra X Madeira 25K.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w12-s9-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:VO2MAX 5 x 3 min HARD\, 2 min jog. Same as last…
@@ -2179,7 +2190,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w12-s10-swim@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:≈ SWIM 30 min
@@ -2199,7 +2210,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w13-s0-cycling@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -2220,7 +2231,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w13-s1-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:SUB-THRESHOLD 4 x 3 min at HR 168-174\, 60 s…
@@ -2247,7 +2258,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w13-s2-push@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Push (upper)
@@ -2266,7 +2277,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w13-s3-legs@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:◆ Legs ONLY\, no upper
@@ -2292,7 +2303,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w13-s4-vertical@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:▲ VERTICAL 45 min STEADY
@@ -2322,7 +2333,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w13-s5-pull@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Pull (upper)
@@ -2345,7 +2356,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w13-s6-long@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:▲ LONG DAY 2:00\, 500 m vert. WHERE: LOCAL (13 km)
@@ -2366,7 +2377,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w13-s7-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:DOWN WEEK (7 km)
@@ -2387,7 +2398,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w13-s8-descent@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:▼ DESCENT LADDER (12 min)
@@ -2398,27 +2409,31 @@ DESCRIPTION:DESCENT LADDER - 12 min walking DOWN stairs with 5.6 kg\, lif
  blished and is not what this buys. What it buys is the repeated bout eff
  ect for the quads - one 20 min downhill bout protects for over 4 weeks\,
   roughly 42% less soreness and 53% less CK - and Rinjani's protection ex
- pired 25 months ago. The trained variable is DESCENT VELOCITY IN TRAIL S
- HOES\, not metres: you already hit 830-953 m/h for 30-60 min on Rinjani\
- , which is inside Madeira's band\, but every metre of it was walked\, in
-  hiking shoes\, with poles. Stairs are the specific tool here because Ma
- deira is stepped and volcanic - technical ground forces lower eccentric 
- velocity than smooth runnable downhill\, which is why this beats dune re
- ps.\n\nWeek 13 of 17 - Build\nDOWN WEEK - recover\, do not add volume.\n
- Cutback before the two biggest weeks. Eat. At 56 kg with ~50 kg FFM you 
- need at least 2\,250 kcal before exercise is counted - peak-week days ru
- n 4\,800-5\,000 kcal. Under-fuelling an 11-week ramp is the most likely 
- route to a stress fracture\, and your body mass must not trend down. PRO
- GRESS METRIC: do not judge fitness off pace-at-HR inside the VO2max reps
-  - 3 min is too short for HR to settle and accumulated fatigue distorts 
- it. Use a STANDARDISED EASY RUN instead: same route\, same target HR\, t
- rack the pace month to month. That is the signal that replaces retesting
-  until mid-November.\n33 days to Ultra X Madeira 25K.
+ pired 25 months ago. The trained variable is FOOTWEAR AND MODALITY\, not
+  rate and not metres. On Rinjani you averaged 732 m/h across 3.55 h of a
+ ctual descending - that IS a 6 h Madeira (742 m/h over 2.7 h)\, held lon
+ ger than the race asks\, on legs that had climbed 1\,180 m that morning 
+ and 1\,574 m the day before. Rate is not your problem. What differs is t
+ hat every metre was WALKED at cadence 132-140\, in HIKING SHOES\, with p
+ oles\, 25 months ago. You will race in less shoe with the protection exp
+ ired. Stairs are the specific tool here because Madeira is stepped and v
+ olcanic - technical ground forces lower eccentric velocity than smooth r
+ unnable downhill\, which is why this beats dune reps.\n\nWeek 13 of 17 -
+  Build\nDOWN WEEK - recover\, do not add volume.\nCutback before the two
+  biggest weeks. Eat. At 56 kg with ~50 kg FFM you need at least 2\,250 k
+ cal before exercise is counted - peak-week days run 4\,800-5\,000 kcal. 
+ Under-fuelling an 11-week ramp is the most likely route to a stress frac
+ ture\, and your body mass must not trend down. PROGRESS METRIC: do not j
+ udge fitness off pace-at-HR inside the VO2max reps - 3 min is too short 
+ for HR to settle and accumulated fatigue distorts it. Use a STANDARDISED
+  EASY RUN instead: same route\, same target HR\, track the pace month to
+  month. That is the signal that replaces retesting until mid-November.\n
+ 33 days to Ultra X Madeira 25K.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w13-s9-swim@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:≈ SWIM 30 min
@@ -2439,7 +2454,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w14-s0-cycling@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -2464,7 +2479,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w14-s1-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:SUB-THRESHOLD 6 x 4 min at HR 168-174\, 60 s…
@@ -2495,7 +2510,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w14-s2-push@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Push (upper)
@@ -2518,7 +2533,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w14-s3-legs@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:◆ Legs ONLY\, no upper
@@ -2558,7 +2573,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w14-s4-vertical@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:▲ VERTICAL 80 min STEADY
@@ -2591,7 +2606,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w14-s5-pull@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Pull (upper)
@@ -2618,7 +2633,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w14-s6-long@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:▲ LONG DAY 3:20\, 850 m vert (21 km)
@@ -2651,7 +2666,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w14-s7-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:VO2MAX 6 x 3 min HARD\, 2 min jog (10 km)
@@ -2675,7 +2690,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w14-s8-descent@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:▼ DESCENT LADDER (20 min)
@@ -2686,31 +2701,35 @@ DESCRIPTION:DESCENT LADDER - 20 min walking DOWN stairs with 5.6 kg\, lif
  blished and is not what this buys. What it buys is the repeated bout eff
  ect for the quads - one 20 min downhill bout protects for over 4 weeks\,
   roughly 42% less soreness and 53% less CK - and Rinjani's protection ex
- pired 25 months ago. The trained variable is DESCENT VELOCITY IN TRAIL S
- HOES\, not metres: you already hit 830-953 m/h for 30-60 min on Rinjani\
- , which is inside Madeira's band\, but every metre of it was walked\, in
-  hiking shoes\, with poles. Stairs are the specific tool here because Ma
- deira is stepped and volcanic - technical ground forces lower eccentric 
- velocity than smooth runnable downhill\, which is why this beats dune re
- ps.\n\nWeek 14 of 17 - Peak\nTERRAIN WEEKEND #2 - POSBANK AGAIN\, not th
- e Ardennes. Roughly EUR 30 of petrol against EUR 200\, and twenty reps o
- f a 90-110 m climb is 1\,800 m of ascent AND hard-surface descent - clos
- e to the whole race. Sustained descending on firm ground is the one thin
- g stairs cannot replicate\, and it is what decides your day. POLES: boug
- ht 18-20 Sep\, so you have had three weeks on them by now. Use them the 
- whole session. They cut RPE 14-18% and measurably reduce muscle damage o
- ver a climb-and-descent day - but an inexperienced pole user in a field 
- study actually got SLOWER\, so the practice is the point. KIT-CHECK HABI
- T STARTS HERE: every food item must be labelled with its calorie count\,
-  and all disposable packaging must carry your bib number. Tape a strip o
- n your gel flask reading contents and total kcal (e.g. '4x Upfront Gel P
- RO - 640 kcal'). Do it from this session on\, not at registration.\n26 d
- ays to Ultra X Madeira 25K.
+ pired 25 months ago. The trained variable is FOOTWEAR AND MODALITY\, not
+  rate and not metres. On Rinjani you averaged 732 m/h across 3.55 h of a
+ ctual descending - that IS a 6 h Madeira (742 m/h over 2.7 h)\, held lon
+ ger than the race asks\, on legs that had climbed 1\,180 m that morning 
+ and 1\,574 m the day before. Rate is not your problem. What differs is t
+ hat every metre was WALKED at cadence 132-140\, in HIKING SHOES\, with p
+ oles\, 25 months ago. You will race in less shoe with the protection exp
+ ired. Stairs are the specific tool here because Madeira is stepped and v
+ olcanic - technical ground forces lower eccentric velocity than smooth r
+ unnable downhill\, which is why this beats dune reps.\n\nWeek 14 of 17 -
+  Peak\nTERRAIN WEEKEND #2 - POSBANK AGAIN\, not the Ardennes. Roughly EU
+ R 30 of petrol against EUR 200\, and twenty reps of a 90-110 m climb is 
+ 1\,800 m of ascent AND hard-surface descent - close to the whole race. S
+ ustained descending on firm ground is the one thing stairs cannot replic
+ ate\, and it is what decides your day. POLES: bought 18-20 Sep\, so you 
+ have had three weeks on them by now. Use them the whole session. They cu
+ t RPE 14-18% and measurably reduce muscle damage over a climb-and-descen
+ t day - but an inexperienced pole user in a field study actually got SLO
+ WER\, so the practice is the point. KIT-CHECK HABIT STARTS HERE: every f
+ ood item must be labelled with its calorie count\, and all disposable pa
+ ckaging must carry your bib number. Tape a strip on your gel flask readi
+ ng contents and total kcal (e.g. '4x Upfront Gel PRO - 640 kcal'). Do it
+  from this session on\, not at registration.\n26 days to Ultra X Madeira
+  25K.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w14-s9-swim@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:≈ SWIM 30 min
@@ -2734,7 +2753,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w15-s0-cycling@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -2750,7 +2769,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w15-s1-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:SUB-THRESHOLD 5 x 4 min at HR 168-174\, 60 s…
@@ -2772,7 +2791,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w15-s2-push@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Push (upper)
@@ -2787,7 +2806,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w15-s3-legs@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:◆ Legs ONLY\, no upper
@@ -2818,7 +2837,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w15-s4-vertical@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:▲ VERTICAL 80 min STEADY
@@ -2843,7 +2862,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w15-s5-pull@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Pull (upper)
@@ -2861,7 +2880,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w15-s6-long@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:▲ PEAK LONG DAY 3:45-4:00\, 1000 m vert. Race kit\,…
@@ -2888,7 +2907,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w15-s7-descent@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:▼ DESCENT LADDER (20 min)
@@ -2899,22 +2918,26 @@ DESCRIPTION:DESCENT LADDER - 20 min walking DOWN stairs with 5.6 kg\, lif
  blished and is not what this buys. What it buys is the repeated bout eff
  ect for the quads - one 20 min downhill bout protects for over 4 weeks\,
   roughly 42% less soreness and 53% less CK - and Rinjani's protection ex
- pired 25 months ago. The trained variable is DESCENT VELOCITY IN TRAIL S
- HOES\, not metres: you already hit 830-953 m/h for 30-60 min on Rinjani\
- , which is inside Madeira's band\, but every metre of it was walked\, in
-  hiking shoes\, with poles. Stairs are the specific tool here because Ma
- deira is stepped and volcanic - technical ground forces lower eccentric 
- velocity than smooth runnable downhill\, which is why this beats dune re
- ps.\n\nWeek 15 of 17 - Peak\nPEAK WEEKEND - Sat 17 Oct\, 15 days out. Th
- is is the overload the taper is built on\; the evidence favours peaking 
- 14-15 days out\, not five weeks. 3:45-4:00 and 1\,600-1\,800 m: roughly 
- 60-70% of race duration but 80-90% of race vertical. Vertical specificit
- y is the lever\, not duration.\n19 days to Ultra X Madeira 25K.
+ pired 25 months ago. The trained variable is FOOTWEAR AND MODALITY\, not
+  rate and not metres. On Rinjani you averaged 732 m/h across 3.55 h of a
+ ctual descending - that IS a 6 h Madeira (742 m/h over 2.7 h)\, held lon
+ ger than the race asks\, on legs that had climbed 1\,180 m that morning 
+ and 1\,574 m the day before. Rate is not your problem. What differs is t
+ hat every metre was WALKED at cadence 132-140\, in HIKING SHOES\, with p
+ oles\, 25 months ago. You will race in less shoe with the protection exp
+ ired. Stairs are the specific tool here because Madeira is stepped and v
+ olcanic - technical ground forces lower eccentric velocity than smooth r
+ unnable downhill\, which is why this beats dune reps.\n\nWeek 15 of 17 -
+  Peak\nPEAK WEEKEND - Sat 17 Oct\, 15 days out. This is the overload the
+  taper is built on\; the evidence favours peaking 14-15 days out\, not f
+ ive weeks. 3:45-4:00 and 1\,600-1\,800 m: roughly 60-70% of race duratio
+ n but 80-90% of race vertical. Vertical specificity is the lever\, not d
+ uration.\n19 days to Ultra X Madeira 25K.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w15-s8-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:VO2MAX 4 x 3 min HARD\, 2 min jog. Cut back a rep (8 km)
@@ -2932,7 +2955,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w15-s9-swim@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:≈ SWIM 30 min
@@ -2948,7 +2971,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w16-s0-cycling@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -2963,7 +2986,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w16-s1-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Easy run 40 MIN (5.3 km)
@@ -2981,7 +3004,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w16-s2-push@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Push (upper)
@@ -2994,7 +3017,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w16-s3-vertical@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:▲ VERTICAL 40 min STEADY
@@ -3018,7 +3041,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w16-s4-long@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:▲ LAST LONG SESSION 2:00\, 500 m vert\, race kit…
@@ -3034,7 +3057,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w16-s5-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Easy run 40 MIN (5.3 km)
@@ -3052,7 +3075,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w16-s6-descent@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:▼ DESCENT LADDER (8 min)
@@ -3063,21 +3086,25 @@ DESCRIPTION:DESCENT LADDER - 8 min walking DOWN stairs with 5.6 kg\, lift
  lished and is not what this buys. What it buys is the repeated bout effe
  ct for the quads - one 20 min downhill bout protects for over 4 weeks\, 
  roughly 42% less soreness and 53% less CK - and Rinjani's protection exp
- ired 25 months ago. The trained variable is DESCENT VELOCITY IN TRAIL SH
- OES\, not metres: you already hit 830-953 m/h for 30-60 min on Rinjani\,
-  which is inside Madeira's band\, but every metre of it was walked\, in 
- hiking shoes\, with poles. Stairs are the specific tool here because Mad
- eira is stepped and volcanic - technical ground forces lower eccentric v
- elocity than smooth runnable downhill\, which is why this beats dune rep
- s.\n\nWeek 16 of 17 - Taper\nTaper starts. Volume down 45-55%\, intensit
- y and frequency UNCHANGED - that combination is worth 2-3%\, about 7-11 
- minutes on a 6-hour race. NOTHING ECCENTRIC AFTER 21 OCTOBER. Last heavy
-  lower-body work is done.\n12 days to Ultra X Madeira 25K.
+ ired 25 months ago. The trained variable is FOOTWEAR AND MODALITY\, not 
+ rate and not metres. On Rinjani you averaged 732 m/h across 3.55 h of ac
+ tual descending - that IS a 6 h Madeira (742 m/h over 2.7 h)\, held long
+ er than the race asks\, on legs that had climbed 1\,180 m that morning a
+ nd 1\,574 m the day before. Rate is not your problem. What differs is th
+ at every metre was WALKED at cadence 132-140\, in HIKING SHOES\, with po
+ les\, 25 months ago. You will race in less shoe with the protection expi
+ red. Stairs are the specific tool here because Madeira is stepped and vo
+ lcanic - technical ground forces lower eccentric velocity than smooth ru
+ nnable downhill\, which is why this beats dune reps.\n\nWeek 16 of 17 - 
+ Taper\nTaper starts. Volume down 45-55%\, intensity and frequency UNCHAN
+ GED - that combination is worth 2-3%\, about 7-11 minutes on a 6-hour ra
+ ce. NOTHING ECCENTRIC AFTER 21 OCTOBER. Last heavy lower-body work is do
+ ne.\n12 days to Ultra X Madeira 25K.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w16-s7-swim@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:≈ SWIM 30 min
@@ -3092,7 +3119,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w17-s0-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Easy run 50 MIN (7 km)
@@ -3149,7 +3176,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w17-s1-strides@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Easy 3-4 km + 4 x 90 s at race-climb effort
@@ -3197,7 +3224,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w17-s2-race@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:⚑ RACE (25 km)
@@ -3247,7 +3274,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w17-s3-easy@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:SHAKEOUT 30 MIN easy\, two days out. This run…
@@ -3304,7 +3331,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k-w17-s4-swim@garmin-training
-DTSTAMP:20260909T215633Z
+DTSTAMP:20260909T220727Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:≈ SWIM 30 min
