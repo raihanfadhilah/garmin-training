@@ -1,0 +1,2014 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//garmin training//Madeira 25K plan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Goal 5 km - Amsterdamse Bos parkrun training
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w1-s0-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:COMPLETE REST
+DESCRIPTION:COMPLETE REST. Walk if you want to move.\n\nWeek 1 of 19 - Re
+ covery\nDOWN WEEK - recover\, do not add volume.\nRACE WEEK +1. Four day
+ s COMPLETE rest\, then two 30 min walks. Nothing else. The research band
+  for 70.3 recovery is 14-28 days\, and the failure mode is starting the 
+ next block on the fitness you had before the taper.\n131 days to Goal 5 
+ km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w2-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:▲ LONG RUN 5 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 5 km\, HR under 155. Aerobic volume is the lever - t
+ he fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 2 
+ of 19 - Recovery\nDOWN WEEK - recover\, do not add volume.\nKeep HR unde
+ r 150. Walk the climbs. Talk test.\nZone 2 ONLY\, HR under 145. No quali
+ ty of any kind. Ten to twenty-four days of easy is the protocol\; traini
+ ng hard here only lengthens recovery.\n125 days to Goal 5 km - Amsterdam
+ se Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w2-s1-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 2 of 19 - Recovery\nDOWN WEEK - recover\, do
+  not add volume.\nZone 2 ONLY\, HR under 145. No quality of any kind. Te
+ n to twenty-four days of easy is the protocol\; training hard here only 
+ lengthens recovery.\n124 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w2-s2-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Easy run 3.5 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 3.5 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 2 of 19 - Recovery\nDOWN WEEK - recov
+ er\, do not add volume.\nKeep HR under 150. Walk the climbs. Talk test.\
+ nZone 2 ONLY\, HR under 145. No quality of any kind. Ten to twenty-four 
+ days of easy is the protocol\; training hard here only lengthens recover
+ y.\n123 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w2-s3-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 2 of 19 - Recovery\nDOWN WEEK - recover
+ \, do not add volume.\nZone 2 ONLY\, HR under 145. No quality of any kin
+ d. Ten to twenty-four days of easy is the protocol\; training hard here 
+ only lengthens recovery.\n121 days to Goal 5 km - Amsterdamse Bos parkru
+ n.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w2-s4-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 2 of 19 - Recovery\
+ nDOWN WEEK - recover\, do not add volume.\nZone 2 ONLY\, HR under 145. N
+ o quality of any kind. Ten to twenty-four days of easy is the protocol\;
+  training hard here only lengthens recovery.\n120 days to Goal 5 km - Am
+ sterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w2-s5-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Easy run 3.5 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 3.5 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 2 of 19 - Recovery\nDOWN WEEK - recov
+ er\, do not add volume.\nKeep HR under 150. Walk the climbs. Talk test.\
+ nZone 2 ONLY\, HR under 145. No quality of any kind. Ten to twenty-four 
+ days of easy is the protocol\; training hard here only lengthens recover
+ y.\n119 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w3-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:▲ LONG RUN 7 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 7 km\, HR under 155. Aerobic volume is the lever - t
+ he fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 3 
+ of 19 - Recovery\nDOWN WEEK - recover\, do not add volume.\nKeep HR unde
+ r 150. Walk the climbs. Talk test.\nStill Zone 2 only. The bike and the 
+ pool now drop to one optional session each for the rest of the block. Th
+ at is exactly what buys the run frequency.\n118 days to Goal 5 km - Amst
+ erdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w3-s1-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 3 of 19 - Recovery\nDOWN WEEK - recover\, do
+  not add volume.\nStill Zone 2 only. The bike and the pool now drop to o
+ ne optional session each for the rest of the block. That is exactly what
+  buys the run frequency.\n117 days to Goal 5 km - Amsterdamse Bos parkru
+ n.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w3-s2-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Easy run 5.5 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 5.5 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 3 of 19 - Recovery\nDOWN WEEK - recov
+ er\, do not add volume.\nKeep HR under 150. Walk the climbs. Talk test.\
+ nStill Zone 2 only. The bike and the pool now drop to one optional sessi
+ on each for the rest of the block. That is exactly what buys the run fre
+ quency.\n116 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w3-s3-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 3 of 19 - Recovery\nDOWN WEEK - recover
+ \, do not add volume.\nStill Zone 2 only. The bike and the pool now drop
+  to one optional session each for the rest of the block. That is exactly
+  what buys the run frequency.\n114 days to Goal 5 km - Amsterdamse Bos p
+ arkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w3-s4-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 3 of 19 - Recovery\
+ nDOWN WEEK - recover\, do not add volume.\nStill Zone 2 only. The bike a
+ nd the pool now drop to one optional session each for the rest of the bl
+ ock. That is exactly what buys the run frequency.\n113 days to Goal 5 km
+  - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w3-s5-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Easy run 5.5 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 5.5 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 3 of 19 - Recovery\nDOWN WEEK - recov
+ er\, do not add volume.\nKeep HR under 150. Walk the climbs. Talk test.\
+ nStill Zone 2 only. The bike and the pool now drop to one optional sessi
+ on each for the rest of the block. That is exactly what buys the run fre
+ quency.\n112 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w4-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:▲ LONG RUN 10 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 10 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 4
+  of 19 - Ramp\nKeep HR under 150. Walk the climbs. Talk test.\nTHE BLOCK
+  STARTS. Run frequency is the single biggest change: 3 runs a week was y
+ our ceiling all season because three swims and three bikes ate the slots
+ . Now 4\, going to 6. Frequency first\, then volume\, then intensity - i
+ n that order.\n111 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w4-s1-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 4 of 19 - Ramp\nTHE BLOCK STARTS. Run freque
+ ncy is the single biggest change: 3 runs a week was your ceiling all sea
+ son because three swims and three bikes ate the slots. Now 4\, going to 
+ 6. Frequency first\, then volume\, then intensity - in that order.\n110 
+ days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w4-s2-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Easy run 10.0 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 10.0 km\, HR under 155. Genuinely easy - this is the
+  km that builds the engine.\n\nWeek 4 of 19 - Ramp\nKeep HR under 150. W
+ alk the climbs. Talk test.\nTHE BLOCK STARTS. Run frequency is the singl
+ e biggest change: 3 runs a week was your ceiling all season because thre
+ e swims and three bikes ate the slots. Now 4\, going to 6. Frequency fir
+ st\, then volume\, then intensity - in that order.\n108 days to Goal 5 k
+ m - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w4-s3-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 4 of 19 - Ramp\nTHE BLOCK STARTS. Run f
+ requency is the single biggest change: 3 runs a week was your ceiling al
+ l season because three swims and three bikes ate the slots. Now 4\, goin
+ g to 6. Frequency first\, then volume\, then intensity - in that order.\
+ n107 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w4-s4-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 4 of 19 - Ramp\nTHE
+  BLOCK STARTS. Run frequency is the single biggest change: 3 runs a week
+  was your ceiling all season because three swims and three bikes ate the
+  slots. Now 4\, going to 6. Frequency first\, then volume\, then intensi
+ ty - in that order.\n106 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w4-s5-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Easy run 10.0 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 10.0 km\, HR under 155. Genuinely easy - this is the
+  km that builds the engine.\n\nWeek 4 of 19 - Ramp\nKeep HR under 150. W
+ alk the climbs. Talk test.\nTHE BLOCK STARTS. Run frequency is the singl
+ e biggest change: 3 runs a week was your ceiling all season because thre
+ e swims and three bikes ate the slots. Now 4\, going to 6. Frequency fir
+ st\, then volume\, then intensity - in that order.\n105 days to Goal 5 k
+ m - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w5-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:▲ LONG RUN 12 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 12 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 5
+  of 19 - Ramp\nKeep HR under 150. Walk the climbs. Talk test.\nAdd km\, 
+ not intensity. Strides twice a week keep the legs quick and cost nothing
+ .\n104 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w5-s1-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Easy run 7.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 5 of 19 - Ramp\nKeep HR under 150. Wa
+ lk the climbs. Talk test.\nAdd km\, not intensity. Strides twice a week 
+ keep the legs quick and cost nothing.\n103 days to Goal 5 km - Amsterdam
+ se Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w5-s2-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 5 of 19 - Ramp\nAdd km\, not intensity. Stri
+ des twice a week keep the legs quick and cost nothing.\n103 days to Goal
+  5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w5-s3-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Easy run 7.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 5 of 19 - Ramp\nKeep HR under 150. Wa
+ lk the climbs. Talk test.\nAdd km\, not intensity. Strides twice a week 
+ keep the legs quick and cost nothing.\n101 days to Goal 5 km - Amsterdam
+ se Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w5-s4-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 5 of 19 - Ramp\nAdd km\, not intensity.
+  Strides twice a week keep the legs quick and cost nothing.\n100 days to
+  Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w5-s5-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 5 of 19 - Ramp\nAdd
+  km\, not intensity. Strides twice a week keep the legs quick and cost n
+ othing.\n99 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w5-s6-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Easy run 7.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 5 of 19 - Ramp\nKeep HR under 150. Wa
+ lk the climbs. Talk test.\nAdd km\, not intensity. Strides twice a week 
+ keep the legs quick and cost nothing.\n98 days to Goal 5 km - Amsterdams
+ e Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w6-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:▲ LONG RUN 13 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 13 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 6
+  of 19 - Ramp\nKeep HR under 150. Walk the climbs. Talk test.\nFrequency
+  5. First structured session in six weeks\, and deliberately sub-thresho
+ ld rather than threshold.\n97 days to Goal 5 km - Amsterdamse Bos parkru
+ n.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w6-s1-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 6 of 19 - Ramp\nFrequency 5. First structure
+ d session in six weeks\, and deliberately sub-threshold rather than thre
+ shold.\n96 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w6-s2-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:SUB-THRESHOLD 6 x 3 min (9 km)
+DESCRIPTION:SUB-THRESHOLD 6 x 3 min - Pace comes from your most recent Am
+ sterdamse Bos parkrun\, never a number written months earlier. Threshold
+  = HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max =
+  set by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 m
+ in\, cool down 10 min.\n\nWeek 6 of 19 - Ramp\nFrequency 5. First struct
+ ured session in six weeks\, and deliberately sub-threshold rather than t
+ hreshold.\n95 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w6-s3-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Easy run 8.0 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 8.0 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 6 of 19 - Ramp\nKeep HR under 150. Wa
+ lk the climbs. Talk test.\nFrequency 5. First structured session in six 
+ weeks\, and deliberately sub-threshold rather than threshold.\n94 days t
+ o Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w6-s4-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 6 of 19 - Ramp\nFrequency 5. First stru
+ ctured session in six weeks\, and deliberately sub-threshold rather than
+  threshold.\n93 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w6-s5-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 6 of 19 - Ramp\nFre
+ quency 5. First structured session in six weeks\, and deliberately sub-t
+ hreshold rather than threshold.\n92 days to Goal 5 km - Amsterdamse Bos 
+ parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w6-s6-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Easy run 8.0 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 8.0 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 6 of 19 - Ramp\nKeep HR under 150. Wa
+ lk the climbs. Talk test.\nFrequency 5. First structured session in six 
+ weeks\, and deliberately sub-threshold rather than threshold.\n91 days t
+ o Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w7-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:▲ LONG RUN 10 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 10 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 7
+  of 19 - Down\nDOWN WEEK - recover\, do not add volume.\nKeep HR under 1
+ 50. Walk the climbs. Talk test.\nDown week. Four up\, one down\, all blo
+ ck long.\n90 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w7-s1-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 7 of 19 - Down\nDOWN WEEK - recover\, do not
+  add volume.\nDown week. Four up\, one down\, all block long.\n89 days t
+ o Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w7-s2-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:SUB-THRESHOLD 4 x 3 min (9 km)
+DESCRIPTION:SUB-THRESHOLD 4 x 3 min - Pace comes from your most recent Am
+ sterdamse Bos parkrun\, never a number written months earlier. Threshold
+  = HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max =
+  set by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 m
+ in\, cool down 10 min.\n\nWeek 7 of 19 - Down\nDOWN WEEK - recover\, do 
+ not add volume.\nDown week. Four up\, one down\, all block long.\n88 day
+ s to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w7-s3-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Easy run 5.5 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 5.5 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 7 of 19 - Down\nDOWN WEEK - recover\,
+  do not add volume.\nKeep HR under 150. Walk the climbs. Talk test.\nDow
+ n week. Four up\, one down\, all block long.\n87 days to Goal 5 km - Ams
+ terdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w7-s4-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 7 of 19 - Down\nDOWN WEEK - recover\, d
+ o not add volume.\nDown week. Four up\, one down\, all block long.\n86 d
+ ays to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w7-s5-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 7 of 19 - Down\nDOW
+ N WEEK - recover\, do not add volume.\nDown week. Four up\, one down\, a
+ ll block long.\n85 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w7-s6-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Easy run 5.5 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 5.5 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 7 of 19 - Down\nDOWN WEEK - recover\,
+  do not add volume.\nKeep HR under 150. Walk the climbs. Talk test.\nDow
+ n week. Four up\, one down\, all block long.\n84 days to Goal 5 km - Ams
+ terdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w8-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:▲ LONG RUN 14 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 14 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 8
+  of 19 - Base\nKeep HR under 150. Walk the climbs. Talk test.\nThe long 
+ run passes 90 min here - the duration at which running economy is preser
+ ved under fatigue.\n83 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w8-s1-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Easy run 6.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 6.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 8 of 19 - Base\nKeep HR under 150. Wa
+ lk the climbs. Talk test.\nThe long run passes 90 min here - the duratio
+ n at which running economy is preserved under fatigue.\n82 days to Goal 
+ 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w8-s2-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 8 of 19 - Base\nThe long run passes 90 min h
+ ere - the duration at which running economy is preserved under fatigue.\
+ n82 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w8-s3-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:SUB-THRESHOLD 6 x 4 min (9 km)
+DESCRIPTION:SUB-THRESHOLD 6 x 4 min - Pace comes from your most recent Am
+ sterdamse Bos parkrun\, never a number written months earlier. Threshold
+  = HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max =
+  set by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 m
+ in\, cool down 10 min.\n\nWeek 8 of 19 - Base\nThe long run passes 90 mi
+ n here - the duration at which running economy is preserved under fatigu
+ e.\n81 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w8-s4-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Easy run 6.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 6.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 8 of 19 - Base\nKeep HR under 150. Wa
+ lk the climbs. Talk test.\nThe long run passes 90 min here - the duratio
+ n at which running economy is preserved under fatigue.\n80 days to Goal 
+ 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w8-s5-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 8 of 19 - Base\nThe long run passes 90 
+ min here - the duration at which running economy is preserved under fati
+ gue.\n79 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w8-s6-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 8 of 19 - Base\nThe
+  long run passes 90 min here - the duration at which running economy is 
+ preserved under fatigue.\n78 days to Goal 5 km - Amsterdamse Bos parkrun
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w8-s7-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Easy run 6.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 6.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 8 of 19 - Base\nKeep HR under 150. Wa
+ lk the climbs. Talk test.\nThe long run passes 90 min here - the duratio
+ n at which running economy is preserved under fatigue.\n77 days to Goal 
+ 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w9-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:▲ LONG RUN 15 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 15 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 9
+  of 19 - Base\nKeep HR under 150. Walk the climbs. Talk test.\nFREQUENCY
+  6 - the first six-run week of your life. Two sub-threshold sessions\, b
+ oth easy enough to repeat. That repeatability is the whole mechanism: ne
+ ither one needs real recovery\, so both can sit in the same week.\n76 da
+ ys to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w9-s1-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Easy run 4.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 4.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 9 of 19 - Base\nKeep HR under 150. Wa
+ lk the climbs. Talk test.\nFREQUENCY 6 - the first six-run week of your 
+ life. Two sub-threshold sessions\, both easy enough to repeat. That repe
+ atability is the whole mechanism: neither one needs real recovery\, so b
+ oth can sit in the same week.\n75 days to Goal 5 km - Amsterdamse Bos pa
+ rkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w9-s2-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 9 of 19 - Base\nFREQUENCY 6 - the first six-
+ run week of your life. Two sub-threshold sessions\, both easy enough to 
+ repeat. That repeatability is the whole mechanism: neither one needs rea
+ l recovery\, so both can sit in the same week.\n75 days to Goal 5 km - A
+ msterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w9-s3-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:SUB-THRESHOLD 6 x 4 min (9 km)
+DESCRIPTION:SUB-THRESHOLD 6 x 4 min - Pace comes from your most recent Am
+ sterdamse Bos parkrun\, never a number written months earlier. Threshold
+  = HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max =
+  set by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 m
+ in\, cool down 10 min.\n\nWeek 9 of 19 - Base\nFREQUENCY 6 - the first s
+ ix-run week of your life. Two sub-threshold sessions\, both easy enough 
+ to repeat. That repeatability is the whole mechanism: neither one needs 
+ real recovery\, so both can sit in the same week.\n74 days to Goal 5 km 
+ - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w9-s4-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Easy run 4.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 4.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 9 of 19 - Base\nKeep HR under 150. Wa
+ lk the climbs. Talk test.\nFREQUENCY 6 - the first six-run week of your 
+ life. Two sub-threshold sessions\, both easy enough to repeat. That repe
+ atability is the whole mechanism: neither one needs real recovery\, so b
+ oth can sit in the same week.\n73 days to Goal 5 km - Amsterdamse Bos pa
+ rkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w9-s5-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 9 of 19 - Base\nFREQUENCY 6 - the first
+  six-run week of your life. Two sub-threshold sessions\, both easy enoug
+ h to repeat. That repeatability is the whole mechanism: neither one need
+ s real recovery\, so both can sit in the same week.\n72 days to Goal 5 k
+ m - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w9-s6-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:SUB-THRESHOLD 5 x 3 min (9 km)
+DESCRIPTION:SUB-THRESHOLD 5 x 3 min - Pace comes from your most recent Am
+ sterdamse Bos parkrun\, never a number written months earlier. Threshold
+  = HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max =
+  set by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 m
+ in\, cool down 10 min.\n\nWeek 9 of 19 - Base\nFREQUENCY 6 - the first s
+ ix-run week of your life. Two sub-threshold sessions\, both easy enough 
+ to repeat. That repeatability is the whole mechanism: neither one needs 
+ real recovery\, so both can sit in the same week.\n72 days to Goal 5 km 
+ - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w9-s7-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 9 of 19 - Base\nFRE
+ QUENCY 6 - the first six-run week of your life. Two sub-threshold sessio
+ ns\, both easy enough to repeat. That repeatability is the whole mechani
+ sm: neither one needs real recovery\, so both can sit in the same week.\
+ n71 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w9-s8-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Easy run 4.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 4.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 9 of 19 - Base\nKeep HR under 150. Wa
+ lk the climbs. Talk test.\nFREQUENCY 6 - the first six-run week of your 
+ life. Two sub-threshold sessions\, both easy enough to repeat. That repe
+ atability is the whole mechanism: neither one needs real recovery\, so b
+ oth can sit in the same week.\n70 days to Goal 5 km - Amsterdamse Bos pa
+ rkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w10-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:▲ LONG RUN 16 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 16 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 1
+ 0 of 19 - Base\nKeep HR under 150. Walk the climbs. Talk test.\n50 km\, 
+ the biggest volume you have ever run. Quality is still entirely sub-thre
+ shold.\n69 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w10-s1-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Easy run 5.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 5.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 10 of 19 - Base\nKeep HR under 150. W
+ alk the climbs. Talk test.\n50 km\, the biggest volume you have ever run
+ . Quality is still entirely sub-threshold.\n68 days to Goal 5 km - Amste
+ rdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w10-s2-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 10 of 19 - Base\n50 km\, the biggest volume 
+ you have ever run. Quality is still entirely sub-threshold.\n68 days to 
+ Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w10-s3-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:SUB-THRESHOLD 8 x 3 min (9 km)
+DESCRIPTION:SUB-THRESHOLD 8 x 3 min - Pace comes from your most recent Am
+ sterdamse Bos parkrun\, never a number written months earlier. Threshold
+  = HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max =
+  set by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 m
+ in\, cool down 10 min.\n\nWeek 10 of 19 - Base\n50 km\, the biggest volu
+ me you have ever run. Quality is still entirely sub-threshold.\n67 days 
+ to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w10-s4-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Easy run 5.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 5.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 10 of 19 - Base\nKeep HR under 150. W
+ alk the climbs. Talk test.\n50 km\, the biggest volume you have ever run
+ . Quality is still entirely sub-threshold.\n66 days to Goal 5 km - Amste
+ rdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w10-s5-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 10 of 19 - Base\n50 km\, the biggest vo
+ lume you have ever run. Quality is still entirely sub-threshold.\n65 day
+ s to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w10-s6-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:SUB-THRESHOLD 6 x 3 min (9 km)
+DESCRIPTION:SUB-THRESHOLD 6 x 3 min - Pace comes from your most recent Am
+ sterdamse Bos parkrun\, never a number written months earlier. Threshold
+  = HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max =
+  set by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 m
+ in\, cool down 10 min.\n\nWeek 10 of 19 - Base\n50 km\, the biggest volu
+ me you have ever run. Quality is still entirely sub-threshold.\n65 days 
+ to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w10-s7-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 10 of 19 - Base\n50
+  km\, the biggest volume you have ever run. Quality is still entirely su
+ b-threshold.\n64 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w10-s8-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Easy run 5.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 5.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 10 of 19 - Base\nKeep HR under 150. W
+ alk the climbs. Talk test.\n50 km\, the biggest volume you have ever run
+ . Quality is still entirely sub-threshold.\n63 days to Goal 5 km - Amste
+ rdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w11-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:▲ LONG RUN 12 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 12 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 1
+ 1 of 19 - Down\nDOWN WEEK - recover\, do not add volume.\nKeep HR under 
+ 150. Walk the climbs. Talk test.\nDown week. Take it - the last three we
+ eks were the largest jump in your running history.\n62 days to Goal 5 km
+  - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w11-s1-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 11 of 19 - Down\nDOWN WEEK - recover\, do no
+ t add volume.\nDown week. Take it - the last three weeks were the larges
+ t jump in your running history.\n61 days to Goal 5 km - Amsterdamse Bos 
+ parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w11-s2-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:SUB-THRESHOLD 5 x 3 min (9 km)
+DESCRIPTION:SUB-THRESHOLD 5 x 3 min - Pace comes from your most recent Am
+ sterdamse Bos parkrun\, never a number written months earlier. Threshold
+  = HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max =
+  set by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 m
+ in\, cool down 10 min.\n\nWeek 11 of 19 - Down\nDOWN WEEK - recover\, do
+  not add volume.\nDown week. Take it - the last three weeks were the lar
+ gest jump in your running history.\n60 days to Goal 5 km - Amsterdamse B
+ os parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w11-s3-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Easy run 8.5 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 8.5 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 11 of 19 - Down\nDOWN WEEK - recover\
+ , do not add volume.\nKeep HR under 150. Walk the climbs. Talk test.\nDo
+ wn week. Take it - the last three weeks were the largest jump in your ru
+ nning history.\n59 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w11-s4-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 11 of 19 - Down\nDOWN WEEK - recover\, 
+ do not add volume.\nDown week. Take it - the last three weeks were the l
+ argest jump in your running history.\n58 days to Goal 5 km - Amsterdamse
+  Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w11-s5-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 11 of 19 - Down\nDO
+ WN WEEK - recover\, do not add volume.\nDown week. Take it - the last th
+ ree weeks were the largest jump in your running history.\n57 days to Goa
+ l 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w11-s6-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Easy run 8.5 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 8.5 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 11 of 19 - Down\nDOWN WEEK - recover\
+ , do not add volume.\nKeep HR under 150. Walk the climbs. Talk test.\nDo
+ wn week. Take it - the last three weeks were the largest jump in your ru
+ nning history.\n56 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w12-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:▲ LONG RUN 17 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 17 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 1
+ 2 of 19 - Threshold\nKeep HR under 150. Walk the climbs. Talk test.\nThr
+ eshold phase. One session now becomes genuinely hard. Pfitzinger's order
+  - threshold first\, VO2max last - because threshold raises the fraction
+  of your ceiling you can hold\, and that is what a 5 km actually runs on
+ .\n55 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w12-s1-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:Easy run 5.7 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 5.7 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 12 of 19 - Threshold\nKeep HR under 1
+ 50. Walk the climbs. Talk test.\nThreshold phase. One session now become
+ s genuinely hard. Pfitzinger's order - threshold first\, VO2max last - b
+ ecause threshold raises the fraction of your ceiling you can hold\, and 
+ that is what a 5 km actually runs on.\n54 days to Goal 5 km - Amsterdams
+ e Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w12-s2-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 12 of 19 - Threshold\nThreshold phase. One s
+ ession now becomes genuinely hard. Pfitzinger's order - threshold first\
+ , VO2max last - because threshold raises the fraction of your ceiling yo
+ u can hold\, and that is what a 5 km actually runs on.\n54 days to Goal 
+ 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w12-s3-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:THRESHOLD 4 x 1.5 km
+DESCRIPTION:THRESHOLD 4 x 1.5 km - Pace comes from your most recent Amste
+ rdamse Bos parkrun\, never a number written months earlier. Threshold = 
+ HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max = se
+ t by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 min\
+ , cool down 10 min.\n\nWeek 12 of 19 - Threshold\nThreshold phase. One s
+ ession now becomes genuinely hard. Pfitzinger's order - threshold first\
+ , VO2max last - because threshold raises the fraction of your ceiling yo
+ u can hold\, and that is what a 5 km actually runs on.\n53 days to Goal 
+ 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w12-s4-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:Easy run 5.7 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 5.7 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 12 of 19 - Threshold\nKeep HR under 1
+ 50. Walk the climbs. Talk test.\nThreshold phase. One session now become
+ s genuinely hard. Pfitzinger's order - threshold first\, VO2max last - b
+ ecause threshold raises the fraction of your ceiling you can hold\, and 
+ that is what a 5 km actually runs on.\n52 days to Goal 5 km - Amsterdams
+ e Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w12-s5-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 12 of 19 - Threshold\nThreshold phase. 
+ One session now becomes genuinely hard. Pfitzinger's order - threshold f
+ irst\, VO2max last - because threshold raises the fraction of your ceili
+ ng you can hold\, and that is what a 5 km actually runs on.\n51 days to 
+ Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w12-s6-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:SUB-THRESHOLD 6 x 4 min (9 km)
+DESCRIPTION:SUB-THRESHOLD 6 x 4 min - Pace comes from your most recent Am
+ sterdamse Bos parkrun\, never a number written months earlier. Threshold
+  = HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max =
+  set by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 m
+ in\, cool down 10 min.\n\nWeek 12 of 19 - Threshold\nThreshold phase. On
+ e session now becomes genuinely hard. Pfitzinger's order - threshold fir
+ st\, VO2max last - because threshold raises the fraction of your ceiling
+  you can hold\, and that is what a 5 km actually runs on.\n51 days to Go
+ al 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w12-s7-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 12 of 19 - Threshol
+ d\nThreshold phase. One session now becomes genuinely hard. Pfitzinger's
+  order - threshold first\, VO2max last - because threshold raises the fr
+ action of your ceiling you can hold\, and that is what a 5 km actually r
+ uns on.\n50 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w12-s8-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Easy run 5.7 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 5.7 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 12 of 19 - Threshold\nKeep HR under 1
+ 50. Walk the climbs. Talk test.\nThreshold phase. One session now become
+ s genuinely hard. Pfitzinger's order - threshold first\, VO2max last - b
+ ecause threshold raises the fraction of your ceiling you can hold\, and 
+ that is what a 5 km actually runs on.\n49 days to Goal 5 km - Amsterdams
+ e Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w13-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:▲ LONG RUN 18 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 18 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals. THRESHOLD
+  FINISH: last 15 min at HR 175-180.\n\nWeek 13 of 19 - Threshold\nKeep H
+ R under 150. Walk the climbs. Talk test.\nLong run takes a threshold fin
+ ish. Durability and threshold in one session\, no extra day spent.\n48 d
+ ays to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w13-s1-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Easy run 6.7 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 6.7 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 13 of 19 - Threshold\nKeep HR under 1
+ 50. Walk the climbs. Talk test.\nLong run takes a threshold finish. Dura
+ bility and threshold in one session\, no extra day spent.\n47 days to Go
+ al 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w13-s2-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 13 of 19 - Threshold\nLong run takes a thres
+ hold finish. Durability and threshold in one session\, no extra day spen
+ t.\n47 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w13-s3-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:THRESHOLD 5 x 1.5 km
+DESCRIPTION:THRESHOLD 5 x 1.5 km - Pace comes from your most recent Amste
+ rdamse Bos parkrun\, never a number written months earlier. Threshold = 
+ HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max = se
+ t by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 min\
+ , cool down 10 min.\n\nWeek 13 of 19 - Threshold\nLong run takes a thres
+ hold finish. Durability and threshold in one session\, no extra day spen
+ t.\n46 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w13-s4-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Easy run 6.7 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 6.7 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 13 of 19 - Threshold\nKeep HR under 1
+ 50. Walk the climbs. Talk test.\nLong run takes a threshold finish. Dura
+ bility and threshold in one session\, no extra day spent.\n45 days to Go
+ al 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w13-s5-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 13 of 19 - Threshold\nLong run takes a 
+ threshold finish. Durability and threshold in one session\, no extra day
+  spent.\n44 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w13-s6-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:SUB-THRESHOLD 6 x 4 min (9 km)
+DESCRIPTION:SUB-THRESHOLD 6 x 4 min - Pace comes from your most recent Am
+ sterdamse Bos parkrun\, never a number written months earlier. Threshold
+  = HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max =
+  set by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 m
+ in\, cool down 10 min.\n\nWeek 13 of 19 - Threshold\nLong run takes a th
+ reshold finish. Durability and threshold in one session\, no extra day s
+ pent.\n44 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w13-s7-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 13 of 19 - Threshol
+ d\nLong run takes a threshold finish. Durability and threshold in one se
+ ssion\, no extra day spent.\n43 days to Goal 5 km - Amsterdamse Bos park
+ run.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w13-s8-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Easy run 6.7 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 6.7 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 13 of 19 - Threshold\nKeep HR under 1
+ 50. Walk the climbs. Talk test.\nLong run takes a threshold finish. Dura
+ bility and threshold in one session\, no extra day spent.\n42 days to Go
+ al 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w14-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:▲ LONG RUN 19 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 19 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals. THRESHOLD
+  FINISH: last 15 min at HR 175-180.\n\nWeek 14 of 19 - Threshold\nKeep H
+ R under 150. Walk the climbs. Talk test.\nPEAK VOLUME 60 km - nearly tri
+ ple your 2026 average of 22. If something is going to hurt\, it shows up
+  here. Stop\; do not run through it.\n41 days to Goal 5 km - Amsterdamse
+  Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w14-s1-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Easy run 7.7 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.7 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 14 of 19 - Threshold\nKeep HR under 1
+ 50. Walk the climbs. Talk test.\nPEAK VOLUME 60 km - nearly triple your 
+ 2026 average of 22. If something is going to hurt\, it shows up here. St
+ op\; do not run through it.\n40 days to Goal 5 km - Amsterdamse Bos park
+ run.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w14-s2-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 14 of 19 - Threshold\nPEAK VOLUME 60 km - ne
+ arly triple your 2026 average of 22. If something is going to hurt\, it 
+ shows up here. Stop\; do not run through it.\n40 days to Goal 5 km - Ams
+ terdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w14-s3-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:THRESHOLD 4 x 2 km
+DESCRIPTION:THRESHOLD 4 x 2 km - Pace comes from your most recent Amsterd
+ amse Bos parkrun\, never a number written months earlier. Threshold = HR
+  175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max = set 
+ by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 min\, 
+ cool down 10 min.\n\nWeek 14 of 19 - Threshold\nPEAK VOLUME 60 km - near
+ ly triple your 2026 average of 22. If something is going to hurt\, it sh
+ ows up here. Stop\; do not run through it.\n39 days to Goal 5 km - Amste
+ rdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w14-s4-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:Easy run 7.7 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.7 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 14 of 19 - Threshold\nKeep HR under 1
+ 50. Walk the climbs. Talk test.\nPEAK VOLUME 60 km - nearly triple your 
+ 2026 average of 22. If something is going to hurt\, it shows up here. St
+ op\; do not run through it.\n38 days to Goal 5 km - Amsterdamse Bos park
+ run.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w14-s5-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 14 of 19 - Threshold\nPEAK VOLUME 60 km
+  - nearly triple your 2026 average of 22. If something is going to hurt\
+ , it shows up here. Stop\; do not run through it.\n37 days to Goal 5 km 
+ - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w14-s6-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:SUB-THRESHOLD 8 x 3 min (9 km)
+DESCRIPTION:SUB-THRESHOLD 8 x 3 min - Pace comes from your most recent Am
+ sterdamse Bos parkrun\, never a number written months earlier. Threshold
+  = HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max =
+  set by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 m
+ in\, cool down 10 min.\n\nWeek 14 of 19 - Threshold\nPEAK VOLUME 60 km -
+  nearly triple your 2026 average of 22. If something is going to hurt\, 
+ it shows up here. Stop\; do not run through it.\n37 days to Goal 5 km - 
+ Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w14-s7-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 14 of 19 - Threshol
+ d\nPEAK VOLUME 60 km - nearly triple your 2026 average of 22. If somethi
+ ng is going to hurt\, it shows up here. Stop\; do not run through it.\n3
+ 6 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w14-s8-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Easy run 7.7 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.7 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 14 of 19 - Threshold\nKeep HR under 1
+ 50. Walk the climbs. Talk test.\nPEAK VOLUME 60 km - nearly triple your 
+ 2026 average of 22. If something is going to hurt\, it shows up here. St
+ op\; do not run through it.\n35 days to Goal 5 km - Amsterdamse Bos park
+ run.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w15-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:▲ LONG RUN 14 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 14 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 1
+ 5 of 19 - Down\nDOWN WEEK - recover\, do not add volume.\nKeep HR under 
+ 150. Walk the climbs. Talk test.\nDown week before sharpening. One quali
+ ty session\, no heroics.\n34 days to Goal 5 km - Amsterdamse Bos parkrun
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w15-s1-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Easy run 7.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 15 of 19 - Down\nDOWN WEEK - recover\
+ , do not add volume.\nKeep HR under 150. Walk the climbs. Talk test.\nDo
+ wn week before sharpening. One quality session\, no heroics.\n33 days to
+  Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w15-s2-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 15 of 19 - Down\nDOWN WEEK - recover\, do no
+ t add volume.\nDown week before sharpening. One quality session\, no her
+ oics.\n33 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w15-s3-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:THRESHOLD 3 x 1.5 km
+DESCRIPTION:THRESHOLD 3 x 1.5 km - Pace comes from your most recent Amste
+ rdamse Bos parkrun\, never a number written months earlier. Threshold = 
+ HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max = se
+ t by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 min\
+ , cool down 10 min.\n\nWeek 15 of 19 - Down\nDOWN WEEK - recover\, do no
+ t add volume.\nDown week before sharpening. One quality session\, no her
+ oics.\n32 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w15-s4-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Easy run 7.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 15 of 19 - Down\nDOWN WEEK - recover\
+ , do not add volume.\nKeep HR under 150. Walk the climbs. Talk test.\nDo
+ wn week before sharpening. One quality session\, no heroics.\n31 days to
+  Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w15-s5-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 15 of 19 - Down\nDOWN WEEK - recover\, 
+ do not add volume.\nDown week before sharpening. One quality session\, n
+ o heroics.\n30 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w15-s6-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 15 of 19 - Down\nDO
+ WN WEEK - recover\, do not add volume.\nDown week before sharpening. One
+  quality session\, no heroics.\n29 days to Goal 5 km - Amsterdamse Bos p
+ arkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w15-s7-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:Easy run 7.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 15 of 19 - Down\nDOWN WEEK - recover\
+ , do not add volume.\nKeep HR under 150. Walk the climbs. Talk test.\nDo
+ wn week before sharpening. One quality session\, no heroics.\n28 days to
+  Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w16-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:▲ LONG RUN 18 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 18 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 1
+ 6 of 19 - VO2max\nKeep HR under 150. Walk the climbs. Talk test.\nVO2max
+  goes LAST because it arrives fastest and fades fastest - you want it la
+ nding on race day\, not in June. Three to five minutes is the rep range 
+ that accumulates real time above 90% VO2max.\n27 days to Goal 5 km - Ams
+ terdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w16-s1-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Easy run 7.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 16 of 19 - VO2max\nKeep HR under 150.
+  Walk the climbs. Talk test.\nVO2max goes LAST because it arrives fastes
+ t and fades fastest - you want it landing on race day\, not in June. Thr
+ ee to five minutes is the rep range that accumulates real time above 90%
+  VO2max.\n26 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w16-s2-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 16 of 19 - VO2max\nVO2max goes LAST because 
+ it arrives fastest and fades fastest - you want it landing on race day\,
+  not in June. Three to five minutes is the rep range that accumulates re
+ al time above 90% VO2max.\n26 days to Goal 5 km - Amsterdamse Bos parkru
+ n.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w16-s3-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:VO2MAX 5 x 3 min (9 km)
+DESCRIPTION:VO2MAX 5 x 3 min - Pace comes from your most recent Amsterdam
+ se Bos parkrun\, never a number written months earlier. Threshold = HR 1
+ 75-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max = set by
+  pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 min\, co
+ ol down 10 min.\n\nWeek 16 of 19 - VO2max\nVO2max goes LAST because it a
+ rrives fastest and fades fastest - you want it landing on race day\, not
+  in June. Three to five minutes is the rep range that accumulates real t
+ ime above 90% VO2max.\n25 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w16-s4-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Easy run 7.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 16 of 19 - VO2max\nKeep HR under 150.
+  Walk the climbs. Talk test.\nVO2max goes LAST because it arrives fastes
+ t and fades fastest - you want it landing on race day\, not in June. Thr
+ ee to five minutes is the rep range that accumulates real time above 90%
+  VO2max.\n24 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w16-s5-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 16 of 19 - VO2max\nVO2max goes LAST bec
+ ause it arrives fastest and fades fastest - you want it landing on race 
+ day\, not in June. Three to five minutes is the rep range that accumulat
+ es real time above 90% VO2max.\n23 days to Goal 5 km - Amsterdamse Bos p
+ arkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w16-s6-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:THRESHOLD 4 x 1.5 km
+DESCRIPTION:THRESHOLD 4 x 1.5 km - Pace comes from your most recent Amste
+ rdamse Bos parkrun\, never a number written months earlier. Threshold = 
+ HR 175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max = se
+ t by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 min\
+ , cool down 10 min.\n\nWeek 16 of 19 - VO2max\nVO2max goes LAST because 
+ it arrives fastest and fades fastest - you want it landing on race day\,
+  not in June. Three to five minutes is the rep range that accumulates re
+ al time above 90% VO2max.\n23 days to Goal 5 km - Amsterdamse Bos parkru
+ n.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w16-s7-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 16 of 19 - VO2max\n
+ VO2max goes LAST because it arrives fastest and fades fastest - you want
+  it landing on race day\, not in June. Three to five minutes is the rep 
+ range that accumulates real time above 90% VO2max.\n22 days to Goal 5 km
+  - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w16-s8-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Easy run 7.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 16 of 19 - VO2max\nKeep HR under 150.
+  Walk the climbs. Talk test.\nVO2max goes LAST because it arrives fastes
+ t and fades fastest - you want it landing on race day\, not in June. Thr
+ ee to five minutes is the rep range that accumulates real time above 90%
+  VO2max.\n21 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w17-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:▲ LONG RUN 18 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 18 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 1
+ 7 of 19 - VO2max\nKeep HR under 150. Walk the climbs. Talk test.\nLonger
+  reps\, one fewer. Recovery stays at 3 min\; cutting it short turns this
+  into a threshold session run at the wrong pace.\n20 days to Goal 5 km -
+  Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w17-s1-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Easy run 7.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 17 of 19 - VO2max\nKeep HR under 150.
+  Walk the climbs. Talk test.\nLonger reps\, one fewer. Recovery stays at
+  3 min\; cutting it short turns this into a threshold session run at the
+  wrong pace.\n19 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w17-s2-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 17 of 19 - VO2max\nLonger reps\, one fewer. 
+ Recovery stays at 3 min\; cutting it short turns this into a threshold s
+ ession run at the wrong pace.\n19 days to Goal 5 km - Amsterdamse Bos pa
+ rkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w17-s3-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:VO2MAX 4 x 4 min (9 km)
+DESCRIPTION:VO2MAX 4 x 4 min - Pace comes from your most recent Amsterdam
+ se Bos parkrun\, never a number written months earlier. Threshold = HR 1
+ 75-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max = set by
+  pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 min\, co
+ ol down 10 min.\n\nWeek 17 of 19 - VO2max\nLonger reps\, one fewer. Reco
+ very stays at 3 min\; cutting it short turns this into a threshold sessi
+ on run at the wrong pace.\n18 days to Goal 5 km - Amsterdamse Bos parkru
+ n.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w17-s4-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Easy run 7.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 17 of 19 - VO2max\nKeep HR under 150.
+  Walk the climbs. Talk test.\nLonger reps\, one fewer. Recovery stays at
+  3 min\; cutting it short turns this into a threshold session run at the
+  wrong pace.\n17 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w17-s5-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 17 of 19 - VO2max\nLonger reps\, one fe
+ wer. Recovery stays at 3 min\; cutting it short turns this into a thresh
+ old session run at the wrong pace.\n16 days to Goal 5 km - Amsterdamse B
+ os parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w17-s6-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:THRESHOLD 5 x 1 km
+DESCRIPTION:THRESHOLD 5 x 1 km - Pace comes from your most recent Amsterd
+ amse Bos parkrun\, never a number written months earlier. Threshold = HR
+  175-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max = set 
+ by pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 min\, 
+ cool down 10 min.\n\nWeek 17 of 19 - VO2max\nLonger reps\, one fewer. Re
+ covery stays at 3 min\; cutting it short turns this into a threshold ses
+ sion run at the wrong pace.\n16 days to Goal 5 km - Amsterdamse Bos park
+ run.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w17-s7-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 17 of 19 - VO2max\n
+ Longer reps\, one fewer. Recovery stays at 3 min\; cutting it short turn
+ s this into a threshold session run at the wrong pace.\n15 days to Goal 
+ 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w17-s8-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Easy run 7.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 7.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 17 of 19 - VO2max\nKeep HR under 150.
+  Walk the climbs. Talk test.\nLonger reps\, one fewer. Recovery stays at
+  3 min\; cutting it short turns this into a threshold session run at the
+  wrong pace.\n14 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w18-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:▲ LONG RUN 14 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 14 km\, HR under 155. Aerobic volume is the lever - 
+ the fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 1
+ 8 of 19 - VO2max\nKeep HR under 150. Walk the climbs. Talk test.\nVolume
+  drops\, intensity holds. Last hard week.\n13 days to Goal 5 km - Amster
+ damse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w18-s1-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:Easy run 8.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 8.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 18 of 19 - VO2max\nKeep HR under 150.
+  Walk the climbs. Talk test.\nVolume drops\, intensity holds. Last hard 
+ week.\n12 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w18-s2-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 18 of 19 - VO2max\nVolume drops\, intensity 
+ holds. Last hard week.\n12 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w18-s3-strides@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:VO2MAX 6 x 3 min (9 km)
+DESCRIPTION:VO2MAX 6 x 3 min - Pace comes from your most recent Amsterdam
+ se Bos parkrun\, never a number written months earlier. Threshold = HR 1
+ 75-180. Sub-threshold = HR 168-174\, must not feel hard. VO2max = set by
+  pace\, confirmed by the HR you FINISH on\, 186-193. Warm up 15 min\, co
+ ol down 10 min.\n\nWeek 18 of 19 - VO2max\nVolume drops\, intensity hold
+ s. Last hard week.\n11 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w18-s4-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Easy run 8.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 8.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 18 of 19 - VO2max\nKeep HR under 150.
+  Walk the climbs. Talk test.\nVolume drops\, intensity holds. Last hard 
+ week.\n10 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w18-s5-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 18 of 19 - VO2max\nVolume drops\, inten
+ sity holds. Last hard week.\n9 days to Goal 5 km - Amsterdamse Bos parkr
+ un.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w18-s6-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 18 of 19 - VO2max\n
+ Volume drops\, intensity holds. Last hard week.\n8 days to Goal 5 km - A
+ msterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w18-s7-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Easy run 8.3 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 8.3 km\, HR under 155. Genuinely easy - this is the 
+ km that builds the engine.\n\nWeek 18 of 19 - VO2max\nKeep HR under 150.
+  Walk the climbs. Talk test.\nVolume drops\, intensity holds. Last hard 
+ week.\n7 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w19-s0-long@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:▲ LONG RUN 0 km\, HR under 155. Aerobic volume is…
+DESCRIPTION:LONG RUN 0 km\, HR under 155. Aerobic volume is the lever - t
+ he fastest runners get there on Zone 1 km\, not on intervals.\n\nWeek 19
+  of 19 - Race\nKeep HR under 150. Walk the climbs. Talk test.\nRACE WEEK
+ . Volume down 50% from peak\, frequency held at four. GOAL 5 KM Saturday
+  4 Sep. Everything since May converges on about 25 minutes of running.\n
+ 6 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w19-s1-push@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:Strength UPPER (40 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 40 min. Does 
+ not touch the legs.\n\nWeek 19 of 19 - Race\nRACE WEEK. Volume down 50% 
+ from peak\, frequency held at four. GOAL 5 KM Saturday 4 Sep. Everything
+  since May converges on about 25 minutes of running.\n5 days to Goal 5 k
+ m - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w19-s2-easy@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Easy run 15.0 km\, HR under 155. Genuinely easy
+DESCRIPTION:Easy run 15.0 km\, HR under 155. Genuinely easy - this is the
+  km that builds the engine.\n\nWeek 19 of 19 - Race\nKeep HR under 150. 
+ Walk the climbs. Talk test.\nRACE WEEK. Volume down 50% from peak\, freq
+ uency held at four. GOAL 5 KM Saturday 4 Sep. Everything since May conve
+ rges on about 25 minutes of running.\n3 days to Goal 5 km - Amsterdamse 
+ Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w19-s3-legs@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:◆ Strength LOWER (40 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 40 min. Trap-bar deadlift 4 x 3 at 8
+ 8-92% 1RM\, Bulgarian split squat 3 x 5/leg\, calf raises 3 x 8 loaded. 
+ COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy s
+ et. Heavy strength improves running economy\; plyometrics alone do not. 
+ Keep at least 3 h between this and any run - that is the interval the co
+ ncurrent-training work says clears molecular interference. LOWER-LEG AND
+  FOOT\, 5 min: tibialis raises 3 x 15-20\, heel walks 2 x 20 m\, short-f
+ oot holds 3 x 30 s/side.\n\nWeek 19 of 19 - Race\nRACE WEEK. Volume down
+  50% from peak\, frequency held at four. GOAL 5 KM Saturday 4 Sep. Every
+ thing since May converges on about 25 minutes of running.\n2 days to Goa
+ l 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w19-s4-rest@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:REST
+DESCRIPTION:REST. Every week. Non-negotiable.\n\nWeek 19 of 19 - Race\nRA
+ CE WEEK. Volume down 50% from peak\, frequency held at four. GOAL 5 KM S
+ aturday 4 Sep. Everything since May converges on about 25 minutes of run
+ ning.\n1 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:goal5kmamsterdamsebosparkrun-w19-s5-race@garmin-training
+DTSTAMP:20260909T193326Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:⚑ GOAL 5 KM (5 km)
+DESCRIPTION:GOAL 5 KM - Amsterdamse Bos parkrun or an open 5 km. AUTO-PAU
+ SE OFF. The first 400 m does not go under target pace\; that single rule
+  is what the 7 Sep 2026 time trial cost you.\n\nWeek 19 of 19 - Race\nRA
+ CE WEEK. Volume down 50% from peak\, frequency held at four. GOAL 5 KM S
+ aturday 4 Sep. Everything since May converges on about 25 minutes of run
+ ning.\n0 days to Goal 5 km - Amsterdamse Bos parkrun.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

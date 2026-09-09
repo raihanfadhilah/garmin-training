@@ -1,0 +1,1030 @@
+{
+  "race": {
+    "name": "Goal 5 km - Amsterdamse Bos parkrun",
+    "date": "2027-09-04"
+  },
+  "settings": {
+    "easy_hr_ceiling": 155,
+    "threshold_hr": [
+      175,
+      180
+    ],
+    "sub_threshold_hr": [
+      168,
+      174
+    ]
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2027-04-25",
+      "end": "2027-05-01",
+      "phase": "Recovery",
+      "down_week": true,
+      "note": "RACE WEEK +1. Four days COMPLETE rest, then two 30 min walks. Nothing else. The research band for 70.3 recovery is 14-28 days, and the failure mode is starting the next block on the fitness you had before the taper.",
+      "sessions": [
+        {
+          "kind": "rest",
+          "day": 1,
+          "label": "COMPLETE REST. Walk if you want to move."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "start": "2027-05-02",
+      "end": "2027-05-08",
+      "phase": "Recovery",
+      "down_week": true,
+      "note": "Zone 2 ONLY, HR under 145. No quality of any kind. Ten to twenty-four days of easy is the protocol; training hard here only lengthens recovery.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 5 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 5
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "easy",
+          "day": 2,
+          "label": "Easy run 3.5 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 3.5
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 3.5 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 3.5
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "start": "2027-05-09",
+      "end": "2027-05-15",
+      "phase": "Recovery",
+      "down_week": true,
+      "note": "Still Zone 2 only. The bike and the pool now drop to one optional session each for the rest of the block. That is exactly what buys the run frequency.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 7 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 7
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "easy",
+          "day": 2,
+          "label": "Easy run 5.5 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 5.5
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5.5 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 5.5
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "start": "2027-05-16",
+      "end": "2027-05-22",
+      "phase": "Ramp",
+      "down_week": false,
+      "note": "THE BLOCK STARTS. Run frequency is the single biggest change: 3 runs a week was your ceiling all season because three swims and three bikes ate the slots. Now 4, going to 6. Frequency first, then volume, then intensity - in that order.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 10 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 10
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 10.0 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 10.0
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 10.0 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 10.0
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "start": "2027-05-23",
+      "end": "2027-05-29",
+      "phase": "Ramp",
+      "down_week": false,
+      "note": "Add km, not intensity. Strides twice a week keep the legs quick and cost nothing.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 12 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 12
+        },
+        {
+          "kind": "easy",
+          "day": 1,
+          "km": 7.3,
+          "label": "Easy run 7.3 km, HR under 155. Genuinely easy - this is the km that builds the engine."
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 7.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 7.3
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 7.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 7.3
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "start": "2027-05-30",
+      "end": "2027-06-05",
+      "phase": "Ramp",
+      "down_week": false,
+      "note": "Frequency 5. First structured session in six weeks, and deliberately sub-threshold rather than threshold.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 13 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 13
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "SUB-THRESHOLD 6 x 3 min - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 8.0 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 8.0
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 8.0 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 8.0
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "start": "2027-06-06",
+      "end": "2027-06-12",
+      "phase": "Down",
+      "down_week": true,
+      "note": "Down week. Four up, one down, all block long.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 10 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 10
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "SUB-THRESHOLD 4 x 3 min - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 5.5 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 5.5
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5.5 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 5.5
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "start": "2027-06-13",
+      "end": "2027-06-19",
+      "phase": "Base",
+      "down_week": false,
+      "note": "The long run passes 90 min here - the duration at which running economy is preserved under fatigue.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 14 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 14
+        },
+        {
+          "kind": "easy",
+          "day": 1,
+          "km": 6.3,
+          "label": "Easy run 6.3 km, HR under 155. Genuinely easy - this is the km that builds the engine."
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "SUB-THRESHOLD 6 x 4 min - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 6.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 6.3
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 6.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 6.3
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "start": "2027-06-20",
+      "end": "2027-06-26",
+      "phase": "Base",
+      "down_week": false,
+      "note": "FREQUENCY 6 - the first six-run week of your life. Two sub-threshold sessions, both easy enough to repeat. That repeatability is the whole mechanism: neither one needs real recovery, so both can sit in the same week.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 15 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 15
+        },
+        {
+          "kind": "easy",
+          "day": 1,
+          "label": "Easy run 4.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 4.3
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "SUB-THRESHOLD 6 x 4 min - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 4.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 4.3
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 4,
+          "label": "SUB-THRESHOLD 5 x 3 min - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 4.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 4.3
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "start": "2027-06-27",
+      "end": "2027-07-03",
+      "phase": "Base",
+      "down_week": false,
+      "note": "50 km, the biggest volume you have ever run. Quality is still entirely sub-threshold.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 16 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 16
+        },
+        {
+          "kind": "easy",
+          "day": 1,
+          "label": "Easy run 5.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 5.3
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "SUB-THRESHOLD 8 x 3 min - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 5.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 5.3
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 4,
+          "label": "SUB-THRESHOLD 6 x 3 min - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 5.3
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "start": "2027-07-04",
+      "end": "2027-07-10",
+      "phase": "Down",
+      "down_week": true,
+      "note": "Down week. Take it - the last three weeks were the largest jump in your running history.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 12 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 12
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "SUB-THRESHOLD 5 x 3 min - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 8.5 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 8.5
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 8.5 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 8.5
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "start": "2027-07-11",
+      "end": "2027-07-17",
+      "phase": "Threshold",
+      "down_week": false,
+      "note": "Threshold phase. One session now becomes genuinely hard. Pfitzinger's order - threshold first, VO2max last - because threshold raises the fraction of your ceiling you can hold, and that is what a 5 km actually runs on.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 17 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 17
+        },
+        {
+          "kind": "easy",
+          "day": 1,
+          "label": "Easy run 5.7 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 5.7
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "THRESHOLD 4 x 1.5 km - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 5.7 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 5.7
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 4,
+          "label": "SUB-THRESHOLD 6 x 4 min - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5.7 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 5.7
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "start": "2027-07-18",
+      "end": "2027-07-24",
+      "phase": "Threshold",
+      "down_week": false,
+      "note": "Long run takes a threshold finish. Durability and threshold in one session, no extra day spent.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 18 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals. THRESHOLD FINISH: last 15 min at HR 175-180.",
+          "km": 18
+        },
+        {
+          "kind": "easy",
+          "day": 1,
+          "label": "Easy run 6.7 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 6.7
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "THRESHOLD 5 x 1.5 km - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 6.7 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 6.7
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 4,
+          "label": "SUB-THRESHOLD 6 x 4 min - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 6.7 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 6.7
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "start": "2027-07-25",
+      "end": "2027-07-31",
+      "phase": "Threshold",
+      "down_week": false,
+      "note": "PEAK VOLUME 60 km - nearly triple your 2026 average of 22. If something is going to hurt, it shows up here. Stop; do not run through it.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 19 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals. THRESHOLD FINISH: last 15 min at HR 175-180.",
+          "km": 19
+        },
+        {
+          "kind": "easy",
+          "day": 1,
+          "label": "Easy run 7.7 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 7.7
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "THRESHOLD 4 x 2 km - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 7.7 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 7.7
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 4,
+          "label": "SUB-THRESHOLD 8 x 3 min - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 7.7 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 7.7
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "start": "2027-08-01",
+      "end": "2027-08-07",
+      "phase": "Down",
+      "down_week": true,
+      "note": "Down week before sharpening. One quality session, no heroics.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 14 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 14
+        },
+        {
+          "kind": "easy",
+          "day": 1,
+          "km": 7.3,
+          "label": "Easy run 7.3 km, HR under 155. Genuinely easy - this is the km that builds the engine."
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "THRESHOLD 3 x 1.5 km - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 7.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 7.3
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 7.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 7.3
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "start": "2027-08-08",
+      "end": "2027-08-14",
+      "phase": "VO2max",
+      "down_week": false,
+      "note": "VO2max goes LAST because it arrives fastest and fades fastest - you want it landing on race day, not in June. Three to five minutes is the rep range that accumulates real time above 90% VO2max.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 18 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 18
+        },
+        {
+          "kind": "easy",
+          "day": 1,
+          "label": "Easy run 7.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 7.3
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "VO2MAX 5 x 3 min - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 7.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 7.3
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 4,
+          "label": "THRESHOLD 4 x 1.5 km - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 7.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 7.3
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "start": "2027-08-15",
+      "end": "2027-08-21",
+      "phase": "VO2max",
+      "down_week": false,
+      "note": "Longer reps, one fewer. Recovery stays at 3 min; cutting it short turns this into a threshold session run at the wrong pace.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 18 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 18
+        },
+        {
+          "kind": "easy",
+          "day": 1,
+          "label": "Easy run 7.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 7.3
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "VO2MAX 4 x 4 min - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 7.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 7.3
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 4,
+          "label": "THRESHOLD 5 x 1 km - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 7.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 7.3
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "start": "2027-08-22",
+      "end": "2027-08-28",
+      "phase": "VO2max",
+      "down_week": false,
+      "note": "Volume drops, intensity holds. Last hard week.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 14 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 14
+        },
+        {
+          "kind": "easy",
+          "day": 1,
+          "km": 8.3,
+          "label": "Easy run 8.3 km, HR under 155. Genuinely easy - this is the km that builds the engine."
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "VO2MAX 6 x 3 min - Pace comes from your most recent Amsterdamse Bos parkrun, never a number written months earlier. Threshold = HR 175-180. Sub-threshold = HR 168-174, must not feel hard. VO2max = set by pace, confirmed by the HR you FINISH on, 186-193. Warm up 15 min, cool down 10 min.",
+          "km": 9
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 8.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 8.3
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 8.3 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 8.3
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "start": "2027-08-29",
+      "end": "2027-09-04",
+      "phase": "Race",
+      "down_week": false,
+      "note": "RACE WEEK. Volume down 50% from peak, frequency held at four. GOAL 5 KM Saturday 4 Sep. Everything since May converges on about 25 minutes of running.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "LONG RUN 0 km, HR under 155. Aerobic volume is the lever - the fastest runners get there on Zone 1 km, not on intervals.",
+          "km": 0
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Strength UPPER - push and pull as one session, 40 min. Does not touch the legs.",
+          "minutes": 40
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 15.0 km, HR under 155. Genuinely easy - this is the km that builds the engine.",
+          "km": 15.0
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 40 min. Trap-bar deadlift 4 x 3 at 88-92% 1RM, Bulgarian split squat 3 x 5/leg, calf raises 3 x 8 loaded. COMPLEX PAIRING: 5 box jumps or 20 m bounds within 2 min of each heavy set. Heavy strength improves running economy; plyometrics alone do not. Keep at least 3 h between this and any run - that is the interval the concurrent-training work says clears molecular interference. LOWER-LEG AND FOOT, 5 min: tibialis raises 3 x 15-20, heel walks 2 x 20 m, short-foot holds 3 x 30 s/side.",
+          "minutes": 40
+        },
+        {
+          "kind": "rest",
+          "day": 5,
+          "label": "REST. Every week. Non-negotiable."
+        },
+        {
+          "kind": "race",
+          "day": 6,
+          "label": "GOAL 5 KM - Amsterdamse Bos parkrun or an open 5 km. AUTO-PAUSE OFF. The first 400 m does not go under target pace; that single rule is what the 7 Sep 2026 time trial cost you.",
+          "km": 5
+        }
+      ]
+    }
+  ]
+}
