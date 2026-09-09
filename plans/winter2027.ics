@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Egmond 10.5 km / Venice base training
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w1-s0-long@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:▲ Long easy run 6 km\, HR under 155. Aerobic base…
@@ -22,7 +22,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w1-s1-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:≈ Swim 30 min
@@ -37,7 +37,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w1-s2-strides@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Easy 6 km\, talk test (55 min)
@@ -52,7 +52,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w1-s3-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:○ BIKE 30 min
@@ -67,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w1-s4-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
@@ -82,7 +82,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w1-s5-legs@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:◆ Strength LOWER (45 min)
@@ -105,7 +105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w1-s6-push@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Strength UPPER (45 min)
@@ -122,7 +122,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w2-s0-long@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:▲ Long easy run 8 km\, HR under 155. Aerobic base…
@@ -135,7 +135,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w2-s1-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:≈ Swim 30 min
@@ -146,7 +146,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w2-s2-benchmark@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:5 KM RETEST (5 km)
@@ -159,7 +159,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w2-s3-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:○ BIKE 30 min
@@ -172,7 +172,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w2-s4-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
@@ -185,7 +185,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w2-s5-legs@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:◆ Strength LOWER (45 min)
@@ -206,7 +206,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w2-s6-easy@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
@@ -218,7 +218,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w2-s7-push@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Strength UPPER (45 min)
@@ -232,7 +232,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w3-s0-long@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:▲ Long easy run 10 km\, HR under 155. Aerobic base…
@@ -248,7 +248,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w3-s1-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:≈ Swim 35 min
@@ -263,24 +263,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w3-s2-strides@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:THRESHOLD 4 x 1 km at 5:15/km\, 90 s jog. First…
-DESCRIPTION:THRESHOLD 4 x 1 km at 5:15/km\, 90 s jog. First quality sessi
- on of the block - deliberately conservative. Warm up 15 min + 4 x 100 m 
- AT 5:15/km and no faster. Warm up 15 min\, cool down 10 min.\n\nWeek 3 o
- f 11 - Threshold\nTHRESHOLD BLOCK opens. Pfitzinger's order: threshold f
- irst\, VO2max later as the race approaches. Two quality touches a week -
-  Tuesday's session and a threshold finish on the long run. Quality volum
- e stays inside 20-25% of weekly mileage\, which is the Norwegian rule an
- d the one that keeps this repeatable.\n40 days to Egmond 10.5 km / Venic
- e base.
+SUMMARY:THRESHOLD 4 x 1 km at threshold EFFORT (55 min)
+DESCRIPTION:THRESHOLD 4 x 1 km at threshold EFFORT - HR 172-178\, which i
+ s 95-98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km\; r
+ e-anchor off the retest and do not chase a number that predates it\, 90 
+ s jog. First quality session of the block - deliberately conservative. W
+ arm up 15 min + 4 x 100 m AT 5:15/km and no faster. Warm up 15 min\, coo
+ l down 10 min.\n\nWeek 3 of 11 - Threshold\nTHRESHOLD BLOCK opens. Pfitz
+ inger's order: threshold first\, VO2max later as the race approaches. Tw
+ o quality touches a week - Tuesday's session and a threshold finish on t
+ he long run. Quality volume stays inside 20-25% of weekly mileage\, whic
+ h is the Norwegian rule and the one that keeps this repeatable.\n40 days
+  to Egmond 10.5 km / Venice base.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w3-s3-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:○ BIKE 35 min
@@ -296,7 +298,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w3-s4-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
@@ -312,7 +314,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w3-s5-legs@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:◆ Strength LOWER (45 min)
@@ -336,7 +338,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w3-s6-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:○ BIKE 50 min zone 2\, HR under 145\, steady.…
@@ -352,7 +354,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w3-s7-easy@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
@@ -368,7 +370,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w3-s8-push@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Strength UPPER (45 min)
@@ -386,7 +388,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w4-s0-long@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:▲ Long easy run 12 km\, HR under 155. Aerobic base…
@@ -402,7 +404,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w4-s1-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:≈ Swim 40 min
@@ -414,21 +416,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w4-s2-strides@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:THRESHOLD 4 x 1.5 km at 5:15/km\, 90 s jog (55 min)
-DESCRIPTION:THRESHOLD 4 x 1.5 km at 5:15/km\, 90 s jog. Controlled\, not 
- max. Ceiling as well as target: if HR drifts past 183 on the last two\, 
- you started too fast. Warm up 15 min\, cool down 10 min.\n\nWeek 4 of 11
-  - Threshold\nTHRESHOLD. Sub-threshold means controlled\, not max. If yo
- u cannot finish the last rep at the same pace as the first\, you ran the
-  first too fast.\n33 days to Egmond 10.5 km / Venice base.
+SUMMARY:THRESHOLD 4 x 1.5 km at threshold EFFORT (55 min)
+DESCRIPTION:THRESHOLD 4 x 1.5 km at threshold EFFORT - HR 172-178\, which
+  is 95-98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km\;
+  re-anchor off the retest and do not chase a number that predates it\, 9
+ 0 s jog. Controlled\, not max. Ceiling as well as target: if HR drifts p
+ ast 183 on the last two\, you started too fast. Warm up 15 min\, cool do
+ wn 10 min.\n\nWeek 4 of 11 - Threshold\nTHRESHOLD. Sub-threshold means c
+ ontrolled\, not max. If you cannot finish the last rep at the same pace 
+ as the first\, you ran the first too fast.\n33 days to Egmond 10.5 km / 
+ Venice base.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w4-s3-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:○ BIKE 40 min
@@ -442,7 +447,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w4-s4-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
@@ -456,7 +461,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w4-s5-legs@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:◆ Strength LOWER (45 min)
@@ -478,7 +483,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w4-s6-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:○ BIKE 55 min zone 2\, HR under 145\, steady.…
@@ -491,7 +496,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w4-s7-easy@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
@@ -504,7 +509,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w4-s8-push@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Strength UPPER (45 min)
@@ -519,7 +524,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w5-s0-long@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:▲ Long easy run 14 km\, HR under 155. Aerobic base…
@@ -535,7 +540,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w5-s1-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:≈ Swim 40 min
@@ -547,20 +552,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w5-s2-strides@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:THRESHOLD 5 x 1.5 km at 5:15/km\, 90 s jog (55 min)
-DESCRIPTION:THRESHOLD 5 x 1.5 km at 5:15/km\, 90 s jog. One rep more than
-  last week\, same pace. Warm up 15 min\, cool down 10 min.\n\nWeek 5 of 
- 11 - Threshold\nTHRESHOLD. Long run passes 90 min this week - that is th
- e durability threshold\, and it is the single most transferable session 
- to Venice.\n26 days to Egmond 10.5 km / Venice base.
+SUMMARY:THRESHOLD 5 x 1.5 km at threshold EFFORT (55 min)
+DESCRIPTION:THRESHOLD 5 x 1.5 km at threshold EFFORT - HR 172-178\, which
+  is 95-98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km\;
+  re-anchor off the retest and do not chase a number that predates it\, 9
+ 0 s jog. One rep more than last week\, same pace. Warm up 15 min\, cool 
+ down 10 min.\n\nWeek 5 of 11 - Threshold\nTHRESHOLD. Long run passes 90 
+ min this week - that is the durability threshold\, and it is the single 
+ most transferable session to Venice.\n26 days to Egmond 10.5 km / Venice
+  base.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w5-s3-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:○ BIKE 40 min
@@ -573,7 +581,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w5-s4-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
@@ -587,7 +595,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w5-s5-legs@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:◆ Strength LOWER (45 min)
@@ -609,7 +617,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w5-s6-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:○ BIKE 55 min zone 2\, HR under 145\, steady.…
@@ -622,7 +630,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w5-s7-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
@@ -636,7 +644,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w5-s8-easy@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
@@ -649,7 +657,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w5-s9-push@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Strength UPPER (45 min)
@@ -664,7 +672,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w6-s0-long@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:▲ Long easy run 10 km\, HR under 155. Aerobic base…
@@ -677,7 +685,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w6-s1-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:≈ Swim 30 min
@@ -689,20 +697,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w6-s2-strides@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:THRESHOLD 3 x 1.5 km at 5:15/km (55 min)
-DESCRIPTION:THRESHOLD 3 x 1.5 km at 5:15/km - down week\, one rep fewer a
- nd no faster. Warm up 15 min\, cool down 10 min.\n\nWeek 6 of 11 - Down\
- nDOWN WEEK - recover\, do not add volume.\nDOWN WEEK. Christmas. Volume 
- down 30%\, one quality touch\, long run held.\n19 days to Egmond 10.5 km
-  / Venice base.
+SUMMARY:THRESHOLD 3 x 1.5 km at threshold EFFORT (55 min)
+DESCRIPTION:THRESHOLD 3 x 1.5 km at threshold EFFORT - HR 172-178\, which
+  is 95-98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km\;
+  re-anchor off the retest and do not chase a number that predates it - d
+ own week\, one rep fewer and no faster. Warm up 15 min\, cool down 10 mi
+ n.\n\nWeek 6 of 11 - Down\nDOWN WEEK - recover\, do not add volume.\nDOW
+ N WEEK. Christmas. Volume down 30%\, one quality touch\, long run held.\
+ n19 days to Egmond 10.5 km / Venice base.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w6-s3-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:○ BIKE 30 min
@@ -715,7 +725,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w6-s4-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
@@ -728,7 +738,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w6-s5-legs@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:◆ Strength LOWER (45 min)
@@ -749,7 +759,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w6-s6-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:○ BIKE 45 min zone 2\, HR under 145\, steady.…
@@ -762,7 +772,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w6-s7-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
@@ -775,7 +785,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w6-s8-easy@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
@@ -788,7 +798,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w6-s9-push@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Strength UPPER (45 min)
@@ -803,24 +813,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w7-s0-long@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:▲ Long easy run 16 km\, HR under 155. Aerobic base…
 DESCRIPTION:Long easy run 16 km\, HR under 155. Aerobic base is the lever
   - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRES
- HOLD FINISH: last 15 min at 5:15/km. This is one of the four primary way
- s to move a lactate threshold\, and it doubles as durability work - runn
- ing at pace on pre-fatigued legs is the 70.3 run leg.\n\nWeek 7 of 11 - 
- Sharpen\nKeep HR under 158. Walk the climbs. Talk test.\nSHARPEN. VO2max
-  enters now the race is close - 3-5 min efforts\, the range where you ac
- cumulate real time at maximal oxygen uptake. Biggest running week of the
-  block.\n14 days to Egmond 10.5 km / Venice base.
+ HOLD FINISH: last 15 min at threshold EFFORT - HR 172-178\, which is 95-
+ 98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km\; re-anc
+ hor off the retest and do not chase a number that predates it. This is o
+ ne of the four primary ways to move a lactate threshold\, and it doubles
+  as durability work - running at pace on pre-fatigued legs is the 70.3 r
+ un leg.\n\nWeek 7 of 11 - Sharpen\nKeep HR under 158. Walk the climbs. T
+ alk test.\nSHARPEN. VO2max enters now the race is close - 3-5 min effort
+ s\, the range where you accumulate real time at maximal oxygen uptake. B
+ iggest running week of the block.\n14 days to Egmond 10.5 km / Venice ba
+ se.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w7-s1-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:≈ Swim 45 min
@@ -832,22 +845,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w7-s2-strides@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-SUMMARY:VO2MAX 5 x 3 min at 5:00-5:10/km\, 2 min jog.…
-DESCRIPTION:VO2MAX 5 x 3 min at 5:00-5:10/km\, 2 min jog. Three to five m
- inutes is the range that accumulates real time at VO2max. PACE CEILING 5
- :00 - going faster shortens the session\, it does not improve it. Warm u
- p 15 min\, cool down 10 min.\n\nWeek 7 of 11 - Sharpen\nSHARPEN. VO2max 
- enters now the race is close - 3-5 min efforts\, the range where you acc
- umulate real time at maximal oxygen uptake. Biggest running week of the 
- block.\n12 days to Egmond 10.5 km / Venice base.
+SUMMARY:VO2MAX 5 x 3 min at VO2max EFFORT (12 km)
+DESCRIPTION:VO2MAX 5 x 3 min at VO2max EFFORT - provisional pace 5:05-5:2
+ 0/km\, HR at the END of each rep 186-193. HR lags 60-90 s so it cannot s
+ teer a 3 min rep\; set it by pace\, confirm by the HR you finish on\, 2 
+ min jog. Three to five minutes is the range that accumulates real time a
+ t VO2max. PACE CEILING 5:00 - going faster shortens the session\, it doe
+ s not improve it. Warm up 15 min\, cool down 10 min.\n\nWeek 7 of 11 - S
+ harpen\nSHARPEN. VO2max enters now the race is close - 3-5 min efforts\,
+  the range where you accumulate real time at maximal oxygen uptake. Bigg
+ est running week of the block.\n12 days to Egmond 10.5 km / Venice base.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w7-s3-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:○ BIKE 45 min
@@ -861,7 +876,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w7-s4-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
@@ -875,7 +890,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w7-s5-legs@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:◆ Strength LOWER (45 min)
@@ -897,7 +912,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w7-s6-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:○ BIKE 60 min zone 2\, HR under 145\, steady.…
@@ -911,7 +926,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w7-s7-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:≈ Swim 45 min
@@ -925,7 +940,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w7-s8-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
@@ -939,7 +954,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w7-s9-easy@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
@@ -953,7 +968,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w7-s10-push@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Strength UPPER (45 min)
@@ -969,23 +984,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w8-s0-long@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:▲ Long easy run 12 km\, HR under 155. Aerobic base…
 DESCRIPTION:Long easy run 12 km\, HR under 155. Aerobic base is the lever
   - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRES
- HOLD FINISH: last 15 min at 5:15/km. This is one of the four primary way
- s to move a lactate threshold\, and it doubles as durability work - runn
- ing at pace on pre-fatigued legs is the 70.3 run leg.\n\nWeek 8 of 11 - 
- Sharpen\nKeep HR under 158. Walk the climbs. Talk test.\nSHARPEN then ta
- per. Volume down 15%\, intensity held. Egmond is Sunday of next week.\n7
-  days to Egmond 10.5 km / Venice base.
+ HOLD FINISH: last 15 min at threshold EFFORT - HR 172-178\, which is 95-
+ 98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km\; re-anc
+ hor off the retest and do not chase a number that predates it. This is o
+ ne of the four primary ways to move a lactate threshold\, and it doubles
+  as durability work - running at pace on pre-fatigued legs is the 70.3 r
+ un leg.\n\nWeek 8 of 11 - Sharpen\nKeep HR under 158. Walk the climbs. T
+ alk test.\nSHARPEN then taper. Volume down 15%\, intensity held. Egmond 
+ is Sunday of next week.\n7 days to Egmond 10.5 km / Venice base.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w8-s1-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:≈ Swim 45 min
@@ -996,20 +1013,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w8-s2-strides@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
-SUMMARY:VO2MAX 4 x 4 min at 5:05/km\, 3 min jog
-DESCRIPTION:VO2MAX 4 x 4 min at 5:05/km\, 3 min jog. Longer reps\, one fe
- wer. Last hard session before Egmond. Warm up 15 min\, cool down 10 min.
- \n\nWeek 8 of 11 - Sharpen\nSHARPEN then taper. Volume down 15%\, intens
- ity held. Egmond is Sunday of next week.\n5 days to Egmond 10.5 km / Ven
- ice base.
+SUMMARY:VO2MAX 4 x 4 min at VO2max EFFORT (11 km)
+DESCRIPTION:VO2MAX 4 x 4 min at VO2max EFFORT - provisional pace 5:05-5:2
+ 0/km\, HR at the END of each rep 186-193. HR lags 60-90 s so it cannot s
+ teer a 3 min rep\; set it by pace\, confirm by the HR you finish on\, 3 
+ min jog. Longer reps\, one fewer. Last hard session before Egmond. Warm 
+ up 15 min\, cool down 10 min.\n\nWeek 8 of 11 - Sharpen\nSHARPEN then ta
+ per. Volume down 15%\, intensity held. Egmond is Sunday of next week.\n5
+  days to Egmond 10.5 km / Venice base.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w8-s3-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:○ BIKE 40 min
@@ -1022,7 +1041,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w8-s4-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
@@ -1035,7 +1054,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w8-s5-legs@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:◆ Strength LOWER (45 min)
@@ -1056,7 +1075,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w8-s6-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:○ BIKE 55 min zone 2\, HR under 145\, steady.…
@@ -1069,7 +1088,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w8-s7-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:≈ Swim 45 min
@@ -1082,7 +1101,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w8-s8-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
@@ -1095,7 +1114,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w8-s9-easy@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
@@ -1108,7 +1127,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w8-s10-push@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:Strength UPPER (45 min)
@@ -1122,7 +1141,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w9-s0-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:≈ Swim 45 min
@@ -1134,7 +1153,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w9-s1-race@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:⚑ EGMOND 10.5 km
@@ -1148,7 +1167,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w9-s2-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:○ BIKE 30 min
@@ -1161,7 +1180,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w9-s3-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:≈ Swim 45 min
@@ -1173,7 +1192,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w9-s4-legs@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:◆ Strength LOWER (45 min)
@@ -1194,7 +1213,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w9-s5-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:○ BIKE 45 min zone 2\, HR under 145\, steady.…
@@ -1207,7 +1226,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w9-s6-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
@@ -1220,7 +1239,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w9-s7-push@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Strength UPPER (45 min)
@@ -1235,24 +1254,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w10-s0-long@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:▲ Long easy run 12 km\, HR under 155. Aerobic base…
 DESCRIPTION:Long easy run 12 km\, HR under 155. Aerobic base is the lever
   - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRES
- HOLD FINISH: last 15 min at 5:15/km. This is one of the four primary way
- s to move a lactate threshold\, and it doubles as durability work - runn
- ing at pace on pre-fatigued legs is the 70.3 run leg.\n\nWeek 10 of 11 -
-  Bridge\nKeep HR under 158. Walk the climbs. Talk test.\nBRIDGE to Venic
- e. Durability leads: the long run and the bike carry the block from here
- \, and the running holds rather than builds.\n-7 days to Egmond 10.5 km 
- / Venice base.
+ HOLD FINISH: last 15 min at threshold EFFORT - HR 172-178\, which is 95-
+ 98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km\; re-anc
+ hor off the retest and do not chase a number that predates it. This is o
+ ne of the four primary ways to move a lactate threshold\, and it doubles
+  as durability work - running at pace on pre-fatigued legs is the 70.3 r
+ un leg.\n\nWeek 10 of 11 - Bridge\nKeep HR under 158. Walk the climbs. T
+ alk test.\nBRIDGE to Venice. Durability leads: the long run and the bike
+  carry the block from here\, and the running holds rather than builds.\n
+ -7 days to Egmond 10.5 km / Venice base.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w10-s1-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:≈ Swim 50 min
@@ -1264,7 +1285,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w10-s2-strides@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:Easy 8 km + 6 x 20 s strides (55 min)
@@ -1277,7 +1298,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w10-s3-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:○ BIKE 45 min
@@ -1290,7 +1311,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w10-s4-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:≈ Swim 50 min
@@ -1302,7 +1323,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w10-s5-legs@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:◆ Strength LOWER (45 min)
@@ -1323,7 +1344,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w10-s6-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:○ BIKE 60 min zone 2\, HR under 145\, steady.…
@@ -1336,7 +1357,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w10-s7-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:≈ Swim 50 min
@@ -1349,7 +1370,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w10-s8-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
@@ -1363,7 +1384,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w10-s9-easy@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
@@ -1376,7 +1397,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w10-s10-push@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:Strength UPPER (45 min)
@@ -1391,7 +1412,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w11-s0-long@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:▲ Long easy run 14 km\, HR under 155. Aerobic base…
@@ -1406,7 +1427,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w11-s1-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:≈ Swim 50 min
@@ -1417,7 +1438,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w11-s2-strides@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:THRESHOLD 5 x 1.5 km at whatever the retest and…
@@ -1429,7 +1450,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w11-s3-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:○ BIKE 50 min
@@ -1442,7 +1463,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w11-s4-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:≈ Swim 50 min
@@ -1453,7 +1474,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w11-s5-legs@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:◆ Strength LOWER (45 min)
@@ -1474,7 +1495,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w11-s6-cycling@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:○ BIKE 65 min zone 2\, HR under 145\, steady.…
@@ -1487,7 +1508,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w11-s7-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:≈ Swim 50 min
@@ -1500,7 +1521,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w11-s8-swim@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
@@ -1513,7 +1534,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w11-s9-easy@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
@@ -1526,7 +1547,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:egmond105kmvenicebase-w11-s10-push@garmin-training
-DTSTAMP:20260909T190055Z
+DTSTAMP:20260909T190549Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:Strength UPPER (45 min)

@@ -151,7 +151,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "THRESHOLD 4 x 1 km at 5:15/km, 90 s jog. First quality session of the block - deliberately conservative. Warm up 15 min + 4 x 100 m AT 5:15/km and no faster. Warm up 15 min, cool down 10 min.",
+          "label": "THRESHOLD 4 x 1 km at threshold EFFORT - HR 172-178, which is 95-98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km; re-anchor off the retest and do not chase a number that predates it, 90 s jog. First quality session of the block - deliberately conservative. Warm up 15 min + 4 x 100 m AT 5:15/km and no faster. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 9
         },
@@ -218,7 +218,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "THRESHOLD 4 x 1.5 km at 5:15/km, 90 s jog. Controlled, not max. Ceiling as well as target: if HR drifts past 183 on the last two, you started too fast. Warm up 15 min, cool down 10 min.",
+          "label": "THRESHOLD 4 x 1.5 km at threshold EFFORT - HR 172-178, which is 95-98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km; re-anchor off the retest and do not chase a number that predates it, 90 s jog. Controlled, not max. Ceiling as well as target: if HR drifts past 183 on the last two, you started too fast. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 11
         },
@@ -285,7 +285,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "THRESHOLD 5 x 1.5 km at 5:15/km, 90 s jog. One rep more than last week, same pace. Warm up 15 min, cool down 10 min.",
+          "label": "THRESHOLD 5 x 1.5 km at threshold EFFORT - HR 172-178, which is 95-98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km; re-anchor off the retest and do not chase a number that predates it, 90 s jog. One rep more than last week, same pace. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 12
         },
@@ -358,7 +358,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "THRESHOLD 3 x 1.5 km at 5:15/km - down week, one rep fewer and no faster. Warm up 15 min, cool down 10 min.",
+          "label": "THRESHOLD 3 x 1.5 km at threshold EFFORT - HR 172-178, which is 95-98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km; re-anchor off the retest and do not chase a number that predates it - down week, one rep fewer and no faster. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 9
         },
@@ -418,7 +418,7 @@
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 16 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at 5:15/km. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
+          "label": "Long easy run 16 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at threshold EFFORT - HR 172-178, which is 95-98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km; re-anchor off the retest and do not chase a number that predates it. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
           "km": 16,
           "minutes": null
         },
@@ -431,7 +431,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "VO2MAX 5 x 3 min at 5:00-5:10/km, 2 min jog. Three to five minutes is the range that accumulates real time at VO2max. PACE CEILING 5:00 - going faster shortens the session, it does not improve it. Warm up 15 min, cool down 10 min.",
+          "label": "VO2MAX 5 x 3 min at VO2max EFFORT - provisional pace 5:05-5:20/km, HR at the END of each rep 186-193. HR lags 60-90 s so it cannot steer a 3 min rep; set it by pace, confirm by the HR you finish on, 2 min jog. Three to five minutes is the range that accumulates real time at VO2max. PACE CEILING 5:00 - going faster shortens the session, it does not improve it. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 12
         },
@@ -497,7 +497,7 @@
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at 5:15/km. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
+          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at threshold EFFORT - HR 172-178, which is 95-98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km; re-anchor off the retest and do not chase a number that predates it. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
           "km": 12,
           "minutes": null
         },
@@ -510,7 +510,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "VO2MAX 4 x 4 min at 5:05/km, 3 min jog. Longer reps, one fewer. Last hard session before Egmond. Warm up 15 min, cool down 10 min.",
+          "label": "VO2MAX 4 x 4 min at VO2max EFFORT - provisional pace 5:05-5:20/km, HR at the END of each rep 186-193. HR lags 60-90 s so it cannot steer a 3 min rep; set it by pace, confirm by the HR you finish on, 3 min jog. Longer reps, one fewer. Last hard session before Egmond. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 11
         },
@@ -635,7 +635,7 @@
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at 5:15/km. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
+          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at threshold EFFORT - HR 172-178, which is 95-98% of your measured LTHR of 181. Provisional pace 5:35-5:50/km; re-anchor off the retest and do not chase a number that predates it. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
           "km": 12,
           "minutes": null
         },
