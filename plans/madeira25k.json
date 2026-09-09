@@ -580,6 +580,12 @@
           "day": 4,
           "minutes": 8,
           "label": "DESCENT LADDER - 8 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 176 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for."
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "minutes": 30,
+          "label": "SWIM 30 min - TECHNIQUE ONLY, and start now rather than in November. Breathing, body position, catch. Distance is irrelevant for the first six weeks. Non-impact, so it costs the Madeira block nothing, and it moves your Venice swim base from 23 weeks to 33. BOOK THE 1-ON-1 LESSONS THIS WEEK - 6 to 10 of them, and they are the highest-return line item in the entire season. You cannot self-coach a catch you have never felt."
         }
       ]
     },
@@ -650,6 +656,12 @@
           "day": 1,
           "km": 9,
           "minutes": 50
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "minutes": 30,
+          "label": "SWIM 30 min - technique. Same session every week until November: breathing, body position, catch. One a week is the habit; three a week starts 15 Nov when there is room."
         }
       ]
     },
@@ -714,6 +726,12 @@
           "day": 2,
           "minutes": 10,
           "label": "DESCENT LADDER - 10 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 220 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for."
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "minutes": 30,
+          "label": "SWIM 30 min - technique. Same session every week until November: breathing, body position, catch. One a week is the habit; three a week starts 15 Nov when there is room."
         }
       ]
     },
@@ -778,6 +796,12 @@
           "day": 2,
           "minutes": 16,
           "label": "DESCENT LADDER - 16 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 352 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for."
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "minutes": 30,
+          "label": "SWIM 30 min - technique. Same session every week until November: breathing, body position, catch. One a week is the habit; three a week starts 15 Nov when there is room."
         }
       ]
     },
@@ -842,6 +866,12 @@
           "day": 1,
           "km": 8,
           "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "minutes": 30,
+          "label": "SWIM 30 min - technique. Same session every week until November: breathing, body position, catch. One a week is the habit; three a week starts 15 Nov when there is room."
         }
       ]
     },
@@ -896,6 +926,12 @@
           "day": 2,
           "minutes": 6,
           "label": "DESCENT LADDER - 6 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 132 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for. PRIMER ONLY, not a session - keep it short and unloaded-feeling. The protective work is already done."
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "minutes": 30,
+          "label": "SWIM 30 min - technique. Same session every week until November: breathing, body position, catch. One a week is the habit; three a week starts 15 Nov when there is room."
         }
       ]
     },
@@ -932,6 +968,12 @@
           "km": 4.0,
           "minutes": 30,
           "label": "SHAKEOUT 30 MIN easy, two days out. This run exists to hold taper frequency at three, not to add fitness - nothing is gained after this point and plenty can be lost. Flat, conversational, no strides, no hills. Travel day if you are flying Friday: do it before the airport. HR CEILING 155 - HARD RULE, not a talk test. You already fixed this: since 24 Aug your easy running is about 80% below 160 bpm, up from roughly 50% over June to mid-August. The number is here to hold the habit, not to correct you. Novice guidance is about 85% genuinely easy. If holding 155 means walking the bridges, walk them - pace is the output here, not the target."
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "minutes": 30,
+          "label": "SWIM 30 min - technique. Same session every week until November: breathing, body position, catch. One a week is the habit; three a week starts 15 Nov when there is room."
         }
       ]
     }
