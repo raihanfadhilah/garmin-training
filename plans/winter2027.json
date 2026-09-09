@@ -1,0 +1,786 @@
+{
+  "race": {
+    "name": "Egmond 10.5 km / Venice base",
+    "date": "2027-01-10"
+  },
+  "settings": {
+    "easy_hr_cap": 158,
+    "benchmark_hr": 150,
+    "benchmark_km": 5,
+    "cadence_target": 178,
+    "easy_target_pct": 80.0,
+    "decoupling_target": 5.0
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2026-11-15",
+      "end": "2026-11-21",
+      "phase": "Base",
+      "down_week": false,
+      "note": "Post-Madeira rebuild. Vertical jump stays depressed ~18 days after an ultra, so nothing hard.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "Long easy run 6 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "km": 6,
+          "minutes": null
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "label": "Swim 30 min - TECHNIQUE ONLY. Breathing, body position, catch. Distance is irrelevant for six weeks.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "Easy 6 km, talk test. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "minutes": 55,
+          "km": 9
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE 30 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "minutes": 30
+        },
+        {
+          "kind": "swim",
+          "day": 3,
+          "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 of these - highest-ROI line item in the whole season. You cannot self-coach a catch you have never felt.",
+          "minutes": 45
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength - legs and upper alternating, 45 min. Trap-bar hinge, split squats, rows, press. LOWER-LEG AND FOOT, 5 min at the end: tibialis anterior raises 3 x 15-20, heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10, short-foot holds 3 x 30 s per side. An 8-week RCT raised lactate threshold velocity 5.9% with intrinsic foot work.",
+          "minutes": 45
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Upper - push and pull as one session, 45 min. Rows, pull-ups, press, rear delts. Free against the running and cycling load, which is why it survives every reshuffle. Dead hangs 3 x max at the end - grip is a genuine weakness.",
+          "minutes": 45
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "start": "2026-11-22",
+      "end": "2026-11-28",
+      "phase": "Base",
+      "down_week": false,
+      "note": "5 KM RETEST Tuesday - this sets every pace in the block.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "Long easy run 8 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "km": 8,
+          "minutes": null
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "label": "Swim 30 min - technique",
+          "minutes": 40
+        },
+        {
+          "kind": "benchmark",
+          "day": 2,
+          "km": 5.0,
+          "minutes": null,
+          "label": "5 KM RETEST - flat, out-and-back, auto-pause OFF. Warm up 20 min + 4-6 x 100 m AT goal pace, no faster. First 400 m must not go under target. This sets every pace for the block."
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE 30 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "minutes": 30
+        },
+        {
+          "kind": "swim",
+          "day": 3,
+          "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 of these - highest-ROI line item in the whole season. You cannot self-coach a catch you have never felt.",
+          "minutes": 45
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength - legs and upper alternating, 45 min. Trap-bar hinge, split squats, rows, press. LOWER-LEG AND FOOT, 5 min at the end: tibialis anterior raises 3 x 15-20, heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10, short-foot holds 3 x 30 s per side. An 8-week RCT raised lactate threshold velocity 5.9% with intrinsic foot work.",
+          "minutes": 45
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "km": 6,
+          "minutes": null
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Upper - push and pull as one session, 45 min. Rows, pull-ups, press, rear delts. Free against the running and cycling load, which is why it survives every reshuffle. Dead hangs 3 x max at the end - grip is a genuine weakness.",
+          "minutes": 45
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "start": "2026-11-29",
+      "end": "2026-12-05",
+      "phase": "Base",
+      "down_week": false,
+      "note": "Volume starts moving. Runs go to three.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "Long easy run 10 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "km": 10,
+          "minutes": null
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "label": "Swim 35 min - technique + first continuous 100 m efforts",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "8 x 400 m at 5K effort, 90 s jog. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "minutes": 55,
+          "km": 9
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE 35 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "minutes": 35
+        },
+        {
+          "kind": "swim",
+          "day": 3,
+          "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 of these - highest-ROI line item in the whole season. You cannot self-coach a catch you have never felt.",
+          "minutes": 45
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength - legs and upper alternating, 45 min. Trap-bar hinge, split squats, rows, press. LOWER-LEG AND FOOT, 5 min at the end: tibialis anterior raises 3 x 15-20, heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10, short-foot holds 3 x 30 s per side. An 8-week RCT raised lactate threshold velocity 5.9% with intrinsic foot work.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "BIKE 50 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
+          "minutes": 50
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "km": 6,
+          "minutes": null
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Upper - push and pull as one session, 45 min. Rows, pull-ups, press, rear delts. Free against the running and cycling load, which is why it survives every reshuffle. Dead hangs 3 x max at the end - grip is a genuine weakness.",
+          "minutes": 45
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "start": "2026-12-06",
+      "end": "2026-12-12",
+      "phase": "Build",
+      "down_week": false,
+      "note": "Threshold enters. This is the intensity the whole season has been missing.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "km": 12,
+          "minutes": null
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "label": "Swim 40 min - build to 200 m continuous",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "THRESHOLD 4 x 1.5 km at retest pace, 90 s jog. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "minutes": 55,
+          "km": 11
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE 40 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "minutes": 40
+        },
+        {
+          "kind": "swim",
+          "day": 3,
+          "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 of these - highest-ROI line item in the whole season. You cannot self-coach a catch you have never felt.",
+          "minutes": 45
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength - legs and upper alternating, 45 min. Trap-bar hinge, split squats, rows, press. LOWER-LEG AND FOOT, 5 min at the end: tibialis anterior raises 3 x 15-20, heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10, short-foot holds 3 x 30 s per side. An 8-week RCT raised lactate threshold velocity 5.9% with intrinsic foot work.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "BIKE 55 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
+          "minutes": 55
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "km": 6,
+          "minutes": null
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Upper - push and pull as one session, 45 min. Rows, pull-ups, press, rear delts. Free against the running and cycling load, which is why it survives every reshuffle. Dead hangs 3 x max at the end - grip is a genuine weakness.",
+          "minutes": 45
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "start": "2026-12-13",
+      "end": "2026-12-19",
+      "phase": "Build",
+      "down_week": false,
+      "note": "Second threshold week. Hold the pace, not the effort.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "Long easy run 14 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "km": 14,
+          "minutes": null
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "label": "Swim 40 min - 300 m continuous",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "THRESHOLD 5 x 1.5 km, 90 s jog. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "minutes": 55,
+          "km": 12
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE 40 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "minutes": 40
+        },
+        {
+          "kind": "swim",
+          "day": 3,
+          "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 of these - highest-ROI line item in the whole season. You cannot self-coach a catch you have never felt.",
+          "minutes": 45
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength - legs and upper alternating, 45 min. Trap-bar hinge, split squats, rows, press. LOWER-LEG AND FOOT, 5 min at the end: tibialis anterior raises 3 x 15-20, heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10, short-foot holds 3 x 30 s per side. An 8-week RCT raised lactate threshold velocity 5.9% with intrinsic foot work.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "BIKE 55 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
+          "minutes": 55
+        },
+        {
+          "kind": "swim",
+          "day": 6,
+          "label": "COLD IMMERSION 2-3 min after the swim. Five to six of these HALVES the cold-shock response and the adaptation lasts ~14 months. Jesolo in April is 15-17 C.",
+          "minutes": 10
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "km": 6,
+          "minutes": null
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Upper - push and pull as one session, 45 min. Rows, pull-ups, press, rear delts. Free against the running and cycling load, which is why it survives every reshuffle. Dead hangs 3 x max at the end - grip is a genuine weakness.",
+          "minutes": 45
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "start": "2026-12-20",
+      "end": "2026-12-26",
+      "phase": "Build",
+      "down_week": true,
+      "note": "DOWN WEEK. Christmas. Volume down 30%, intensity down a notch.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "Long easy run 10 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "km": 10,
+          "minutes": null
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "label": "Swim 30 min - easy, technique",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "4 x 1 km at 10K effort. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "minutes": 55,
+          "km": 9
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE 30 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "minutes": 30
+        },
+        {
+          "kind": "swim",
+          "day": 3,
+          "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 of these - highest-ROI line item in the whole season. You cannot self-coach a catch you have never felt.",
+          "minutes": 45
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength - legs and upper alternating, 45 min. Trap-bar hinge, split squats, rows, press. LOWER-LEG AND FOOT, 5 min at the end: tibialis anterior raises 3 x 15-20, heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10, short-foot holds 3 x 30 s per side. An 8-week RCT raised lactate threshold velocity 5.9% with intrinsic foot work.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "BIKE 45 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 6,
+          "label": "COLD IMMERSION 2-3 min after the swim. Five to six of these HALVES the cold-shock response and the adaptation lasts ~14 months. Jesolo in April is 15-17 C.",
+          "minutes": 10
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "km": 6,
+          "minutes": null
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Upper - push and pull as one session, 45 min. Rows, pull-ups, press, rear delts. Free against the running and cycling load, which is why it survives every reshuffle. Dead hangs 3 x max at the end - grip is a genuine weakness.",
+          "minutes": 45
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "start": "2026-12-27",
+      "end": "2027-01-02",
+      "phase": "Build",
+      "down_week": false,
+      "note": "Biggest running week of the block.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "Long easy run 16 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "km": 16,
+          "minutes": null
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "label": "Swim 45 min - 400 m continuous",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "5 x 1 km at 10K effort, 2 min jog. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "minutes": 55,
+          "km": 12
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE 45 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 3,
+          "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 of these - highest-ROI line item in the whole season. You cannot self-coach a catch you have never felt.",
+          "minutes": 45
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength - legs and upper alternating, 45 min. Trap-bar hinge, split squats, rows, press. LOWER-LEG AND FOOT, 5 min at the end: tibialis anterior raises 3 x 15-20, heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10, short-foot holds 3 x 30 s per side. An 8-week RCT raised lactate threshold velocity 5.9% with intrinsic foot work.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "BIKE 60 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
+          "minutes": 60
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim 45 min - 400 m continuous",
+          "minutes": 40
+        },
+        {
+          "kind": "swim",
+          "day": 6,
+          "label": "COLD IMMERSION 2-3 min after the swim. Five to six of these HALVES the cold-shock response and the adaptation lasts ~14 months. Jesolo in April is 15-17 C.",
+          "minutes": 10
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "km": 6,
+          "minutes": null
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Upper - push and pull as one session, 45 min. Rows, pull-ups, press, rear delts. Free against the running and cycling load, which is why it survives every reshuffle. Dead hangs 3 x max at the end - grip is a genuine weakness.",
+          "minutes": 45
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "start": "2027-01-03",
+      "end": "2027-01-09",
+      "phase": "Peak",
+      "down_week": false,
+      "note": "Taper into Egmond. Volume down, sharpness up.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "km": 12,
+          "minutes": null
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "label": "Swim 45 min - 600 m continuous",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "6 x 800 m at 5K effort. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "minutes": 55,
+          "km": 11
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE 40 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "minutes": 40
+        },
+        {
+          "kind": "swim",
+          "day": 3,
+          "label": "SWIM LESSON (1-on-1, 45 min). Book 6-10 of these - highest-ROI line item in the whole season. You cannot self-coach a catch you have never felt.",
+          "minutes": 45
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength - legs and upper alternating, 45 min. Trap-bar hinge, split squats, rows, press. LOWER-LEG AND FOOT, 5 min at the end: tibialis anterior raises 3 x 15-20, heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10, short-foot holds 3 x 30 s per side. An 8-week RCT raised lactate threshold velocity 5.9% with intrinsic foot work.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "BIKE 55 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
+          "minutes": 55
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim 45 min - 600 m continuous",
+          "minutes": 40
+        },
+        {
+          "kind": "swim",
+          "day": 6,
+          "label": "COLD IMMERSION 2-3 min after the swim. Five to six of these HALVES the cold-shock response and the adaptation lasts ~14 months. Jesolo in April is 15-17 C.",
+          "minutes": 10
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "km": 6,
+          "minutes": null
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Upper - push and pull as one session, 45 min. Rows, pull-ups, press, rear delts. Free against the running and cycling load, which is why it survives every reshuffle. Dead hangs 3 x max at the end - grip is a genuine weakness.",
+          "minutes": 45
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "start": "2027-01-10",
+      "end": "2027-01-16",
+      "phase": "Race",
+      "down_week": false,
+      "note": "EGMOND 10.5 km Sunday 10 January - beach, dunes, soft sand, wind. Do not chase a road PB on it.",
+      "sessions": [
+        {
+          "kind": "swim",
+          "day": 0,
+          "label": "Swim 45 min - 800 m continuous",
+          "minutes": 40
+        },
+        {
+          "kind": "race",
+          "day": 0,
+          "km": 10.5,
+          "minutes": null,
+          "label": "EGMOND 10.5 km - Egmond aan Zee, Boulevard Noord. Beach, dunes, soft sand, wind, the Bloedweg. Run it by effort, not pace: the sand makes pace meaningless. This is the block's target and a hard aerobic race, not a PB attempt."
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE 30 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "minutes": 30
+        },
+        {
+          "kind": "swim",
+          "day": 3,
+          "label": "Swim 45 min - 800 m continuous",
+          "minutes": 45
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength - legs and upper alternating, 45 min. Trap-bar hinge, split squats, rows, press. LOWER-LEG AND FOOT, 5 min at the end: tibialis anterior raises 3 x 15-20, heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10, short-foot holds 3 x 30 s per side. An 8-week RCT raised lactate threshold velocity 5.9% with intrinsic foot work.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "BIKE 45 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 6,
+          "label": "COLD IMMERSION 2-3 min after the swim. Five to six of these HALVES the cold-shock response and the adaptation lasts ~14 months. Jesolo in April is 15-17 C.",
+          "minutes": 10
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Upper - push and pull as one session, 45 min. Rows, pull-ups, press, rear delts. Free against the running and cycling load, which is why it survives every reshuffle. Dead hangs 3 x max at the end - grip is a genuine weakness.",
+          "minutes": 45
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "start": "2027-01-17",
+      "end": "2027-01-23",
+      "phase": "Bridge",
+      "down_week": false,
+      "note": "Recovery, then the bike starts leading. Venice block opens 31 Jan.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "km": 12,
+          "minutes": null
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "label": "Swim 50 min - 1000 m continuous",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "Easy 8 km + strides. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "minutes": 55,
+          "km": 10
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE 45 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 3,
+          "label": "Swim 50 min - 1000 m continuous",
+          "minutes": 45
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength - legs and upper alternating, 45 min. Trap-bar hinge, split squats, rows, press. LOWER-LEG AND FOOT, 5 min at the end: tibialis anterior raises 3 x 15-20, heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10, short-foot holds 3 x 30 s per side. An 8-week RCT raised lactate threshold velocity 5.9% with intrinsic foot work.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "BIKE 60 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
+          "minutes": 60
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim 50 min - 1000 m continuous",
+          "minutes": 40
+        },
+        {
+          "kind": "swim",
+          "day": 6,
+          "label": "COLD IMMERSION 2-3 min after the swim. Five to six of these HALVES the cold-shock response and the adaptation lasts ~14 months. Jesolo in April is 15-17 C.",
+          "minutes": 10
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "km": 6,
+          "minutes": null
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Upper - push and pull as one session, 45 min. Rows, pull-ups, press, rear delts. Free against the running and cycling load, which is why it survives every reshuffle. Dead hangs 3 x max at the end - grip is a genuine weakness.",
+          "minutes": 45
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "start": "2027-01-24",
+      "end": "2027-01-30",
+      "phase": "Bridge",
+      "down_week": false,
+      "note": "Last week before the Venice block. Swim to 3 sessions, bike to three.",
+      "sessions": [
+        {
+          "kind": "long",
+          "day": 0,
+          "label": "Long easy run 14 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "km": 14,
+          "minutes": null
+        },
+        {
+          "kind": "swim",
+          "day": 0,
+          "label": "Swim 50 min - 1200 m continuous",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "THRESHOLD 4 x 1.5 km. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "minutes": 55,
+          "km": 12
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE 50 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "minutes": 50
+        },
+        {
+          "kind": "swim",
+          "day": 3,
+          "label": "Swim 50 min - 1200 m continuous",
+          "minutes": 45
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength - legs and upper alternating, 45 min. Trap-bar hinge, split squats, rows, press. LOWER-LEG AND FOOT, 5 min at the end: tibialis anterior raises 3 x 15-20, heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10, short-foot holds 3 x 30 s per side. An 8-week RCT raised lactate threshold velocity 5.9% with intrinsic foot work.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "BIKE 65 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
+          "minutes": 65
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim 50 min - 1200 m continuous",
+          "minutes": 40
+        },
+        {
+          "kind": "swim",
+          "day": 6,
+          "label": "COLD IMMERSION 2-3 min after the swim. Five to six of these HALVES the cold-shock response and the adaptation lasts ~14 months. Jesolo in April is 15-17 C.",
+          "minutes": 10
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "km": 6,
+          "minutes": null
+        },
+        {
+          "kind": "push",
+          "day": 1,
+          "label": "Upper - push and pull as one session, 45 min. Rows, pull-ups, press, rear delts. Free against the running and cycling load, which is why it survives every reshuffle. Dead hangs 3 x max at the end - grip is a genuine weakness.",
+          "minutes": 45
+        }
+      ]
+    }
+  ]
+}

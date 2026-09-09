@@ -1,0 +1,1323 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//garmin training//Madeira 25K plan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Egmond 10.5 km / Venice base training
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w1-s0-long@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:▲ Long easy run 6 km\, HR under 155. Aerobic base…
+DESCRIPTION:Long easy run 6 km\, HR under 155. Aerobic base is the lever 
+ - the fastest runners get there on Zone 1 volume.\n\nWeek 1 of 11 - Base
+ \nKeep HR under 158. Walk the climbs. Talk test.\nPost-Madeira rebuild. 
+ Vertical jump stays depressed ~18 days after an ultra\, so nothing hard.
+ \n56 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w1-s1-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:≈ Swim 30 min
+DESCRIPTION:Swim 30 min - TECHNIQUE ONLY. Breathing\, body position\, cat
+ ch. Distance is irrelevant for six weeks.\n\nWeek 1 of 11 - Base\nPost-M
+ adeira rebuild. Vertical jump stays depressed ~18 days after an ultra\, 
+ so nothing hard.\n56 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w1-s2-strides@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Easy 6 km\, talk test (55 min)
+DESCRIPTION:Easy 6 km\, talk test. Warm up 15 min + strides finishing AT 
+ goal pace and no faster.\n\nWeek 1 of 11 - Base\nPost-Madeira rebuild. V
+ ertical jump stays depressed ~18 days after an ultra\, so nothing hard.\
+ n54 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w1-s3-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:○ BIKE 30 min
+DESCRIPTION:BIKE 30 min - sweet spot\, 3 x 10-12 min at 88-93% FTP (~132-
+ 140 W)\, 5 min easy between. The 90 km bike is over half a 70.3 by time.
+ \n\nWeek 1 of 11 - Base\nPost-Madeira rebuild. Vertical jump stays depre
+ ssed ~18 days after an ultra\, so nothing hard.\n53 days to Egmond 10.5 
+ km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w1-s4-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
+DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
+ OI line item in the whole season. You cannot self-coach a catch you have
+  never felt.\n\nWeek 1 of 11 - Base\nPost-Madeira rebuild. Vertical jump
+  stays depressed ~18 days after an ultra\, so nothing hard.\n53 days to 
+ Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w1-s5-legs@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:◆ Strength (45 min)
+DESCRIPTION:Strength - legs and upper alternating\, 45 min. Trap-bar hing
+ e\, split squats\, rows\, press. LOWER-LEG AND FOOT\, 5 min at the end: 
+ tibialis anterior raises 3 x 15-20\, heel walks 2 x 20 m\, eccentric dor
+ siflexion 3 x 10\, short-foot holds 3 x 30 s per side. An 8-week RCT rai
+ sed lactate threshold velocity 5.9% with intrinsic foot work.\n\nWeek 1 
+ of 11 - Base\nPost-Madeira rebuild. Vertical jump stays depressed ~18 da
+ ys after an ultra\, so nothing hard.\n52 days to Egmond 10.5 km / Venice
+  base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w1-s6-push@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Upper (45 min)
+DESCRIPTION:Upper - push and pull as one session\, 45 min. Rows\, pull-up
+ s\, press\, rear delts. Free against the running and cycling load\, whic
+ h is why it survives every reshuffle. Dead hangs 3 x max at the end - gr
+ ip is a genuine weakness.\n\nWeek 1 of 11 - Base\nPost-Madeira rebuild. 
+ Vertical jump stays depressed ~18 days after an ultra\, so nothing hard.
+ \n55 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w2-s0-long@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:▲ Long easy run 8 km\, HR under 155. Aerobic base…
+DESCRIPTION:Long easy run 8 km\, HR under 155. Aerobic base is the lever 
+ - the fastest runners get there on Zone 1 volume.\n\nWeek 2 of 11 - Base
+ \nKeep HR under 158. Walk the climbs. Talk test.\n5 KM RETEST Tuesday - 
+ this sets every pace in the block.\n49 days to Egmond 10.5 km / Venice b
+ ase.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w2-s1-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:≈ Swim 30 min
+DESCRIPTION:Swim 30 min - technique\n\nWeek 2 of 11 - Base\n5 KM RETEST T
+ uesday - this sets every pace in the block.\n49 days to Egmond 10.5 km /
+  Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w2-s2-benchmark@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:5 KM RETEST (5 km)
+DESCRIPTION:5 KM RETEST - flat\, out-and-back\, auto-pause OFF. Warm up 2
+ 0 min + 4-6 x 100 m AT goal pace\, no faster. First 400 m must not go un
+ der target. This sets every pace for the block.\n\nWeek 2 of 11 - Base\n
+ 5 KM RETEST Tuesday - this sets every pace in the block.\n47 days to Egm
+ ond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w2-s3-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:○ BIKE 30 min
+DESCRIPTION:BIKE 30 min - sweet spot\, 3 x 10-12 min at 88-93% FTP (~132-
+ 140 W)\, 5 min easy between. The 90 km bike is over half a 70.3 by time.
+ \n\nWeek 2 of 11 - Base\n5 KM RETEST Tuesday - this sets every pace in t
+ he block.\n46 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w2-s4-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
+DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
+ OI line item in the whole season. You cannot self-coach a catch you have
+  never felt.\n\nWeek 2 of 11 - Base\n5 KM RETEST Tuesday - this sets eve
+ ry pace in the block.\n46 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w2-s5-legs@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:◆ Strength (45 min)
+DESCRIPTION:Strength - legs and upper alternating\, 45 min. Trap-bar hing
+ e\, split squats\, rows\, press. LOWER-LEG AND FOOT\, 5 min at the end: 
+ tibialis anterior raises 3 x 15-20\, heel walks 2 x 20 m\, eccentric dor
+ siflexion 3 x 10\, short-foot holds 3 x 30 s per side. An 8-week RCT rai
+ sed lactate threshold velocity 5.9% with intrinsic foot work.\n\nWeek 2 
+ of 11 - Base\n5 KM RETEST Tuesday - this sets every pace in the block.\n
+ 45 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w2-s6-easy@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 155. Third run of the week - short
+  and genuinely easy.\n\nWeek 2 of 11 - Base\nKeep HR under 158. Walk the
+  climbs. Talk test.\n5 KM RETEST Tuesday - this sets every pace in the b
+ lock.\n43 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w2-s7-push@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Upper (45 min)
+DESCRIPTION:Upper - push and pull as one session\, 45 min. Rows\, pull-up
+ s\, press\, rear delts. Free against the running and cycling load\, whic
+ h is why it survives every reshuffle. Dead hangs 3 x max at the end - gr
+ ip is a genuine weakness.\n\nWeek 2 of 11 - Base\n5 KM RETEST Tuesday - 
+ this sets every pace in the block.\n48 days to Egmond 10.5 km / Venice b
+ ase.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w3-s0-long@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:▲ Long easy run 10 km\, HR under 155. Aerobic base…
+DESCRIPTION:Long easy run 10 km\, HR under 155. Aerobic base is the lever
+  - the fastest runners get there on Zone 1 volume.\n\nWeek 3 of 11 - Bas
+ e\nKeep HR under 158. Walk the climbs. Talk test.\nVolume starts moving.
+  Runs go to three.\n42 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w3-s1-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:≈ Swim 35 min
+DESCRIPTION:Swim 35 min - technique + first continuous 100 m efforts\n\nW
+ eek 3 of 11 - Base\nVolume starts moving. Runs go to three.\n42 days to 
+ Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w3-s2-strides@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:8 x 400 m at 5K effort\, 90 s jog (9 km)
+DESCRIPTION:8 x 400 m at 5K effort\, 90 s jog. Warm up 15 min + strides f
+ inishing AT goal pace and no faster.\n\nWeek 3 of 11 - Base\nVolume star
+ ts moving. Runs go to three.\n40 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w3-s3-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:○ BIKE 35 min
+DESCRIPTION:BIKE 35 min - sweet spot\, 3 x 10-12 min at 88-93% FTP (~132-
+ 140 W)\, 5 min easy between. The 90 km bike is over half a 70.3 by time.
+ \n\nWeek 3 of 11 - Base\nVolume starts moving. Runs go to three.\n39 day
+ s to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w3-s4-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
+DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
+ OI line item in the whole season. You cannot self-coach a catch you have
+  never felt.\n\nWeek 3 of 11 - Base\nVolume starts moving. Runs go to th
+ ree.\n39 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w3-s5-legs@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:◆ Strength (45 min)
+DESCRIPTION:Strength - legs and upper alternating\, 45 min. Trap-bar hing
+ e\, split squats\, rows\, press. LOWER-LEG AND FOOT\, 5 min at the end: 
+ tibialis anterior raises 3 x 15-20\, heel walks 2 x 20 m\, eccentric dor
+ siflexion 3 x 10\, short-foot holds 3 x 30 s per side. An 8-week RCT rai
+ sed lactate threshold velocity 5.9% with intrinsic foot work.\n\nWeek 3 
+ of 11 - Base\nVolume starts moving. Runs go to three.\n38 days to Egmond
+  10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w3-s6-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:○ BIKE 50 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 50 min zone 2\, HR under 145\, steady. Non-impact aerobi
+ c volume - the cheapest fitness available and it spares the shins.\n\nWe
+ ek 3 of 11 - Base\nVolume starts moving. Runs go to three.\n36 days to E
+ gmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w3-s7-easy@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 155. Third run of the week - short
+  and genuinely easy.\n\nWeek 3 of 11 - Base\nKeep HR under 158. Walk the
+  climbs. Talk test.\nVolume starts moving. Runs go to three.\n36 days to
+  Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w3-s8-push@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Upper (45 min)
+DESCRIPTION:Upper - push and pull as one session\, 45 min. Rows\, pull-up
+ s\, press\, rear delts. Free against the running and cycling load\, whic
+ h is why it survives every reshuffle. Dead hangs 3 x max at the end - gr
+ ip is a genuine weakness.\n\nWeek 3 of 11 - Base\nVolume starts moving. 
+ Runs go to three.\n41 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w4-s0-long@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:▲ Long easy run 12 km\, HR under 155. Aerobic base…
+DESCRIPTION:Long easy run 12 km\, HR under 155. Aerobic base is the lever
+  - the fastest runners get there on Zone 1 volume.\n\nWeek 4 of 11 - Bui
+ ld\nKeep HR under 158. Walk the climbs. Talk test.\nThreshold enters. Th
+ is is the intensity the whole season has been missing.\n35 days to Egmon
+ d 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w4-s1-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:≈ Swim 40 min
+DESCRIPTION:Swim 40 min - build to 200 m continuous\n\nWeek 4 of 11 - Bui
+ ld\nThreshold enters. This is the intensity the whole season has been mi
+ ssing.\n35 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w4-s2-strides@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:THRESHOLD 4 x 1.5 km at retest pace\, 90 s jog (55 min)
+DESCRIPTION:THRESHOLD 4 x 1.5 km at retest pace\, 90 s jog. Warm up 15 mi
+ n + strides finishing AT goal pace and no faster.\n\nWeek 4 of 11 - Buil
+ d\nThreshold enters. This is the intensity the whole season has been mis
+ sing.\n33 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w4-s3-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:○ BIKE 40 min
+DESCRIPTION:BIKE 40 min - sweet spot\, 3 x 10-12 min at 88-93% FTP (~132-
+ 140 W)\, 5 min easy between. The 90 km bike is over half a 70.3 by time.
+ \n\nWeek 4 of 11 - Build\nThreshold enters. This is the intensity the wh
+ ole season has been missing.\n32 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w4-s4-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
+DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
+ OI line item in the whole season. You cannot self-coach a catch you have
+  never felt.\n\nWeek 4 of 11 - Build\nThreshold enters. This is the inte
+ nsity the whole season has been missing.\n32 days to Egmond 10.5 km / Ve
+ nice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w4-s5-legs@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:◆ Strength (45 min)
+DESCRIPTION:Strength - legs and upper alternating\, 45 min. Trap-bar hing
+ e\, split squats\, rows\, press. LOWER-LEG AND FOOT\, 5 min at the end: 
+ tibialis anterior raises 3 x 15-20\, heel walks 2 x 20 m\, eccentric dor
+ siflexion 3 x 10\, short-foot holds 3 x 30 s per side. An 8-week RCT rai
+ sed lactate threshold velocity 5.9% with intrinsic foot work.\n\nWeek 4 
+ of 11 - Build\nThreshold enters. This is the intensity the whole season 
+ has been missing.\n31 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w4-s6-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:○ BIKE 55 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 55 min zone 2\, HR under 145\, steady. Non-impact aerobi
+ c volume - the cheapest fitness available and it spares the shins.\n\nWe
+ ek 4 of 11 - Build\nThreshold enters. This is the intensity the whole se
+ ason has been missing.\n29 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w4-s7-easy@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 155. Third run of the week - short
+  and genuinely easy.\n\nWeek 4 of 11 - Build\nKeep HR under 158. Walk th
+ e climbs. Talk test.\nThreshold enters. This is the intensity the whole 
+ season has been missing.\n29 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w4-s8-push@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Upper (45 min)
+DESCRIPTION:Upper - push and pull as one session\, 45 min. Rows\, pull-up
+ s\, press\, rear delts. Free against the running and cycling load\, whic
+ h is why it survives every reshuffle. Dead hangs 3 x max at the end - gr
+ ip is a genuine weakness.\n\nWeek 4 of 11 - Build\nThreshold enters. Thi
+ s is the intensity the whole season has been missing.\n34 days to Egmond
+  10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w5-s0-long@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:▲ Long easy run 14 km\, HR under 155. Aerobic base…
+DESCRIPTION:Long easy run 14 km\, HR under 155. Aerobic base is the lever
+  - the fastest runners get there on Zone 1 volume.\n\nWeek 5 of 11 - Bui
+ ld\nKeep HR under 158. Walk the climbs. Talk test.\nSecond threshold wee
+ k. Hold the pace\, not the effort.\n28 days to Egmond 10.5 km / Venice b
+ ase.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w5-s1-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:≈ Swim 40 min
+DESCRIPTION:Swim 40 min - 300 m continuous\n\nWeek 5 of 11 - Build\nSecon
+ d threshold week. Hold the pace\, not the effort.\n28 days to Egmond 10.
+ 5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w5-s2-strides@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:THRESHOLD 5 x 1.5 km\, 90 s jog (55 min)
+DESCRIPTION:THRESHOLD 5 x 1.5 km\, 90 s jog. Warm up 15 min + strides fin
+ ishing AT goal pace and no faster.\n\nWeek 5 of 11 - Build\nSecond thres
+ hold week. Hold the pace\, not the effort.\n26 days to Egmond 10.5 km / 
+ Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w5-s3-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:○ BIKE 40 min
+DESCRIPTION:BIKE 40 min - sweet spot\, 3 x 10-12 min at 88-93% FTP (~132-
+ 140 W)\, 5 min easy between. The 90 km bike is over half a 70.3 by time.
+ \n\nWeek 5 of 11 - Build\nSecond threshold week. Hold the pace\, not the
+  effort.\n25 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w5-s4-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
+DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
+ OI line item in the whole season. You cannot self-coach a catch you have
+  never felt.\n\nWeek 5 of 11 - Build\nSecond threshold week. Hold the pa
+ ce\, not the effort.\n25 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w5-s5-legs@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:◆ Strength (45 min)
+DESCRIPTION:Strength - legs and upper alternating\, 45 min. Trap-bar hing
+ e\, split squats\, rows\, press. LOWER-LEG AND FOOT\, 5 min at the end: 
+ tibialis anterior raises 3 x 15-20\, heel walks 2 x 20 m\, eccentric dor
+ siflexion 3 x 10\, short-foot holds 3 x 30 s per side. An 8-week RCT rai
+ sed lactate threshold velocity 5.9% with intrinsic foot work.\n\nWeek 5 
+ of 11 - Build\nSecond threshold week. Hold the pace\, not the effort.\n2
+ 4 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w5-s6-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:○ BIKE 55 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 55 min zone 2\, HR under 145\, steady. Non-impact aerobi
+ c volume - the cheapest fitness available and it spares the shins.\n\nWe
+ ek 5 of 11 - Build\nSecond threshold week. Hold the pace\, not the effor
+ t.\n22 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w5-s7-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
+DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
+ ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
+ o in April is 15-17 C.\n\nWeek 5 of 11 - Build\nSecond threshold week. H
+ old the pace\, not the effort.\n22 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w5-s8-easy@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 155. Third run of the week - short
+  and genuinely easy.\n\nWeek 5 of 11 - Build\nKeep HR under 158. Walk th
+ e climbs. Talk test.\nSecond threshold week. Hold the pace\, not the eff
+ ort.\n22 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w5-s9-push@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Upper (45 min)
+DESCRIPTION:Upper - push and pull as one session\, 45 min. Rows\, pull-up
+ s\, press\, rear delts. Free against the running and cycling load\, whic
+ h is why it survives every reshuffle. Dead hangs 3 x max at the end - gr
+ ip is a genuine weakness.\n\nWeek 5 of 11 - Build\nSecond threshold week
+ . Hold the pace\, not the effort.\n27 days to Egmond 10.5 km / Venice ba
+ se.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w6-s0-long@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:▲ Long easy run 10 km\, HR under 155. Aerobic base…
+DESCRIPTION:Long easy run 10 km\, HR under 155. Aerobic base is the lever
+  - the fastest runners get there on Zone 1 volume.\n\nWeek 6 of 11 - Bui
+ ld\nDOWN WEEK - recover\, do not add volume.\nKeep HR under 158. Walk th
+ e climbs. Talk test.\nDOWN WEEK. Christmas. Volume down 30%\, intensity 
+ down a notch.\n21 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w6-s1-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:≈ Swim 30 min
+DESCRIPTION:Swim 30 min - easy\, technique\n\nWeek 6 of 11 - Build\nDOWN 
+ WEEK - recover\, do not add volume.\nDOWN WEEK. Christmas. Volume down 3
+ 0%\, intensity down a notch.\n21 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w6-s2-strides@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:4 x 1 km at 10K effort (55 min)
+DESCRIPTION:4 x 1 km at 10K effort. Warm up 15 min + strides finishing AT
+  goal pace and no faster.\n\nWeek 6 of 11 - Build\nDOWN WEEK - recover\,
+  do not add volume.\nDOWN WEEK. Christmas. Volume down 30%\, intensity d
+ own a notch.\n19 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w6-s3-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:○ BIKE 30 min
+DESCRIPTION:BIKE 30 min - sweet spot\, 3 x 10-12 min at 88-93% FTP (~132-
+ 140 W)\, 5 min easy between. The 90 km bike is over half a 70.3 by time.
+ \n\nWeek 6 of 11 - Build\nDOWN WEEK - recover\, do not add volume.\nDOWN
+  WEEK. Christmas. Volume down 30%\, intensity down a notch.\n18 days to 
+ Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w6-s4-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
+DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
+ OI line item in the whole season. You cannot self-coach a catch you have
+  never felt.\n\nWeek 6 of 11 - Build\nDOWN WEEK - recover\, do not add v
+ olume.\nDOWN WEEK. Christmas. Volume down 30%\, intensity down a notch.\
+ n18 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w6-s5-legs@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:◆ Strength (45 min)
+DESCRIPTION:Strength - legs and upper alternating\, 45 min. Trap-bar hing
+ e\, split squats\, rows\, press. LOWER-LEG AND FOOT\, 5 min at the end: 
+ tibialis anterior raises 3 x 15-20\, heel walks 2 x 20 m\, eccentric dor
+ siflexion 3 x 10\, short-foot holds 3 x 30 s per side. An 8-week RCT rai
+ sed lactate threshold velocity 5.9% with intrinsic foot work.\n\nWeek 6 
+ of 11 - Build\nDOWN WEEK - recover\, do not add volume.\nDOWN WEEK. Chri
+ stmas. Volume down 30%\, intensity down a notch.\n17 days to Egmond 10.5
+  km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w6-s6-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:○ BIKE 45 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 45 min zone 2\, HR under 145\, steady. Non-impact aerobi
+ c volume - the cheapest fitness available and it spares the shins.\n\nWe
+ ek 6 of 11 - Build\nDOWN WEEK - recover\, do not add volume.\nDOWN WEEK.
+  Christmas. Volume down 30%\, intensity down a notch.\n15 days to Egmond
+  10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w6-s7-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
+DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
+ ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
+ o in April is 15-17 C.\n\nWeek 6 of 11 - Build\nDOWN WEEK - recover\, do
+  not add volume.\nDOWN WEEK. Christmas. Volume down 30%\, intensity down
+  a notch.\n15 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w6-s8-easy@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 155. Third run of the week - short
+  and genuinely easy.\n\nWeek 6 of 11 - Build\nDOWN WEEK - recover\, do n
+ ot add volume.\nKeep HR under 158. Walk the climbs. Talk test.\nDOWN WEE
+ K. Christmas. Volume down 30%\, intensity down a notch.\n15 days to Egmo
+ nd 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w6-s9-push@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Upper (45 min)
+DESCRIPTION:Upper - push and pull as one session\, 45 min. Rows\, pull-up
+ s\, press\, rear delts. Free against the running and cycling load\, whic
+ h is why it survives every reshuffle. Dead hangs 3 x max at the end - gr
+ ip is a genuine weakness.\n\nWeek 6 of 11 - Build\nDOWN WEEK - recover\,
+  do not add volume.\nDOWN WEEK. Christmas. Volume down 30%\, intensity d
+ own a notch.\n20 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w7-s0-long@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:▲ Long easy run 16 km\, HR under 155. Aerobic base…
+DESCRIPTION:Long easy run 16 km\, HR under 155. Aerobic base is the lever
+  - the fastest runners get there on Zone 1 volume.\n\nWeek 7 of 11 - Bui
+ ld\nKeep HR under 158. Walk the climbs. Talk test.\nBiggest running week
+  of the block.\n14 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w7-s1-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:≈ Swim 45 min
+DESCRIPTION:Swim 45 min - 400 m continuous\n\nWeek 7 of 11 - Build\nBigge
+ st running week of the block.\n14 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w7-s2-strides@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:5 x 1 km at 10K effort\, 2 min jog
+DESCRIPTION:5 x 1 km at 10K effort\, 2 min jog. Warm up 15 min + strides 
+ finishing AT goal pace and no faster.\n\nWeek 7 of 11 - Build\nBiggest r
+ unning week of the block.\n12 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w7-s3-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:○ BIKE 45 min
+DESCRIPTION:BIKE 45 min - sweet spot\, 3 x 10-12 min at 88-93% FTP (~132-
+ 140 W)\, 5 min easy between. The 90 km bike is over half a 70.3 by time.
+ \n\nWeek 7 of 11 - Build\nBiggest running week of the block.\n11 days to
+  Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w7-s4-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
+DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
+ OI line item in the whole season. You cannot self-coach a catch you have
+  never felt.\n\nWeek 7 of 11 - Build\nBiggest running week of the block.
+ \n11 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w7-s5-legs@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:◆ Strength (45 min)
+DESCRIPTION:Strength - legs and upper alternating\, 45 min. Trap-bar hing
+ e\, split squats\, rows\, press. LOWER-LEG AND FOOT\, 5 min at the end: 
+ tibialis anterior raises 3 x 15-20\, heel walks 2 x 20 m\, eccentric dor
+ siflexion 3 x 10\, short-foot holds 3 x 30 s per side. An 8-week RCT rai
+ sed lactate threshold velocity 5.9% with intrinsic foot work.\n\nWeek 7 
+ of 11 - Build\nBiggest running week of the block.\n10 days to Egmond 10.
+ 5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w7-s6-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:○ BIKE 60 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 60 min zone 2\, HR under 145\, steady. Non-impact aerobi
+ c volume - the cheapest fitness available and it spares the shins.\n\nWe
+ ek 7 of 11 - Build\nBiggest running week of the block.\n8 days to Egmond
+  10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w7-s7-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:≈ Swim 45 min
+DESCRIPTION:Swim 45 min - 400 m continuous\n\nWeek 7 of 11 - Build\nBigge
+ st running week of the block.\n9 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w7-s8-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
+DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
+ ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
+ o in April is 15-17 C.\n\nWeek 7 of 11 - Build\nBiggest running week of 
+ the block.\n8 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w7-s9-easy@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 155. Third run of the week - short
+  and genuinely easy.\n\nWeek 7 of 11 - Build\nKeep HR under 158. Walk th
+ e climbs. Talk test.\nBiggest running week of the block.\n8 days to Egmo
+ nd 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w7-s10-push@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Upper (45 min)
+DESCRIPTION:Upper - push and pull as one session\, 45 min. Rows\, pull-up
+ s\, press\, rear delts. Free against the running and cycling load\, whic
+ h is why it survives every reshuffle. Dead hangs 3 x max at the end - gr
+ ip is a genuine weakness.\n\nWeek 7 of 11 - Build\nBiggest running week 
+ of the block.\n13 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w8-s0-long@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:▲ Long easy run 12 km\, HR under 155. Aerobic base…
+DESCRIPTION:Long easy run 12 km\, HR under 155. Aerobic base is the lever
+  - the fastest runners get there on Zone 1 volume.\n\nWeek 8 of 11 - Pea
+ k\nKeep HR under 158. Walk the climbs. Talk test.\nTaper into Egmond. Vo
+ lume down\, sharpness up.\n7 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w8-s1-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:≈ Swim 45 min
+DESCRIPTION:Swim 45 min - 600 m continuous\n\nWeek 8 of 11 - Peak\nTaper 
+ into Egmond. Volume down\, sharpness up.\n7 days to Egmond 10.5 km / Ven
+ ice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w8-s2-strides@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:6 x 800 m at 5K effort (11 km)
+DESCRIPTION:6 x 800 m at 5K effort. Warm up 15 min + strides finishing AT
+  goal pace and no faster.\n\nWeek 8 of 11 - Peak\nTaper into Egmond. Vol
+ ume down\, sharpness up.\n5 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w8-s3-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:○ BIKE 40 min
+DESCRIPTION:BIKE 40 min - sweet spot\, 3 x 10-12 min at 88-93% FTP (~132-
+ 140 W)\, 5 min easy between. The 90 km bike is over half a 70.3 by time.
+ \n\nWeek 8 of 11 - Peak\nTaper into Egmond. Volume down\, sharpness up.\
+ n4 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w8-s4-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
+DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
+ OI line item in the whole season. You cannot self-coach a catch you have
+  never felt.\n\nWeek 8 of 11 - Peak\nTaper into Egmond. Volume down\, sh
+ arpness up.\n4 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w8-s5-legs@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:◆ Strength (45 min)
+DESCRIPTION:Strength - legs and upper alternating\, 45 min. Trap-bar hing
+ e\, split squats\, rows\, press. LOWER-LEG AND FOOT\, 5 min at the end: 
+ tibialis anterior raises 3 x 15-20\, heel walks 2 x 20 m\, eccentric dor
+ siflexion 3 x 10\, short-foot holds 3 x 30 s per side. An 8-week RCT rai
+ sed lactate threshold velocity 5.9% with intrinsic foot work.\n\nWeek 8 
+ of 11 - Peak\nTaper into Egmond. Volume down\, sharpness up.\n3 days to 
+ Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w8-s6-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:○ BIKE 55 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 55 min zone 2\, HR under 145\, steady. Non-impact aerobi
+ c volume - the cheapest fitness available and it spares the shins.\n\nWe
+ ek 8 of 11 - Peak\nTaper into Egmond. Volume down\, sharpness up.\n1 day
+ s to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w8-s7-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:≈ Swim 45 min
+DESCRIPTION:Swim 45 min - 600 m continuous\n\nWeek 8 of 11 - Peak\nTaper 
+ into Egmond. Volume down\, sharpness up.\n2 days to Egmond 10.5 km / Ven
+ ice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w8-s8-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
+DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
+ ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
+ o in April is 15-17 C.\n\nWeek 8 of 11 - Peak\nTaper into Egmond. Volume
+  down\, sharpness up.\n1 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w8-s9-easy@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 155. Third run of the week - short
+  and genuinely easy.\n\nWeek 8 of 11 - Peak\nKeep HR under 158. Walk the
+  climbs. Talk test.\nTaper into Egmond. Volume down\, sharpness up.\n1 d
+ ays to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w8-s10-push@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Upper (45 min)
+DESCRIPTION:Upper - push and pull as one session\, 45 min. Rows\, pull-up
+ s\, press\, rear delts. Free against the running and cycling load\, whic
+ h is why it survives every reshuffle. Dead hangs 3 x max at the end - gr
+ ip is a genuine weakness.\n\nWeek 8 of 11 - Peak\nTaper into Egmond. Vol
+ ume down\, sharpness up.\n6 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w9-s0-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:≈ Swim 45 min
+DESCRIPTION:Swim 45 min - 800 m continuous\n\nWeek 9 of 11 - Race\nEGMOND
+  10.5 km Sunday 10 January - beach\, dunes\, soft sand\, wind. Do not ch
+ ase a road PB on it.\n0 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w9-s1-race@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:⚑ EGMOND 10.5 km
+DESCRIPTION:EGMOND 10.5 km - Egmond aan Zee\, Boulevard Noord. Beach\, du
+ nes\, soft sand\, wind\, the Bloedweg. Run it by effort\, not pace: the 
+ sand makes pace meaningless. This is the block's target and a hard aerob
+ ic race\, not a PB attempt.\n\nWeek 9 of 11 - Race\nEGMOND 10.5 km Sunda
+ y 10 January - beach\, dunes\, soft sand\, wind. Do not chase a road PB 
+ on it.\n0 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w9-s2-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:○ BIKE 30 min
+DESCRIPTION:BIKE 30 min - sweet spot\, 3 x 10-12 min at 88-93% FTP (~132-
+ 140 W)\, 5 min easy between. The 90 km bike is over half a 70.3 by time.
+ \n\nWeek 9 of 11 - Race\nEGMOND 10.5 km Sunday 10 January - beach\, dune
+ s\, soft sand\, wind. Do not chase a road PB on it.\n-3 days to Egmond 1
+ 0.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w9-s3-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:≈ Swim 45 min
+DESCRIPTION:Swim 45 min - 800 m continuous\n\nWeek 9 of 11 - Race\nEGMOND
+  10.5 km Sunday 10 January - beach\, dunes\, soft sand\, wind. Do not ch
+ ase a road PB on it.\n-3 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w9-s4-legs@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:◆ Strength (45 min)
+DESCRIPTION:Strength - legs and upper alternating\, 45 min. Trap-bar hing
+ e\, split squats\, rows\, press. LOWER-LEG AND FOOT\, 5 min at the end: 
+ tibialis anterior raises 3 x 15-20\, heel walks 2 x 20 m\, eccentric dor
+ siflexion 3 x 10\, short-foot holds 3 x 30 s per side. An 8-week RCT rai
+ sed lactate threshold velocity 5.9% with intrinsic foot work.\n\nWeek 9 
+ of 11 - Race\nEGMOND 10.5 km Sunday 10 January - beach\, dunes\, soft sa
+ nd\, wind. Do not chase a road PB on it.\n-4 days to Egmond 10.5 km / Ve
+ nice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w9-s5-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:○ BIKE 45 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 45 min zone 2\, HR under 145\, steady. Non-impact aerobi
+ c volume - the cheapest fitness available and it spares the shins.\n\nWe
+ ek 9 of 11 - Race\nEGMOND 10.5 km Sunday 10 January - beach\, dunes\, so
+ ft sand\, wind. Do not chase a road PB on it.\n-6 days to Egmond 10.5 km
+  / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w9-s6-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
+DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
+ ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
+ o in April is 15-17 C.\n\nWeek 9 of 11 - Race\nEGMOND 10.5 km Sunday 10 
+ January - beach\, dunes\, soft sand\, wind. Do not chase a road PB on it
+ .\n-6 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w9-s7-push@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Upper (45 min)
+DESCRIPTION:Upper - push and pull as one session\, 45 min. Rows\, pull-up
+ s\, press\, rear delts. Free against the running and cycling load\, whic
+ h is why it survives every reshuffle. Dead hangs 3 x max at the end - gr
+ ip is a genuine weakness.\n\nWeek 9 of 11 - Race\nEGMOND 10.5 km Sunday 
+ 10 January - beach\, dunes\, soft sand\, wind. Do not chase a road PB on
+  it.\n-1 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w10-s0-long@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:▲ Long easy run 12 km\, HR under 155. Aerobic base…
+DESCRIPTION:Long easy run 12 km\, HR under 155. Aerobic base is the lever
+  - the fastest runners get there on Zone 1 volume.\n\nWeek 10 of 11 - Br
+ idge\nKeep HR under 158. Walk the climbs. Talk test.\nRecovery\, then th
+ e bike starts leading. Venice block opens 31 Jan.\n-7 days to Egmond 10.
+ 5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w10-s1-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:≈ Swim 50 min
+DESCRIPTION:Swim 50 min - 1000 m continuous\n\nWeek 10 of 11 - Bridge\nRe
+ covery\, then the bike starts leading. Venice block opens 31 Jan.\n-7 da
+ ys to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w10-s2-strides@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Easy 8 km + strides (55 min)
+DESCRIPTION:Easy 8 km + strides. Warm up 15 min + strides finishing AT go
+ al pace and no faster.\n\nWeek 10 of 11 - Bridge\nRecovery\, then the bi
+ ke starts leading. Venice block opens 31 Jan.\n-9 days to Egmond 10.5 km
+  / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w10-s3-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:○ BIKE 45 min
+DESCRIPTION:BIKE 45 min - sweet spot\, 3 x 10-12 min at 88-93% FTP (~132-
+ 140 W)\, 5 min easy between. The 90 km bike is over half a 70.3 by time.
+ \n\nWeek 10 of 11 - Bridge\nRecovery\, then the bike starts leading. Ven
+ ice block opens 31 Jan.\n-10 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w10-s4-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:≈ Swim 50 min
+DESCRIPTION:Swim 50 min - 1000 m continuous\n\nWeek 10 of 11 - Bridge\nRe
+ covery\, then the bike starts leading. Venice block opens 31 Jan.\n-10 d
+ ays to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w10-s5-legs@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:◆ Strength (45 min)
+DESCRIPTION:Strength - legs and upper alternating\, 45 min. Trap-bar hing
+ e\, split squats\, rows\, press. LOWER-LEG AND FOOT\, 5 min at the end: 
+ tibialis anterior raises 3 x 15-20\, heel walks 2 x 20 m\, eccentric dor
+ siflexion 3 x 10\, short-foot holds 3 x 30 s per side. An 8-week RCT rai
+ sed lactate threshold velocity 5.9% with intrinsic foot work.\n\nWeek 10
+  of 11 - Bridge\nRecovery\, then the bike starts leading. Venice block o
+ pens 31 Jan.\n-11 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w10-s6-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:○ BIKE 60 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 60 min zone 2\, HR under 145\, steady. Non-impact aerobi
+ c volume - the cheapest fitness available and it spares the shins.\n\nWe
+ ek 10 of 11 - Bridge\nRecovery\, then the bike starts leading. Venice bl
+ ock opens 31 Jan.\n-13 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w10-s7-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:≈ Swim 50 min
+DESCRIPTION:Swim 50 min - 1000 m continuous\n\nWeek 10 of 11 - Bridge\nRe
+ covery\, then the bike starts leading. Venice block opens 31 Jan.\n-12 d
+ ays to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w10-s8-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
+DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
+ ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
+ o in April is 15-17 C.\n\nWeek 10 of 11 - Bridge\nRecovery\, then the bi
+ ke starts leading. Venice block opens 31 Jan.\n-13 days to Egmond 10.5 k
+ m / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w10-s9-easy@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 155. Third run of the week - short
+  and genuinely easy.\n\nWeek 10 of 11 - Bridge\nKeep HR under 158. Walk 
+ the climbs. Talk test.\nRecovery\, then the bike starts leading. Venice 
+ block opens 31 Jan.\n-13 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w10-s10-push@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Upper (45 min)
+DESCRIPTION:Upper - push and pull as one session\, 45 min. Rows\, pull-up
+ s\, press\, rear delts. Free against the running and cycling load\, whic
+ h is why it survives every reshuffle. Dead hangs 3 x max at the end - gr
+ ip is a genuine weakness.\n\nWeek 10 of 11 - Bridge\nRecovery\, then the
+  bike starts leading. Venice block opens 31 Jan.\n-8 days to Egmond 10.5
+  km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w11-s0-long@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:▲ Long easy run 14 km\, HR under 155. Aerobic base…
+DESCRIPTION:Long easy run 14 km\, HR under 155. Aerobic base is the lever
+  - the fastest runners get there on Zone 1 volume.\n\nWeek 11 of 11 - Br
+ idge\nKeep HR under 158. Walk the climbs. Talk test.\nLast week before t
+ he Venice block. Swim to 3 sessions\, bike to three.\n-14 days to Egmond
+  10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w11-s1-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:≈ Swim 50 min
+DESCRIPTION:Swim 50 min - 1200 m continuous\n\nWeek 11 of 11 - Bridge\nLa
+ st week before the Venice block. Swim to 3 sessions\, bike to three.\n-1
+ 4 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w11-s2-strides@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:THRESHOLD 4 x 1.5 km (55 min)
+DESCRIPTION:THRESHOLD 4 x 1.5 km. Warm up 15 min + strides finishing AT g
+ oal pace and no faster.\n\nWeek 11 of 11 - Bridge\nLast week before the 
+ Venice block. Swim to 3 sessions\, bike to three.\n-16 days to Egmond 10
+ .5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w11-s3-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:○ BIKE 50 min
+DESCRIPTION:BIKE 50 min - sweet spot\, 3 x 10-12 min at 88-93% FTP (~132-
+ 140 W)\, 5 min easy between. The 90 km bike is over half a 70.3 by time.
+ \n\nWeek 11 of 11 - Bridge\nLast week before the Venice block. Swim to 3
+  sessions\, bike to three.\n-17 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w11-s4-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:≈ Swim 50 min
+DESCRIPTION:Swim 50 min - 1200 m continuous\n\nWeek 11 of 11 - Bridge\nLa
+ st week before the Venice block. Swim to 3 sessions\, bike to three.\n-1
+ 7 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w11-s5-legs@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:◆ Strength (45 min)
+DESCRIPTION:Strength - legs and upper alternating\, 45 min. Trap-bar hing
+ e\, split squats\, rows\, press. LOWER-LEG AND FOOT\, 5 min at the end: 
+ tibialis anterior raises 3 x 15-20\, heel walks 2 x 20 m\, eccentric dor
+ siflexion 3 x 10\, short-foot holds 3 x 30 s per side. An 8-week RCT rai
+ sed lactate threshold velocity 5.9% with intrinsic foot work.\n\nWeek 11
+  of 11 - Bridge\nLast week before the Venice block. Swim to 3 sessions\,
+  bike to three.\n-18 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w11-s6-cycling@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:○ BIKE 65 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 65 min zone 2\, HR under 145\, steady. Non-impact aerobi
+ c volume - the cheapest fitness available and it spares the shins.\n\nWe
+ ek 11 of 11 - Bridge\nLast week before the Venice block. Swim to 3 sessi
+ ons\, bike to three.\n-20 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w11-s7-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:≈ Swim 50 min
+DESCRIPTION:Swim 50 min - 1200 m continuous\n\nWeek 11 of 11 - Bridge\nLa
+ st week before the Venice block. Swim to 3 sessions\, bike to three.\n-1
+ 9 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w11-s8-swim@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
+DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
+ ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
+ o in April is 15-17 C.\n\nWeek 11 of 11 - Bridge\nLast week before the V
+ enice block. Swim to 3 sessions\, bike to three.\n-20 days to Egmond 10.
+ 5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w11-s9-easy@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Easy run 5-6 km\, HR under 155. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 155. Third run of the week - short
+  and genuinely easy.\n\nWeek 11 of 11 - Bridge\nKeep HR under 158. Walk 
+ the climbs. Talk test.\nLast week before the Venice block. Swim to 3 ses
+ sions\, bike to three.\n-20 days to Egmond 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:egmond105kmvenicebase-w11-s10-push@garmin-training
+DTSTAMP:20260909T165021Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Upper (45 min)
+DESCRIPTION:Upper - push and pull as one session\, 45 min. Rows\, pull-up
+ s\, press\, rear delts. Free against the running and cycling load\, whic
+ h is why it survives every reshuffle. Dead hangs 3 x max at the end - gr
+ ip is a genuine weakness.\n\nWeek 11 of 11 - Bridge\nLast week before th
+ e Venice block. Swim to 3 sessions\, bike to three.\n-15 days to Egmond 
+ 10.5 km / Venice base.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
