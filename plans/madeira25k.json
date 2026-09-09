@@ -499,7 +499,7 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 2:00, 500 m vert - upgraded from 1:30/400 m. This is the bridge in the vertical ladder: 500 m here keeps week 11's 600 m at +20% rather than a jump off 400 m. It is also over four times your best long-day vertical ever (118 m), so the vertical is the session - the kilometres are incidental. Expect legs 36 h off an hour of football, so start conservatively and let the vertical, not the pace, be the target. Floor is 500 m if Friday feels rough. DESCENT RULE THIS WEEK: WALK every descent. This is a 450% jump on your largest ever descent session (111 m) and the climbing is the point, not the descending. You start running descents in week 12.",
+          "label": "LONG DAY 2:00, 500 m vert - upgraded from 1:30/400 m. This is the bridge in the vertical ladder: 500 m here keeps week 11's 600 m at +20% rather than a jump off 400 m. It is also over four times your best long-day vertical ever (118 m), so the vertical is the session - the kilometres are incidental. Expect legs 36 h off an hour of football, so start conservatively and let the vertical, not the pace, be the target. Floor is 500 m if Friday feels rough.",
           "day": 6,
           "minutes": 120,
           "km": 13
@@ -521,7 +521,7 @@
           "kind": "descent",
           "day": 2,
           "minutes": 6,
-          "label": "DESCENT LADDER - 6 min walking DOWN stairs with 5.6 kg, lift back up. About 132 m of descent. THIS IS THE MOST IMPORTANT SESSION IN THE BLOCK and it is not the long day. Your entire running descent in 14 weeks is 392 m, largest single session 111 m. Madeira is 2,003 m in one day - 18 times your biggest ever. You cannot close that gap in the Netherlands; the highest dunes are 54 m. What you CAN get is the repeated bout effect: one 20 min downhill walk causing minor damage protects for over 4 weeks, and five 8 min bouts protected against a downhill run 5 weeks later - about 42% less soreness and 53% less CK. The dose is small, which is the whole reason this race is survivable from your base. Front-loaded now so protection is banked well before 1 Nov rather than arriving in taper week."
+          "label": "DESCENT LADDER - 6 min walking DOWN stairs with 5.6 kg, lift back up. About 132 m of descent. CONTEXT: on 20 Aug 2024 you descended 2,682 m in one day on Rinjani - more than Madeira's 2,003 m - untrained and with poles. Volume is not the question. RATE is: Rinjani came off at about 320 m of descent per hour at hiking pace, and Madeira will ask for roughly double that under a cutoff. Muscle damage scales with the rate of eccentric loading. This ladder buys the repeated bout effect - one 20 min downhill bout protects for over 4 weeks, about 42% less soreness and 53% less CK - and the Rinjani protection expired two years ago. Cheap insurance, not the crux."
         }
       ]
     },
@@ -579,7 +579,7 @@
           "kind": "descent",
           "day": 4,
           "minutes": 10,
-          "label": "DESCENT LADDER - 10 min walking DOWN stairs with 5.6 kg, lift back up. About 220 m of descent. THIS IS THE MOST IMPORTANT SESSION IN THE BLOCK and it is not the long day. Your entire running descent in 14 weeks is 392 m, largest single session 111 m. Madeira is 2,003 m in one day - 18 times your biggest ever. You cannot close that gap in the Netherlands; the highest dunes are 54 m. What you CAN get is the repeated bout effect: one 20 min downhill walk causing minor damage protects for over 4 weeks, and five 8 min bouts protected against a downhill run 5 weeks later - about 42% less soreness and 53% less CK. The dose is small, which is the whole reason this race is survivable from your base. Front-loaded now so protection is banked well before 1 Nov rather than arriving in taper week."
+          "label": "DESCENT LADDER - 10 min walking DOWN stairs with 5.6 kg, lift back up. About 220 m of descent. CONTEXT: on 20 Aug 2024 you descended 2,682 m in one day on Rinjani - more than Madeira's 2,003 m - untrained and with poles. Volume is not the question. RATE is: Rinjani came off at about 320 m of descent per hour at hiking pace, and Madeira will ask for roughly double that under a cutoff. Muscle damage scales with the rate of eccentric loading. This ladder buys the repeated bout effect - one 20 min downhill bout protects for over 4 weeks, about 42% less soreness and 53% less CK - and the Rinjani protection expired two years ago. Cheap insurance, not the crux."
         },
         {
           "kind": "swim",
@@ -633,7 +633,7 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 2:55, 700 m vert, full kit, poles, 60 g/h DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it. POSBANK - MANDATORY. Stairs and the StairMaster give you climbing and zero descent, and vertical stepping does not transfer to running mechanics. This is one of only three sessions in the block where you actually run downhill on terrain. Do not substitute it. WHERE: SCHOORLSE DUINEN, ~1 h 15 by train - the highest dunes in the Netherlands at 54 m. 700 m = about 14 reps. Long train day, so treat travel as part of the session. *** FIRST SESSION WHERE YOU RUN THE DESCENTS. Five weeks before the race, which is exactly the window in which repeated-bout protection still holds on race day. Run down every dune, controlled, short steps at 185-195 spm. Expect sore quads for 2-3 days - that soreness IS the adaptation and it is the cheapest insurance you will buy all block.",
+          "label": "LONG DAY 2:55, 700 m vert, full kit, poles, 60 g/h DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it. POSBANK - MANDATORY. Stairs and the StairMaster give you climbing and zero descent, and vertical stepping does not transfer to running mechanics. This is one of only three sessions in the block where you actually run downhill on terrain. Do not substitute it. WHERE: SCHOORLSE DUINEN, ~1 h 15 by train - the highest dunes in the Netherlands at 54 m. 700 m = about 14 reps. Long train day, so treat travel as part of the session. *** FIRST SESSION WHERE YOU RUN THE DESCENTS RATHER THAN WALK THEM. Five weeks out, which is inside the window where repeated-bout protection still holds on race day. Run down every dune, short steps at 185-195 spm. Rinjani proved you can absorb the metres; this is about absorbing them at speed.",
           "day": 6,
           "minutes": 175,
           "km": 19
@@ -646,7 +646,7 @@
         },
         {
           "kind": "descent",
-          "label": "DESCENT LADDER - 16 min walking DOWN stairs with 5.6 kg, lift back up. About 352 m of descent. THIS IS THE MOST IMPORTANT SESSION IN THE BLOCK and it is not the long day. Your entire running descent in 14 weeks is 392 m, largest single session 111 m. Madeira is 2,003 m in one day - 18 times your biggest ever. You cannot close that gap in the Netherlands; the highest dunes are 54 m. What you CAN get is the repeated bout effect: one 20 min downhill walk causing minor damage protects for over 4 weeks, and five 8 min bouts protected against a downhill run 5 weeks later - about 42% less soreness and 53% less CK. The dose is small, which is the whole reason this race is survivable from your base. Front-loaded now so protection is banked well before 1 Nov rather than arriving in taper week.",
+          "label": "DESCENT LADDER - 16 min walking DOWN stairs with 5.6 kg, lift back up. About 352 m of descent. CONTEXT: on 20 Aug 2024 you descended 2,682 m in one day on Rinjani - more than Madeira's 2,003 m - untrained and with poles. Volume is not the question. RATE is: Rinjani came off at about 320 m of descent per hour at hiking pace, and Madeira will ask for roughly double that under a cutoff. Muscle damage scales with the rate of eccentric loading. This ladder buys the repeated bout effect - one 20 min downhill bout protects for over 4 weeks, about 42% less soreness and 53% less CK - and the Rinjani protection expired two years ago. Cheap insurance, not the crux.",
           "day": 2,
           "minutes": 16
         },
@@ -725,7 +725,7 @@
           "kind": "descent",
           "day": 2,
           "minutes": 12,
-          "label": "DESCENT LADDER - 12 min walking DOWN stairs with 5.6 kg, lift back up. About 264 m of descent. THIS IS THE MOST IMPORTANT SESSION IN THE BLOCK and it is not the long day. Your entire running descent in 14 weeks is 392 m, largest single session 111 m. Madeira is 2,003 m in one day - 18 times your biggest ever. You cannot close that gap in the Netherlands; the highest dunes are 54 m. What you CAN get is the repeated bout effect: one 20 min downhill walk causing minor damage protects for over 4 weeks, and five 8 min bouts protected against a downhill run 5 weeks later - about 42% less soreness and 53% less CK. The dose is small, which is the whole reason this race is survivable from your base. Front-loaded now so protection is banked well before 1 Nov rather than arriving in taper week."
+          "label": "DESCENT LADDER - 12 min walking DOWN stairs with 5.6 kg, lift back up. About 264 m of descent. CONTEXT: on 20 Aug 2024 you descended 2,682 m in one day on Rinjani - more than Madeira's 2,003 m - untrained and with poles. Volume is not the question. RATE is: Rinjani came off at about 320 m of descent per hour at hiking pace, and Madeira will ask for roughly double that under a cutoff. Muscle damage scales with the rate of eccentric loading. This ladder buys the repeated bout effect - one 20 min downhill bout protects for over 4 weeks, about 42% less soreness and 53% less CK - and the Rinjani protection expired two years ago. Cheap insurance, not the crux."
         },
         {
           "kind": "swim",
@@ -795,7 +795,7 @@
           "kind": "descent",
           "day": 2,
           "minutes": 20,
-          "label": "DESCENT LADDER - 20 min walking DOWN stairs with 5.6 kg, lift back up. About 440 m of descent. THIS IS THE MOST IMPORTANT SESSION IN THE BLOCK and it is not the long day. Your entire running descent in 14 weeks is 392 m, largest single session 111 m. Madeira is 2,003 m in one day - 18 times your biggest ever. You cannot close that gap in the Netherlands; the highest dunes are 54 m. What you CAN get is the repeated bout effect: one 20 min downhill walk causing minor damage protects for over 4 weeks, and five 8 min bouts protected against a downhill run 5 weeks later - about 42% less soreness and 53% less CK. The dose is small, which is the whole reason this race is survivable from your base. Front-loaded now so protection is banked well before 1 Nov rather than arriving in taper week."
+          "label": "DESCENT LADDER - 20 min walking DOWN stairs with 5.6 kg, lift back up. About 440 m of descent. CONTEXT: on 20 Aug 2024 you descended 2,682 m in one day on Rinjani - more than Madeira's 2,003 m - untrained and with poles. Volume is not the question. RATE is: Rinjani came off at about 320 m of descent per hour at hiking pace, and Madeira will ask for roughly double that under a cutoff. Muscle damage scales with the rate of eccentric loading. This ladder buys the repeated bout effect - one 20 min downhill bout protects for over 4 weeks, about 42% less soreness and 53% less CK - and the Rinjani protection expired two years ago. Cheap insurance, not the crux."
         },
         {
           "kind": "swim",
@@ -856,7 +856,7 @@
         },
         {
           "kind": "descent",
-          "label": "DESCENT LADDER - 20 min walking DOWN stairs with 5.6 kg, lift back up. About 440 m of descent. THIS IS THE MOST IMPORTANT SESSION IN THE BLOCK and it is not the long day. Your entire running descent in 14 weeks is 392 m, largest single session 111 m. Madeira is 2,003 m in one day - 18 times your biggest ever. You cannot close that gap in the Netherlands; the highest dunes are 54 m. What you CAN get is the repeated bout effect: one 20 min downhill walk causing minor damage protects for over 4 weeks, and five 8 min bouts protected against a downhill run 5 weeks later - about 42% less soreness and 53% less CK. The dose is small, which is the whole reason this race is survivable from your base. Front-loaded now so protection is banked well before 1 Nov rather than arriving in taper week.",
+          "label": "DESCENT LADDER - 20 min walking DOWN stairs with 5.6 kg, lift back up. About 440 m of descent. CONTEXT: on 20 Aug 2024 you descended 2,682 m in one day on Rinjani - more than Madeira's 2,003 m - untrained and with poles. Volume is not the question. RATE is: Rinjani came off at about 320 m of descent per hour at hiking pace, and Madeira will ask for roughly double that under a cutoff. Muscle damage scales with the rate of eccentric loading. This ladder buys the repeated bout effect - one 20 min downhill bout protects for over 4 weeks, about 42% less soreness and 53% less CK - and the Rinjani protection expired two years ago. Cheap insurance, not the crux.",
           "day": 2,
           "minutes": 20
         },
@@ -925,7 +925,7 @@
           "kind": "descent",
           "day": 2,
           "minutes": 8,
-          "label": "DESCENT LADDER - 8 min walking DOWN stairs with 5.6 kg, lift back up. About 176 m of descent. THIS IS THE MOST IMPORTANT SESSION IN THE BLOCK and it is not the long day. Your entire running descent in 14 weeks is 392 m, largest single session 111 m. Madeira is 2,003 m in one day - 18 times your biggest ever. You cannot close that gap in the Netherlands; the highest dunes are 54 m. What you CAN get is the repeated bout effect: one 20 min downhill walk causing minor damage protects for over 4 weeks, and five 8 min bouts protected against a downhill run 5 weeks later - about 42% less soreness and 53% less CK. The dose is small, which is the whole reason this race is survivable from your base. Front-loaded now so protection is banked well before 1 Nov rather than arriving in taper week."
+          "label": "DESCENT LADDER - 8 min walking DOWN stairs with 5.6 kg, lift back up. About 176 m of descent. CONTEXT: on 20 Aug 2024 you descended 2,682 m in one day on Rinjani - more than Madeira's 2,003 m - untrained and with poles. Volume is not the question. RATE is: Rinjani came off at about 320 m of descent per hour at hiking pace, and Madeira will ask for roughly double that under a cutoff. Muscle damage scales with the rate of eccentric loading. This ladder buys the repeated bout effect - one 20 min downhill bout protects for over 4 weeks, about 42% less soreness and 53% less CK - and the Rinjani protection expired two years ago. Cheap insurance, not the crux."
         },
         {
           "kind": "swim",
