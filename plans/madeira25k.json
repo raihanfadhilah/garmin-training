@@ -499,7 +499,7 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 2:00, 500 m vert - upgraded from 1:30/400 m. This is the bridge in the vertical ladder: 500 m here keeps week 11's 600 m at +20% rather than a jump off 400 m. It is also over four times your best long-day vertical ever (118 m), so the vertical is the session - the kilometres are incidental. Expect legs 36 h off an hour of football, so start conservatively and let the vertical, not the pace, be the target. Floor is 500 m if Friday feels rough.",
+          "label": "LONG DAY 2:00, 500 m vert - upgraded from 1:30/400 m. This is the bridge in the vertical ladder: 500 m here keeps week 11's 600 m at +20% rather than a jump off 400 m. It is also over four times your best long-day vertical ever (118 m), so the vertical is the session - the kilometres are incidental. Expect legs 36 h off an hour of football, so start conservatively and let the vertical, not the pace, be the target. Floor is 500 m if Friday feels rough. DESCENT RULE THIS WEEK: WALK every descent. This is a 450% jump on your largest ever descent session (111 m) and the climbing is the point, not the descending. You start running descents in week 12.",
           "day": 6,
           "minutes": 120,
           "km": 13
@@ -520,8 +520,8 @@
         {
           "kind": "descent",
           "day": 2,
-          "minutes": 5,
-          "label": "DESCENT LADDER - 5 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 110 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for."
+          "minutes": 6,
+          "label": "DESCENT LADDER - 6 min walking DOWN stairs with 5.6 kg, lift back up. About 132 m of descent. THIS IS THE MOST IMPORTANT SESSION IN THE BLOCK and it is not the long day. Your entire running descent in 14 weeks is 392 m, largest single session 111 m. Madeira is 2,003 m in one day - 18 times your biggest ever. You cannot close that gap in the Netherlands; the highest dunes are 54 m. What you CAN get is the repeated bout effect: one 20 min downhill walk causing minor damage protects for over 4 weeks, and five 8 min bouts protected against a downhill run 5 weeks later - about 42% less soreness and 53% less CK. The dose is small, which is the whole reason this race is survivable from your base. Front-loaded now so protection is banked well before 1 Nov rather than arriving in taper week."
         }
       ]
     },
@@ -578,8 +578,8 @@
         {
           "kind": "descent",
           "day": 4,
-          "minutes": 8,
-          "label": "DESCENT LADDER - 8 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 176 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for."
+          "minutes": 10,
+          "label": "DESCENT LADDER - 10 min walking DOWN stairs with 5.6 kg, lift back up. About 220 m of descent. THIS IS THE MOST IMPORTANT SESSION IN THE BLOCK and it is not the long day. Your entire running descent in 14 weeks is 392 m, largest single session 111 m. Madeira is 2,003 m in one day - 18 times your biggest ever. You cannot close that gap in the Netherlands; the highest dunes are 54 m. What you CAN get is the repeated bout effect: one 20 min downhill walk causing minor damage protects for over 4 weeks, and five 8 min bouts protected against a downhill run 5 weeks later - about 42% less soreness and 53% less CK. The dose is small, which is the whole reason this race is survivable from your base. Front-loaded now so protection is banked well before 1 Nov rather than arriving in taper week."
         },
         {
           "kind": "swim",
@@ -633,7 +633,7 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 2:55, 700 m vert, full kit, poles, 60 g/h DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it. POSBANK - MANDATORY. Stairs and the StairMaster give you climbing and zero descent, and vertical stepping does not transfer to running mechanics. This is one of only three sessions in the block where you actually run downhill on terrain. Do not substitute it. WHERE: SCHOORLSE DUINEN, ~1 h 15 by train - the highest dunes in the Netherlands at 54 m. 700 m = about 14 reps. Long train day, so treat travel as part of the session.",
+          "label": "LONG DAY 2:55, 700 m vert, full kit, poles, 60 g/h DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it. POSBANK - MANDATORY. Stairs and the StairMaster give you climbing and zero descent, and vertical stepping does not transfer to running mechanics. This is one of only three sessions in the block where you actually run downhill on terrain. Do not substitute it. WHERE: SCHOORLSE DUINEN, ~1 h 15 by train - the highest dunes in the Netherlands at 54 m. 700 m = about 14 reps. Long train day, so treat travel as part of the session. *** FIRST SESSION WHERE YOU RUN THE DESCENTS. Five weeks before the race, which is exactly the window in which repeated-bout protection still holds on race day. Run down every dune, controlled, short steps at 185-195 spm. Expect sore quads for 2-3 days - that soreness IS the adaptation and it is the cheapest insurance you will buy all block.",
           "day": 6,
           "minutes": 175,
           "km": 19
@@ -646,9 +646,9 @@
         },
         {
           "kind": "descent",
-          "label": "DESCENT LADDER - 12 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 264 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for.",
+          "label": "DESCENT LADDER - 16 min walking DOWN stairs with 5.6 kg, lift back up. About 352 m of descent. THIS IS THE MOST IMPORTANT SESSION IN THE BLOCK and it is not the long day. Your entire running descent in 14 weeks is 392 m, largest single session 111 m. Madeira is 2,003 m in one day - 18 times your biggest ever. You cannot close that gap in the Netherlands; the highest dunes are 54 m. What you CAN get is the repeated bout effect: one 20 min downhill walk causing minor damage protects for over 4 weeks, and five 8 min bouts protected against a downhill run 5 weeks later - about 42% less soreness and 53% less CK. The dose is small, which is the whole reason this race is survivable from your base. Front-loaded now so protection is banked well before 1 Nov rather than arriving in taper week.",
           "day": 2,
-          "minutes": 12
+          "minutes": 16
         },
         {
           "kind": "easy",
@@ -724,8 +724,8 @@
         {
           "kind": "descent",
           "day": 2,
-          "minutes": 10,
-          "label": "DESCENT LADDER - 10 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 220 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for."
+          "minutes": 12,
+          "label": "DESCENT LADDER - 12 min walking DOWN stairs with 5.6 kg, lift back up. About 264 m of descent. THIS IS THE MOST IMPORTANT SESSION IN THE BLOCK and it is not the long day. Your entire running descent in 14 weeks is 392 m, largest single session 111 m. Madeira is 2,003 m in one day - 18 times your biggest ever. You cannot close that gap in the Netherlands; the highest dunes are 54 m. What you CAN get is the repeated bout effect: one 20 min downhill walk causing minor damage protects for over 4 weeks, and five 8 min bouts protected against a downhill run 5 weeks later - about 42% less soreness and 53% less CK. The dose is small, which is the whole reason this race is survivable from your base. Front-loaded now so protection is banked well before 1 Nov rather than arriving in taper week."
         },
         {
           "kind": "swim",
@@ -794,8 +794,8 @@
         {
           "kind": "descent",
           "day": 2,
-          "minutes": 16,
-          "label": "DESCENT LADDER - 16 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 352 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for."
+          "minutes": 20,
+          "label": "DESCENT LADDER - 20 min walking DOWN stairs with 5.6 kg, lift back up. About 440 m of descent. THIS IS THE MOST IMPORTANT SESSION IN THE BLOCK and it is not the long day. Your entire running descent in 14 weeks is 392 m, largest single session 111 m. Madeira is 2,003 m in one day - 18 times your biggest ever. You cannot close that gap in the Netherlands; the highest dunes are 54 m. What you CAN get is the repeated bout effect: one 20 min downhill walk causing minor damage protects for over 4 weeks, and five 8 min bouts protected against a downhill run 5 weeks later - about 42% less soreness and 53% less CK. The dose is small, which is the whole reason this race is survivable from your base. Front-loaded now so protection is banked well before 1 Nov rather than arriving in taper week."
         },
         {
           "kind": "swim",
@@ -856,7 +856,7 @@
         },
         {
           "kind": "descent",
-          "label": "DESCENT LADDER - 20 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 440 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for. FINAL HARD DESCENT BOUT - this is the last one that matters. Two weeks out is the timing the evidence gives: long enough to recover, close enough that the repeated-bout protection is still live on race day.",
+          "label": "DESCENT LADDER - 20 min walking DOWN stairs with 5.6 kg, lift back up. About 440 m of descent. THIS IS THE MOST IMPORTANT SESSION IN THE BLOCK and it is not the long day. Your entire running descent in 14 weeks is 392 m, largest single session 111 m. Madeira is 2,003 m in one day - 18 times your biggest ever. You cannot close that gap in the Netherlands; the highest dunes are 54 m. What you CAN get is the repeated bout effect: one 20 min downhill walk causing minor damage protects for over 4 weeks, and five 8 min bouts protected against a downhill run 5 weeks later - about 42% less soreness and 53% less CK. The dose is small, which is the whole reason this race is survivable from your base. Front-loaded now so protection is banked well before 1 Nov rather than arriving in taper week.",
           "day": 2,
           "minutes": 20
         },
@@ -924,8 +924,8 @@
         {
           "kind": "descent",
           "day": 2,
-          "minutes": 6,
-          "label": "DESCENT LADDER - 6 min walking DOWN stairs with 5.6 kg in the pack, lift back up. About 132 m of descent. THIS IS THE SESSION THE PLAN USED TO BE MISSING: Madeira is 2,003 m DOWN as well as up, and downhill running causes far more muscle damage and neuromuscular fatigue than level running at the same metabolic cost. One bout protects for weeks (repeated-bout effect), which is why this is dosed weekly and progressively rather than repeated at 5 min. Stairs build tissue tolerance; they do NOT reproduce running descent mechanics, which is what the Posbank long days are for. PRIMER ONLY, not a session - keep it short and unloaded-feeling. The protective work is already done."
+          "minutes": 8,
+          "label": "DESCENT LADDER - 8 min walking DOWN stairs with 5.6 kg, lift back up. About 176 m of descent. THIS IS THE MOST IMPORTANT SESSION IN THE BLOCK and it is not the long day. Your entire running descent in 14 weeks is 392 m, largest single session 111 m. Madeira is 2,003 m in one day - 18 times your biggest ever. You cannot close that gap in the Netherlands; the highest dunes are 54 m. What you CAN get is the repeated bout effect: one 20 min downhill walk causing minor damage protects for over 4 weeks, and five 8 min bouts protected against a downhill run 5 weeks later - about 42% less soreness and 53% less CK. The dose is small, which is the whole reason this race is survivable from your base. Front-loaded now so protection is banked well before 1 Nov rather than arriving in taper week."
         },
         {
           "kind": "swim",
