@@ -563,7 +563,7 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 2:30, 600 m vert - trimmed from 2:35/900 m. Your best long-day vertical ever is 118 m, so week 10's 500 m was already a four-fold jump; 600 m here keeps the ladder at 500 -> 600 -> 700 rather than a 50% step onto ground you have never covered - Posbank if possible, descents on hard surface DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it.",
+          "label": "LONG DAY 2:30, 600 m vert - trimmed from 2:35/900 m. Your best long-day vertical ever is 118 m, so week 10's 500 m was already a four-fold jump; 600 m here keeps the ladder at 500 -> 600 -> 700 rather than a 50% step onto ground you have never covered - Posbank if possible, descents on hard surface DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it. WHERE: ZANDVOORT / BLOEMENDAAL DUNES, ~30 min by train. 600 m = about 17 dune reps at 35 m. Sand descent is SOFT - great for volume, poor rehearsal for volcanic rock. Accept that here; the hard-surface work comes at Posbank in week 14.",
           "day": 6,
           "minutes": 150,
           "km": 16
@@ -633,14 +633,14 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 2:55, 700 m vert, full kit, poles, 60 g/h DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it. POSBANK - MANDATORY. Stairs and the StairMaster give you climbing and zero descent, and vertical stepping does not transfer to running mechanics. This is one of only three sessions in the block where you actually run downhill on terrain. Do not substitute it.",
+          "label": "LONG DAY 2:55, 700 m vert, full kit, poles, 60 g/h DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it. POSBANK - MANDATORY. Stairs and the StairMaster give you climbing and zero descent, and vertical stepping does not transfer to running mechanics. This is one of only three sessions in the block where you actually run downhill on terrain. Do not substitute it. WHERE: SCHOORLSE DUINEN, ~1 h 15 by train - the highest dunes in the Netherlands at 54 m. 700 m = about 14 reps. Long train day, so treat travel as part of the session.",
           "day": 6,
           "minutes": 175,
           "km": 19
         },
         {
           "kind": "descent",
-          "label": "ZIG-ZAG AND WET-ROCK PRACTICE 45 min. Traversing at 60 deg to the fall line halves the gradient, 28% -> 14%. Wet volcanic rock and wet wooden steps sit at friction 0.3-0.5 - barely enough to stand on a 28% slope, let alone brake. In the wet, zig-zagging and side-stepping are technique, not cowardice.",
+          "label": "ZIG-ZAG AND SLIPPERY-SURFACE PRACTICE 45 min - dunes or any steep bank. Traversing at 60 deg to the fall line halves the gradient, 28% -> 14%. There is no wet volcanic rock in the Netherlands, so rehearse the SKILL not the surface: wet wooden steps, wet cobbles and a steep sand face all teach the same braking and foot placement. Friction on wet rock is 0.3-0.5 - barely enough to stand on a 28% slope, let alone brake.",
           "day": 0,
           "minutes": 45
         },
@@ -709,7 +709,7 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 2:00, 500 m vert",
+          "label": "LONG DAY 2:00, 500 m vert. WHERE: LOCAL - Amsterdamse Bos plus your stairwell. 500 m = about 11 ascents of 15 floors. Down week: the point is time on feet, not the venue.",
           "day": 6,
           "minutes": 120,
           "km": 13
@@ -779,7 +779,7 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 3:20, 850 m vert - Posbank, hard-surface descents, full kit, poles, race fuelling. Switch from DIY mix to race gels this week: everything you carry now must be labelled. POSBANK - MANDATORY. Stairs and the StairMaster give you climbing and zero descent, and vertical stepping does not transfer to running mechanics. This is one of only three sessions in the block where you actually run downhill on terrain. Do not substitute it.",
+          "label": "LONG DAY 3:20, 850 m vert - Posbank, hard-surface descents, full kit, poles, race fuelling. Switch from DIY mix to race gels this week: everything you carry now must be labelled. POSBANK - MANDATORY. Stairs and the StairMaster give you climbing and zero descent, and vertical stepping does not transfer to running mechanics. This is one of only three sessions in the block where you actually run downhill on terrain. Do not substitute it. WHERE: *** TRIP 1: POSBANK / VELUWEZOOM, ~1 h 30 by train. THE MOST IMPORTANT SESSION OF THE BLOCK. 850 m = about 12 reps of the 70 m climbs. Posbank is the only thing within reach that gives HARD-PACKED and gravel descents - sand and stairs cannot rehearse running downhill on rock for two hours. Descend every rep at race effort.",
           "day": 6,
           "minutes": 200,
           "km": 21
@@ -849,7 +849,7 @@
         },
         {
           "kind": "long",
-          "label": "PEAK LONG DAY 3:45-4:00, 1000 m vert. Race kit, poles, race fuelling, race shoes. Alternate 20-25 min climbing with 15-20 min flat to rehearse the sawtooth. DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it. POSBANK - MANDATORY. Stairs and the StairMaster give you climbing and zero descent, and vertical stepping does not transfer to running mechanics. This is one of only three sessions in the block where you actually run downhill on terrain. Do not substitute it.",
+          "label": "PEAK LONG DAY 3:45-4:00, 1000 m vert. Race kit, poles, race fuelling, race shoes. Alternate 20-25 min climbing with 15-20 min flat to rehearse the sawtooth. DESCENT CUE: shorten the step, 185-195 spm. Understriding cut strength loss to -8.8% vs -15.5% at preferred step length - roughly halved. Do NOT coach foot strike: the more anterior the strike, the LARGER the quad torque loss. Let the terrain dictate it. POSBANK - MANDATORY. Stairs and the StairMaster give you climbing and zero descent, and vertical stepping does not transfer to running mechanics. This is one of only three sessions in the block where you actually run downhill on terrain. Do not substitute it. WHERE: *** TRIP 2: POSBANK again, or SOUTH LIMBURG if you can face the 2 h 30. 1,000 m = 12-14 reps. This is the last honest rehearsal before Madeira - full kit, poles, race shoes, race fuelling. If only one trip happens this season, make it this one.",
           "day": 6,
           "minutes": 225,
           "km": 24
@@ -909,7 +909,7 @@
         },
         {
           "kind": "long",
-          "label": "LAST LONG SESSION 2:00, 500 m vert, race kit and shoes, ~20 min of downhill",
+          "label": "LAST LONG SESSION 2:00, 500 m vert, race kit and shoes, ~20 min of downhill. WHERE: ZANDVOORT / BLOEMENDAAL DUNES. 500 m = about 14 reps. Taper - short, sharp, race shoes, and about 20 min of cumulative descent. Nothing new.",
           "day": 6,
           "minutes": 120,
           "km": 12.5
