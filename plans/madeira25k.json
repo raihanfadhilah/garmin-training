@@ -1,7 +1,10 @@
 {
   "race": {
-    "name": "Ultra X Madeira 25K",
-    "date": "2026-11-01"
+    "name": "Ultra X Madeira 25K (30.5 km actual)",
+    "date": "2026-11-01",
+    "distance_km": 30.5,
+    "ascent_m": 2003,
+    "descent_m": 2003
   },
   "settings": {
     "easy_hr_cap": 158,
@@ -958,9 +961,9 @@
         },
         {
           "kind": "race",
-          "label": "RACE - Ultra X Madeira 25K - Sao Jorge to Machico - 2,003 m D+/D- - START 11:00 - cut-off 11.5 h - target 6:15-6:45 - HEADTORCH MANDATORY",
+          "label": "RACE - Ultra X Madeira - Sao Jorge to Machico. THE COURSE IS 30.5 km, NOT 25. The 25K is branding: the profile's own summary bar reads 30.5 km, the 50K's reads 46.2 (shorter than its title, so the summary cannot be a 3D distance), and vertical density confirms it - 65.7 m/km at 30.5 km against 68.7 and 69.9 for the 50K and 60K, versus an outlying 80.1 if it were really 25 km. The 110K also closes exactly at 60 + 46.2. 2,003 m D+ and D-, peak elevation only 452 m. SHAPE: climb 77->452 m over 7 km at 5.4%; then the quad-killer, 452->67 m in 2.8 km at 13.8%, at just 24% distance so your legs are fresh - do not race it; rolling middle km 10-16; second climb 62->362 m over 3.8 km at 7.8%; two short vicious spikes at km 21 (21% up, 34% down, 350 m each); then the long runnable finish, 389->52 m over 7.6 km at 4.5% - that is where a flat runner banks time and it is what your threshold work is for. START 11:00.",
           "day": 7,
-          "km": 25
+          "km": 30.5
         },
         {
           "kind": "easy",

@@ -3,52 +3,53 @@ VERSION:2.0
 PRODID:-//garmin training//Madeira 25K plan//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Ultra X Madeira 25K training
+X-WR-CALNAME:Ultra X Madeira 25K (30.5 km actual) training
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w1-s0-cycling@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w1-s0-cycling@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
 SUMMARY:○ Easy ride 60-90 min
 DESCRIPTION:Easy ride 60-90 min — the day after the long run. Zero impact
  \, HR ~130. Aerobic volume without tissue cost.\n\nWeek 1 of 17 - Base\n
- 119 days to Ultra X Madeira 25K.
+ 119 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w1-s1-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w1-s1-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
 SUMMARY:Easy run 4 km (talk test)
 DESCRIPTION:Easy run 4 km (talk test)\n\nWeek 1 of 17 - Base\nKeep HR und
- er 158. Walk the climbs. Talk test.\n117 days to Ultra X Madeira 25K.
+ er 158. Walk the climbs. Talk test.\n117 days to Ultra X Madeira 25K (30
+ .5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w1-s2-push@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w1-s2-push@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
 SUMMARY:Push (upper)
 DESCRIPTION:Push (upper) — after the run\, no leg cost\n\nWeek 1 of 17 - 
- Base\n117 days to Ultra X Madeira 25K.
+ Base\n117 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w1-s3-legs@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w1-s3-legs@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:◆ Legs
 DESCRIPTION:Legs — OWN DAY\, no running. Single-leg + posterior chain\, g
  lute-med (IT band)\, tib raises (flat feet).\n\nWeek 1 of 17 - Base\n116
-  days to Ultra X Madeira 25K.
+  days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w1-s4-vertical@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w1-s4-vertical@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:▲ Vertical 20 min
@@ -60,84 +61,87 @@ DESCRIPTION:Vertical 20 min (stairs/ramp/incline) — climbing\, concentric
   measured waiting for family on a group trek so it is a floor\, not a ce
  iling - and stairs give far faster vertical than trail\, which is why th
  is session is the lever.\n\nWeek 1 of 17 - Base\n115 days to Ultra X Mad
- eira 25K.
+ eira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w1-s5-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w1-s5-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Easy run 5 km (talk test)
 DESCRIPTION:Easy run 5 km (talk test)\n\nWeek 1 of 17 - Base\nKeep HR und
- er 158. Walk the climbs. Talk test.\n114 days to Ultra X Madeira 25K.
+ er 158. Walk the climbs. Talk test.\n114 days to Ultra X Madeira 25K (30
+ .5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w1-s6-pull@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w1-s6-pull@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Pull (upper)
 DESCRIPTION:Pull (upper) — after the run\n\nWeek 1 of 17 - Base\n114 days
-  to Ultra X Madeira 25K.
+  to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w1-s7-long@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w1-s7-long@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
 SUMMARY:▲ Long run 7 km (talk test)
 DESCRIPTION:Long run 7 km (talk test)\n\nWeek 1 of 17 - Base\nKeep HR und
- er 158. Walk the climbs. Talk test.\n113 days to Ultra X Madeira 25K.
+ er 158. Walk the climbs. Talk test.\n113 days to Ultra X Madeira 25K (30
+ .5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w2-s0-cycling@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w2-s0-cycling@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
 SUMMARY:○ Easy ride 60-90 min
 DESCRIPTION:Easy ride 60-90 min — the day after the long run. Zero impact
  \, HR ~130. Aerobic volume without tissue cost.\n\nWeek 2 of 17 - Base\n
- 112 days to Ultra X Madeira 25K.
+ 112 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w2-s1-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w2-s1-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 SUMMARY:Easy run 4 km (talk test)
 DESCRIPTION:Easy run 4 km (talk test)\n\nWeek 2 of 17 - Base\nKeep HR und
- er 158. Walk the climbs. Talk test.\n110 days to Ultra X Madeira 25K.
+ er 158. Walk the climbs. Talk test.\n110 days to Ultra X Madeira 25K (30
+ .5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w2-s2-push@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w2-s2-push@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 SUMMARY:Push (upper)
 DESCRIPTION:Push (upper) — after the run\, no leg cost\n\nWeek 2 of 17 - 
- Base\n110 days to Ultra X Madeira 25K.
+ Base\n110 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w2-s3-legs@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w2-s3-legs@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
 SUMMARY:◆ Legs
 DESCRIPTION:Legs — OWN DAY\, no running. Single-leg + posterior chain\, g
  lute-med (IT band)\, tib raises (flat feet).\n\nWeek 2 of 17 - Base\n109
-  days to Ultra X Madeira 25K.
+  days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w2-s4-vertical@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w2-s4-vertical@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
 SUMMARY:▲ Vertical 25 min
@@ -149,42 +153,44 @@ DESCRIPTION:Vertical 25 min (stairs/ramp/incline) — climbing\, concentric
   measured waiting for family on a group trek so it is a floor\, not a ce
  iling - and stairs give far faster vertical than trail\, which is why th
  is session is the lever.\n\nWeek 2 of 17 - Base\n108 days to Ultra X Mad
- eira 25K.
+ eira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w2-s5-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w2-s5-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:Easy run 5 km (talk test)
 DESCRIPTION:Easy run 5 km (talk test)\n\nWeek 2 of 17 - Base\nKeep HR und
- er 158. Walk the climbs. Talk test.\n107 days to Ultra X Madeira 25K.
+ er 158. Walk the climbs. Talk test.\n107 days to Ultra X Madeira 25K (30
+ .5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w2-s6-pull@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w2-s6-pull@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:Pull (upper)
 DESCRIPTION:Pull (upper) — after the run\n\nWeek 2 of 17 - Base\n107 days
-  to Ultra X Madeira 25K.
+  to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w2-s7-long@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w2-s7-long@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
 SUMMARY:▲ Long run 8 km (talk test)
 DESCRIPTION:Long run 8 km (talk test)\n\nWeek 2 of 17 - Base\nKeep HR und
- er 158. Walk the climbs. Talk test.\n106 days to Ultra X Madeira 25K.
+ er 158. Walk the climbs. Talk test.\n106 days to Ultra X Madeira 25K (30
+ .5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w3-s0-push@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w3-s0-push@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
 SUMMARY:UPPER A (push-emphasis)
@@ -194,12 +200,12 @@ DESCRIPTION:UPPER A (push-emphasis) — bench/press + a row. No leg cost\,
  requency at zero cost to running\; one lower session (Thu)\, which is al
  l the race can afford. Only two sessions actually matter: the talk test 
  on a cool morning\, and Saturday's descents.\n103 days to Ultra X Madeir
- a 25K.
+ a 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w3-s1-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w3-s1-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
 SUMMARY:TALK TEST 5 km
@@ -210,12 +216,13 @@ DESCRIPTION:TALK TEST 5 km — MORNING\, cool\, fresh. Step the pace up eve
  wo upper sessions (Tue\, Fri) so chest and back get 2x frequency at zero
   cost to running\; one lower session (Thu)\, which is all the race can a
  fford. Only two sessions actually matter: the talk test on a cool mornin
- g\, and Saturday's descents.\n102 days to Ultra X Madeira 25K.
+ g\, and Saturday's descents.\n102 days to Ultra X Madeira 25K (30.5 km a
+ ctual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w3-s2-legs@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w3-s2-legs@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 SUMMARY:◆ LOWER
@@ -226,12 +233,12 @@ DESCRIPTION:LOWER — own day\, no running. Strength focus (squat/split squ
  2x frequency at zero cost to running\; one lower session (Thu)\, which i
  s all the race can afford. Only two sessions actually matter: the talk t
  est on a cool morning\, and Saturday's descents.\n101 days to Ultra X Ma
- deira 25K.
+ deira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w3-s3-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w3-s3-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 SUMMARY:Easy run 4 km (talk test)
@@ -241,12 +248,12 @@ DESCRIPTION:Easy run 4 km (talk test) — or the TALK TEST if Wednesday sli
   chest and back get 2x frequency at zero cost to running\; one lower ses
  sion (Thu)\, which is all the race can afford. Only two sessions actuall
  y matter: the talk test on a cool morning\, and Saturday's descents.\n10
- 0 days to Ultra X Madeira 25K.
+ 0 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w3-s4-pull@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w3-s4-pull@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 SUMMARY:UPPER B (pull-emphasis)
@@ -256,12 +263,12 @@ DESCRIPTION:UPPER B (pull-emphasis) — pull-ups/rows + a press. Second upp
  est and back get 2x frequency at zero cost to running\; one lower sessio
  n (Thu)\, which is all the race can afford. Only two sessions actually m
  atter: the talk test on a cool morning\, and Saturday's descents.\n100 d
- ays to Ultra X Madeira 25K.
+ ays to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w3-s5-vertical@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w3-s5-vertical@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:▲ Vertical 25 min
@@ -276,12 +283,13 @@ DESCRIPTION:Vertical 25 min (stairs/ramp/incline) — climbing THIS TRAINS
  o upper sessions (Tue\, Fri) so chest and back get 2x frequency at zero 
  cost to running\; one lower session (Thu)\, which is all the race can af
  ford. Only two sessions actually matter: the talk test on a cool morning
- \, and Saturday's descents.\n99 days to Ultra X Madeira 25K.
+ \, and Saturday's descents.\n99 days to Ultra X Madeira 25K (30.5 km act
+ ual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w3-s6-eccentric@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w3-s6-eccentric@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:Controlled stair/ramp descents after the…
@@ -291,12 +299,12 @@ DESCRIPTION:Controlled stair/ramp descents after the vertical — THE eccen
  k get 2x frequency at zero cost to running\; one lower session (Thu)\, w
  hich is all the race can afford. Only two sessions actually matter: the 
  talk test on a cool morning\, and Saturday's descents.\n99 days to Ultra
-  X Madeira 25K.
+  X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w4-s0-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w4-s0-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
 SUMMARY:Easy 3 km
@@ -307,12 +315,13 @@ DESCRIPTION:Easy 3 km — Barcelona\, early AM by feel. Heat inflates HR\;
  , Sat\, Sun). Down week — the travel timing is ideal\; nothing here buil
  ds fitness. Benchmark deferred to a cool\, recovered morning (Week 6). T
  he long run folds into Sat festival morning. Festival walking covers the
-  volume\; do not add load.\n95 days to Ultra X Madeira 25K.
+  volume\; do not add load.\n95 days to Ultra X Madeira 25K (30.5 km actu
+ al).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w4-s1-vertical@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w4-s1-vertical@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 SUMMARY:▲ Optional vertical — hike Montjuic or Bunkers…
@@ -329,12 +338,13 @@ DESCRIPTION:Optional vertical — hike Montjuic or Bunkers del Carmel in Ba
  ri evening\, Sat\, Sun). Down week — the travel timing is ideal\; nothin
  g here builds fitness. Benchmark deferred to a cool\, recovered morning 
  (Week 6). The long run folds into Sat festival morning. Festival walking
-  covers the volume\; do not add load.\n94 days to Ultra X Madeira 25K.
+  covers the volume\; do not add load.\n94 days to Ultra X Madeira 25K (3
+ 0.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w4-s2-long@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w4-s2-long@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:▲ Long run 6-7 km
@@ -346,12 +356,12 @@ DESCRIPTION:Long run 6-7 km — Sat morning from Lelylaan into Amsterdamse
  travel timing is ideal\; nothing here builds fitness. Benchmark deferred
   to a cool\, recovered morning (Week 6). The long run folds into Sat fes
  tival morning. Festival walking covers the volume\; do not add load.\n92
-  days to Ultra X Madeira 25K.
+  days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w5-s0-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w5-s0-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:Easy 4-5 km recovery jog
@@ -362,12 +372,12 @@ DESCRIPTION:Easy 4-5 km recovery jog — by feel\, conversational\, ignore
   to Week 6\, now a power test on fresh legs). Optional easy 4 km Thu or 
  rest — your call. Run easy by feel\, hydrate\; only if you feel decent. 
  Getting back to baseline is the whole job this week.\n88 days to Ultra X
-  Madeira 25K.
+  Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w5-s1-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w5-s1-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Easy 5-6 km by feel
@@ -377,12 +387,12 @@ DESCRIPTION:Easy 5-6 km by feel. Optional light pull if you are feeling g
  ts\, no heavy legs\, no CP test (moved to Week 6\, now a power test on f
  resh legs). Optional easy 4 km Thu or rest — your call. Run easy by feel
  \, hydrate\; only if you feel decent. Getting back to baseline is the wh
- ole job this week.\n86 days to Ultra X Madeira 25K.
+ ole job this week.\n86 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w5-s2-cycling@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w5-s2-cycling@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
 SUMMARY:○ Easy bike ride instead of the long run (90 min)
@@ -392,12 +402,13 @@ DESCRIPTION:Easy bike ride instead of the long run — zero impact\, aerobi
  d. No max efforts\, no heavy legs\, no CP test (moved to Week 6\, now a 
  power test on fresh legs). Optional easy 4 km Thu or rest — your call. R
  un easy by feel\, hydrate\; only if you feel decent. Getting back to bas
- eline is the whole job this week.\n85 days to Ultra X Madeira 25K.
+ eline is the whole job this week.\n85 days to Ultra X Madeira 25K (30.5 
+ km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w6-s0-cycling@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w6-s0-cycling@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
 SUMMARY:○ Easy ride 60-90 min
@@ -407,12 +418,12 @@ DESCRIPTION:Easy ride 60-90 min — the day after the long run. Zero impact
  resh legs (Mon rest before it). Power\, not HR: after the sensor audit\,
   power is the channel we trust. This sets your real training zones. HR b
  enchmark is shelved until a chest strap.\n84 days to Ultra X Madeira 25K
- .
+  (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w6-s1-cp_test@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w6-s1-cp_test@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
 SUMMARY:CP 3+12 power test
@@ -422,12 +433,13 @@ DESCRIPTION:CP 3+12 power test — warm up\, 12 min all-out even pace\, 20-
  ness read of the block — the CP power test\, Tuesday on fresh legs (Mon 
  rest before it). Power\, not HR: after the sensor audit\, power is the c
  hannel we trust. This sets your real training zones. HR benchmark is she
- lved until a chest strap.\n82 days to Ultra X Madeira 25K.
+ lved until a chest strap.\n82 days to Ultra X Madeira 25K (30.5 km actua
+ l).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w6-s2-push@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w6-s2-push@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
 SUMMARY:Push (upper)
@@ -436,12 +448,12 @@ DESCRIPTION:Push (upper) — after the run\, no leg cost\n\nWeek 6 of 17 -
  y on fresh legs (Mon rest before it). Power\, not HR: after the sensor a
  udit\, power is the channel we trust. This sets your real training zones
  . HR benchmark is shelved until a chest strap.\n82 days to Ultra X Madei
- ra 25K.
+ ra 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w6-s3-legs@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w6-s3-legs@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:◆ Legs
@@ -450,12 +462,13 @@ DESCRIPTION:Legs — OWN DAY\, no running. Single-leg + posterior chain\, g
  rst real fitness read of the block — the CP power test\, Tuesday on fres
  h legs (Mon rest before it). Power\, not HR: after the sensor audit\, po
  wer is the channel we trust. This sets your real training zones. HR benc
- hmark is shelved until a chest strap.\n81 days to Ultra X Madeira 25K.
+ hmark is shelved until a chest strap.\n81 days to Ultra X Madeira 25K (3
+ 0.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w6-s4-vertical@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w6-s4-vertical@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 SUMMARY:▲ Vertical 25 min
@@ -470,12 +483,12 @@ DESCRIPTION:Vertical 25 min (stairs/ramp/incline) — climbing\, concentric
  d of the block — the CP power test\, Tuesday on fresh legs (Mon rest bef
  ore it). Power\, not HR: after the sensor audit\, power is the channel w
  e trust. This sets your real training zones. HR benchmark is shelved unt
- il a chest strap.\n80 days to Ultra X Madeira 25K.
+ il a chest strap.\n80 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w6-s5-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w6-s5-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:Easy run 6 km (talk test)
@@ -484,12 +497,12 @@ DESCRIPTION:Easy run 6 km (talk test)\n\nWeek 6 of 17 - Build\nKeep HR un
  ck — the CP power test\, Tuesday on fresh legs (Mon rest before it). Pow
  er\, not HR: after the sensor audit\, power is the channel we trust. Thi
  s sets your real training zones. HR benchmark is shelved until a chest s
- trap.\n79 days to Ultra X Madeira 25K.
+ trap.\n79 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w6-s6-pull@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w6-s6-pull@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:Pull (upper)
@@ -497,12 +510,13 @@ DESCRIPTION:Pull (upper) — after the run\n\nWeek 6 of 17 - Build\nFirst r
  eal fitness read of the block — the CP power test\, Tuesday on fresh leg
  s (Mon rest before it). Power\, not HR: after the sensor audit\, power i
  s the channel we trust. This sets your real training zones. HR benchmark
-  is shelved until a chest strap.\n79 days to Ultra X Madeira 25K.
+  is shelved until a chest strap.\n79 days to Ultra X Madeira 25K (30.5 k
+ m actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w6-s7-long@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w6-s7-long@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
 SUMMARY:▲ Long day 2h15 time-on-feet (17 km)
@@ -511,12 +525,13 @@ DESCRIPTION:Long day 2h15 time-on-feet (run/walk\, walk the climbs)\n\nWe
  t real fitness read of the block — the CP power test\, Tuesday on fresh 
  legs (Mon rest before it). Power\, not HR: after the sensor audit\, powe
  r is the channel we trust. This sets your real training zones. HR benchm
- ark is shelved until a chest strap.\n78 days to Ultra X Madeira 25K.
+ ark is shelved until a chest strap.\n78 days to Ultra X Madeira 25K (30.
+ 5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w7-s0-cycling@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w7-s0-cycling@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
 SUMMARY:○ OPTIONAL easy ride 60-75 min
@@ -542,12 +557,13 @@ DESCRIPTION:OPTIONAL easy ride 60-75 min - the day after the long day. Ze
  ompeting directly with the descent block. NOT compromised running - it b
  reaks the 80/20 distribution Madeira needs. The point is to arrive in No
  vember with technique and grip already built\, so the first two Hyrox we
- eks are productive instead of remedial.\n77 days to Ultra X Madeira 25K.
+ eks are productive instead of remedial.\n77 days to Ultra X Madeira 25K 
+ (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w7-s1-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w7-s1-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Easy run 6 km
@@ -574,12 +590,12 @@ DESCRIPTION:Easy run 6 km (talk test) + 6-8 x 20 s strides after (relaxed
  promised running - it breaks the 80/20 distribution Madeira needs. The p
  oint is to arrive in November with technique and grip already built\, so
   the first two Hyrox weeks are productive instead of remedial.\n74 days 
- to Ultra X Madeira 25K.
+ to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w7-s2-push@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w7-s2-push@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Push (upper)
@@ -605,12 +621,12 @@ DESCRIPTION:Push (upper) - after the easy run. Fresh\, not on legs you ju
   compromised running - it breaks the 80/20 distribution Madeira needs. T
  he point is to arrive in November with technique and grip already built\
  , so the first two Hyrox weeks are productive instead of remedial.\n74 d
- ays to Ultra X Madeira 25K.
+ ays to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w7-s3-legs@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w7-s3-legs@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
 SUMMARY:◆ Legs ONLY\, no upper
@@ -654,12 +670,12 @@ DESCRIPTION:Legs ONLY\, no upper - heavy eccentric. Three quad lifts doin
  ing - it breaks the 80/20 distribution Madeira needs. The point is to ar
  rive in November with technique and grip already built\, so the first tw
  o Hyrox weeks are productive instead of remedial.\n75 days to Ultra X Ma
- deira 25K.
+ deira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w7-s4-vertical@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w7-s4-vertical@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:▲ VERTICAL 45 min
@@ -694,12 +710,12 @@ DESCRIPTION:VERTICAL 45 min - STAIRWELL\, your own building or a car park
  ent block. NOT compromised running - it breaks the 80/20 distribution Ma
  deira needs. The point is to arrive in November with technique and grip 
  already built\, so the first two Hyrox weeks are productive instead of r
- emedial.\n73 days to Ultra X Madeira 25K.
+ emedial.\n73 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w7-s5-pull@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w7-s5-pull@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:Pull (upper)
@@ -733,12 +749,13 @@ DESCRIPTION:Pull (upper) - after the vertical session. HYROX SEEDING\, al
  irectly with the descent block. NOT compromised running - it breaks the 
  80/20 distribution Madeira needs. The point is to arrive in November wit
  h technique and grip already built\, so the first two Hyrox weeks are pr
- oductive instead of remedial.\n73 days to Ultra X Madeira 25K.
+ oductive instead of remedial.\n73 days to Ultra X Madeira 25K (30.5 km a
+ ctual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w7-s6-long@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w7-s6-long@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:▲ LONG DAY 1:50 time-on-feet\, 300 m vert (13 km)
@@ -764,12 +781,13 @@ DESCRIPTION:LONG DAY 1:50 time-on-feet\, 300 m vert. Dunes if you can get
  eting directly with the descent block. NOT compromised running - it brea
  ks the 80/20 distribution Madeira needs. The point is to arrive in Novem
  ber with technique and grip already built\, so the first two Hyrox weeks
-  are productive instead of remedial.\n71 days to Ultra X Madeira 25K.
+  are productive instead of remedial.\n71 days to Ultra X Madeira 25K (30
+ .5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w7-s7-descent@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w7-s7-descent@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
 SUMMARY:▼ PRECONDITIONING DOWNHILL WALK
@@ -798,12 +816,12 @@ DESCRIPTION:PRECONDITIONING DOWNHILL WALK - 5 minutes\, 5.6 kg in the pac
  ised running - it breaks the 80/20 distribution Madeira needs. The point
   is to arrive in November with technique and grip already built\, so the
   first two Hyrox weeks are productive instead of remedial.\n75 days to U
- ltra X Madeira 25K.
+ ltra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w8-s0-cycling@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w8-s0-cycling@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -820,12 +838,12 @@ DESCRIPTION:OPTIONAL easy spin 45-60 min - Sunday is now a REST day by de
  at 110 cm\, EUR 70. Aluminium bends where carbon snaps\, which is the ri
  ght failure mode on wet basalt for a first-time pole user. Ultra X's 202
  6 race rules contain no restriction on poles.\n70 days to Ultra X Madeir
- a 25K.
+ a 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w8-s1-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w8-s1-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Easy run 6 km
@@ -841,12 +859,12 @@ DESCRIPTION:Easy run 6 km (talk test) + 6-8 x 20 s strides after (relaxed
  ium at 110 cm\, EUR 70. Aluminium bends where carbon snaps\, which is th
  e right failure mode on wet basalt for a first-time pole user. Ultra X's
   2026 race rules contain no restriction on poles.\n67 days to Ultra X Ma
- deira 25K.
+ deira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w8-s2-push@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w8-s2-push@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Push (upper)
@@ -861,12 +879,12 @@ DESCRIPTION:Push (upper) - after the easy run. Fresh\, not on legs you ju
  uminium at 110 cm\, EUR 70. Aluminium bends where carbon snaps\, which i
  s the right failure mode on wet basalt for a first-time pole user. Ultra
   X's 2026 race rules contain no restriction on poles.\n67 days to Ultra 
- X Madeira 25K.
+ X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w8-s3-legs@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w8-s3-legs@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:◆ Legs ONLY\, no upper
@@ -898,12 +916,13 @@ DESCRIPTION:Legs ONLY\, no upper - heavy eccentric. Three quad lifts doin
   sub-165 cm coaches actually run. Buy the Kiprun 500 aluminium at 110 cm
  \, EUR 70. Aluminium bends where carbon snaps\, which is the right failu
  re mode on wet basalt for a first-time pole user. Ultra X's 2026 race ru
- les contain no restriction on poles.\n68 days to Ultra X Madeira 25K.
+ les contain no restriction on poles.\n68 days to Ultra X Madeira 25K (30
+ .5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w8-s4-vertical@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w8-s4-vertical@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:▲ VERTICAL 55 min
@@ -927,12 +946,12 @@ DESCRIPTION:VERTICAL 55 min - STAIRWELL\, your own building or a car park
   Kiprun 500 aluminium at 110 cm\, EUR 70. Aluminium bends where carbon s
  naps\, which is the right failure mode on wet basalt for a first-time po
  le user. Ultra X's 2026 race rules contain no restriction on poles.\n66 
- days to Ultra X Madeira 25K.
+ days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w8-s5-pull@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w8-s5-pull@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Pull (upper)
@@ -955,12 +974,12 @@ DESCRIPTION:Pull (upper) - after the vertical session. HYROX SEEDING\, al
  actually run. Buy the Kiprun 500 aluminium at 110 cm\, EUR 70. Aluminium
   bends where carbon snaps\, which is the right failure mode on wet basal
  t for a first-time pole user. Ultra X's 2026 race rules contain no restr
- iction on poles.\n66 days to Ultra X Madeira 25K.
+ iction on poles.\n66 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w8-s6-long@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w8-s6-long@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:▲ LONG DAY 2:05\, 500 m vert (14 km)
@@ -975,12 +994,12 @@ DESCRIPTION:LONG DAY 2:05\, 500 m vert. First session with poles.\n\nWeek
   run. Buy the Kiprun 500 aluminium at 110 cm\, EUR 70. Aluminium bends w
  here carbon snaps\, which is the right failure mode on wet basalt for a 
  first-time pole user. Ultra X's 2026 race rules contain no restriction o
- n poles.\n64 days to Ultra X Madeira 25K.
+ n poles.\n64 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w8-s7-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w8-s7-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:NEW SPEED SLOT (5 km)
@@ -1002,12 +1021,13 @@ DESCRIPTION:NEW SPEED SLOT - easy 5 km with the LAST 1 KM at threshold ef
  65 cm coaches actually run. Buy the Kiprun 500 aluminium at 110 cm\, EUR
   70. Aluminium bends where carbon snaps\, which is the right failure mod
  e on wet basalt for a first-time pole user. Ultra X's 2026 race rules co
- ntain no restriction on poles.\n69 days to Ultra X Madeira 25K.
+ ntain no restriction on poles.\n69 days to Ultra X Madeira 25K (30.5 km 
+ actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w9-s0-cycling@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w9-s0-cycling@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -1032,12 +1052,13 @@ DESCRIPTION:OPTIONAL easy spin 45-60 min - Sunday is now a REST day by de
  eps 72 h before the long day\, the outer edge of the 48-72 h rule. Push 
  stays paired with the easy run\, pull with the vertical. STOPPING RULE: 
  the threshold session happens Tuesday regardless of readiness unless sle
- ep is under 6 h or HRV drops below 70.\n63 days to Ultra X Madeira 25K.
+ ep is under 6 h or HRV drops below 70.\n63 days to Ultra X Madeira 25K (
+ 30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w9-s1-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w9-s1-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Easy run 7 km
@@ -1062,12 +1083,12 @@ DESCRIPTION:Easy run 7 km (talk test) + 6-8 x 20 s strides after (relaxed
  ush stays paired with the easy run\, pull with the vertical. STOPPING RU
  LE: the threshold session happens Tuesday regardless of readiness unless
   sleep is under 6 h or HRV drops below 70.\n62 days to Ultra X Madeira 2
- 5K.
+ 5K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w9-s2-push@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w9-s2-push@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Push (upper)
@@ -1091,12 +1112,12 @@ DESCRIPTION:Push (upper) - after the easy run. Fresh\, not on legs you ju
  e. Push stays paired with the easy run\, pull with the vertical. STOPPIN
  G RULE: the threshold session happens Tuesday regardless of readiness un
  less sleep is under 6 h or HRV drops below 70.\n62 days to Ultra X Madei
- ra 25K.
+ ra 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w9-s3-legs@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w9-s3-legs@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:◆ Legs ONLY\, no upper
@@ -1137,12 +1158,13 @@ DESCRIPTION:Legs ONLY\, no upper - heavy eccentric. Three quad lifts doin
  before the long day\, the outer edge of the 48-72 h rule. Push stays pai
  red with the easy run\, pull with the vertical. STOPPING RULE: the thres
  hold session happens Tuesday regardless of readiness unless sleep is und
- er 6 h or HRV drops below 70.\n60 days to Ultra X Madeira 25K.
+ er 6 h or HRV drops below 70.\n60 days to Ultra X Madeira 25K (30.5 km a
+ ctual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w9-s4-vertical@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w9-s4-vertical@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:▲ VERTICAL 60 min STEADY
@@ -1177,12 +1199,13 @@ DESCRIPTION:VERTICAL 60 min STEADY - stairwell\, your own building or a c
   h before the long day\, the outer edge of the 48-72 h rule. Push stays 
  paired with the easy run\, pull with the vertical. STOPPING RULE: the th
  reshold session happens Tuesday regardless of readiness unless sleep is 
- under 6 h or HRV drops below 70.\n59 days to Ultra X Madeira 25K.
+ under 6 h or HRV drops below 70.\n59 days to Ultra X Madeira 25K (30.5 k
+ m actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w9-s5-pull@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w9-s5-pull@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Pull (upper)
@@ -1214,12 +1237,12 @@ DESCRIPTION:Pull (upper) - after the vertical session. HYROX SEEDING\, al
  , the outer edge of the 48-72 h rule. Push stays paired with the easy ru
  n\, pull with the vertical. STOPPING RULE: the threshold session happens
   Tuesday regardless of readiness unless sleep is under 6 h or HRV drops 
- below 70.\n59 days to Ultra X Madeira 25K.
+ below 70.\n59 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w9-s6-long@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w9-s6-long@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:▲ LONG DAY 2:20\, 700 m vert\, fuelling 40-50 g/h (16 km)
@@ -1243,12 +1266,12 @@ DESCRIPTION:LONG DAY 2:20\, 700 m vert\, fuelling 40-50 g/h\n\nWeek 9 of
  ge of the 48-72 h rule. Push stays paired with the easy run\, pull with 
  the vertical. STOPPING RULE: the threshold session happens Tuesday regar
  dless of readiness unless sleep is under 6 h or HRV drops below 70.\n57 
- days to Ultra X Madeira 25K.
+ days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w9-s7-descent@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w9-s7-descent@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:▼ KIT REHEARSAL: load the vest to ~2.6 kg with…
@@ -1275,12 +1298,12 @@ DESCRIPTION:KIT REHEARSAL: load the vest to ~2.6 kg with full race carboh
   outer edge of the 48-72 h rule. Push stays paired with the easy run\, p
  ull with the vertical. STOPPING RULE: the threshold session happens Tues
  day regardless of readiness unless sleep is under 6 h or HRV drops below
-  70.\n63 days to Ultra X Madeira 25K.
+  70.\n63 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w9-s8-descent@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w9-s8-descent@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:▼ PRECONDITIONING DOWNHILL WALK
@@ -1306,12 +1329,13 @@ DESCRIPTION:PRECONDITIONING DOWNHILL WALK - 5 minutes\, 5.6 kg in the pac
  eps 72 h before the long day\, the outer edge of the 48-72 h rule. Push 
  stays paired with the easy run\, pull with the vertical. STOPPING RULE: 
  the threshold session happens Tuesday regardless of readiness unless sle
- ep is under 6 h or HRV drops below 70.\n61 days to Ultra X Madeira 25K.
+ ep is under 6 h or HRV drops below 70.\n61 days to Ultra X Madeira 25K (
+ 30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w9-s9-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w9-s9-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:THRESHOLD 4 x 4 min\, 90 s easy jog between.…
@@ -1340,12 +1364,12 @@ DESCRIPTION:THRESHOLD 4 x 4 min\, 90 s easy jog between. Warm up 10 min\,
  the 48-72 h rule. Push stays paired with the easy run\, pull with the ve
  rtical. STOPPING RULE: the threshold session happens Tuesday regardless 
  of readiness unless sleep is under 6 h or HRV drops below 70.\n61 days t
- o Ultra X Madeira 25K.
+ o Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w10-s0-cycling@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w10-s0-cycling@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -1386,12 +1410,12 @@ DESCRIPTION:OPTIONAL easy spin 45-60 min - Sunday is now a REST day by de
  football on Thursday and 500 m of vertical on Saturday is three hard day
  s. Keep Tuesday and Friday genuinely easy\, and if the shins are still t
  alking by Thursday\, football is the session that gives\, not Saturday.\
- n56 days to Ultra X Madeira 25K.
+ n56 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w10-s1-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w10-s1-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Easy run 35 MIN (talk test) (4.8 km)
@@ -1441,12 +1465,12 @@ DESCRIPTION:Easy run 35 MIN (talk test) - THE DAY AFTER THE TIME TRIAL\,
   of football on Thursday and 500 m of vertical on Saturday is three hard
   days. Keep Tuesday and Friday genuinely easy\, and if the shins are sti
  ll talking by Thursday\, football is the session that gives\, not Saturd
- ay.\n54 days to Ultra X Madeira 25K.
+ ay.\n54 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w10-s2-push@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w10-s2-push@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Push (upper)
@@ -1488,12 +1512,13 @@ DESCRIPTION:Push (upper) - THURSDAY MORNING with pull as one upper day. U
   time trial on Monday\, an hour of football on Thursday and 500 m of ver
  tical on Saturday is three hard days. Keep Tuesday and Friday genuinely 
  easy\, and if the shins are still talking by Thursday\, football is the 
- session that gives\, not Saturday.\n52 days to Ultra X Madeira 25K.
+ session that gives\, not Saturday.\n52 days to Ultra X Madeira 25K (30.5
+  km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w10-s3-legs@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w10-s3-legs@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:◆ Legs ONLY\, no upper
@@ -1532,12 +1557,12 @@ DESCRIPTION:Legs ONLY\, no upper - maintenance. Volume down\, load held a
  ur of football on Thursday and 500 m of vertical on Saturday is three ha
  rd days. Keep Tuesday and Friday genuinely easy\, and if the shins are s
  till talking by Thursday\, football is the session that gives\, not Satu
- rday.\n53 days to Ultra X Madeira 25K.
+ rday.\n53 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w10-s4-pull@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w10-s4-pull@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Pull (upper)
@@ -1580,12 +1605,12 @@ DESCRIPTION:Pull (upper) - THURSDAY MORNING\, paired with push as a singl
  ur of football on Thursday and 500 m of vertical on Saturday is three ha
  rd days. Keep Tuesday and Friday genuinely easy\, and if the shins are s
  till talking by Thursday\, football is the session that gives\, not Satu
- rday.\n52 days to Ultra X Madeira 25K.
+ rday.\n52 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w10-s5-long@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w10-s5-long@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:▲ LONG DAY 2:00\, 500 m vert (13 km)
@@ -1630,12 +1655,12 @@ DESCRIPTION:LONG DAY 2:00\, 500 m vert - upgraded from 1:30/400 m. This i
  n hour of football on Thursday and 500 m of vertical on Saturday is thre
  e hard days. Keep Tuesday and Friday genuinely easy\, and if the shins a
  re still talking by Thursday\, football is the session that gives\, not 
- Saturday.\n50 days to Ultra X Madeira 25K.
+ Saturday.\n50 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w10-s6-benchmark@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w10-s6-benchmark@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:5 KM TIME TRIAL (5 km)
@@ -1682,12 +1707,12 @@ DESCRIPTION:5 KM TIME TRIAL - the number this whole plan has been missing
  tball on Thursday and 500 m of vertical on Saturday is three hard days. 
  Keep Tuesday and Friday genuinely easy\, and if the shins are still talk
  ing by Thursday\, football is the session that gives\, not Saturday.\n55
-  days to Ultra X Madeira 25K.
+  days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w10-s7-cross@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w10-s7-cross@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:FOOTBALL 21:00 (60 min)
@@ -1732,12 +1757,12 @@ DESCRIPTION:FOOTBALL 21:00 - casual 8-a-side\, 1 hour. This REPLACES the
  ootball on Thursday and 500 m of vertical on Saturday is three hard days
  . Keep Tuesday and Friday genuinely easy\, and if the shins are still ta
  lking by Thursday\, football is the session that gives\, not Saturday.\n
- 52 days to Ultra X Madeira 25K.
+ 52 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w10-s8-descent@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w10-s8-descent@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:▼ DESCENT LADDER (6 min)
@@ -1792,12 +1817,12 @@ DESCRIPTION:DESCENT LADDER - 6 min walking DOWN stairs with 5.6 kg\, lift
  500 m of vertical on Saturday is three hard days. Keep Tuesday and Frida
  y genuinely easy\, and if the shins are still talking by Thursday\, foot
  ball is the session that gives\, not Saturday.\n54 days to Ultra X Madei
- ra 25K.
+ ra 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w11-s0-cycling@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w11-s0-cycling@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -1807,12 +1832,12 @@ DESCRIPTION:OPTIONAL easy spin 45-60 min - Sunday is now a REST day by de
  ride.\n\nWeek 11 of 17 - Build\nTime trial week. Vertical drops for one 
  week only\; six more weeks of it remain. All three strength sessions kep
  t - only the VO2max session goes\, replaced by the trial.\n49 days to Ul
- tra X Madeira 25K.
+ tra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w11-s1-benchmark@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w11-s1-benchmark@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:5 KM TIME TRIAL (5 km)
@@ -1828,12 +1853,12 @@ DESCRIPTION:5 KM TIME TRIAL - SECOND ATTEMPT. 7 Sep measured a pacing err
  can be built from it.\n\nWeek 11 of 17 - Build\nTime trial week. Vertica
  l drops for one week only\; six more weeks of it remain. All three stren
  gth sessions kept - only the VO2max session goes\, replaced by the trial
- .\n46 days to Ultra X Madeira 25K.
+ .\n46 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w11-s2-push@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w11-s2-push@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Push (upper)
@@ -1841,12 +1866,12 @@ DESCRIPTION:Push (upper) - after the easy run. Fresh\, not on legs you ju
  st destroyed.\n\nWeek 11 of 17 - Build\nTime trial week. Vertical drops 
  for one week only\; six more weeks of it remain. All three strength sess
  ions kept - only the VO2max session goes\, replaced by the trial.\n48 da
- ys to Ultra X Madeira 25K.
+ ys to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w11-s3-legs@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w11-s3-legs@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:◆ Legs
@@ -1875,12 +1900,12 @@ DESCRIPTION:Legs - MOVED TO THURSDAY\, after the time trial. Heavy eccent
  bstitution.\n\nWeek 11 of 17 - Build\nTime trial week. Vertical drops fo
  r one week only\; six more weeks of it remain. All three strength sessio
  ns kept - only the VO2max session goes\, replaced by the trial.\n45 days
-  to Ultra X Madeira 25K.
+  to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w11-s4-pull@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w11-s4-pull@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Pull (upper)
@@ -1891,12 +1916,12 @@ DESCRIPTION:Pull (upper) - moved to Tuesday. Upper body only\, nothing th
   three minutes.\n\nWeek 11 of 17 - Build\nTime trial week. Vertical drop
  s for one week only\; six more weeks of it remain. All three strength se
  ssions kept - only the VO2max session goes\, replaced by the trial.\n47 
- days to Ultra X Madeira 25K.
+ days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w11-s5-long@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w11-s5-long@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:▲ LONG DAY 2:30\, 600 m vert (16 km)
@@ -1915,12 +1940,12 @@ DESCRIPTION:LONG DAY 2:30\, 600 m vert - trimmed from 2:35/900 m. Your be
   climbs. Talk test.\nTime trial week. Vertical drops for one week only\;
   six more weeks of it remain. All three strength sessions kept - only th
  e VO2max session goes\, replaced by the trial.\n43 days to Ultra X Madei
- ra 25K.
+ ra 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w11-s6-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w11-s6-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Easy run 30-40 MIN\, HR under 155. TIME TRIAL…
@@ -1930,12 +1955,12 @@ DESCRIPTION:Easy run 30-40 MIN\, HR under 155. TIME TRIAL WEEK - this is
  - Build\nKeep HR under 158. Walk the climbs. Talk test.\nTime trial week
  . Vertical drops for one week only\; six more weeks of it remain. All th
  ree strength sessions kept - only the VO2max session goes\, replaced by 
- the trial.\n48 days to Ultra X Madeira 25K.
+ the trial.\n48 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w11-s7-descent@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w11-s7-descent@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:▼ DESCENT LADDER (10 min)
@@ -1958,12 +1983,13 @@ DESCRIPTION:DESCENT LADDER - 10 min walking DOWN stairs with 5.6 kg\, lif
  unnable downhill\, which is why this beats dune reps.\n\nWeek 11 of 17 -
   Build\nTime trial week. Vertical drops for one week only\; six more wee
  ks of it remain. All three strength sessions kept - only the VO2max sess
- ion goes\, replaced by the trial.\n45 days to Ultra X Madeira 25K.
+ ion goes\, replaced by the trial.\n45 days to Ultra X Madeira 25K (30.5 
+ km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w11-s8-swim@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w11-s8-swim@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:≈ SWIM 30 min
@@ -1976,12 +2002,12 @@ DESCRIPTION:SWIM 30 min - TECHNIQUE ONLY\, and start now rather than in N
  ver felt.\n\nWeek 11 of 17 - Build\nTime trial week. Vertical drops for 
  one week only\; six more weeks of it remain. All three strength sessions
   kept - only the VO2max session goes\, replaced by the trial.\n49 days t
- o Ultra X Madeira 25K.
+ o Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w12-s0-cycling@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w12-s0-cycling@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -1996,12 +2022,12 @@ DESCRIPTION:OPTIONAL easy spin 45-60 min - Sunday is now a REST day by de
  too short for HR to settle and accumulated fatigue distorts it. Use a ST
  ANDARDISED EASY RUN instead: same route\, same target HR\, track the pac
  e month to month. That is the signal that replaces retesting until mid-N
- ovember.\n42 days to Ultra X Madeira 25K.
+ ovember.\n42 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w12-s1-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w12-s1-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:SUB-THRESHOLD 6 x 3 min at HR 168-174\, 60 s…
@@ -2022,12 +2048,12 @@ DESCRIPTION:SUB-THRESHOLD 6 x 3 min at HR 168-174\, 60 s easy jog float b
  t for HR to settle and accumulated fatigue distorts it. Use a STANDARDIS
  ED EASY RUN instead: same route\, same target HR\, track the pace month 
  to month. That is the signal that replaces retesting until mid-November.
- \n39 days to Ultra X Madeira 25K.
+ \n39 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w12-s2-push@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w12-s2-push@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Push (upper)
@@ -2040,12 +2066,12 @@ DESCRIPTION:Push (upper) - after the easy run. Fresh\, not on legs you ju
   min is too short for HR to settle and accumulated fatigue distorts it. 
  Use a STANDARDISED EASY RUN instead: same route\, same target HR\, track
   the pace month to month. That is the signal that replaces retesting unt
- il mid-November.\n39 days to Ultra X Madeira 25K.
+ il mid-November.\n39 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w12-s3-legs@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w12-s3-legs@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:◆ Legs ONLY\, no upper
@@ -2075,12 +2101,12 @@ DESCRIPTION:Legs ONLY\, no upper - heavy eccentric. Three quad lifts doin
   for HR to settle and accumulated fatigue distorts it. Use a STANDARDISE
  D EASY RUN instead: same route\, same target HR\, track the pace month t
  o month. That is the signal that replaces retesting until mid-November.\
- n40 days to Ultra X Madeira 25K.
+ n40 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w12-s4-vertical@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w12-s4-vertical@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:▲ VERTICAL 75 min STEADY
@@ -2110,12 +2136,12 @@ DESCRIPTION:VERTICAL 75 min STEADY - stairwell\, your own building or a c
  HR to settle and accumulated fatigue distorts it. Use a STANDARDISED EAS
  Y RUN instead: same route\, same target HR\, track the pace month to mon
  th. That is the signal that replaces retesting until mid-November.\n38 d
- ays to Ultra X Madeira 25K.
+ ays to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w12-s5-pull@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w12-s5-pull@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Pull (upper)
@@ -2132,12 +2158,12 @@ DESCRIPTION:Pull (upper) - after the vertical session\, on legs it does n
  s too short for HR to settle and accumulated fatigue distorts it. Use a 
  STANDARDISED EASY RUN instead: same route\, same target HR\, track the p
  ace month to month. That is the signal that replaces retesting until mid
- -November.\n38 days to Ultra X Madeira 25K.
+ -November.\n38 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w12-s6-long@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w12-s6-long@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:▲ LONG DAY 2:55\, 700 m vert\, full kit\, poles\, 60…
@@ -2164,12 +2190,13 @@ DESCRIPTION:LONG DAY 2:55\, 700 m vert\, full kit\, poles\, 60 g/h DESCEN
   reps - 3 min is too short for HR to settle and accumulated fatigue dist
  orts it. Use a STANDARDISED EASY RUN instead: same route\, same target H
  R\, track the pace month to month. That is the signal that replaces rete
- sting until mid-November.\n36 days to Ultra X Madeira 25K.
+ sting until mid-November.\n36 days to Ultra X Madeira 25K (30.5 km actua
+ l).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w12-s7-descent@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w12-s7-descent@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:▼ ZIG-ZAG AND SLIPPERY-SURFACE PRACTICE 45 min
@@ -2187,12 +2214,12 @@ DESCRIPTION:ZIG-ZAG AND SLIPPERY-SURFACE PRACTICE 45 min - dunes or any s
  o short for HR to settle and accumulated fatigue distorts it. Use a STAN
  DARDISED EASY RUN instead: same route\, same target HR\, track the pace 
  month to month. That is the signal that replaces retesting until mid-Nov
- ember.\n42 days to Ultra X Madeira 25K.
+ ember.\n42 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w12-s8-descent@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w12-s8-descent@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:▼ DESCENT LADDER (16 min)
@@ -2221,12 +2248,12 @@ DESCRIPTION:DESCENT LADDER - 16 min walking DOWN stairs with 5.6 kg\, lif
  le and accumulated fatigue distorts it. Use a STANDARDISED EASY RUN inst
  ead: same route\, same target HR\, track the pace month to month. That i
  s the signal that replaces retesting until mid-November.\n40 days to Ult
- ra X Madeira 25K.
+ ra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w12-s9-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w12-s9-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:VO2MAX 5 x 3 min HARD\, 2 min jog. Same as last…
@@ -2241,12 +2268,12 @@ DESCRIPTION:VO2MAX 5 x 3 min HARD\, 2 min jog. Same as last week - repeat
   - 3 min is too short for HR to settle and accumulated fatigue distorts 
  it. Use a STANDARDISED EASY RUN instead: same route\, same target HR\, t
  rack the pace month to month. That is the signal that replaces retesting
-  until mid-November.\n41 days to Ultra X Madeira 25K.
+  until mid-November.\n41 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w12-s10-swim@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w12-s10-swim@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:≈ SWIM 30 min
@@ -2261,12 +2288,12 @@ DESCRIPTION:SWIM 30 min - technique. Same session every week until Novemb
  ated fatigue distorts it. Use a STANDARDISED EASY RUN instead: same rout
  e\, same target HR\, track the pace month to month. That is the signal t
  hat replaces retesting until mid-November.\n42 days to Ultra X Madeira 2
- 5K.
+ 5K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w13-s0-cycling@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w13-s0-cycling@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -2282,12 +2309,12 @@ DESCRIPTION:OPTIONAL easy spin 45-60 min - Sunday is now a REST day by de
  ps - 3 min is too short for HR to settle and accumulated fatigue distort
  s it. Use a STANDARDISED EASY RUN instead: same route\, same target HR\,
   track the pace month to month. That is the signal that replaces retesti
- ng until mid-November.\n35 days to Ultra X Madeira 25K.
+ ng until mid-November.\n35 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w13-s1-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w13-s1-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:SUB-THRESHOLD 4 x 3 min at HR 168-174\, 60 s…
@@ -2309,12 +2336,12 @@ DESCRIPTION:SUB-THRESHOLD 4 x 3 min at HR 168-174\, 60 s easy jog float b
  in is too short for HR to settle and accumulated fatigue distorts it. Us
  e a STANDARDISED EASY RUN instead: same route\, same target HR\, track t
  he pace month to month. That is the signal that replaces retesting until
-  mid-November.\n32 days to Ultra X Madeira 25K.
+  mid-November.\n32 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w13-s2-push@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w13-s2-push@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Push (upper)
@@ -2328,12 +2355,13 @@ DESCRIPTION:Push (upper) - after the easy run. Fresh\, not on legs you ju
  O2max reps - 3 min is too short for HR to settle and accumulated fatigue
   distorts it. Use a STANDARDISED EASY RUN instead: same route\, same tar
  get HR\, track the pace month to month. That is the signal that replaces
-  retesting until mid-November.\n32 days to Ultra X Madeira 25K.
+  retesting until mid-November.\n32 days to Ultra X Madeira 25K (30.5 km 
+ actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w13-s3-legs@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w13-s3-legs@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:◆ Legs ONLY\, no upper
@@ -2354,12 +2382,13 @@ DESCRIPTION:Legs ONLY\, no upper - maintenance. Volume down\, load held a
  de the VO2max reps - 3 min is too short for HR to settle and accumulated
   fatigue distorts it. Use a STANDARDISED EASY RUN instead: same route\, 
  same target HR\, track the pace month to month. That is the signal that 
- replaces retesting until mid-November.\n33 days to Ultra X Madeira 25K.
+ replaces retesting until mid-November.\n33 days to Ultra X Madeira 25K (
+ 30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w13-s4-vertical@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w13-s4-vertical@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:▲ VERTICAL 45 min STEADY
@@ -2390,12 +2419,12 @@ DESCRIPTION:VERTICAL 45 min STEADY - stairwell\, your own building or a c
  too short for HR to settle and accumulated fatigue distorts it. Use a ST
  ANDARDISED EASY RUN instead: same route\, same target HR\, track the pac
  e month to month. That is the signal that replaces retesting until mid-N
- ovember.\n31 days to Ultra X Madeira 25K.
+ ovember.\n31 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w13-s5-pull@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w13-s5-pull@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Pull (upper)
@@ -2413,12 +2442,13 @@ DESCRIPTION:Pull (upper) - after the vertical session\, on legs it does n
  reps - 3 min is too short for HR to settle and accumulated fatigue disto
  rts it. Use a STANDARDISED EASY RUN instead: same route\, same target HR
  \, track the pace month to month. That is the signal that replaces retes
- ting until mid-November.\n31 days to Ultra X Madeira 25K.
+ ting until mid-November.\n31 days to Ultra X Madeira 25K (30.5 km actual
+ ).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w13-s6-long@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w13-s6-long@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:▲ LONG DAY 2:00\, 500 m vert. WHERE: LOCAL (13 km)
@@ -2434,12 +2464,13 @@ DESCRIPTION:LONG DAY 2:00\, 500 m vert. WHERE: LOCAL - Amsterdamse Bos pl
   VO2max reps - 3 min is too short for HR to settle and accumulated fatig
  ue distorts it. Use a STANDARDISED EASY RUN instead: same route\, same t
  arget HR\, track the pace month to month. That is the signal that replac
- es retesting until mid-November.\n29 days to Ultra X Madeira 25K.
+ es retesting until mid-November.\n29 days to Ultra X Madeira 25K (30.5 k
+ m actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w13-s7-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w13-s7-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:DOWN WEEK (7 km)
@@ -2455,12 +2486,12 @@ DESCRIPTION:DOWN WEEK - THRESHOLD 3 x 5 min\, 90 s jog. Volume down\, int
  le and accumulated fatigue distorts it. Use a STANDARDISED EASY RUN inst
  ead: same route\, same target HR\, track the pace month to month. That i
  s the signal that replaces retesting until mid-November.\n34 days to Ult
- ra X Madeira 25K.
+ ra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w13-s8-descent@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w13-s8-descent@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:▼ DESCENT LADDER (12 min)
@@ -2490,12 +2521,12 @@ DESCRIPTION:DESCENT LADDER - 12 min walking DOWN stairs with 5.6 kg\, lif
  for HR to settle and accumulated fatigue distorts it. Use a STANDARDISED
   EASY RUN instead: same route\, same target HR\, track the pace month to
   month. That is the signal that replaces retesting until mid-November.\n
- 33 days to Ultra X Madeira 25K.
+ 33 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w13-s9-swim@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w13-s9-swim@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:≈ SWIM 30 min
@@ -2511,12 +2542,12 @@ DESCRIPTION:SWIM 30 min - technique. Same session every week until Novemb
  le and accumulated fatigue distorts it. Use a STANDARDISED EASY RUN inst
  ead: same route\, same target HR\, track the pace month to month. That i
  s the signal that replaces retesting until mid-November.\n35 days to Ult
- ra X Madeira 25K.
+ ra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w14-s0-cycling@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w14-s0-cycling@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -2536,12 +2567,12 @@ DESCRIPTION:OPTIONAL easy spin 45-60 min - Sunday is now a REST day by de
  \, and all disposable packaging must carry your bib number. Tape a strip
   on your gel flask reading contents and total kcal (e.g. '4x Upfront Gel
   PRO - 640 kcal'). Do it from this session on\, not at registration.\n28
-  days to Ultra X Madeira 25K.
+  days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w14-s1-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w14-s1-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:SUB-THRESHOLD 6 x 4 min at HR 168-174\, 60 s…
@@ -2567,12 +2598,12 @@ DESCRIPTION:SUB-THRESHOLD 6 x 4 min at HR 168-174\, 60 s easy jog float b
  ll disposable packaging must carry your bib number. Tape a strip on your
   gel flask reading contents and total kcal (e.g. '4x Upfront Gel PRO - 6
  40 kcal'). Do it from this session on\, not at registration.\n25 days to
-  Ultra X Madeira 25K.
+  Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w14-s2-push@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w14-s2-push@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Push (upper)
@@ -2590,12 +2621,12 @@ DESCRIPTION:Push (upper) - after the easy run. Fresh\, not on legs you ju
  ie count\, and all disposable packaging must carry your bib number. Tape
   a strip on your gel flask reading contents and total kcal (e.g. '4x Upf
  ront Gel PRO - 640 kcal'). Do it from this session on\, not at registrat
- ion.\n25 days to Ultra X Madeira 25K.
+ ion.\n25 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w14-s3-legs@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w14-s3-legs@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:◆ Legs ONLY\, no upper
@@ -2630,12 +2661,12 @@ DESCRIPTION:Legs ONLY\, no upper - heavy eccentric. Three quad lifts doin
  l disposable packaging must carry your bib number. Tape a strip on your 
  gel flask reading contents and total kcal (e.g. '4x Upfront Gel PRO - 64
  0 kcal'). Do it from this session on\, not at registration.\n26 days to 
- Ultra X Madeira 25K.
+ Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w14-s4-vertical@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w14-s4-vertical@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:▲ VERTICAL 80 min STEADY
@@ -2670,12 +2701,12 @@ DESCRIPTION:VERTICAL 80 min STEADY - stairwell\, your own building or a c
  posable packaging must carry your bib number. Tape a strip on your gel f
  lask reading contents and total kcal (e.g. '4x Upfront Gel PRO - 640 kca
  l'). Do it from this session on\, not at registration.\n24 days to Ultra
-  X Madeira 25K.
+  X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w14-s5-pull@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w14-s5-pull@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Pull (upper)
@@ -2697,12 +2728,12 @@ DESCRIPTION:Pull (upper) - after the vertical session\, on legs it does n
  nt\, and all disposable packaging must carry your bib number. Tape a str
  ip on your gel flask reading contents and total kcal (e.g. '4x Upfront G
  el PRO - 640 kcal'). Do it from this session on\, not at registration.\n
- 24 days to Ultra X Madeira 25K.
+ 24 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w14-s6-long@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w14-s6-long@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:▲ LONG DAY 3:20\, 850 m vert (21 km)
@@ -2730,12 +2761,13 @@ DESCRIPTION:LONG DAY 3:20\, 850 m vert - Posbank\, hard-surface descents\
  must be labelled with its calorie count\, and all disposable packaging m
  ust carry your bib number. Tape a strip on your gel flask reading conten
  ts and total kcal (e.g. '4x Upfront Gel PRO - 640 kcal'). Do it from thi
- s session on\, not at registration.\n22 days to Ultra X Madeira 25K.
+ s session on\, not at registration.\n22 days to Ultra X Madeira 25K (30.
+ 5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w14-s7-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w14-s7-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:VO2MAX 6 x 3 min HARD\, 2 min jog (10 km)
@@ -2754,12 +2786,12 @@ DESCRIPTION:VO2MAX 6 x 3 min HARD\, 2 min jog. One more rep than week 12.
   count\, and all disposable packaging must carry your bib number. Tape a
   strip on your gel flask reading contents and total kcal (e.g. '4x Upfro
  nt Gel PRO - 640 kcal'). Do it from this session on\, not at registratio
- n.\n27 days to Ultra X Madeira 25K.
+ n.\n27 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w14-s8-descent@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w14-s8-descent@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:▼ DESCENT LADDER (20 min)
@@ -2793,12 +2825,12 @@ DESCRIPTION:DESCENT LADDER - 20 min walking DOWN stairs with 5.6 kg\, lif
  ckaging must carry your bib number. Tape a strip on your gel flask readi
  ng contents and total kcal (e.g. '4x Upfront Gel PRO - 640 kcal'). Do it
   from this session on\, not at registration.\n26 days to Ultra X Madeira
-  25K.
+  25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w14-s9-swim@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w14-s9-swim@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:≈ SWIM 30 min
@@ -2817,12 +2849,13 @@ DESCRIPTION:SWIM 30 min - technique. Same session every week until Novemb
  be labelled with its calorie count\, and all disposable packaging must c
  arry your bib number. Tape a strip on your gel flask reading contents an
  d total kcal (e.g. '4x Upfront Gel PRO - 640 kcal'). Do it from this ses
- sion on\, not at registration.\n28 days to Ultra X Madeira 25K.
+ sion on\, not at registration.\n28 days to Ultra X Madeira 25K (30.5 km 
+ actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w15-s0-cycling@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w15-s0-cycling@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -2833,12 +2866,13 @@ DESCRIPTION:OPTIONAL easy spin 45-60 min - Sunday is now a REST day by de
  This is the overload the taper is built on\; the evidence favours peakin
  g 14-15 days out\, not five weeks. 3:45-4:00 and 1\,600-1\,800 m: roughl
  y 60-70% of race duration but 80-90% of race vertical. Vertical specific
- ity is the lever\, not duration.\n21 days to Ultra X Madeira 25K.
+ ity is the lever\, not duration.\n21 days to Ultra X Madeira 25K (30.5 k
+ m actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w15-s1-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w15-s1-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:SUB-THRESHOLD 5 x 4 min at HR 168-174\, 60 s…
@@ -2855,12 +2889,13 @@ DESCRIPTION:SUB-THRESHOLD 5 x 4 min at HR 168-174\, 60 s easy jog float b
  the overload the taper is built on\; the evidence favours peaking 14-15 
  days out\, not five weeks. 3:45-4:00 and 1\,600-1\,800 m: roughly 60-70%
   of race duration but 80-90% of race vertical. Vertical specificity is t
- he lever\, not duration.\n18 days to Ultra X Madeira 25K.
+ he lever\, not duration.\n18 days to Ultra X Madeira 25K (30.5 km actual
+ ).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w15-s2-push@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w15-s2-push@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Push (upper)
@@ -2870,12 +2905,12 @@ DESCRIPTION:Push (upper) - after the easy run. Fresh\, not on legs you ju
  s peaking 14-15 days out\, not five weeks. 3:45-4:00 and 1\,600-1\,800 m
  : roughly 60-70% of race duration but 80-90% of race vertical. Vertical 
  specificity is the lever\, not duration.\n18 days to Ultra X Madeira 25K
- .
+  (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w15-s3-legs@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w15-s3-legs@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:◆ Legs ONLY\, no upper
@@ -2901,12 +2936,13 @@ DESCRIPTION:Legs ONLY\, no upper - heavy eccentric. Three quad lifts doin
  he overload the taper is built on\; the evidence favours peaking 14-15 d
  ays out\, not five weeks. 3:45-4:00 and 1\,600-1\,800 m: roughly 60-70% 
  of race duration but 80-90% of race vertical. Vertical specificity is th
- e lever\, not duration.\n19 days to Ultra X Madeira 25K.
+ e lever\, not duration.\n19 days to Ultra X Madeira 25K (30.5 km actual)
+ .
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w15-s4-vertical@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w15-s4-vertical@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:▲ VERTICAL 80 min STEADY
@@ -2932,12 +2968,12 @@ DESCRIPTION:VERTICAL 80 min STEADY - stairwell\, your own building or a c
  erload the taper is built on\; the evidence favours peaking 14-15 days o
  ut\, not five weeks. 3:45-4:00 and 1\,600-1\,800 m: roughly 60-70% of ra
  ce duration but 80-90% of race vertical. Vertical specificity is the lev
- er\, not duration.\n17 days to Ultra X Madeira 25K.
+ er\, not duration.\n17 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w15-s5-pull@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w15-s5-pull@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Pull (upper)
@@ -2950,12 +2986,13 @@ DESCRIPTION:Pull (upper) - after the vertical session\, on legs it does n
  . This is the overload the taper is built on\; the evidence favours peak
  ing 14-15 days out\, not five weeks. 3:45-4:00 and 1\,600-1\,800 m: roug
  hly 60-70% of race duration but 80-90% of race vertical. Vertical specif
- icity is the lever\, not duration.\n17 days to Ultra X Madeira 25K.
+ icity is the lever\, not duration.\n17 days to Ultra X Madeira 25K (30.5
+  km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w15-s6-long@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w15-s6-long@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:▲ PEAK LONG DAY 3:45-4:00\, 1000 m vert. Race kit\,…
@@ -2977,12 +3014,12 @@ DESCRIPTION:PEAK LONG DAY 3:45-4:00\, 1000 m vert. Race kit\, poles\, rac
  ad the taper is built on\; the evidence favours peaking 14-15 days out\,
   not five weeks. 3:45-4:00 and 1\,600-1\,800 m: roughly 60-70% of race d
  uration but 80-90% of race vertical. Vertical specificity is the lever\,
-  not duration.\n15 days to Ultra X Madeira 25K.
+  not duration.\n15 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w15-s7-descent@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w15-s7-descent@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:▼ DESCENT LADDER (20 min)
@@ -3007,12 +3044,12 @@ DESCRIPTION:DESCENT LADDER - 20 min walking DOWN stairs with 5.6 kg\, lif
   taper is built on\; the evidence favours peaking 14-15 days out\, not f
  ive weeks. 3:45-4:00 and 1\,600-1\,800 m: roughly 60-70% of race duratio
  n but 80-90% of race vertical. Vertical specificity is the lever\, not d
- uration.\n19 days to Ultra X Madeira 25K.
+ uration.\n19 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w15-s8-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w15-s8-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:VO2MAX 4 x 3 min HARD\, 2 min jog. Cut back a rep (8 km)
@@ -3025,12 +3062,12 @@ DESCRIPTION:VO2MAX 4 x 3 min HARD\, 2 min jog. Cut back a rep - Saturday
  urs peaking 14-15 days out\, not five weeks. 3:45-4:00 and 1\,600-1\,800
   m: roughly 60-70% of race duration but 80-90% of race vertical. Vertica
  l specificity is the lever\, not duration.\n20 days to Ultra X Madeira 2
- 5K.
+ 5K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w15-s9-swim@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w15-s9-swim@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:≈ SWIM 30 min
@@ -3041,12 +3078,12 @@ DESCRIPTION:SWIM 30 min - technique. Same session every week until Novemb
  t on\; the evidence favours peaking 14-15 days out\, not five weeks. 3:4
  5-4:00 and 1\,600-1\,800 m: roughly 60-70% of race duration but 80-90% o
  f race vertical. Vertical specificity is the lever\, not duration.\n21 d
- ays to Ultra X Madeira 25K.
+ ays to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w16-s0-cycling@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w16-s0-cycling@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -3056,12 +3093,13 @@ DESCRIPTION:OPTIONAL easy spin 45-60 min - Sunday is now a REST day by de
  ride.\n\nWeek 16 of 17 - Taper\nTaper starts. Volume down 45-55%\, inten
  sity and frequency UNCHANGED - that combination is worth 2-3%\, about 7-
  11 minutes on a 6-hour race. NOTHING ECCENTRIC AFTER 21 OCTOBER. Last he
- avy lower-body work is done.\n14 days to Ultra X Madeira 25K.
+ avy lower-body work is done.\n14 days to Ultra X Madeira 25K (30.5 km ac
+ tual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w16-s1-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w16-s1-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Easy run 40 MIN (5.3 km)
@@ -3074,12 +3112,12 @@ DESCRIPTION:Easy run 40 MIN - Easy 6 km + 5 x 3 min at race-uphill effort
  tarts. Volume down 45-55%\, intensity and frequency UNCHANGED - that com
  bination is worth 2-3%\, about 7-11 minutes on a 6-hour race. NOTHING EC
  CENTRIC AFTER 21 OCTOBER. Last heavy lower-body work is done.\n11 days t
- o Ultra X Madeira 25K.
+ o Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w16-s2-push@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w16-s2-push@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Push (upper)
@@ -3087,12 +3125,13 @@ DESCRIPTION:Push (upper) - after the easy run. Fresh\, not on legs you ju
  st destroyed.\n\nWeek 16 of 17 - Taper\nTaper starts. Volume down 45-55%
  \, intensity and frequency UNCHANGED - that combination is worth 2-3%\, 
  about 7-11 minutes on a 6-hour race. NOTHING ECCENTRIC AFTER 21 OCTOBER.
-  Last heavy lower-body work is done.\n11 days to Ultra X Madeira 25K.
+  Last heavy lower-body work is done.\n11 days to Ultra X Madeira 25K (30
+ .5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w16-s3-vertical@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w16-s3-vertical@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:▲ VERTICAL 40 min STEADY
@@ -3117,12 +3156,12 @@ DESCRIPTION:VERTICAL 40 min STEADY - stairwell\, your own building or a c
  6 of 17 - Taper\nTaper starts. Volume down 45-55%\, intensity and freque
  ncy UNCHANGED - that combination is worth 2-3%\, about 7-11 minutes on a
   6-hour race. NOTHING ECCENTRIC AFTER 21 OCTOBER. Last heavy lower-body 
- work is done.\n10 days to Ultra X Madeira 25K.
+ work is done.\n10 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w16-s4-long@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w16-s4-long@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:▲ LAST LONG SESSION 2:00\, 500 m vert\, race kit…
@@ -3133,12 +3172,13 @@ DESCRIPTION:LAST LONG SESSION 2:00\, 500 m vert\, race kit and shoes\, ~2
  alk the climbs. Talk test.\nTaper starts. Volume down 45-55%\, intensity
   and frequency UNCHANGED - that combination is worth 2-3%\, about 7-11 m
  inutes on a 6-hour race. NOTHING ECCENTRIC AFTER 21 OCTOBER. Last heavy 
- lower-body work is done.\n8 days to Ultra X Madeira 25K.
+ lower-body work is done.\n8 days to Ultra X Madeira 25K (30.5 km actual)
+ .
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w16-s5-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w16-s5-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Easy run 40 MIN (5.3 km)
@@ -3151,12 +3191,13 @@ DESCRIPTION:Easy run 40 MIN - TAPER - 3 x 3 min at VO2max effort\, 2 min
  alk the climbs. Talk test.\nTaper starts. Volume down 45-55%\, intensity
   and frequency UNCHANGED - that combination is worth 2-3%\, about 7-11 m
  inutes on a 6-hour race. NOTHING ECCENTRIC AFTER 21 OCTOBER. Last heavy 
- lower-body work is done.\n13 days to Ultra X Madeira 25K.
+ lower-body work is done.\n13 days to Ultra X Madeira 25K (30.5 km actual
+ ).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w16-s6-descent@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w16-s6-descent@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:▼ DESCENT LADDER (8 min)
@@ -3180,12 +3221,12 @@ DESCRIPTION:DESCENT LADDER - 8 min walking DOWN stairs with 5.6 kg\, lift
  Taper\nTaper starts. Volume down 45-55%\, intensity and frequency UNCHAN
  GED - that combination is worth 2-3%\, about 7-11 minutes on a 6-hour ra
  ce. NOTHING ECCENTRIC AFTER 21 OCTOBER. Last heavy lower-body work is do
- ne.\n12 days to Ultra X Madeira 25K.
+ ne.\n12 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w16-s7-swim@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w16-s7-swim@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:≈ SWIM 30 min
@@ -3195,12 +3236,12 @@ DESCRIPTION:SWIM 30 min - technique. Same session every week until Novemb
  starts. Volume down 45-55%\, intensity and frequency UNCHANGED - that co
  mbination is worth 2-3%\, about 7-11 minutes on a 6-hour race. NOTHING E
  CCENTRIC AFTER 21 OCTOBER. Last heavy lower-body work is done.\n14 days 
- to Ultra X Madeira 25K.
+ to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w17-s0-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w17-s0-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Easy run 50 MIN (7 km)
@@ -3252,12 +3293,13 @@ DESCRIPTION:Easy run 50 MIN - race week. Volume is down 59% from the week
  se Santana on the north coast\, not Funchal - 18 C max\, 110 mm of rain 
  across ~40% of days. Wet basalt and hypothermia are the risks here\, not
   heat. Bib pickup Fri 30 Oct or Sat 31 Oct\, 18:00-20:00\, Machico Forum
- . No crew\, no pacers\, no drop bags.\n6 days to Ultra X Madeira 25K.
+ . No crew\, no pacers\, no drop bags.\n6 days to Ultra X Madeira 25K (30
+ .5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w17-s1-strides@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w17-s1-strides@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Easy 3-4 km + 4 x 90 s at race-climb effort
@@ -3300,62 +3342,74 @@ DESCRIPTION:Easy 3-4 km + 4 x 90 s at race-climb effort. Do not skip this
  se Santana on the north coast\, not Funchal - 18 C max\, 110 mm of rain 
  across ~40% of days. Wet basalt and hypothermia are the risks here\, not
   heat. Bib pickup Fri 30 Oct or Sat 31 Oct\, 18:00-20:00\, Machico Forum
- . No crew\, no pacers\, no drop bags.\n4 days to Ultra X Madeira 25K.
+ . No crew\, no pacers\, no drop bags.\n4 days to Ultra X Madeira 25K (30
+ .5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w17-s2-race@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w17-s2-race@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-SUMMARY:⚑ RACE (25 km)
-DESCRIPTION:RACE - Ultra X Madeira 25K - Sao Jorge to Machico - 2\,003 m 
- D+/D- - START 11:00 - cut-off 11.5 h - target 6:15-6:45 - HEADTORCH MAND
- ATORY\n\nWeek 17 of 17 - Race\nRACE WEEK. Sunday 1 Nov\, Calhau de Sao J
- orge to Machico. THE START IS 11:00\, NOT DAWN - sunset is 18:17 and civ
- il twilight ends 18:41. A 6:30 finish is daylight\; 7:00 is dusk\; 7:30 
- is DARK on exposed cliff paths. YOUR HEADTORCH IS SAFETY KIT\, NOT A FOR
- MALITY - carry it charged. The late start also gives you an unhurried fu
- elling morning: eat properly\, this is an advantage. CHECKPOINTS ARE WAT
- ER ONLY - the 'water and snacks' line is wrong. Carry 420-490 g of carbo
- hydrate yourself (~13 gels plus mix) across three ~2h10 legs\, roughly 2
- .6 kg of vest. Only ~2 checkpoints\, ~10 km apart. KIT: 1.5 L hydration 
- capacity\, taped-seam hooded waterproof\, emergency blanket\, 800 kcal r
- eserve\, phone with GPX\, spare warm layer\, and a BEAKER of at least 15
-  cl - bottles and flasks are explicitly not accepted. Checks are enforce
- d. CALIBRATION from the 2025 field (n=34): winner 3:02:21\, median 5:24:
- 37 (13.0 min/km)\, last finisher 8:03:43\, cut-off 11.5 h. Your target i
- s 6:15-6:45. The 25K is the final 25 km of the 50K route - the organiser
-  gave the SHORT race the STEEPEST ground\, 80 m/km against 63.5 for the 
- 50K. PACING - the single strongest result in the literature (n=23\,207):
-  in 91% of races\, slower finishers overspent in the FIRST segment\; aft
- er the opening everyone paces the rest alike. The damage is done at the 
- start. Hike every gradient above 15% from the gun. HR: race average 138-
- 150\, climb ceiling 155\, descents 120-140. Above 160 for two minutes on
-  a climb\, walk. Your 17 km run averaged 163 - you cannot hold that for 
- six hours. THE DESCENT IS THE RACE. Racing the first steep descent saves
-  ~10 minutes and costs 17-46 minutes later: 3:1 to 5:1 against\, before 
- you count the fall risk. And it will never feel hard - VO2 on descents i
- s only 79% of threshold versus 100% uphill\, so your breathing will tell
-  you nothing. That is the trap. Short steps\, 185-195 spm\, gaze 4-5 m a
- head on the second upcoming foothold\, walk the stone staircases\, zig-z
- ag the wet sections. IN-RACE DIAGNOSTIC: compare climb rate per heartbea
- t on the second climb against the first. More than 5% worse means you ov
- ercooked the descent - concede ten minutes immediately and save the day.
-  FUEL: 60-75 g/h at 2:1 glucose:fructose\, drink to thirst\, skip the sa
- lt capsules (no evidence they prevent hyponatraemia or cramp). Carb load
-  8-10 g/kg for 36-48 h = 450-560 g. Caffeine ~100 mg at 3 h and 75-100 m
- g at 4.5 h\, 150-200 mg total - do not scale from 70 kg examples. WEATHE
- R: use Santana on the north coast\, not Funchal - 18 C max\, 110 mm of r
- ain across ~40% of days. Wet basalt and hypothermia are the risks here\,
-  not heat. Bib pickup Fri 30 Oct or Sat 31 Oct\, 18:00-20:00\, Machico F
- orum. No crew\, no pacers\, no drop bags.\n0 days to Ultra X Madeira 25K
- .
+SUMMARY:⚑ RACE (30.5 km)
+DESCRIPTION:RACE - Ultra X Madeira - Sao Jorge to Machico. THE COURSE IS 
+ 30.5 km\, NOT 25. The 25K is branding: the profile's own summary bar rea
+ ds 30.5 km\, the 50K's reads 46.2 (shorter than its title\, so the summa
+ ry cannot be a 3D distance)\, and vertical density confirms it - 65.7 m/
+ km at 30.5 km against 68.7 and 69.9 for the 50K and 60K\, versus an outl
+ ying 80.1 if it were really 25 km. The 110K also closes exactly at 60 + 
+ 46.2. 2\,003 m D+ and D-\, peak elevation only 452 m. SHAPE: climb 77->4
+ 52 m over 7 km at 5.4%\; then the quad-killer\, 452->67 m in 2.8 km at 1
+ 3.8%\, at just 24% distance so your legs are fresh - do not race it\; ro
+ lling middle km 10-16\; second climb 62->362 m over 3.8 km at 7.8%\; two
+  short vicious spikes at km 21 (21% up\, 34% down\, 350 m each)\; then t
+ he long runnable finish\, 389->52 m over 7.6 km at 4.5% - that is where 
+ a flat runner banks time and it is what your threshold work is for. STAR
+ T 11:00.\n\nWeek 17 of 17 - Race\nRACE WEEK. Sunday 1 Nov\, Calhau de Sa
+ o Jorge to Machico. THE START IS 11:00\, NOT DAWN - sunset is 18:17 and 
+ civil twilight ends 18:41. A 6:30 finish is daylight\; 7:00 is dusk\; 7:
+ 30 is DARK on exposed cliff paths. YOUR HEADTORCH IS SAFETY KIT\, NOT A 
+ FORMALITY - carry it charged. The late start also gives you an unhurried
+  fuelling morning: eat properly\, this is an advantage. CHECKPOINTS ARE 
+ WATER ONLY - the 'water and snacks' line is wrong. Carry 420-490 g of ca
+ rbohydrate yourself (~13 gels plus mix) across three ~2h10 legs\, roughl
+ y 2.6 kg of vest. Only ~2 checkpoints\, ~10 km apart. KIT: 1.5 L hydrati
+ on capacity\, taped-seam hooded waterproof\, emergency blanket\, 800 kca
+ l reserve\, phone with GPX\, spare warm layer\, and a BEAKER of at least
+  15 cl - bottles and flasks are explicitly not accepted. Checks are enfo
+ rced. CALIBRATION from the 2025 field (n=34): winner 3:02:21\, median 5:
+ 24:37 (13.0 min/km)\, last finisher 8:03:43\, cut-off 11.5 h. Your targe
+ t is 6:15-6:45. The 25K is the final 25 km of the 50K route - the organi
+ ser gave the SHORT race the STEEPEST ground\, 80 m/km against 63.5 for t
+ he 50K. PACING - the single strongest result in the literature (n=23\,20
+ 7): in 91% of races\, slower finishers overspent in the FIRST segment\; 
+ after the opening everyone paces the rest alike. The damage is done at t
+ he start. Hike every gradient above 15% from the gun. HR: race average 1
+ 38-150\, climb ceiling 155\, descents 120-140. Above 160 for two minutes
+  on a climb\, walk. Your 17 km run averaged 163 - you cannot hold that f
+ or six hours. THE DESCENT IS THE RACE. Racing the first steep descent sa
+ ves ~10 minutes and costs 17-46 minutes later: 3:1 to 5:1 against\, befo
+ re you count the fall risk. And it will never feel hard - VO2 on descent
+ s is only 79% of threshold versus 100% uphill\, so your breathing will t
+ ell you nothing. That is the trap. Short steps\, 185-195 spm\, gaze 4-5 
+ m ahead on the second upcoming foothold\, walk the stone staircases\, zi
+ g-zag the wet sections. IN-RACE DIAGNOSTIC: compare climb rate per heart
+ beat on the second climb against the first. More than 5% worse means you
+  overcooked the descent - concede ten minutes immediately and save the d
+ ay. FUEL: 60-75 g/h at 2:1 glucose:fructose\, drink to thirst\, skip the
+  salt capsules (no evidence they prevent hyponatraemia or cramp). Carb l
+ oad 8-10 g/kg for 36-48 h = 450-560 g. Caffeine ~100 mg at 3 h and 75-10
+ 0 mg at 4.5 h\, 150-200 mg total - do not scale from 70 kg examples. WEA
+ THER: use Santana on the north coast\, not Funchal - 18 C max\, 110 mm o
+ f rain across ~40% of days. Wet basalt and hypothermia are the risks her
+ e\, not heat. Bib pickup Fri 30 Oct or Sat 31 Oct\, 18:00-20:00\, Machic
+ o Forum. No crew\, no pacers\, no drop bags.\n0 days to Ultra X Madeira 
+ 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w17-s3-easy@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w17-s3-easy@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:SHAKEOUT 30 MIN easy\, two days out. This run…
@@ -3407,12 +3461,13 @@ DESCRIPTION:SHAKEOUT 30 MIN easy\, two days out. This run exists to hold
  a on the north coast\, not Funchal - 18 C max\, 110 mm of rain across ~4
  0% of days. Wet basalt and hypothermia are the risks here\, not heat. Bi
  b pickup Fri 30 Oct or Sat 31 Oct\, 18:00-20:00\, Machico Forum. No crew
- \, no pacers\, no drop bags.\n2 days to Ultra X Madeira 25K.
+ \, no pacers\, no drop bags.\n2 days to Ultra X Madeira 25K (30.5 km act
+ ual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ultraxmadeira25k-w17-s4-swim@garmin-training
-DTSTAMP:20260909T221010Z
+UID:ultraxmadeira25k305kmactual-w17-s4-swim@garmin-training
+DTSTAMP:20260909T224633Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:≈ SWIM 30 min
@@ -3457,7 +3512,7 @@ DESCRIPTION:SWIM 30 min - technique. Same session every week until Novemb
  t Funchal - 18 C max\, 110 mm of rain across ~40% of days. Wet basalt an
  d hypothermia are the risks here\, not heat. Bib pickup Fri 30 Oct or Sa
  t 31 Oct\, 18:00-20:00\, Machico Forum. No crew\, no pacers\, no drop ba
- gs.\n7 days to Ultra X Madeira 25K.
+ gs.\n7 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
