@@ -16,9 +16,9 @@
       "number": 1,
       "start": "2026-11-15",
       "end": "2026-11-21",
-      "phase": "Base",
+      "phase": "Re-entry",
       "down_week": false,
-      "note": "Post-Madeira rebuild. Vertical jump stays depressed ~18 days after an ultra, so nothing hard.",
+      "note": "RE-ENTRY. Vertical jump stays depressed ~18 days after an ultra, so this is easy running and nothing else. Durability is the through-line of the whole block: long sessions over 90 min are what preserve running economy under fatigue, which is the 70.3 run leg in one sentence.",
       "sessions": [
         {
           "kind": "long",
@@ -70,9 +70,9 @@
       "number": 2,
       "start": "2026-11-22",
       "end": "2026-11-28",
-      "phase": "Base",
+      "phase": "Re-entry",
       "down_week": false,
-      "note": "5 KM RETEST Tuesday - this sets every pace in the block.",
+      "note": "RE-ENTRY. 5 KM RETEST Tuesday - it sets every pace below. Nothing else hard.",
       "sessions": [
         {
           "kind": "long",
@@ -131,9 +131,9 @@
       "number": 3,
       "start": "2026-11-29",
       "end": "2026-12-05",
-      "phase": "Base",
+      "phase": "Threshold",
       "down_week": false,
-      "note": "Volume starts moving. Runs go to three.",
+      "note": "THRESHOLD BLOCK opens. Pfitzinger's order: threshold first, VO2max later as the race approaches. Two quality touches a week - Tuesday's session and a threshold finish on the long run. Quality volume stays inside 20-25% of weekly mileage, which is the Norwegian rule and the one that keeps this repeatable.",
       "sessions": [
         {
           "kind": "long",
@@ -151,7 +151,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "8 x 400 m at 5K effort, 90 s jog. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "label": "THRESHOLD 4 x 1 km at 5:15/km, 90 s jog. First quality session of the block - deliberately conservative. Warm up 15 min + 4 x 100 m AT 5:15/km and no faster. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 9
         },
@@ -198,14 +198,14 @@
       "number": 4,
       "start": "2026-12-06",
       "end": "2026-12-12",
-      "phase": "Build",
+      "phase": "Threshold",
       "down_week": false,
-      "note": "Threshold enters. This is the intensity the whole season has been missing.",
+      "note": "THRESHOLD. Sub-threshold means controlled, not max. If you cannot finish the last rep at the same pace as the first, you ran the first too fast.",
       "sessions": [
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. No threshold finish this week - Tuesday's session already spends the quality budget, and quality volume stays inside 20-25% of weekly mileage.",
           "km": 12,
           "minutes": null
         },
@@ -218,7 +218,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "THRESHOLD 4 x 1.5 km at retest pace, 90 s jog. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "label": "THRESHOLD 4 x 1.5 km at 5:15/km, 90 s jog. Controlled, not max. Ceiling as well as target: if HR drifts past 183 on the last two, you started too fast. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 11
         },
@@ -265,14 +265,14 @@
       "number": 5,
       "start": "2026-12-13",
       "end": "2026-12-19",
-      "phase": "Build",
+      "phase": "Threshold",
       "down_week": false,
-      "note": "Second threshold week. Hold the pace, not the effort.",
+      "note": "THRESHOLD. Long run passes 90 min this week - that is the durability threshold, and it is the single most transferable session to Venice.",
       "sessions": [
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 14 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "label": "Long easy run 14 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. No threshold finish this week - Tuesday's session already spends the quality budget, and quality volume stays inside 20-25% of weekly mileage.",
           "km": 14,
           "minutes": null
         },
@@ -285,7 +285,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "THRESHOLD 5 x 1.5 km, 90 s jog. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "label": "THRESHOLD 5 x 1.5 km at 5:15/km, 90 s jog. One rep more than last week, same pace. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 12
         },
@@ -338,9 +338,9 @@
       "number": 6,
       "start": "2026-12-20",
       "end": "2026-12-26",
-      "phase": "Build",
+      "phase": "Down",
       "down_week": true,
-      "note": "DOWN WEEK. Christmas. Volume down 30%, intensity down a notch.",
+      "note": "DOWN WEEK. Christmas. Volume down 30%, one quality touch, long run held.",
       "sessions": [
         {
           "kind": "long",
@@ -358,7 +358,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "4 x 1 km at 10K effort. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "label": "THRESHOLD 3 x 1.5 km at 5:15/km - down week, one rep fewer and no faster. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 9
         },
@@ -411,14 +411,14 @@
       "number": 7,
       "start": "2026-12-27",
       "end": "2027-01-02",
-      "phase": "Build",
+      "phase": "Sharpen",
       "down_week": false,
-      "note": "Biggest running week of the block.",
+      "note": "SHARPEN. VO2max enters now the race is close - 3-5 min efforts, the range where you accumulate real time at maximal oxygen uptake. Biggest running week of the block.",
       "sessions": [
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 16 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "label": "Long easy run 16 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at 5:15/km. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
           "km": 16,
           "minutes": null
         },
@@ -431,7 +431,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "5 x 1 km at 10K effort, 2 min jog. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "label": "VO2MAX 5 x 3 min at 5:00-5:10/km, 2 min jog. Three to five minutes is the range that accumulates real time at VO2max. PACE CEILING 5:00 - going faster shortens the session, it does not improve it. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 12
         },
@@ -490,14 +490,14 @@
       "number": 8,
       "start": "2027-01-03",
       "end": "2027-01-09",
-      "phase": "Peak",
+      "phase": "Sharpen",
       "down_week": false,
-      "note": "Taper into Egmond. Volume down, sharpness up.",
+      "note": "SHARPEN then taper. Volume down 15%, intensity held. Egmond is Sunday of next week.",
       "sessions": [
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at 5:15/km. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
           "km": 12,
           "minutes": null
         },
@@ -510,7 +510,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "6 x 800 m at 5K effort. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "label": "VO2MAX 4 x 4 min at 5:05/km, 3 min jog. Longer reps, one fewer. Last hard session before Egmond. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 11
         },
@@ -571,7 +571,7 @@
       "end": "2027-01-16",
       "phase": "Race",
       "down_week": false,
-      "note": "EGMOND 10.5 km Sunday 10 January - beach, dunes, soft sand, wind. Do not chase a road PB on it.",
+      "note": "EGMOND 10.5 km Sunday. Beach, dunes, soft sand. Then recover - the week after a race is not a training week.",
       "sessions": [
         {
           "kind": "swim",
@@ -630,12 +630,12 @@
       "end": "2027-01-23",
       "phase": "Bridge",
       "down_week": false,
-      "note": "Recovery, then the bike starts leading. Venice block opens 31 Jan.",
+      "note": "BRIDGE to Venice. Durability leads: the long run and the bike carry the block from here, and the running holds rather than builds.",
       "sessions": [
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at 5:15/km. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
           "km": 12,
           "minutes": null
         },
@@ -648,7 +648,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "Easy 8 km + strides. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "label": "Easy 8 km + 6 x 20 s strides. Nothing hard the week after a race. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 10
         },
@@ -709,12 +709,12 @@
       "end": "2027-01-30",
       "phase": "Bridge",
       "down_week": false,
-      "note": "Last week before the Venice block. Swim to 3 sessions, bike to three.",
+      "note": "BRIDGE. Last week before the Venice block opens 31 Jan. Swim and bike both to three.",
       "sessions": [
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 14 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "label": "Long easy run 14 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at 5:15/km. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
           "km": 14,
           "minutes": null
         },
@@ -727,7 +727,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "THRESHOLD 4 x 1.5 km. Warm up 15 min + strides finishing AT goal pace and no faster.",
+          "label": "THRESHOLD 5 x 1.5 km at whatever the retest and Egmond say your pace now is. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 12
         },
