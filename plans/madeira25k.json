@@ -473,10 +473,10 @@
       "note": "Cutback. Deliberate, and the reason matters: in trail runners, injury weeks were preceded by load DROPPING 16-24% then rebounding 15-37%. Yo-yo loading, not absolute load, is what precedes injury. This dip is planned and the rebound is controlled. RESHUFFLED 6 Sep: time trial held on Monday (Sunday is a full rest day, which is the setup a TT wants - 9.6 h sleep and HRV 98 the night before), pull moved to Tuesday as the recovery day, legs to Wednesday, easy 5 km to Friday, and Thursday's stairwell session replaced by casual football. Three runs held: TT, Friday easy, Saturday long. Push moved Wednesday -> Tuesday: Tuesday is now a single upper day and Wednesday is legs only. Easy run moved Friday -> Tuesday to sit directly after the time trial: hard/easy back to back for the train-low effect, and it moves run #3 out of the post-football Friday slot that has been the one getting skipped. Friday is now empty, which is the better setup for Saturday. Upper moved Tuesday -> Thursday morning: Tuesday is now the easy run alone, and the upper session sits ~12 h before football on legs it does not touch. TIME TRIAL RESULT 7 Sep: 5.01 km in 26:17 timer (31:20 elapsed - two auto-paused stops of 2.2 and 2.9 min), avg HR 182, peak 193, cadence 179. Splits 5:05 / 5:17 / 5:28 / 5:14 / 5:12. Previous best 5 km was 29:15 on 15 Mar, so a 36 s/km improvement. NOT a clean continuous 5 km: 81% of it sat at or above LTHR against 5% in the 1 Sep threshold session, and it opened at 4:09/km for 200 m. Baseline established: 5:15/km sustainable in 8-10 min blocks at HR 181-183, LTHR 181, form holds at 178-184 spm and 100-107 cm stride under duress. SUPERSEDED 8 Sep: retest set for Wednesday 16 September. Stream review showed the first 100 m ran at 3:50-4:00/km and 390 W with LTHR reached at 65 seconds, so 7 Sep measured a pacing error rather than fitness - it is not a retest but the first properly executed attempt. Wednesday, not Monday, so it sits three days clear of the Saturday long day instead of 40 hours. NOT A REAL DOWN WEEK IN PRACTICE: volume is down but intensity is not - a maximal time trial on Monday, an hour of football on Thursday and 500 m of vertical on Saturday is three hard days. Keep Tuesday and Friday genuinely easy, and if the shins are still talking by Thursday, football is the session that gives, not Saturday.",
       "sessions": [
         {
-          "kind": "cycling",
-          "label": "OPTIONAL easy spin 45-60 min - Sunday is now a REST day by default. Take the ride only if you feel good and Monday's run is easy. With a quality session on Monday you need this rest more than you need the ride.",
+          "kind": "vertical",
+          "label": "VERTICAL 50 min STEADY - stairwell, WALK UP and RIDE DOWN. This replaces Sunday's optional spin and recovers the vertical Saturday's trail did not provide. Riding down keeps the eccentric cost at zero the day after 17 km, which is the point. About 500-600 m of climbing keeps the ladder intact so next Saturday's 600 m at Zandvoort is a step rather than a leap.",
           "day": 0,
-          "minutes": 75
+          "minutes": 50
         },
         {
           "kind": "easy",
@@ -502,10 +502,10 @@
         },
         {
           "kind": "long",
-          "label": "LONG DAY 2:00, 500 m vert - upgraded from 1:30/400 m. This is the bridge in the vertical ladder: 500 m here keeps week 11's 600 m at +20% rather than a jump off 400 m. It is also over four times your best long-day vertical ever (118 m), so the vertical is the session - the kilometres are incidental. Expect legs 36 h off an hour of football, so start conservatively and let the vertical, not the pace, be the target. Floor is 500 m if Friday feels rough.",
+          "label": "LONG RUN 17 km EASY, HR under 155 - NS VERLENGDE HEUVELRUG TRAIL with Antam, Driebergen-Zeist to Soest Zuid, he carries on to Hilversum for his 28. Drift dunes, heath, pine and deciduous forest. WHY 17 AND NOT 27: your longest run in the last 30 days is 20.0 km (29 Aug), and the metric that actually predicts injury is single-session distance against the 30-day longest - 30% over is where risk rises 64%. 27 km is 135%, 17 km is 85%. WHY 17 AND NOT THE PLANNED 13: you have run 7.5 km this week against a planned 23, so the down week already happened by accident; 17 brings the week to about 24.5 km. COST: 192 m of vert across the full 28 km means you get roughly 120 m, not the 500 this session was carrying. Recover it Sunday.",
           "day": 6,
           "minutes": 120,
-          "km": 13
+          "km": 17.0
         },
         {
           "kind": "benchmark",
