@@ -534,7 +534,7 @@
       "end": "2026-09-19",
       "phase": "Build",
       "down_week": false,
-      "note": "Time trial dropped - this reverts to the standard build week, identical in shape to week 12: VO2max Monday, legs and the descent ladder Tuesday, sub-threshold and push Wednesday, the stairwell and pull Thursday, long day Saturday. Sunday 13 Sep's vertical was not done, so Thursday's 50 min stairwell is the only climbing before Saturday's 600 m at Zandvoort - that session is the one that cannot move. The 5 km retest is not rescheduled: the threshold anchor of HR 175-180 at 5:25-5:35/km already comes from the 1 Sep intervals, and pace over 5 km is not what decides Madeira. PROGRESS METRIC: a standardised easy run - same route, same target HR, pace tracked month to month.",
+      "note": "Time trial dropped - standard build week, same shape as week 12: VO2max Monday, legs and the descent ladder Tuesday, sub-threshold and push Wednesday, stairwell and pull Thursday morning, FOOTBALL Thursday evening (probably the last one - wear the watch), long day Saturday. Sunday 13 Sep's vertical was not done, so Thursday's 40 min stairwell is the only climbing before Saturday's 600 m at Zandvoort. WITH football this week runs 83/10/7 easy/moderate/hard by time; from week 12 without it, 92/4/4 - which is why the sub-threshold Wednesday earns its place once football stops and not before. The 5 km retest is not rescheduled: the threshold anchor of HR 175-180 at 5:25-5:35/km already comes from the 1 Sep intervals, and 5 km pace is not what decides Madeira. PROGRESS METRIC: a standardised easy run - same route, same target HR, pace tracked month to month.",
       "sessions": [
         {
           "kind": "swim",
@@ -572,6 +572,12 @@
           "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed."
         },
         {
+          "kind": "cross",
+          "day": 4,
+          "minutes": 60,
+          "label": "FOOTBALL 21:00 - casual 8-a-side, 1 hour. PROBABLY THE LAST ONE. Wear the watch. Recreational small-sided football runs at 84-87% of HRmax with 16-45% of playing time above 90% - for you that is a mean of HR 168-174 with roughly 10 min above your LTHR of 181, so this is a genuine quality session and not a social kickabout. It has been invisible in every number you have looked at: zero football activities in 2.5 years of Garmin data, which is why training load, ACWR and readiness have all been reading low. Record it. If the game does not happen, do nothing extra - do NOT replace it."
+        },
+        {
           "kind": "pull",
           "day": 4,
           "label": "Pull (upper) - after the vertical session, on legs it does not touch. Rows, pull-ups, rear delts, biceps. Upper work is free against the running and descent load, which is why it survives every reshuffle. Grip work stays - dead hangs 3 x max and a heavy carry - not for Hyrox any more but because grip is a genuine weakness and it costs three minutes."
@@ -579,8 +585,8 @@
         {
           "kind": "vertical",
           "day": 4,
-          "minutes": 50,
-          "label": "VERTICAL 50 min STEADY - stairwell, your own building or a car park. WALK UP, LIFT DOWN. This is a CLIMBING session and the descent is NOT the point: riding down keeps the eccentric cost at zero, which is deliberate, because the descent stimulus is dosed separately, in the 5 min weighted preconditioning walks (weeks 12 and 15 - one bout protects for 4-8 weeks, which is why they are spaced and not weekly). Target ~500 m, about 11 x 15 floors, at roughly 600 m/h including lift transitions - already about twice Madeira's race climb rate of ~310 m/h, so it should feel steady and conversational, not hard. TIME IS THE PRESCRIPTION and vertical is only the check: finishing near 450 m is fine, do not chase the number by rushing the climbs. Dutch stair pitch is 30-33 deg, inside the optimal climbing range. THIS TRAINS THE ACTUAL LIMITER. Measured on Rinjani: you descend at 726 m/h but climb at 417 m/h. At Madeira the descent takes about 2.8 h whatever you do; the climb takes 4.8 h at your Rinjani rate and 3.3 h at 600 m/h. Every hour you save comes from the up, not the down. The 417 was measured waiting for family on a group trek so it is a floor, not a ceiling - and stairs give far faster vertical than trail, which is why this session is the lever."
+          "minutes": 40,
+          "label": "VERTICAL 40 min STEADY - stairwell, your own building or a car park. WALK UP, LIFT DOWN. This is a CLIMBING session and the descent is NOT the point: riding down keeps the eccentric cost at zero, which is deliberate, because the descent stimulus is dosed separately, in the 5 min weighted preconditioning walks (weeks 12 and 15 - one bout protects for 4-8 weeks, which is why they are spaced and not weekly). Target ~400 m, about 9 x 15 floors, at roughly 600 m/h including lift transitions - already about twice Madeira's race climb rate of ~310 m/h, so it should feel steady and conversational, not hard. TIME IS THE PRESCRIPTION and vertical is only the check: finishing near 350 m is fine, do not chase the number by rushing the climbs. Dutch stair pitch is 30-33 deg, inside the optimal climbing range. THIS TRAINS THE ACTUAL LIMITER. Measured on Rinjani: you descend at 726 m/h but climb at 417 m/h. At Madeira the descent takes about 2.8 h whatever you do; the climb takes 4.8 h at your Rinjani rate and 3.3 h at 600 m/h. Every hour you save comes from the up, not the down. The 417 was measured waiting for family on a group trek so it is a floor, not a ceiling - and stairs give far faster vertical than trail, which is why this session is the lever. TRIMMED FROM 50 MIN because football is the same evening - do this in the MORNING, leave 12 h, and keep it conversational. Walking up and riding down is zero eccentric, so it does not cost you the game; rushing it would."
         },
         {
           "kind": "long",
