@@ -534,35 +534,53 @@
       "end": "2026-09-19",
       "phase": "Build",
       "down_week": false,
-      "note": "Time trial week. Vertical drops for one week only; six more weeks of it remain. All three strength sessions kept - only the VO2max session goes, replaced by the trial.",
+      "note": "Time trial dropped - this reverts to the standard build week, identical in shape to week 12: VO2max Monday, legs and the descent ladder Tuesday, sub-threshold and push Wednesday, the stairwell and pull Thursday, long day Saturday. Sunday 13 Sep's vertical was not done, so Thursday's 50 min stairwell is the only climbing before Saturday's 600 m at Zandvoort - that session is the one that cannot move. The 5 km retest is not rescheduled: the threshold anchor of HR 175-180 at 5:25-5:35/km already comes from the 1 Sep intervals, and pace over 5 km is not what decides Madeira. PROGRESS METRIC: a standardised easy run - same route, same target HR, pace tracked month to month.",
       "sessions": [
         {
-          "kind": "vertical",
-          "label": "VERTICAL 50 min STEADY - stairwell, WALK UP and RIDE DOWN. Replaces the optional spin. Recovers the vertical Saturday's Heuvelrug trail did not provide - it carries only 192 m across 28 km, so the 17 km gave about 120 m against the 500 that session was holding in the ladder. Riding down keeps the eccentric cost at zero the day after 17 km, which is the point. About 500-600 m of climbing keeps next Saturday's 600 m at Zandvoort a step rather than a leap.",
+          "kind": "swim",
           "day": 0,
+          "minutes": 30,
+          "label": "SWIM 30 min - TECHNIQUE ONLY, and start now rather than in November. Breathing, body position, catch. Distance is irrelevant for the first six weeks. Non-impact, so it costs the Madeira block nothing, and it moves your Venice swim base from 23 weeks to 33. BOOK THE 1-ON-1 LESSONS THIS WEEK - 6 to 10 of them, and they are the highest-return line item in the entire season. You cannot self-coach a catch you have never felt."
+        },
+        {
+          "kind": "easy",
+          "label": "VO2MAX 5 x 3 min HARD, 2 min jog - this is the session the time trial displaced, and it is back. Warm up 15 min easy plus 3-4 RELAXED strides at about 5:15/km - not flat out, and nothing near the 2:30-3:27/km sprints that wrecked 7 Sep. Run the reps by feel at roughly 4:45-5:00/km. 3 min is too short for HR to settle, so do not judge fitness off the numbers inside the reps. Even splits: if rep 5 falls apart you started rep 1 too fast. Cool down 10 min.",
+          "day": 1,
+          "km": 9,
           "minutes": 50
         },
         {
-          "kind": "benchmark",
-          "label": "5 KM TIME TRIAL - SECOND ATTEMPT. 7 Sep measured a pacing error, not fitness: the first 100 m went at 3:50-4:00/km and 390 W, HR hit LTHR 181 at 65 seconds, and everything decayed from there. THE ONE RULE: the first 400 m does not go under 5:10/km. If the watch shows a 4 in the opening two minutes the race is already gone. Warm up 20 min easy + 4-6 strides finishing AT 5:15/km and NO faster. AUTO-PAUSE OFF. Out-and-back, 2.5 km each way, so wind cancels. Shirt off from the start. Target even 5:15-5:20/km throughout. If the shins burn, SLOW DOWN 10-15 s/km - do not stop. A continuous 27:30 beats a broken 26:17 because paces can be built from it.",
-          "day": 3,
-          "km": 5.0,
-          "minutes": null
-        },
-        {
-          "kind": "push",
-          "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed.",
-          "day": 1
+          "kind": "descent",
+          "day": 2,
+          "minutes": 10,
+          "label": "DESCENT LADDER - 10 min walking DOWN stairs with 5.6 kg, lift back up. About 220 m of descent. THIS SESSION IS FOR THE QUADS, NOT THE SHINS. On Rinjani (20 Aug 2024) you descended 2,682 m in a day with NO lower-leg symptoms, so tibialis tolerance under braking load is established and is not what this buys. What it buys is the repeated bout effect for the quads - one 20 min downhill bout protects for over 4 weeks, roughly 42% less soreness and 53% less CK - and Rinjani's protection expired 25 months ago. The trained variable is FOOTWEAR AND MODALITY, not rate and not metres. On Rinjani you averaged 732 m/h across 3.55 h of actual descending - that IS a 6 h Madeira (742 m/h over 2.7 h), held longer than the race asks, on legs that had climbed 1,180 m that morning and 1,574 m the day before. Rate is not your problem. What differs is that every metre was WALKED at cadence 132-140, in HIKING SHOES, with poles, 25 months ago. You will race in less shoe with the protection expired. Stairs are the specific tool here because Madeira is stepped and volcanic - technical ground forces lower eccentric velocity than smooth runnable downhill, which is why this beats dune reps."
         },
         {
           "kind": "legs",
-          "label": "Legs - MOVED TO THURSDAY, after the time trial. Heavy eccentric quad work 48 h before a 5 km measures your fitness through muscle damage, which was already baked into 7 Sep. Last legs session was 25 Aug - this one is not optional, and the lower-leg capacity block in it has never actually been done. Legs ONLY, no upper - heavy eccentric. Three quad lifts doing three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 85 kg (18 Aug: 75x6x3 with 4+ reps in reserve, so 1RM is nearer 100 - autoregulate to 2 REPS IN RESERVE and add 5 kg when the last set still feels easy), LOADED UNILATERAL Bulgarian split squat 3 x 8/leg with dumbbells, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg with 3-4 s lowering. Then Nordics 3 x 5 and single-leg calf raises. Never to failure. 48-72 h before the long day. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphill (very large effect), so descending is a frontal-plane hip problem and not only a quad problem - loaded Bulgarians carry that demand, which is why standalone side planks and cable abduction came out. LOWER-LEG CAPACITY, about 4 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, and eccentric dorsiflexion 3 x 10 slow against a band. The plan had NOTHING for the anterior lower leg and that is the tissue that failed on the 7 Sep time trial - it is also what controls the foot down on every descending step, which is 2,003 m of Madeira. Progress the load week to week. Keep the soleus and calf work as well; this is added capacity, not a substitution.",
-          "day": 4
+          "day": 2,
+          "label": "Legs ONLY, no upper - heavy eccentric. Three quad lifts doing three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 85 kg (18 Aug: 75x6x3 with 4+ reps in reserve, so 1RM is nearer 100 - autoregulate to 2 REPS IN RESERVE and add 5 kg when the last set still feels easy), LOADED UNILATERAL Bulgarian split squat 3 x 8/leg with dumbbells, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg with 3-4 s lowering. Then Nordics 3 x 5 and single-leg calf raises. Never to failure. 48-72 h before the long day. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphill (very large effect), so descending is a frontal-plane hip problem and not only a quad problem - loaded Bulgarians carry that demand, which is why standalone side planks and cable abduction came out. LOWER-LEG CAPACITY, about 4 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, and eccentric dorsiflexion 3 x 10 slow against a band. The plan had NOTHING for the anterior lower leg and that is the tissue that failed on the 7 Sep time trial - it is also what controls the foot down on every descending step, which is 2,003 m of Madeira. Progress the load week to week. Keep the soleus and calf work as well; this is added capacity, not a substitution."
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "km": 6.4,
+          "label": "SUB-THRESHOLD 5 x 3 min at HR 168-174, 60 s easy jog float between. Pace about 5:35-5:50/km - deliberately EASIER than your 5:25-5:35 threshold. This is the Norwegian singles session: sub-threshold work raises the threshold without the recovery cost of a true hard session, which is the only reason it can sit in the same week as the long day, the vertical and legs. It must not feel hard. If HR climbs past 176 you are running it as a threshold session and it will cost you Saturday - slow down. Warm up 10 min, cool down 10 min. If you arrive tired, run it easy and lose nothing."
+        },
+        {
+          "kind": "push",
+          "day": 3,
+          "label": "Push (upper) - after the easy run. Fresh, not on legs you just destroyed."
         },
         {
           "kind": "pull",
-          "label": "Pull (upper) - moved to Tuesday. Upper body only, nothing that loads the legs: the time trial is Wednesday and legs stay fresh until it is done. Grip work stays - dead hangs 3 x max and a heavy carry - not for Hyrox any more but because grip is a genuine weakness and it costs three minutes.",
-          "day": 2
+          "day": 4,
+          "label": "Pull (upper) - after the vertical session, on legs it does not touch. Rows, pull-ups, rear delts, biceps. Upper work is free against the running and descent load, which is why it survives every reshuffle. Grip work stays - dead hangs 3 x max and a heavy carry - not for Hyrox any more but because grip is a genuine weakness and it costs three minutes."
+        },
+        {
+          "kind": "vertical",
+          "day": 4,
+          "minutes": 50,
+          "label": "VERTICAL 50 min STEADY - stairwell, your own building or a car park. WALK UP, LIFT DOWN. This is a CLIMBING session and the descent is NOT the point: riding down keeps the eccentric cost at zero, which is deliberate, because the descent stimulus is dosed separately, in the 5 min weighted preconditioning walks (weeks 12 and 15 - one bout protects for 4-8 weeks, which is why they are spaced and not weekly). Target ~500 m, about 11 x 15 floors, at roughly 600 m/h including lift transitions - already about twice Madeira's race climb rate of ~310 m/h, so it should feel steady and conversational, not hard. TIME IS THE PRESCRIPTION and vertical is only the check: finishing near 450 m is fine, do not chase the number by rushing the climbs. Dutch stair pitch is 30-33 deg, inside the optimal climbing range. THIS TRAINS THE ACTUAL LIMITER. Measured on Rinjani: you descend at 726 m/h but climb at 417 m/h. At Madeira the descent takes about 2.8 h whatever you do; the climb takes 4.8 h at your Rinjani rate and 3.3 h at 600 m/h. Every hour you save comes from the up, not the down. The 417 was measured waiting for family on a group trek so it is a floor, not a ceiling - and stairs give far faster vertical than trail, which is why this session is the lever."
         },
         {
           "kind": "long",
@@ -570,25 +588,6 @@
           "day": 6,
           "minutes": 150,
           "km": 16
-        },
-        {
-          "kind": "easy",
-          "label": "Easy run 30-40 MIN, HR under 155. TIME TRIAL WEEK - this is a shakeout, not a session. The VO2max block comes back in week 12. Add 4 x 20 s strides at the end, relaxed, full recovery.",
-          "day": 1,
-          "km": 9,
-          "minutes": 50
-        },
-        {
-          "kind": "descent",
-          "day": 4,
-          "minutes": 10,
-          "label": "DESCENT LADDER - 10 min walking DOWN stairs with 5.6 kg, lift back up. About 220 m of descent. THIS SESSION IS FOR THE QUADS, NOT THE SHINS. On Rinjani (20 Aug 2024) you descended 2,682 m in a day with NO lower-leg symptoms, so tibialis tolerance under braking load is established and is not what this buys. What it buys is the repeated bout effect for the quads - one 20 min downhill bout protects for over 4 weeks, roughly 42% less soreness and 53% less CK - and Rinjani's protection expired 25 months ago. The trained variable is FOOTWEAR AND MODALITY, not rate and not metres. On Rinjani you averaged 732 m/h across 3.55 h of actual descending - that IS a 6 h Madeira (742 m/h over 2.7 h), held longer than the race asks, on legs that had climbed 1,180 m that morning and 1,574 m the day before. Rate is not your problem. What differs is that every metre was WALKED at cadence 132-140, in HIKING SHOES, with poles, 25 months ago. You will race in less shoe with the protection expired. Stairs are the specific tool here because Madeira is stepped and volcanic - technical ground forces lower eccentric velocity than smooth runnable downhill, which is why this beats dune reps."
-        },
-        {
-          "kind": "swim",
-          "day": 0,
-          "minutes": 30,
-          "label": "SWIM 30 min - TECHNIQUE ONLY, and start now rather than in November. Breathing, body position, catch. Distance is irrelevant for the first six weeks. Non-impact, so it costs the Madeira block nothing, and it moves your Venice swim base from 23 weeks to 33. BOOK THE 1-ON-1 LESSONS THIS WEEK - 6 to 10 of them, and they are the highest-return line item in the entire season. You cannot self-coach a catch you have never felt."
         }
       ]
     },
