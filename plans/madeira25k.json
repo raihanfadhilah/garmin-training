@@ -534,7 +534,7 @@
       "end": "2026-09-19",
       "phase": "Build",
       "down_week": false,
-      "note": "Time trial dropped - standard build week, same shape as week 12: VO2max Monday, legs and the descent ladder Tuesday, sub-threshold and push Wednesday, stairwell and pull Thursday morning, FOOTBALL Thursday evening (probably the last one - wear the watch), long day Saturday. Sunday 13 Sep's vertical was not done, so Thursday's 40 min stairwell is the only climbing before Saturday's 600 m at Zandvoort. WITH football this week runs 83/10/7 easy/moderate/hard by time; from week 12 without it, 92/4/4 - which is why the sub-threshold Wednesday earns its place once football stops and not before. The 5 km retest is not rescheduled: the threshold anchor of HR 175-180 at 5:25-5:35/km already comes from the 1 Sep intervals, and 5 km pace is not what decides Madeira. PROGRESS METRIC: a standardised easy run - same route, same target HR, pace tracked month to month.",
+      "note": "Time trial dropped - standard build week, same shape as week 12: VO2max Monday, legs and the descent ladder Tuesday, EASY RUN and push Wednesday (sub-threshold dropped this week only - football is the second quality session), stairwell and pull Thursday morning, FOOTBALL Thursday evening (probably the last one - wear the watch), long day Saturday. Sunday 13 Sep's vertical was not done, so Thursday's 40 min stairwell is the only climbing before Saturday's 600 m at Zandvoort. WITH football this week runs 83/10/7 easy/moderate/hard by time; from week 12 without it, 92/4/4 - which is why the sub-threshold Wednesday earns its place once football stops and not before. The 5 km retest is not rescheduled: the threshold anchor of HR 175-180 at 5:25-5:35/km already comes from the 1 Sep intervals, and 5 km pace is not what decides Madeira. PROGRESS METRIC: a standardised easy run - same route, same target HR, pace tracked month to month.",
       "sessions": [
         {
           "kind": "swim",
@@ -563,8 +563,8 @@
         {
           "kind": "easy",
           "day": 3,
-          "km": 6.4,
-          "label": "SUB-THRESHOLD 5 x 3 min at HR 168-174, 60 s easy jog float between. Pace about 5:35-5:50/km - deliberately EASIER than your 5:25-5:35 threshold. This is the Norwegian singles session: sub-threshold work raises the threshold without the recovery cost of a true hard session, which is the only reason it can sit in the same week as the long day, the vertical and legs. It must not feel hard. If HR climbs past 176 you are running it as a threshold session and it will cost you Saturday - slow down. Warm up 10 min, cool down 10 min. If you arrive tired, run it easy and lose nothing."
+          "km": 6.5,
+          "label": "EASY RUN 45 min, HR UNDER 155 - downgraded from sub-threshold 5 x 3 min for this week only; week 12 onward the sub-threshold Wednesday returns. Three reasons. Tuesday was the first heavy eccentric legs session in three weeks AND the first time the tibialis work has ever been done, so soreness peaks today. Sub-threshold pace of 5:35-5:50/km sits in the range that provokes the shins and easy pace does not, so running it hard would produce a data point that cannot be read - overload, or just Tuesday's lifting? And football tonight-tomorrow is already the week's second quality session, which is the premise the sub-threshold Wednesday depends on failing. Saturday's 600 m at Zandvoort is the week's priority and four times your best-ever long-day vertical. Run this genuinely easy - if HR drifts over 155, walk."
         },
         {
           "kind": "push",
