@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Ultra X Madeira 25K (30.5 km actual) training
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w1-s0-cycling@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
 SUMMARY:○ Easy ride 60-90 min
@@ -17,7 +17,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w1-s1-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
 SUMMARY:Easy run 4 km (talk test)
@@ -28,7 +28,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w1-s2-push@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
 SUMMARY:Push (upper)
@@ -38,7 +38,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w1-s3-legs@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:◆ Legs
@@ -49,7 +49,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w1-s4-vertical@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:▲ Vertical 20 min
@@ -66,7 +66,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w1-s5-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Easy run 5 km (talk test)
@@ -77,7 +77,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w1-s6-pull@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Pull (upper)
@@ -87,7 +87,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w1-s7-long@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
 SUMMARY:▲ Long run 7 km (talk test)
@@ -98,7 +98,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w2-s0-cycling@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
 SUMMARY:○ Easy ride 60-90 min
@@ -109,7 +109,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w2-s1-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 SUMMARY:Easy run 4 km (talk test)
@@ -120,7 +120,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w2-s2-push@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 SUMMARY:Push (upper)
@@ -130,7 +130,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w2-s3-legs@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
 SUMMARY:◆ Legs
@@ -141,7 +141,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w2-s4-vertical@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
 SUMMARY:▲ Vertical 25 min
@@ -158,7 +158,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w2-s5-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:Easy run 5 km (talk test)
@@ -169,7 +169,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w2-s6-pull@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:Pull (upper)
@@ -179,7 +179,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w2-s7-long@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
 SUMMARY:▲ Long run 8 km (talk test)
@@ -190,7 +190,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w3-s0-push@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
 SUMMARY:UPPER A (push-emphasis)
@@ -205,7 +205,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w3-s1-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
 SUMMARY:TALK TEST 5 km
@@ -222,7 +222,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w3-s2-legs@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 SUMMARY:◆ LOWER
@@ -238,7 +238,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w3-s3-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 SUMMARY:Easy run 4 km (talk test)
@@ -253,7 +253,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w3-s4-pull@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 SUMMARY:UPPER B (pull-emphasis)
@@ -268,7 +268,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w3-s5-vertical@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:▲ Vertical 25 min
@@ -289,7 +289,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w3-s6-eccentric@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:Controlled stair/ramp descents after the…
@@ -304,7 +304,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w4-s0-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
 SUMMARY:Easy 3 km
@@ -321,7 +321,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w4-s1-vertical@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 SUMMARY:▲ Optional vertical — hike Montjuic or Bunkers…
@@ -344,7 +344,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w4-s2-long@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:▲ Long run 6-7 km
@@ -361,7 +361,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w5-s0-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:Easy 4-5 km recovery jog
@@ -377,7 +377,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w5-s1-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Easy 5-6 km by feel
@@ -392,7 +392,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w5-s2-cycling@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
 SUMMARY:○ Easy bike ride instead of the long run (90 min)
@@ -408,7 +408,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w6-s0-cycling@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
 SUMMARY:○ Easy ride 60-90 min
@@ -423,7 +423,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w6-s1-cp_test@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
 SUMMARY:CP 3+12 power test
@@ -439,7 +439,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w6-s2-push@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
 SUMMARY:Push (upper)
@@ -453,7 +453,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w6-s3-legs@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:◆ Legs
@@ -468,7 +468,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w6-s4-vertical@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 SUMMARY:▲ Vertical 25 min
@@ -488,7 +488,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w6-s5-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:Easy run 6 km (talk test)
@@ -502,7 +502,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w6-s6-pull@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:Pull (upper)
@@ -516,7 +516,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w6-s7-long@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
 SUMMARY:▲ Long day 2h15 time-on-feet (17 km)
@@ -531,7 +531,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w7-s0-cycling@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
 SUMMARY:○ OPTIONAL easy ride 60-75 min
@@ -563,7 +563,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w7-s1-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Easy run 6 km
@@ -595,7 +595,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w7-s2-push@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Push (upper)
@@ -626,56 +626,55 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w7-s3-legs@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
 SUMMARY:◆ Legs ONLY\, no upper
 DESCRIPTION:Legs ONLY\, no upper - heavy eccentric. Three quad lifts doin
- g three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 85 
- kg (18 Aug: 75x6x3 with 4+ reps in reserve\, so 1RM is nearer 100 - auto
- regulate to 2 REPS IN RESERVE and add 5 kg when the last set still feels
-  easy)\, LOADED UNILATERAL Bulgarian split squat 3 x 8/leg with dumbbell
- s\, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg with 3-4 s lowering. The
- n Nordics 3 x 5 and single-leg calf raises. Never to failure. 48-72 h be
- fore the long day. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphil
- l (very large effect)\, so descending is a frontal-plane hip problem and
-  not only a quad problem - loaded Bulgarians carry that demand\, which i
- s why standalone side planks and cable abduction came out. HYROX SLED TE
- CHNIQUE at the end\, 8-10 x 12.5 m at 50-65% load (~100 kg)\, 60-90 s re
- st. TECHNIQUE ONLY\, never to fatigue. Forearms hooked on the posts\, 30
- -45 deg lean\, short choppy steps 20-30 cm at 3-4 per second\, and never
-  let the sled stop. Sled push is PURELY CONCENTRIC\, so it costs your de
- scent block nothing - which is why it is the one Hyrox station you can t
- rain now. At 56 kg you need 1.03x bodyweight of horizontal force to brea
- k a stationary sled versus 0.81x to keep one rolling\, so learning not t
- o stop is worth more to you than to anyone heavier. About 8 minutes.\n\n
- Week 7 of 17 - Build\nRESET WEEK. Two corrections that change everything
- . (1) You have steep terrain 20-25 MINUTES away - Zuid-Kennemerland dune
- s by train\, faces at 30-45%. I told you the nearest hills were 2.5-3 h\
- ; that was wrong. (2) Your plan's vertical is an ORDER OF MAGNITUDE shor
- t: 40 min/week is ~400 m against a 2\,003 m race. From here everything i
- s measured in time and vertical metres\, never kilometres. LOCKED WEEK S
- HAPE: Sun optional easy ride - MON REST - TUE legs + preconditioning wal
- k ONLY (this is THE eccentric day - keep it focused\, no upper) - WED ea
- sy run + strides + push - THU vertical + pull - FRI REST - SAT LONG DAY.
-  Eccentric work sits 48 h apart throughout: Tue heavy\, Thu moderate\, S
- at long. That spacing is the constraint - force loss needs 3 days to rec
- over and soreness 4\, so 24 h between eccentric sessions compounds damag
- e instead of building tolerance. Cutbacks weeks 10 and 13. CUT ORDER: (1
- ) Sunday ride\, (2) Thursday vertical. Never Saturday's long day or Tues
- day's legs. HYROX SEEDING STARTS: only via substitution inside Thursday'
- s pull session - erg warm-up\, farmers carry\, dead hangs. NOT wall ball
- s\, sandbag lunges or burpee broad jumps - those are all quad and eccent
- ric load competing directly with the descent block. NOT compromised runn
- ing - it breaks the 80/20 distribution Madeira needs. The point is to ar
- rive in November with technique and grip already built\, so the first tw
- o Hyrox weeks are productive instead of remedial.\n75 days to Ultra X Ma
- deira 25K (30.5 km actual).
+ g three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 95 
+ kg (25 Aug: 95x6x3 - autoregulate to 2 REPS IN RESERVE and add 5 kg when
+  the last set still feels easy)\, LOADED UNILATERAL Bulgarian split squa
+ t 3 x 8/leg with dumbbells\, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg
+  with 3-4 s lowering. Then Nordics 3 x 5 and single-leg calf raises. Nev
+ er to failure. 48-72 h before the long day. On a -15% descent hip drop i
+ s 23.7 mm vs 7.6 mm uphill (very large effect)\, so descending is a fron
+ tal-plane hip problem and not only a quad problem - loaded Bulgarians ca
+ rry that demand\, which is why standalone side planks and cable abductio
+ n came out. HYROX SLED TECHNIQUE at the end\, 8-10 x 12.5 m at 50-65% lo
+ ad (~100 kg)\, 60-90 s rest. TECHNIQUE ONLY\, never to fatigue. Forearms
+  hooked on the posts\, 30-45 deg lean\, short choppy steps 20-30 cm at 3
+ -4 per second\, and never let the sled stop. Sled push is PURELY CONCENT
+ RIC\, so it costs your descent block nothing - which is why it is the on
+ e Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of
+  horizontal force to break a stationary sled versus 0.81x to keep one ro
+ lling\, so learning not to stop is worth more to you than to anyone heav
+ ier. About 8 minutes.\n\nWeek 7 of 17 - Build\nRESET WEEK. Two correctio
+ ns that change everything. (1) You have steep terrain 20-25 MINUTES away
+  - Zuid-Kennemerland dunes by train\, faces at 30-45%. I told you the ne
+ arest hills were 2.5-3 h\; that was wrong. (2) Your plan's vertical is a
+ n ORDER OF MAGNITUDE short: 40 min/week is ~400 m against a 2\,003 m rac
+ e. From here everything is measured in time and vertical metres\, never 
+ kilometres. LOCKED WEEK SHAPE: Sun optional easy ride - MON REST - TUE l
+ egs + preconditioning walk ONLY (this is THE eccentric day - keep it foc
+ used\, no upper) - WED easy run + strides + push - THU vertical + pull -
+  FRI REST - SAT LONG DAY. Eccentric work sits 48 h apart throughout: Tue
+  heavy\, Thu moderate\, Sat long. That spacing is the constraint - force
+  loss needs 3 days to recover and soreness 4\, so 24 h between eccentric
+  sessions compounds damage instead of building tolerance. Cutbacks weeks
+  10 and 13. CUT ORDER: (1) Sunday ride\, (2) Thursday vertical. Never Sa
+ turday's long day or Tuesday's legs. HYROX SEEDING STARTS: only via subs
+ titution inside Thursday's pull session - erg warm-up\, farmers carry\, 
+ dead hangs. NOT wall balls\, sandbag lunges or burpee broad jumps - thos
+ e are all quad and eccentric load competing directly with the descent bl
+ ock. NOT compromised running - it breaks the 80/20 distribution Madeira 
+ needs. The point is to arrive in November with technique and grip alread
+ y built\, so the first two Hyrox weeks are productive instead of remedia
+ l.\n75 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w7-s4-vertical@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:▲ VERTICAL 45 min
@@ -715,7 +714,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w7-s5-pull@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:Pull (upper)
@@ -755,7 +754,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w7-s6-long@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:▲ LONG DAY 1:50 time-on-feet\, 300 m vert (13 km)
@@ -787,7 +786,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w7-s7-descent@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
 SUMMARY:▼ PRECONDITIONING DOWNHILL WALK
@@ -821,7 +820,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w8-s0-cycling@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -843,7 +842,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w8-s1-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Easy run 6 km
@@ -864,7 +863,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w8-s2-push@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Push (upper)
@@ -884,45 +883,44 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w8-s3-legs@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:◆ Legs ONLY\, no upper
 DESCRIPTION:Legs ONLY\, no upper - heavy eccentric. Three quad lifts doin
- g three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 85 
- kg (18 Aug: 75x6x3 with 4+ reps in reserve\, so 1RM is nearer 100 - auto
- regulate to 2 REPS IN RESERVE and add 5 kg when the last set still feels
-  easy)\, LOADED UNILATERAL Bulgarian split squat 3 x 8/leg with dumbbell
- s\, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg with 3-4 s lowering. The
- n Nordics 3 x 5 and single-leg calf raises. Never to failure. 48-72 h be
- fore the long day. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphil
- l (very large effect)\, so descending is a frontal-plane hip problem and
-  not only a quad problem - loaded Bulgarians carry that demand\, which i
- s why standalone side planks and cable abduction came out. HYROX SLED TE
- CHNIQUE at the end\, 8-10 x 12.5 m at 50-65% load (~100 kg)\, 60-90 s re
- st. TECHNIQUE ONLY\, never to fatigue. Forearms hooked on the posts\, 30
- -45 deg lean\, short choppy steps 20-30 cm at 3-4 per second\, and never
-  let the sled stop. Sled push is PURELY CONCENTRIC\, so it costs your de
- scent block nothing - which is why it is the one Hyrox station you can t
- rain now. At 56 kg you need 1.03x bodyweight of horizontal force to brea
- k a stationary sled versus 0.81x to keep one rolling\, so learning not t
- o stop is worth more to you than to anyone heavier. About 8 minutes.\n\n
- Week 8 of 17 - Build\nPoles introduced this week. They save little metab
- olically but cut RPE 14-18% and measurably reduce muscle damage over a c
- limb-and-descent day. Length = height x 0.67 = 107 cm\, so 105 cm is the
-  correct fit (Mountain King chart: 155-165 cm -> 105 cm). Nobody manufac
- tures 93 cm - 100 cm is the shortest size made. Decathlon only sells 110
- /120/130\, and its own chart puts 155-171 cm on 110\, which is also what
-  sub-165 cm coaches actually run. Buy the Kiprun 500 aluminium at 110 cm
- \, EUR 70. Aluminium bends where carbon snaps\, which is the right failu
- re mode on wet basalt for a first-time pole user. Ultra X's 2026 race ru
- les contain no restriction on poles.\n68 days to Ultra X Madeira 25K (30
- .5 km actual).
+ g three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 95 
+ kg (25 Aug: 95x6x3 - autoregulate to 2 REPS IN RESERVE and add 5 kg when
+  the last set still feels easy)\, LOADED UNILATERAL Bulgarian split squa
+ t 3 x 8/leg with dumbbells\, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg
+  with 3-4 s lowering. Then Nordics 3 x 5 and single-leg calf raises. Nev
+ er to failure. 48-72 h before the long day. On a -15% descent hip drop i
+ s 23.7 mm vs 7.6 mm uphill (very large effect)\, so descending is a fron
+ tal-plane hip problem and not only a quad problem - loaded Bulgarians ca
+ rry that demand\, which is why standalone side planks and cable abductio
+ n came out. HYROX SLED TECHNIQUE at the end\, 8-10 x 12.5 m at 50-65% lo
+ ad (~100 kg)\, 60-90 s rest. TECHNIQUE ONLY\, never to fatigue. Forearms
+  hooked on the posts\, 30-45 deg lean\, short choppy steps 20-30 cm at 3
+ -4 per second\, and never let the sled stop. Sled push is PURELY CONCENT
+ RIC\, so it costs your descent block nothing - which is why it is the on
+ e Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of
+  horizontal force to break a stationary sled versus 0.81x to keep one ro
+ lling\, so learning not to stop is worth more to you than to anyone heav
+ ier. About 8 minutes.\n\nWeek 8 of 17 - Build\nPoles introduced this wee
+ k. They save little metabolically but cut RPE 14-18% and measurably redu
+ ce muscle damage over a climb-and-descent day. Length = height x 0.67 = 
+ 107 cm\, so 105 cm is the correct fit (Mountain King chart: 155-165 cm -
+ > 105 cm). Nobody manufactures 93 cm - 100 cm is the shortest size made.
+  Decathlon only sells 110/120/130\, and its own chart puts 155-171 cm on
+  110\, which is also what sub-165 cm coaches actually run. Buy the Kipru
+ n 500 aluminium at 110 cm\, EUR 70. Aluminium bends where carbon snaps\,
+  which is the right failure mode on wet basalt for a first-time pole use
+ r. Ultra X's 2026 race rules contain no restriction on poles.\n68 days t
+ o Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w8-s4-vertical@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:▲ VERTICAL 55 min
@@ -951,7 +949,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w8-s5-pull@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Pull (upper)
@@ -979,7 +977,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w8-s6-long@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:▲ LONG DAY 2:05\, 500 m vert (14 km)
@@ -999,7 +997,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w8-s7-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:NEW SPEED SLOT (5 km)
@@ -1027,7 +1025,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w9-s0-cycling@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -1058,7 +1056,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w9-s1-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Easy run 7 km
@@ -1088,7 +1086,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w9-s2-push@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Push (upper)
@@ -1117,54 +1115,53 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w9-s3-legs@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:◆ Legs ONLY\, no upper
 DESCRIPTION:Legs ONLY\, no upper - heavy eccentric. Three quad lifts doin
- g three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 85 
- kg (18 Aug: 75x6x3 with 4+ reps in reserve\, so 1RM is nearer 100 - auto
- regulate to 2 REPS IN RESERVE and add 5 kg when the last set still feels
-  easy)\, LOADED UNILATERAL Bulgarian split squat 3 x 8/leg with dumbbell
- s\, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg with 3-4 s lowering. The
- n Nordics 3 x 5 and single-leg calf raises. Never to failure. 48-72 h be
- fore the long day. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphil
- l (very large effect)\, so descending is a frontal-plane hip problem and
-  not only a quad problem - loaded Bulgarians carry that demand\, which i
- s why standalone side planks and cable abduction came out. HYROX SLED TE
- CHNIQUE at the end\, 8-10 x 12.5 m at 50-65% load (~100 kg)\, 60-90 s re
- st. TECHNIQUE ONLY\, never to fatigue. Forearms hooked on the posts\, 30
- -45 deg lean\, short choppy steps 20-30 cm at 3-4 per second\, and never
-  let the sled stop. Sled push is PURELY CONCENTRIC\, so it costs your de
- scent block nothing - which is why it is the one Hyrox station you can t
- rain now. At 56 kg you need 1.03x bodyweight of horizontal force to brea
- k a stationary sled versus 0.81x to keep one rolling\, so learning not t
- o stop is worth more to you than to anyone heavier. About 8 minutes.\n\n
- Week 9 of 17 - Build\nGUT TRAINING STARTS. Target 60-80 g carb/h by week
-  14\, from 40-50 now\, +10 g every two weeks. No drop bags and no crew a
- t Madeira - only ~2 checkpoints\, ~10 km apart - so you carry 400-500 g 
- of carbohydrate yourself. Rehearse the weight and the stowage\, not just
-  the products. INTENSITY STARTS THIS WEEK\, on flat ground: Thursday's v
- ertical stays STEADY because Hyrox is 8 x 1 km flat and stair fitness do
- es not transfer. Target distribution is 80-85% easy\, 15-20% hard. ORDER
-  CHANGED 31 Aug - threshold Mon -> Tue\, legs Tue -> Wed\, easy run + pu
- sh Wed -> Mon. Reason is measurement\, not fatigue: resting HR was 55 ag
- ainst a 50-52 baseline and HRV 78 against an 89 weekly average\, which d
- istorts the HR-work relationship in both directions. This is the first s
- tructured interval session of the block and its job is to establish what
-  threshold feels like - a reference set on a distorted day gets trained 
- off for weeks. Load is unchanged: three runs\, two gym sessions\, one ve
- rtical\, one rest day\, Friday still free. Legs on Wednesday keeps 72 h 
- before the long day\, the outer edge of the 48-72 h rule. Push stays pai
- red with the easy run\, pull with the vertical. STOPPING RULE: the thres
- hold session happens Tuesday regardless of readiness unless sleep is und
- er 6 h or HRV drops below 70.\n60 days to Ultra X Madeira 25K (30.5 km a
- ctual).
+ g three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 95 
+ kg (25 Aug: 95x6x3 - autoregulate to 2 REPS IN RESERVE and add 5 kg when
+  the last set still feels easy)\, LOADED UNILATERAL Bulgarian split squa
+ t 3 x 8/leg with dumbbells\, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg
+  with 3-4 s lowering. Then Nordics 3 x 5 and single-leg calf raises. Nev
+ er to failure. 48-72 h before the long day. On a -15% descent hip drop i
+ s 23.7 mm vs 7.6 mm uphill (very large effect)\, so descending is a fron
+ tal-plane hip problem and not only a quad problem - loaded Bulgarians ca
+ rry that demand\, which is why standalone side planks and cable abductio
+ n came out. HYROX SLED TECHNIQUE at the end\, 8-10 x 12.5 m at 50-65% lo
+ ad (~100 kg)\, 60-90 s rest. TECHNIQUE ONLY\, never to fatigue. Forearms
+  hooked on the posts\, 30-45 deg lean\, short choppy steps 20-30 cm at 3
+ -4 per second\, and never let the sled stop. Sled push is PURELY CONCENT
+ RIC\, so it costs your descent block nothing - which is why it is the on
+ e Hyrox station you can train now. At 56 kg you need 1.03x bodyweight of
+  horizontal force to break a stationary sled versus 0.81x to keep one ro
+ lling\, so learning not to stop is worth more to you than to anyone heav
+ ier. About 8 minutes.\n\nWeek 9 of 17 - Build\nGUT TRAINING STARTS. Targ
+ et 60-80 g carb/h by week 14\, from 40-50 now\, +10 g every two weeks. N
+ o drop bags and no crew at Madeira - only ~2 checkpoints\, ~10 km apart 
+ - so you carry 400-500 g of carbohydrate yourself. Rehearse the weight a
+ nd the stowage\, not just the products. INTENSITY STARTS THIS WEEK\, on 
+ flat ground: Thursday's vertical stays STEADY because Hyrox is 8 x 1 km 
+ flat and stair fitness does not transfer. Target distribution is 80-85% 
+ easy\, 15-20% hard. ORDER CHANGED 31 Aug - threshold Mon -> Tue\, legs T
+ ue -> Wed\, easy run + push Wed -> Mon. Reason is measurement\, not fati
+ gue: resting HR was 55 against a 50-52 baseline and HRV 78 against an 89
+  weekly average\, which distorts the HR-work relationship in both direct
+ ions. This is the first structured interval session of the block and its
+  job is to establish what threshold feels like - a reference set on a di
+ storted day gets trained off for weeks. Load is unchanged: three runs\, 
+ two gym sessions\, one vertical\, one rest day\, Friday still free. Legs
+  on Wednesday keeps 72 h before the long day\, the outer edge of the 48-
+ 72 h rule. Push stays paired with the easy run\, pull with the vertical.
+  STOPPING RULE: the threshold session happens Tuesday regardless of read
+ iness unless sleep is under 6 h or HRV drops below 70.\n60 days to Ultra
+  X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w9-s4-vertical@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:▲ VERTICAL 60 min STEADY
@@ -1205,7 +1202,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w9-s5-pull@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Pull (upper)
@@ -1242,7 +1239,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w9-s6-long@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:▲ LONG DAY 2:20\, 700 m vert\, fuelling 40-50 g/h (16 km)
@@ -1271,7 +1268,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w9-s7-descent@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:▼ KIT REHEARSAL: load the vest to ~2.6 kg with…
@@ -1303,7 +1300,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w9-s8-descent@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:▼ PRECONDITIONING DOWNHILL WALK
@@ -1335,7 +1332,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w9-s9-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:THRESHOLD 4 x 4 min\, 90 s easy jog between.…
@@ -1369,7 +1366,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w10-s0-cycling@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -1414,7 +1411,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w10-s1-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Easy run 35 MIN (talk test) (4.8 km)
@@ -1469,7 +1466,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w10-s2-push@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Push (upper)
@@ -1517,7 +1514,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w10-s3-legs@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:◆ Legs ONLY\, no upper
@@ -1561,7 +1558,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w10-s4-pull@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Pull (upper)
@@ -1609,7 +1606,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w10-s5-long@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:▲ LONG RUN 17 km EASY\, HR under 155 (120 min)
@@ -1663,7 +1660,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w10-s6-benchmark@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:5 KM TIME TRIAL (5 km)
@@ -1715,7 +1712,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w10-s7-cross@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:FOOTBALL 21:00 (60 min)
@@ -1765,7 +1762,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w10-s8-descent@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:▼ DESCENT LADDER (6 min)
@@ -1825,7 +1822,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w11-s0-swim@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:≈ SWIM 30 min
@@ -1854,7 +1851,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w11-s1-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:VO2MAX 5 x 3 min HARD\, 2 min jog (9 km)
@@ -1884,7 +1881,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w11-s2-descent@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:▼ DESCENT LADDER (10 min)
@@ -1924,48 +1921,47 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w11-s3-legs@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:◆ Legs ONLY\, no upper
 DESCRIPTION:Legs ONLY\, no upper - heavy eccentric. Three quad lifts doin
- g three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 85 
- kg (18 Aug: 75x6x3 with 4+ reps in reserve\, so 1RM is nearer 100 - auto
- regulate to 2 REPS IN RESERVE and add 5 kg when the last set still feels
-  easy)\, LOADED UNILATERAL Bulgarian split squat 3 x 8/leg with dumbbell
- s\, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg with 3-4 s lowering. The
- n Nordics 3 x 5 and single-leg calf raises. Never to failure. 48-72 h be
- fore the long day. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphil
- l (very large effect)\, so descending is a frontal-plane hip problem and
-  not only a quad problem - loaded Bulgarians carry that demand\, which i
- s why standalone side planks and cable abduction came out. LOWER-LEG CAP
- ACITY\, about 4 min at the end: tibialis anterior raises 3 x 15-20 (heel
- s on a step\, toes lifting)\, heel walks 2 x 20 m\, and eccentric dorsif
- lexion 3 x 10 slow against a band. The plan had NOTHING for the anterior
-  lower leg and that is the tissue that failed on the 7 Sep time trial - 
- it is also what controls the foot down on every descending step\, which 
- is 2\,003 m of Madeira. Progress the load week to week. Keep the soleus 
- and calf work as well\; this is added capacity\, not a substitution.\n\n
- Week 11 of 17 - Build\nTime trial dropped - standard build week\, same s
- hape as week 12: VO2max Monday\, legs and the descent ladder Tuesday\, E
- ASY RUN and push Wednesday (sub-threshold dropped this week only - footb
- all is the second quality session)\, stairwell and pull Thursday morning
- \, FOOTBALL Thursday evening (probably the last one - wear the watch)\, 
- long day Saturday. Sunday 13 Sep's vertical was not done\, so Thursday's
-  40 min stairwell is the only climbing before Saturday's 600 m at Zandvo
- ort. WITH football this week runs 83/10/7 easy/moderate/hard by time\; f
- rom week 12 without it\, 92/4/4 - which is why the sub-threshold Wednesd
- ay earns its place once football stops and not before. The 5 km retest i
- s not rescheduled: the threshold anchor of HR 175-180 at 5:25-5:35/km al
- ready comes from the 1 Sep intervals\, and 5 km pace is not what decides
-  Madeira. PROGRESS METRIC: a standardised easy run - same route\, same t
- arget HR\, pace tracked month to month.\n47 days to Ultra X Madeira 25K 
- (30.5 km actual).
+ g three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 95 
+ kg (25 Aug: 95x6x3 - autoregulate to 2 REPS IN RESERVE and add 5 kg when
+  the last set still feels easy)\, LOADED UNILATERAL Bulgarian split squa
+ t 3 x 8/leg with dumbbells\, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg
+  with 3-4 s lowering. Then Nordics 3 x 5 and single-leg calf raises. Nev
+ er to failure. 48-72 h before the long day. On a -15% descent hip drop i
+ s 23.7 mm vs 7.6 mm uphill (very large effect)\, so descending is a fron
+ tal-plane hip problem and not only a quad problem - loaded Bulgarians ca
+ rry that demand\, which is why standalone side planks and cable abductio
+ n came out. LOWER-LEG CAPACITY\, about 4 min at the end: tibialis anteri
+ or raises 3 x 15-20 (heels on a step\, toes lifting)\, heel walks 2 x 20
+  m\, and eccentric dorsiflexion 3 x 10 slow against a band. The plan had
+  NOTHING for the anterior lower leg and that is the tissue that failed o
+ n the 7 Sep time trial - it is also what controls the foot down on every
+  descending step\, which is 2\,003 m of Madeira. Progress the load week 
+ to week. Keep the soleus and calf work as well\; this is added capacity\
+ , not a substitution.\n\nWeek 11 of 17 - Build\nTime trial dropped - sta
+ ndard build week\, same shape as week 12: VO2max Monday\, legs and the d
+ escent ladder Tuesday\, EASY RUN and push Wednesday (sub-threshold dropp
+ ed this week only - football is the second quality session)\, stairwell 
+ and pull Thursday morning\, FOOTBALL Thursday evening (probably the last
+  one - wear the watch)\, long day Saturday. Sunday 13 Sep's vertical was
+  not done\, so Thursday's 40 min stairwell is the only climbing before S
+ aturday's 600 m at Zandvoort. WITH football this week runs 83/10/7 easy/
+ moderate/hard by time\; from week 12 without it\, 92/4/4 - which is why 
+ the sub-threshold Wednesday earns its place once football stops and not 
+ before. The 5 km retest is not rescheduled: the threshold anchor of HR 1
+ 75-180 at 5:25-5:35/km already comes from the 1 Sep intervals\, and 5 km
+  pace is not what decides Madeira. PROGRESS METRIC: a standardised easy 
+ run - same route\, same target HR\, pace tracked month to month.\n47 day
+ s to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w11-s4-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:EASY RUN 45 min\, HR UNDER 155 (6.5 km)
@@ -2000,7 +1996,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w11-s5-push@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Push (upper)
@@ -2024,7 +2020,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w11-s6-cross@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:FOOTBALL 21:00 (60 min)
@@ -2055,7 +2051,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w11-s7-pull@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Pull (upper)
@@ -2083,7 +2079,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w11-s8-vertical@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:▲ VERTICAL 40 min STEADY
@@ -2127,7 +2123,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w11-s9-long@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:▲ LONG DAY 2:30\, 600 m vert (16 km)
@@ -2162,7 +2158,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w12-s0-cycling@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -2182,7 +2178,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w12-s1-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:SUB-THRESHOLD 6 x 3 min at HR 168-174\, 60 s…
@@ -2208,7 +2204,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w12-s2-push@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Push (upper)
@@ -2226,42 +2222,42 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w12-s3-legs@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:◆ Legs ONLY\, no upper
 DESCRIPTION:Legs ONLY\, no upper - heavy eccentric. Three quad lifts doin
- g three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 85 
- kg (18 Aug: 75x6x3 with 4+ reps in reserve\, so 1RM is nearer 100 - auto
- regulate to 2 REPS IN RESERVE and add 5 kg when the last set still feels
-  easy)\, LOADED UNILATERAL Bulgarian split squat 3 x 8/leg with dumbbell
- s\, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg with 3-4 s lowering. The
- n Nordics 3 x 5 and single-leg calf raises. Never to failure. 48-72 h be
- fore the long day. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphil
- l (very large effect)\, so descending is a frontal-plane hip problem and
-  not only a quad problem - loaded Bulgarians carry that demand\, which i
- s why standalone side planks and cable abduction came out. LOWER-LEG CAP
- ACITY\, about 4 min at the end: tibialis anterior raises 3 x 15-20 (heel
- s on a step\, toes lifting)\, heel walks 2 x 20 m\, and eccentric dorsif
- lexion 3 x 10 slow against a band. The plan had NOTHING for the anterior
-  lower leg and that is the tissue that failed on the 7 Sep time trial - 
- it is also what controls the foot down on every descending step\, which 
- is 2\,003 m of Madeira. Progress the load week to week. Keep the soleus 
- and calf work as well\; this is added capacity\, not a substitution.\n\n
- Week 12 of 17 - Build\nBiggest vertical week so far\, ~2\,000-2\,300 m. 
- HR is now unreliable as a guide: in mountain ultras heart rate FALLS ~34
-  bpm across the race while RPE rises from 4.3 to 6.9. Pace off knee-exte
- nsor RPE - how your quads feel - not the watch. PROGRESS METRIC: do not 
- judge fitness off pace-at-HR inside the VO2max reps - 3 min is too short
-  for HR to settle and accumulated fatigue distorts it. Use a STANDARDISE
- D EASY RUN instead: same route\, same target HR\, track the pace month t
- o month. That is the signal that replaces retesting until mid-November.\
- n40 days to Ultra X Madeira 25K (30.5 km actual).
+ g three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 95 
+ kg (25 Aug: 95x6x3 - autoregulate to 2 REPS IN RESERVE and add 5 kg when
+  the last set still feels easy)\, LOADED UNILATERAL Bulgarian split squa
+ t 3 x 8/leg with dumbbells\, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg
+  with 3-4 s lowering. Then Nordics 3 x 5 and single-leg calf raises. Nev
+ er to failure. 48-72 h before the long day. On a -15% descent hip drop i
+ s 23.7 mm vs 7.6 mm uphill (very large effect)\, so descending is a fron
+ tal-plane hip problem and not only a quad problem - loaded Bulgarians ca
+ rry that demand\, which is why standalone side planks and cable abductio
+ n came out. LOWER-LEG CAPACITY\, about 4 min at the end: tibialis anteri
+ or raises 3 x 15-20 (heels on a step\, toes lifting)\, heel walks 2 x 20
+  m\, and eccentric dorsiflexion 3 x 10 slow against a band. The plan had
+  NOTHING for the anterior lower leg and that is the tissue that failed o
+ n the 7 Sep time trial - it is also what controls the foot down on every
+  descending step\, which is 2\,003 m of Madeira. Progress the load week 
+ to week. Keep the soleus and calf work as well\; this is added capacity\
+ , not a substitution.\n\nWeek 12 of 17 - Build\nBiggest vertical week so
+  far\, ~2\,000-2\,300 m. HR is now unreliable as a guide: in mountain ul
+ tras heart rate FALLS ~34 bpm across the race while RPE rises from 4.3 t
+ o 6.9. Pace off knee-extensor RPE - how your quads feel - not the watch.
+  PROGRESS METRIC: do not judge fitness off pace-at-HR inside the VO2max 
+ reps - 3 min is too short for HR to settle and accumulated fatigue disto
+ rts it. Use a STANDARDISED EASY RUN instead: same route\, same target HR
+ \, track the pace month to month. That is the signal that replaces retes
+ ting until mid-November.\n40 days to Ultra X Madeira 25K (30.5 km actual
+ ).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w12-s4-vertical@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:▲ VERTICAL 75 min STEADY
@@ -2296,7 +2292,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w12-s5-pull@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Pull (upper)
@@ -2318,7 +2314,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w12-s6-long@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:▲ LONG DAY 2:55\, 700 m vert\, full kit\, poles\, 60…
@@ -2351,7 +2347,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w12-s7-descent@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:▼ ZIG-ZAG AND SLIPPERY-SURFACE PRACTICE 45 min
@@ -2374,7 +2370,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w12-s8-descent@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:▼ DESCENT LADDER (16 min)
@@ -2408,7 +2404,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w12-s9-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:VO2MAX 5 x 3 min HARD\, 2 min jog. Same as last…
@@ -2428,7 +2424,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w12-s10-swim@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:≈ SWIM 30 min
@@ -2448,7 +2444,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w13-s0-cycling@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -2469,7 +2465,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w13-s1-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:SUB-THRESHOLD 4 x 3 min at HR 168-174\, 60 s…
@@ -2496,7 +2492,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w13-s2-push@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Push (upper)
@@ -2516,7 +2512,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w13-s3-legs@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:◆ Legs ONLY\, no upper
@@ -2543,7 +2539,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w13-s4-vertical@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:▲ VERTICAL 45 min STEADY
@@ -2579,7 +2575,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w13-s5-pull@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Pull (upper)
@@ -2603,7 +2599,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w13-s6-long@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:▲ LONG DAY 2:00\, 500 m vert. WHERE: LOCAL (13 km)
@@ -2625,7 +2621,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w13-s7-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:DOWN WEEK (7 km)
@@ -2646,7 +2642,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w13-s8-descent@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:▼ DESCENT LADDER (12 min)
@@ -2681,7 +2677,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w13-s9-swim@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:≈ SWIM 30 min
@@ -2702,7 +2698,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w14-s0-cycling@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -2727,7 +2723,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w14-s1-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:SUB-THRESHOLD 6 x 4 min at HR 168-174\, 60 s…
@@ -2758,7 +2754,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w14-s2-push@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Push (upper)
@@ -2781,47 +2777,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w14-s3-legs@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:◆ Legs ONLY\, no upper
 DESCRIPTION:Legs ONLY\, no upper - heavy eccentric. Three quad lifts doin
- g three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 85 
- kg (18 Aug: 75x6x3 with 4+ reps in reserve\, so 1RM is nearer 100 - auto
- regulate to 2 REPS IN RESERVE and add 5 kg when the last set still feels
-  easy)\, LOADED UNILATERAL Bulgarian split squat 3 x 8/leg with dumbbell
- s\, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg with 3-4 s lowering. The
- n Nordics 3 x 5 and single-leg calf raises. Never to failure. 48-72 h be
- fore the long day. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphil
- l (very large effect)\, so descending is a frontal-plane hip problem and
-  not only a quad problem - loaded Bulgarians carry that demand\, which i
- s why standalone side planks and cable abduction came out. LOWER-LEG CAP
- ACITY\, about 4 min at the end: tibialis anterior raises 3 x 15-20 (heel
- s on a step\, toes lifting)\, heel walks 2 x 20 m\, and eccentric dorsif
- lexion 3 x 10 slow against a band. The plan had NOTHING for the anterior
-  lower leg and that is the tissue that failed on the 7 Sep time trial - 
- it is also what controls the foot down on every descending step\, which 
- is 2\,003 m of Madeira. Progress the load week to week. Keep the soleus 
- and calf work as well\; this is added capacity\, not a substitution.\n\n
- Week 14 of 17 - Peak\nTERRAIN WEEKEND #2 - POSBANK AGAIN\, not the Arden
- nes. Roughly EUR 30 of petrol against EUR 200\, and twenty reps of a 90-
- 110 m climb is 1\,800 m of ascent AND hard-surface descent - close to th
- e whole race. Sustained descending on firm ground is the one thing stair
- s cannot replicate\, and it is what decides your day. POLES: bought 18-2
- 0 Sep\, so you have had three weeks on them by now. Use them the whole s
- ession. They cut RPE 14-18% and measurably reduce muscle damage over a c
- limb-and-descent day - but an inexperienced pole user in a field study a
- ctually got SLOWER\, so the practice is the point. KIT-CHECK HABIT START
- S HERE: every food item must be labelled with its calorie count\, and al
- l disposable packaging must carry your bib number. Tape a strip on your 
- gel flask reading contents and total kcal (e.g. '4x Upfront Gel PRO - 64
- 0 kcal'). Do it from this session on\, not at registration.\n26 days to 
- Ultra X Madeira 25K (30.5 km actual).
+ g three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 95 
+ kg (25 Aug: 95x6x3 - autoregulate to 2 REPS IN RESERVE and add 5 kg when
+  the last set still feels easy)\, LOADED UNILATERAL Bulgarian split squa
+ t 3 x 8/leg with dumbbells\, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg
+  with 3-4 s lowering. Then Nordics 3 x 5 and single-leg calf raises. Nev
+ er to failure. 48-72 h before the long day. On a -15% descent hip drop i
+ s 23.7 mm vs 7.6 mm uphill (very large effect)\, so descending is a fron
+ tal-plane hip problem and not only a quad problem - loaded Bulgarians ca
+ rry that demand\, which is why standalone side planks and cable abductio
+ n came out. LOWER-LEG CAPACITY\, about 4 min at the end: tibialis anteri
+ or raises 3 x 15-20 (heels on a step\, toes lifting)\, heel walks 2 x 20
+  m\, and eccentric dorsiflexion 3 x 10 slow against a band. The plan had
+  NOTHING for the anterior lower leg and that is the tissue that failed o
+ n the 7 Sep time trial - it is also what controls the foot down on every
+  descending step\, which is 2\,003 m of Madeira. Progress the load week 
+ to week. Keep the soleus and calf work as well\; this is added capacity\
+ , not a substitution.\n\nWeek 14 of 17 - Peak\nTERRAIN WEEKEND #2 - POSB
+ ANK AGAIN\, not the Ardennes. Roughly EUR 30 of petrol against EUR 200\,
+  and twenty reps of a 90-110 m climb is 1\,800 m of ascent AND hard-surf
+ ace descent - close to the whole race. Sustained descending on firm grou
+ nd is the one thing stairs cannot replicate\, and it is what decides you
+ r day. POLES: bought 18-20 Sep\, so you have had three weeks on them by 
+ now. Use them the whole session. They cut RPE 14-18% and measurably redu
+ ce muscle damage over a climb-and-descent day - but an inexperienced pol
+ e user in a field study actually got SLOWER\, so the practice is the poi
+ nt. KIT-CHECK HABIT STARTS HERE: every food item must be labelled with i
+ ts calorie count\, and all disposable packaging must carry your bib numb
+ er. Tape a strip on your gel flask reading contents and total kcal (e.g.
+  '4x Upfront Gel PRO - 640 kcal'). Do it from this session on\, not at r
+ egistration.\n26 days to Ultra X Madeira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w14-s4-vertical@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:▲ VERTICAL 80 min STEADY
@@ -2861,7 +2856,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w14-s5-pull@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Pull (upper)
@@ -2888,7 +2883,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w14-s6-long@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:▲ LONG DAY 3:20\, 850 m vert (21 km)
@@ -2922,7 +2917,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w14-s7-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:VO2MAX 6 x 3 min HARD\, 2 min jog (10 km)
@@ -2946,7 +2941,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w14-s8-descent@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:▼ DESCENT LADDER (20 min)
@@ -2985,7 +2980,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w14-s9-swim@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:≈ SWIM 30 min
@@ -3010,7 +3005,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w15-s0-cycling@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -3027,7 +3022,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w15-s1-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:SUB-THRESHOLD 5 x 4 min at HR 168-174\, 60 s…
@@ -3050,7 +3045,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w15-s2-push@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Push (upper)
@@ -3065,39 +3060,38 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w15-s3-legs@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:◆ Legs ONLY\, no upper
 DESCRIPTION:Legs ONLY\, no upper - heavy eccentric. Three quad lifts doin
- g three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 85 
- kg (18 Aug: 75x6x3 with 4+ reps in reserve\, so 1RM is nearer 100 - auto
- regulate to 2 REPS IN RESERVE and add 5 kg when the last set still feels
-  easy)\, LOADED UNILATERAL Bulgarian split squat 3 x 8/leg with dumbbell
- s\, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg with 3-4 s lowering. The
- n Nordics 3 x 5 and single-leg calf raises. Never to failure. 48-72 h be
- fore the long day. On a -15% descent hip drop is 23.7 mm vs 7.6 mm uphil
- l (very large effect)\, so descending is a frontal-plane hip problem and
-  not only a quad problem - loaded Bulgarians carry that demand\, which i
- s why standalone side planks and cable abduction came out. LOWER-LEG CAP
- ACITY\, about 4 min at the end: tibialis anterior raises 3 x 15-20 (heel
- s on a step\, toes lifting)\, heel walks 2 x 20 m\, and eccentric dorsif
- lexion 3 x 10 slow against a band. The plan had NOTHING for the anterior
-  lower leg and that is the tissue that failed on the 7 Sep time trial - 
- it is also what controls the foot down on every descending step\, which 
- is 2\,003 m of Madeira. Progress the load week to week. Keep the soleus 
- and calf work as well\; this is added capacity\, not a substitution.\n\n
- Week 15 of 17 - Peak\nPEAK WEEKEND - Sat 17 Oct\, 15 days out. This is t
- he overload the taper is built on\; the evidence favours peaking 14-15 d
- ays out\, not five weeks. 3:45-4:00 and 1\,600-1\,800 m: roughly 60-70% 
- of race duration but 80-90% of race vertical. Vertical specificity is th
- e lever\, not duration.\n19 days to Ultra X Madeira 25K (30.5 km actual)
- .
+ g three different jobs: HEAVY BILATERAL trap-bar deadlift 4 x 4-6 at 95 
+ kg (25 Aug: 95x6x3 - autoregulate to 2 REPS IN RESERVE and add 5 kg when
+  the last set still feels easy)\, LOADED UNILATERAL Bulgarian split squa
+ t 3 x 8/leg with dumbbells\, and TEMPO ECCENTRIC step-downs 3 x 8-10/leg
+  with 3-4 s lowering. Then Nordics 3 x 5 and single-leg calf raises. Nev
+ er to failure. 48-72 h before the long day. On a -15% descent hip drop i
+ s 23.7 mm vs 7.6 mm uphill (very large effect)\, so descending is a fron
+ tal-plane hip problem and not only a quad problem - loaded Bulgarians ca
+ rry that demand\, which is why standalone side planks and cable abductio
+ n came out. LOWER-LEG CAPACITY\, about 4 min at the end: tibialis anteri
+ or raises 3 x 15-20 (heels on a step\, toes lifting)\, heel walks 2 x 20
+  m\, and eccentric dorsiflexion 3 x 10 slow against a band. The plan had
+  NOTHING for the anterior lower leg and that is the tissue that failed o
+ n the 7 Sep time trial - it is also what controls the foot down on every
+  descending step\, which is 2\,003 m of Madeira. Progress the load week 
+ to week. Keep the soleus and calf work as well\; this is added capacity\
+ , not a substitution.\n\nWeek 15 of 17 - Peak\nPEAK WEEKEND - Sat 17 Oct
+ \, 15 days out. This is the overload the taper is built on\; the evidenc
+ e favours peaking 14-15 days out\, not five weeks. 3:45-4:00 and 1\,600-
+ 1\,800 m: roughly 60-70% of race duration but 80-90% of race vertical. V
+ ertical specificity is the lever\, not duration.\n19 days to Ultra X Mad
+ eira 25K (30.5 km actual).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w15-s4-vertical@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:▲ VERTICAL 80 min STEADY
@@ -3128,7 +3122,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w15-s5-pull@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Pull (upper)
@@ -3147,7 +3141,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w15-s6-long@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:▲ PEAK LONG DAY 3:45-4:00\, 1000 m vert. Race kit\,…
@@ -3174,7 +3168,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w15-s7-descent@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:▼ DESCENT LADDER (20 min)
@@ -3204,7 +3198,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w15-s8-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:VO2MAX 4 x 3 min HARD\, 2 min jog. Cut back a rep (8 km)
@@ -3222,7 +3216,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w15-s9-swim@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:≈ SWIM 30 min
@@ -3238,7 +3232,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w16-s0-cycling@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:○ OPTIONAL easy spin 45-60 min
@@ -3254,7 +3248,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w16-s1-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Easy run 40 MIN (5.3 km)
@@ -3272,7 +3266,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w16-s2-push@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Push (upper)
@@ -3286,7 +3280,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w16-s3-vertical@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:▲ VERTICAL 40 min STEADY
@@ -3316,7 +3310,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w16-s4-long@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:▲ LAST LONG SESSION 2:00\, 500 m vert\, race kit…
@@ -3333,7 +3327,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w16-s5-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Easy run 40 MIN (5.3 km)
@@ -3352,7 +3346,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w16-s6-descent@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:▼ DESCENT LADDER (8 min)
@@ -3381,7 +3375,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w16-s7-swim@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:≈ SWIM 30 min
@@ -3396,7 +3390,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w17-s0-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Easy run 50 MIN (7 km)
@@ -3454,7 +3448,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w17-s1-strides@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Easy 3-4 km + 4 x 90 s at race-climb effort
@@ -3503,7 +3497,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w17-s2-race@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:⚑ RACE (30.5 km)
@@ -3564,7 +3558,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w17-s3-easy@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:SHAKEOUT 30 MIN easy\, two days out. This run…
@@ -3622,7 +3616,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ultraxmadeira25k305kmactual-w17-s4-swim@garmin-training
-DTSTAMP:20260914T234957Z
+DTSTAMP:20260915T165614Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:≈ SWIM 30 min
