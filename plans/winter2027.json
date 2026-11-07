@@ -18,13 +18,13 @@
       "end": "2026-11-21",
       "phase": "Re-entry",
       "down_week": false,
-      "note": "RE-ENTRY. Vertical jump stays depressed ~18 days after an ultra, so this is easy running and nothing else. Durability is the through-line of the whole block: long sessions over 90 min are what preserve running economy under fatigue, which is the 70.3 run leg in one sentence.",
+      "note": "RE-ENTRY. Vertical jump comes back about 18 days after an ultra, which is Thursday, so the running is all easy and the first box jumps start low. Durability is the through-line of the whole block: long sessions over 90 min are what preserve running economy under fatigue, which is the 70.3 run leg in one sentence.",
       "sessions": [
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 6 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
-          "km": 6,
+          "label": "Long easy run 9 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "km": 9,
           "minutes": null
         },
         {
@@ -36,14 +36,14 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "Easy 6 km, talk test. Warm up 15 min + strides finishing AT goal pace and no faster.",
-          "minutes": 55,
-          "km": 9
+          "label": "Easy 6 km, talk test, with 4-6 x 20 s strides in the last km - relaxed, no faster than goal pace.",
+          "minutes": 40,
+          "km": 6
         },
         {
           "kind": "cycling",
           "day": 3,
-          "label": "BIKE 30 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "label": "BIKE 30 min - sweet spot, 2 x 8 min at 88-93% FTP (~132-140 W), 4 min easy between, the rest as warm-up and cool-down. The 90 km bike is over half a 70.3 by time.",
           "minutes": 30
         },
         {
@@ -63,6 +63,13 @@
           "day": 1,
           "label": "Strength UPPER - push and pull as one session, 45 min. Rows, pull-ups, overhead press, rear delts. Heavy, 4-6 reps, not hypertrophy ranges. Free against the running and cycling load. Dead hangs 3 x max at the end - grip is a genuine weakness at 32-36 s.",
           "minutes": 45
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5 km, HR under 158. Third run of the week - short and genuinely easy.",
+          "km": 5,
+          "minutes": null
         }
       ]
     },
@@ -77,8 +84,8 @@
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 8 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
-          "km": 8,
+          "label": "Long easy run 10 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "km": 10,
           "minutes": null
         },
         {
@@ -97,7 +104,7 @@
         {
           "kind": "cycling",
           "day": 3,
-          "label": "BIKE 30 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "label": "BIKE 30 min - sweet spot, 2 x 8 min at 88-93% FTP (~132-140 W), 4 min easy between, the rest as warm-up and cool-down. The 90 km bike is over half a 70.3 by time.",
           "minutes": 30
         },
         {
@@ -115,7 +122,7 @@
         {
           "kind": "easy",
           "day": 6,
-          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "label": "Easy run 5-6 km, HR under 158. Third run of the week - short and genuinely easy.",
           "km": 6,
           "minutes": null
         },
@@ -133,12 +140,12 @@
       "end": "2026-12-05",
       "phase": "Threshold",
       "down_week": false,
-      "note": "THRESHOLD BLOCK opens. Pfitzinger's order: threshold first, VO2max later as the race approaches. Two quality touches a week - Tuesday's session and a threshold finish on the long run. Quality volume stays inside 20-25% of weekly mileage, which is the Norwegian rule and the one that keeps this repeatable.",
+      "note": "THRESHOLD BLOCK opens. Pfitzinger's order: threshold first, VO2max later as the race approaches. Two quality touches this week - Tuesday's session and a threshold finish on the long run. Quality volume stays inside 20-25% of weekly mileage, which is the Norwegian rule and the one that keeps this repeatable.",
       "sessions": [
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 10 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "label": "Long easy run 10 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 10 min at threshold EFFORT - HR 175-180, pace 5:25-5:35/km. Only 10 min this week: with Tuesday's 4 x 1 km it puts quality at about 23% of the week, inside the 20-25% cap.",
           "km": 10,
           "minutes": null
         },
@@ -151,14 +158,14 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "THRESHOLD 4 x 1 km at threshold EFFORT - HR 175-180, pace 5:25-5:35/km. This is triangulated, not guessed: your 1 Sep 4 x 4 min ran 5:27/5:12/5:20/5:23 at HR 175-178, and VDOT off the time trial independently lands on 5:30. Re-anchor after each retest, 90 s jog. First quality session of the block - deliberately conservative. Warm up 15 min + 4 x 100 m AT 5:15/km and no faster. Warm up 15 min, cool down 10 min.",
+          "label": "THRESHOLD 4 x 1 km at threshold EFFORT - HR 175-180, pace 5:25-5:35/km. This is triangulated, not guessed: your 1 Sep 4 x 4 min ran 5:27/5:12/5:20/5:23 at HR 175-178, and VDOT off the time trial independently lands on 5:30. Re-anchor after each retest, 90 s jog. First quality session of the block - deliberately conservative. Warm up 15 min + 4 x 100 m AT 5:15/km and no faster, cool down 10 min.",
           "minutes": 55,
           "km": 9
         },
         {
           "kind": "cycling",
           "day": 3,
-          "label": "BIKE 35 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "label": "BIKE 35 min - sweet spot, 2 x 10 min at 88-93% FTP (~132-140 W), 5 min easy between, the rest as warm-up and cool-down. The 90 km bike is over half a 70.3 by time.",
           "minutes": 35
         },
         {
@@ -182,7 +189,7 @@
         {
           "kind": "easy",
           "day": 6,
-          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "label": "Easy run 5-6 km, HR under 158. Third run of the week - short and genuinely easy.",
           "km": 6,
           "minutes": null
         },
@@ -205,7 +212,7 @@
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. No threshold finish this week - Tuesday's session already spends the quality budget, and quality volume stays inside 20-25% of weekly mileage.",
+          "label": "Long easy run 12 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. No threshold finish this week - Tuesday's session already spends the quality budget, and quality volume stays inside 20-25% of weekly mileage.",
           "km": 12,
           "minutes": null
         },
@@ -225,7 +232,7 @@
         {
           "kind": "cycling",
           "day": 3,
-          "label": "BIKE 40 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "label": "BIKE 40 min - sweet spot, 3 x 8 min at 88-93% FTP (~132-140 W), 3 min easy between, the rest as warm-up and cool-down. The 90 km bike is over half a 70.3 by time.",
           "minutes": 40
         },
         {
@@ -249,7 +256,7 @@
         {
           "kind": "easy",
           "day": 6,
-          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "label": "Easy run 5-6 km, HR under 158. Third run of the week - short and genuinely easy.",
           "km": 6,
           "minutes": null
         },
@@ -272,7 +279,7 @@
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 14 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. No threshold finish this week - Tuesday's session already spends the quality budget, and quality volume stays inside 20-25% of weekly mileage.",
+          "label": "Long easy run 14 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. No threshold finish this week - Tuesday's session already spends the quality budget, and quality volume stays inside 20-25% of weekly mileage.",
           "km": 14,
           "minutes": null
         },
@@ -292,7 +299,7 @@
         {
           "kind": "cycling",
           "day": 3,
-          "label": "BIKE 40 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "label": "BIKE 40 min - sweet spot, 3 x 8 min at 88-93% FTP (~132-140 W), 3 min easy between, the rest as warm-up and cool-down. The 90 km bike is over half a 70.3 by time.",
           "minutes": 40
         },
         {
@@ -315,14 +322,14 @@
         },
         {
           "kind": "swim",
-          "day": 6,
+          "day": 0,
           "label": "COLD IMMERSION 2-3 min after the swim. Five to six of these HALVES the cold-shock response and the adaptation lasts ~14 months. Jesolo in April is 15-17 C.",
           "minutes": 10
         },
         {
           "kind": "easy",
           "day": 6,
-          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "label": "Easy run 5-6 km, HR under 158. Third run of the week - short and genuinely easy.",
           "km": 6,
           "minutes": null
         },
@@ -345,7 +352,7 @@
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 10 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "label": "Long easy run 10 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
           "km": 10,
           "minutes": null
         },
@@ -365,7 +372,7 @@
         {
           "kind": "cycling",
           "day": 3,
-          "label": "BIKE 30 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "label": "BIKE 30 min - sweet spot, 2 x 8 min at 88-93% FTP (~132-140 W), 4 min easy between, the rest as warm-up and cool-down. The 90 km bike is over half a 70.3 by time.",
           "minutes": 30
         },
         {
@@ -388,14 +395,14 @@
         },
         {
           "kind": "swim",
-          "day": 6,
+          "day": 0,
           "label": "COLD IMMERSION 2-3 min after the swim. Five to six of these HALVES the cold-shock response and the adaptation lasts ~14 months. Jesolo in April is 15-17 C.",
           "minutes": 10
         },
         {
           "kind": "easy",
           "day": 6,
-          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "label": "Easy run 5-6 km, HR under 158. Third run of the week - short and genuinely easy.",
           "km": 6,
           "minutes": null
         },
@@ -418,7 +425,7 @@
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 16 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at threshold EFFORT - HR 175-180, pace 5:25-5:35/km. This is triangulated, not guessed: your 1 Sep 4 x 4 min ran 5:27/5:12/5:20/5:23 at HR 175-178, and VDOT off the time trial independently lands on 5:30. Re-anchor after each retest. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
+          "label": "Long easy run 16 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at threshold EFFORT - HR 175-180, pace 5:25-5:35/km. This is triangulated, not guessed: your 1 Sep 4 x 4 min ran 5:27/5:12/5:20/5:23 at HR 175-178, and VDOT off the time trial independently lands on 5:30. Re-anchor after each retest. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
           "km": 16,
           "minutes": null
         },
@@ -438,7 +445,7 @@
         {
           "kind": "cycling",
           "day": 3,
-          "label": "BIKE 45 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "label": "BIKE 45 min - sweet spot, 3 x 9 min at 88-93% FTP (~132-140 W), 4 min easy between, the rest as warm-up and cool-down. The 90 km bike is over half a 70.3 by time.",
           "minutes": 45
         },
         {
@@ -467,14 +474,14 @@
         },
         {
           "kind": "swim",
-          "day": 6,
+          "day": 0,
           "label": "COLD IMMERSION 2-3 min after the swim. Five to six of these HALVES the cold-shock response and the adaptation lasts ~14 months. Jesolo in April is 15-17 C.",
           "minutes": 10
         },
         {
           "kind": "easy",
           "day": 6,
-          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "label": "Easy run 5-6 km, HR under 158. Third run of the week - short and genuinely easy.",
           "km": 6,
           "minutes": null
         },
@@ -497,7 +504,7 @@
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at threshold EFFORT - HR 175-180, pace 5:25-5:35/km. This is triangulated, not guessed: your 1 Sep 4 x 4 min ran 5:27/5:12/5:20/5:23 at HR 175-178, and VDOT off the time trial independently lands on 5:30. Re-anchor after each retest. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
+          "label": "Long easy run 12 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at threshold EFFORT - HR 175-180, pace 5:25-5:35/km. This is triangulated, not guessed: your 1 Sep 4 x 4 min ran 5:27/5:12/5:20/5:23 at HR 175-178, and VDOT off the time trial independently lands on 5:30. Re-anchor after each retest. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
           "km": 12,
           "minutes": null
         },
@@ -517,7 +524,7 @@
         {
           "kind": "cycling",
           "day": 3,
-          "label": "BIKE 40 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "label": "BIKE 40 min - sweet spot, 3 x 8 min at 88-93% FTP (~132-140 W), 3 min easy between, the rest as warm-up and cool-down. The 90 km bike is over half a 70.3 by time.",
           "minutes": 40
         },
         {
@@ -546,14 +553,14 @@
         },
         {
           "kind": "swim",
-          "day": 6,
+          "day": 0,
           "label": "COLD IMMERSION 2-3 min after the swim. Five to six of these HALVES the cold-shock response and the adaptation lasts ~14 months. Jesolo in April is 15-17 C.",
           "minutes": 10
         },
         {
           "kind": "easy",
           "day": 6,
-          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "label": "Easy run 5-6 km, HR under 158. Third run of the week - short and genuinely easy.",
           "km": 6,
           "minutes": null
         },
@@ -575,7 +582,7 @@
       "sessions": [
         {
           "kind": "swim",
-          "day": 0,
+          "day": 2,
           "label": "Swim 45 min - 800 m continuous",
           "minutes": 40
         },
@@ -589,7 +596,7 @@
         {
           "kind": "cycling",
           "day": 3,
-          "label": "BIKE 30 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "label": "BIKE 30 min - sweet spot, 2 x 8 min at 88-93% FTP (~132-140 W), 4 min easy between, the rest as warm-up and cool-down. The 90 km bike is over half a 70.3 by time.",
           "minutes": 30
         },
         {
@@ -612,7 +619,7 @@
         },
         {
           "kind": "swim",
-          "day": 6,
+          "day": 2,
           "label": "COLD IMMERSION 2-3 min after the swim. Five to six of these HALVES the cold-shock response and the adaptation lasts ~14 months. Jesolo in April is 15-17 C.",
           "minutes": 10
         },
@@ -635,7 +642,7 @@
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 12 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at threshold EFFORT - HR 175-180, pace 5:25-5:35/km. This is triangulated, not guessed: your 1 Sep 4 x 4 min ran 5:27/5:12/5:20/5:23 at HR 175-178, and VDOT off the time trial independently lands on 5:30. Re-anchor after each retest. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
+          "label": "Long easy run 12 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at threshold EFFORT - HR 175-180, pace 5:25-5:35/km. This is triangulated, not guessed: your 1 Sep 4 x 4 min ran 5:27/5:12/5:20/5:23 at HR 175-178, and VDOT off the time trial independently lands on 5:30. Re-anchor after each retest. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
           "km": 12,
           "minutes": null
         },
@@ -655,7 +662,7 @@
         {
           "kind": "cycling",
           "day": 3,
-          "label": "BIKE 45 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "label": "BIKE 45 min - sweet spot, 3 x 9 min at 88-93% FTP (~132-140 W), 4 min easy between, the rest as warm-up and cool-down. The 90 km bike is over half a 70.3 by time.",
           "minutes": 45
         },
         {
@@ -684,14 +691,14 @@
         },
         {
           "kind": "swim",
-          "day": 6,
+          "day": 0,
           "label": "COLD IMMERSION 2-3 min after the swim. Five to six of these HALVES the cold-shock response and the adaptation lasts ~14 months. Jesolo in April is 15-17 C.",
           "minutes": 10
         },
         {
           "kind": "easy",
           "day": 6,
-          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "label": "Easy run 5-6 km, HR under 158. Third run of the week - short and genuinely easy.",
           "km": 6,
           "minutes": null
         },
@@ -709,12 +716,12 @@
       "end": "2027-01-30",
       "phase": "Bridge",
       "down_week": false,
-      "note": "BRIDGE. Last week before the Venice block opens 31 Jan. Swim and bike both to three.",
+      "note": "BRIDGE. Last week before the Venice block opens 31 Jan.",
       "sessions": [
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 14 km, HR under 155. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. No threshold finish this week - Tuesday's session already spends the quality budget, and quality volume stays inside 20-25% of weekly mileage.",
+          "label": "Long easy run 14 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. No threshold finish this week - Tuesday's session already spends the quality budget, and quality volume stays inside 20-25% of weekly mileage.",
           "km": 14,
           "minutes": null
         },
@@ -734,7 +741,7 @@
         {
           "kind": "cycling",
           "day": 3,
-          "label": "BIKE 50 min - sweet spot, 3 x 10-12 min at 88-93% FTP (~132-140 W), 5 min easy between. The 90 km bike is over half a 70.3 by time.",
+          "label": "BIKE 50 min - sweet spot, 3 x 10 min at 88-93% FTP (~132-140 W), 5 min easy between, the rest as warm-up and cool-down. The 90 km bike is over half a 70.3 by time.",
           "minutes": 50
         },
         {
@@ -763,14 +770,14 @@
         },
         {
           "kind": "swim",
-          "day": 6,
+          "day": 0,
           "label": "COLD IMMERSION 2-3 min after the swim. Five to six of these HALVES the cold-shock response and the adaptation lasts ~14 months. Jesolo in April is 15-17 C.",
           "minutes": 10
         },
         {
           "kind": "easy",
           "day": 6,
-          "label": "Easy run 5-6 km, HR under 155. Third run of the week - short and genuinely easy.",
+          "label": "Easy run 5-6 km, HR under 158. Third run of the week - short and genuinely easy.",
           "km": 6,
           "minutes": null
         },
