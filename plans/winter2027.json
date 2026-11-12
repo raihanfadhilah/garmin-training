@@ -1,7 +1,7 @@
 {
   "race": {
-    "name": "Egmond 10.5 km / Venice base",
-    "date": "2027-01-10"
+    "name": "Venice 70.3 (winter base)",
+    "date": "2027-04-24"
   },
   "settings": {
     "easy_hr_cap": 158,
@@ -140,7 +140,7 @@
       "end": "2026-12-05",
       "phase": "Threshold",
       "down_week": false,
-      "note": "THRESHOLD BLOCK opens. Pfitzinger's order: threshold first, VO2max later as the race approaches. Two quality touches this week - Tuesday's session and a threshold finish on the long run. Quality volume stays inside 20-25% of weekly mileage, which is the Norwegian rule and the one that keeps this repeatable.",
+      "note": "THRESHOLD BLOCK opens. Pfitzinger's order: threshold first, VO2max later in the block. Two quality touches this week - Tuesday's session and a threshold finish on the long run. Quality volume stays inside 20-25% of weekly mileage, which is the Norwegian rule and the one that keeps this repeatable.",
       "sessions": [
         {
           "kind": "long",
@@ -418,9 +418,9 @@
       "number": 7,
       "start": "2026-12-27",
       "end": "2027-01-02",
-      "phase": "Sharpen",
+      "phase": "Build",
       "down_week": false,
-      "note": "SHARPEN. VO2max enters now the race is close - 3-5 min efforts, the range where you accumulate real time at maximal oxygen uptake. Biggest running week of the block.",
+      "note": "BUILD. VO2max enters now - 3-5 min efforts, the range where you accumulate real time at maximal oxygen uptake. Biggest running week of the block.",
       "sessions": [
         {
           "kind": "long",
@@ -463,8 +463,8 @@
         {
           "kind": "cycling",
           "day": 6,
-          "label": "BIKE 60 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
-          "minutes": 60
+          "label": "BIKE 75 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
+          "minutes": 75
         },
         {
           "kind": "swim",
@@ -497,15 +497,15 @@
       "number": 8,
       "start": "2027-01-03",
       "end": "2027-01-09",
-      "phase": "Sharpen",
+      "phase": "Build",
       "down_week": false,
-      "note": "SHARPEN then taper. Volume down 15%, intensity held. Egmond is Sunday of next week.",
+      "note": "BUILD. Second VO2max week - longer reps, one fewer. No taper: there is no race until Venice, so the block runs straight on to next week's down week.",
       "sessions": [
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 12 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at threshold EFFORT - HR 175-180, pace 5:25-5:35/km. This is triangulated, not guessed: your 1 Sep 4 x 4 min ran 5:27/5:12/5:20/5:23 at HR 175-178, and VDOT off the time trial independently lands on 5:30. Re-anchor after each retest. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
-          "km": 12,
+          "label": "Long easy run 14 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at threshold EFFORT - HR 175-180, pace 5:25-5:35/km. This is triangulated, not guessed: your 1 Sep 4 x 4 min ran 5:27/5:12/5:20/5:23 at HR 175-178, and VDOT off the time trial independently lands on 5:30. Re-anchor after each retest. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
+          "km": 14,
           "minutes": null
         },
         {
@@ -517,7 +517,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "VO2MAX 4 x 4 min at VO2max EFFORT - provisional pace 5:05-5:20/km, HR at the END of each rep 186-193. HR lags 60-90 s so it cannot steer a 3 min rep; set it by pace, confirm by the HR you finish on, 3 min jog. Longer reps, one fewer. Last hard session before Egmond. Warm up 15 min, cool down 10 min.",
+          "label": "VO2MAX 4 x 4 min at VO2max EFFORT - provisional pace 5:05-5:20/km, HR at the END of each rep 186-193. HR lags 60-90 s so it cannot steer a 3 min rep; set it by pace, confirm by the HR you finish on, 3 min jog. Longer reps, one fewer. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 11
         },
@@ -542,8 +542,8 @@
         {
           "kind": "cycling",
           "day": 6,
-          "label": "BIKE 55 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
-          "minutes": 55
+          "label": "BIKE 90 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins. Over 75 min, take 40-60 g carb per hour from the start - early gut practice for Venice.",
+          "minutes": 90
         },
         {
           "kind": "swim",
@@ -576,9 +576,9 @@
       "number": 9,
       "start": "2027-01-10",
       "end": "2027-01-16",
-      "phase": "Race",
-      "down_week": false,
-      "note": "EGMOND 10.5 km Sunday. Beach, dunes, soft sand. Then recover - the week after a race is not a training week.",
+      "phase": "Down",
+      "down_week": true,
+      "note": "DOWN WEEK. About 30% lighter, one quality touch on Tuesday, everything else easy. The first eight weeks get absorbed here - arrive at week 10 fresh.",
       "sessions": [
         {
           "kind": "swim",
@@ -587,11 +587,10 @@
           "minutes": 40
         },
         {
-          "kind": "race",
+          "kind": "long",
           "day": 0,
-          "km": 10.5,
-          "minutes": null,
-          "label": "EGMOND 10.5 km - Egmond aan Zee, Boulevard Noord. Beach, dunes, soft sand, wind, the Bloedweg. Run it by effort, not pace: the sand makes pace meaningless. This is the block's target and a hard aerobic race, not a PB attempt."
+          "label": "Long easy run 10 km, HR under 158. Down week: no threshold finish, just time on feet.",
+          "km": 10
         },
         {
           "kind": "cycling",
@@ -614,8 +613,8 @@
         {
           "kind": "cycling",
           "day": 6,
-          "label": "BIKE 45 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
-          "minutes": 45
+          "label": "BIKE 60 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
+          "minutes": 60
         },
         {
           "kind": "swim",
@@ -628,6 +627,19 @@
           "day": 1,
           "label": "Strength UPPER - push and pull as one session, 45 min. Rows, pull-ups, overhead press, rear delts. Heavy, 4-6 reps, not hypertrophy ranges. Free against the running and cycling load. Dead hangs 3 x max at the end - grip is a genuine weakness at 32-36 s.",
           "minutes": 45
+        },
+        {
+          "kind": "strides",
+          "day": 2,
+          "label": "THRESHOLD 3 x 1.5 km at threshold EFFORT - HR 175-180, pace 5:25-5:35/km, 90 s jog. Down week - one rep fewer than you could do and no faster. Warm up 15 min, cool down 10 min.",
+          "minutes": 55,
+          "km": 9
+        },
+        {
+          "kind": "easy",
+          "day": 6,
+          "label": "Easy run 5 km, HR under 158. Third run of a down week - short and genuinely easy.",
+          "km": 5
         }
       ]
     },
@@ -642,9 +654,8 @@
         {
           "kind": "long",
           "day": 0,
-          "label": "Long easy run 12 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRESHOLD FINISH: last 15 min at threshold EFFORT - HR 175-180, pace 5:25-5:35/km. This is triangulated, not guessed: your 1 Sep 4 x 4 min ran 5:27/5:12/5:20/5:23 at HR 175-178, and VDOT off the time trial independently lands on 5:30. Re-anchor after each retest. This is one of the four primary ways to move a lactate threshold, and it doubles as durability work - running at pace on pre-fatigued legs is the 70.3 run leg.",
-          "km": 12,
-          "minutes": null
+          "label": "Long easy run 14 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume. No threshold finish this week - Tuesday's session already spends the quality budget, and quality volume stays inside 20-25% of weekly mileage.",
+          "km": 14
         },
         {
           "kind": "swim",
@@ -655,7 +666,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "Easy 8 km + 6 x 20 s strides. Nothing hard the week after a race. Warm up 15 min, cool down 10 min.",
+          "label": "THRESHOLD 4 x 1.5 km at threshold EFFORT - HR 175-180, pace 5:25-5:35/km, 90 s jog. Re-anchor if the 24 Nov retest or the Tuesdays since moved it. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 10
         },
@@ -680,8 +691,8 @@
         {
           "kind": "cycling",
           "day": 6,
-          "label": "BIKE 60 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
-          "minutes": 60
+          "label": "BIKE 120 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins. Over 75 min, take 40-60 g carb per hour from the start - early gut practice for Venice.",
+          "minutes": 120
         },
         {
           "kind": "swim",
@@ -716,7 +727,7 @@
       "end": "2027-01-30",
       "phase": "Bridge",
       "down_week": false,
-      "note": "BRIDGE. Last week before the Venice block opens 31 Jan.",
+      "note": "BRIDGE. Last week before the Venice block opens 31 Jan. Saturday's 2.5 h ride is the longest of the winter and sets up the 60 km opener.",
       "sessions": [
         {
           "kind": "long",
@@ -734,7 +745,7 @@
         {
           "kind": "strides",
           "day": 2,
-          "label": "THRESHOLD 5 x 1.5 km at whatever the retest and Egmond say your pace now is. Warm up 15 min, cool down 10 min.",
+          "label": "THRESHOLD 5 x 1.5 km at threshold EFFORT - HR 175-180, pace 5:25-5:35/km, or wherever the retest and the Tuesdays since have moved it. Warm up 15 min, cool down 10 min.",
           "minutes": 55,
           "km": 12
         },
@@ -759,8 +770,8 @@
         {
           "kind": "cycling",
           "day": 6,
-          "label": "BIKE 65 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins.",
-          "minutes": 65
+          "label": "BIKE 150 min zone 2, HR under 145, steady. Non-impact aerobic volume - the cheapest fitness available and it spares the shins. Over 75 min, take 40-60 g carb per hour from the start - early gut practice for Venice.",
+          "minutes": 150
         },
         {
           "kind": "swim",
