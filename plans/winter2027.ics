@@ -5,110 +5,29 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Venice 70.3 (winter base) training
 BEGIN:VEVENT
-UID:venice703winterbase-w1-s0-long@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:▲ Long easy run 9 km\, HR under 158. Aerobic base…
-DESCRIPTION:Long easy run 9 km\, HR under 158. Aerobic base is the lever 
- - the fastest runners get there on Zone 1 volume.\n\nWeek 1 of 11 - Re-e
- ntry\nKeep HR under 158. Walk the climbs. Talk test.\nRE-ENTRY. Vertical
-  jump comes back about 18 days after an ultra\, which is Thursday\, so t
- he running is all easy and the first box jumps start low. Durability is 
- the through-line of the whole block: long sessions over 90 min are what 
- preserve running economy under fatigue\, which is the 70.3 run leg in on
- e sentence.\n160 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w1-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:≈ Swim 30 min
-DESCRIPTION:Swim 30 min - TECHNIQUE ONLY. Breathing\, body position\, cat
- ch. Distance is irrelevant for six weeks.\n\nWeek 1 of 11 - Re-entry\nRE
- -ENTRY. Vertical jump comes back about 18 days after an ultra\, which is
-  Thursday\, so the running is all easy and the first box jumps start low
- . Durability is the through-line of the whole block: long sessions over 
- 90 min are what preserve running economy under fatigue\, which is the 70
- .3 run leg in one sentence.\n160 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w1-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Easy 6 km\, talk test\, with 4-6 x 20 s strides…
-DESCRIPTION:Easy 6 km\, talk test\, with 4-6 x 20 s strides in the last k
- m - relaxed\, no faster than goal pace.\n\nWeek 1 of 11 - Re-entry\nRE-E
- NTRY. Vertical jump comes back about 18 days after an ultra\, which is T
- hursday\, so the running is all easy and the first box jumps start low. 
- Durability is the through-line of the whole block: long sessions over 90
-  min are what preserve running economy under fatigue\, which is the 70.3
-  run leg in one sentence.\n158 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w1-s3-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:○ BIKE 30 min
-DESCRIPTION:BIKE 30 min - sweet spot\, 2 x 8 min at 88-93% FTP (~132-140 
- W)\, 4 min easy between\, the rest as warm-up and cool-down. The 90 km b
- ike is over half a 70.3 by time.\n\nWeek 1 of 11 - Re-entry\nRE-ENTRY. V
+UID:venice703winterbase-w1-s0-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:≈ Swim session 1\, 07:00 Sloterparkbad (45 min)
+DESCRIPTION:Swim session 1\, 07:00 Sloterparkbad - 50 m pool\, lanes 07:0
+ 0-08:00\, before work. Warm-up 100 m easy + 10 bobs (in through the mout
+ h only\, out through mouth and nose\, hard puff just before you turn). C
+ ool-down 100 m easy. Main set easy\, about 40 s per 25 m\, breathe every
+  2nd stroke\; if the panic starts\, stand\, 3-4 slow breaths\, carry on.
+  Press lap at every stop and set the pool size. Drills (breathing): side
+  kick 4 x 25\, 6-1-6 2 x 25\, catch-up 2 x 25. Main: 8 x 25 with 30 s re
+ st\, then 2 x 50 with 60 s rest.\n\nWeek 1 of 11 - Re-entry\nRE-ENTRY. V
  ertical jump comes back about 18 days after an ultra\, which is Thursday
  \, so the running is all easy and the first box jumps start low. Durabil
  ity is the through-line of the whole block: long sessions over 90 min ar
  e what preserve running economy under fatigue\, which is the 70.3 run le
- g in one sentence.\n157 days to Venice 70.3 (winter base).
+ g in one sentence.\n159 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w1-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
-DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
- OI line item in the whole season. You cannot self-coach a catch you have
-  never felt.\n\nWeek 1 of 11 - Re-entry\nRE-ENTRY. Vertical jump comes b
- ack about 18 days after an ultra\, which is Thursday\, so the running is
-  all easy and the first box jumps start low. Durability is the through-l
- ine of the whole block: long sessions over 90 min are what preserve runn
- ing economy under fatigue\, which is the 70.3 run leg in one sentence.\n
- 157 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w1-s5-legs@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:◆ Strength LOWER (45 min)
-DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Trap-bar deadlift 4 x 3 at 8
- 8-92% 1RM (from 85 x 5 at 2 RIR your 1RM is ~105 kg\, so work at 92-97 k
- g - autoregulate\, add 2.5 kg when the last triple moves well). Then Bul
- garian split squat 3 x 5/leg heavy\, and calf raises 3 x 8 loaded. COMPL
- EX PAIRING: after each heavy set\, 5 box jumps or 20 m of bounds within 
- 2 min - heavy resistance plus plyo beats either alone for running econom
- y. Heavy loads at or above 90% 1RM give greater economy gains than light
- er ones\, and the effect needs 10-14 weeks\, which is exactly this block
- . LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15-20\, heel 
- walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot holds 3 x 30
-  s per side.\n\nWeek 1 of 11 - Re-entry\nRE-ENTRY. Vertical jump comes b
- ack about 18 days after an ultra\, which is Thursday\, so the running is
-  all easy and the first box jumps start low. Durability is the through-l
- ine of the whole block: long sessions over 90 min are what preserve runn
- ing economy under fatigue\, which is the 70.3 run leg in one sentence.\n
- 156 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w1-s6-push@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w1-s1-push@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Strength UPPER (45 min)
@@ -125,8 +44,111 @@ DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:venice703winterbase-w1-s2-strides@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Easy 6 km\, talk test\, with 4-6 x 20 s strides…
+DESCRIPTION:Easy 6 km\, talk test\, with 4-6 x 20 s strides in the last k
+ m - relaxed\, no faster than goal pace.\n\nWeek 1 of 11 - Re-entry\nRE-E
+ NTRY. Vertical jump comes back about 18 days after an ultra\, which is T
+ hursday\, so the running is all easy and the first box jumps start low. 
+ Durability is the through-line of the whole block: long sessions over 90
+  min are what preserve running economy under fatigue\, which is the 70.3
+  run leg in one sentence.\n158 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w1-s3-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:≈ Swim session 2\, 07:00 Sloterparkbad (45 min)
+DESCRIPTION:Swim session 2\, 07:00 Sloterparkbad - 50 m pool\, lanes 07:0
+ 0-08:00\, before work. Warm-up 100 m easy + 10 bobs (in through the mout
+ h only\, out through mouth and nose\, hard puff just before you turn). C
+ ool-down 100 m easy. Main set easy\, about 40 s per 25 m\, breathe every
+  2nd stroke\; if the panic starts\, stand\, 3-4 slow breaths\, carry on.
+  Press lap at every stop and set the pool size. Drills (body position): 
+ glide + kick with arms out front\, turning to breathe\, 4 x 25\; kickboa
+ rd 4 x 25\, face in. Main: 6 x 50 with 45 s rest.\n\nWeek 1 of 11 - Re-e
+ ntry\nRE-ENTRY. Vertical jump comes back about 18 days after an ultra\, 
+ which is Thursday\, so the running is all easy and the first box jumps s
+ tart low. Durability is the through-line of the whole block: long sessio
+ ns over 90 min are what preserve running economy under fatigue\, which i
+ s the 70.3 run leg in one sentence.\n157 days to Venice 70.3 (winter bas
+ e).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w1-s4-cycling@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:○ BIKE RAMP TEST (40 min)
+DESCRIPTION:BIKE RAMP TEST - Zwift on the D100 (ERG). Eat 2-3 h before\, 
+ fan on\, bottle. Warm-up 10 min easy + 5 x 1 min at 100-110 rpm with 1 m
+ in easy between. Then the test: stay seated at 85-95 rpm and ride until 
+ you can't hold the cadence. FTP = 75% of the best 1-min power\; expect t
+ o stop around 240-250 W. It sets the bike zones from week 2.\n\nWeek 1 o
+ f 11 - Re-entry\nRE-ENTRY. Vertical jump comes back about 18 days after 
+ an ultra\, which is Thursday\, so the running is all easy and the first 
+ box jumps start low. Durability is the through-line of the whole block: 
+ long sessions over 90 min are what preserve running economy under fatigu
+ e\, which is the 70.3 run leg in one sentence.\n157 days to Venice 70.3 
+ (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w1-s5-legs@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:◆ Strength LOWER (45 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Back squat 4 x 4 at 80 kg (7
+ 7.5 if 13 Nov's 75 x 5 was near max)\, safety pins on (75 x 5 on 13 Nov 
+ puts the 1RM near 88-90 kg: 4 x 4 at 80 kg on 20 Nov\, then add 2.5 kg w
+ hen the last set moves well). Hack squat if there's no rack or you're wr
+ ecked. Then Bulgarian split squat 3 x 5/leg heavy\, single-leg calf rais
+ es 3 x 8 loaded\, Nordic curls 2 x 4. COMPLEX PAIRING: after each heavy 
+ set\, 5 box jumps or 20 m of bounds within 2 min - heavy resistance plus
+  plyo beats either alone for running economy. Heavy loads at or above 90
+ % 1RM give greater economy gains than lighter ones\, and the effect need
+ s 10-14 weeks\, which is exactly this block. LOWER-LEG AND FOOT\, 5 min:
+  tibialis anterior raises 3 x 15-20\, heel walks 2 x 20 m\, eccentric do
+ rsiflexion 3 x 10\, short-foot holds 3 x 30 s per side.\n\nWeek 1 of 11 
+ - Re-entry\nRE-ENTRY. Vertical jump comes back about 18 days after an ul
+ tra\, which is Thursday\, so the running is all easy and the first box j
+ umps start low. Durability is the through-line of the whole block: long 
+ sessions over 90 min are what preserve running economy under fatigue\, w
+ hich is the 70.3 run leg in one sentence.\n155 days to Venice 70.3 (wint
+ er base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w1-s6-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:≈ Swim session 3 (optional)\, 10:15 Sloterparkbad (45 min)
+DESCRIPTION:Swim session 3 (optional)\, 10:15 Sloterparkbad - 25 m pool\,
+  lanes 10:15-12:15. Warm-up 100 m easy + 10 bobs (in through the mouth o
+ nly\, out through mouth and nose\, hard puff just before you turn). Cool
+ -down 100 m easy. Main set easy\, about 40 s per 25 m\, breathe every 2n
+ d stroke\; if the panic starts\, stand\, 3-4 slow breaths\, carry on. Pr
+ ess lap at every stop and set the pool size. Drills (arms): catch-up 2 x
+  25\, one-arm freestyle 4 x 25\, fingertip drag 2 x 25. Main: 4 x 75 wit
+ h 45 s rest\, then try 1 x 100.\n\nWeek 1 of 11 - Re-entry\nRE-ENTRY. Ve
+ rtical jump comes back about 18 days after an ultra\, which is Thursday\
+ , so the running is all easy and the first box jumps start low. Durabili
+ ty is the through-line of the whole block: long sessions over 90 min are
+  what preserve running economy under fatigue\, which is the 70.3 run leg
+  in one sentence.\n154 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:venice703winterbase-w1-s7-easy@garmin-training
-DTSTAMP:20261112T063838Z
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Easy run 5 km\, HR under 158. Third run of the…
@@ -141,104 +163,45 @@ DESCRIPTION:Easy run 5 km\, HR under 158. Third run of the week - short a
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w2-s0-long@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w1-s8-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:≈ Swim session 4\, 09:00 Sloterparkbad (45 min)
+DESCRIPTION:Swim session 4\, 09:00 Sloterparkbad - 50 m pool\, lanes 09:0
+ 0-12:00\, after the long run. Warm-up 100 m easy + 10 bobs (in through t
+ he mouth only\, out through mouth and nose\, hard puff just before you t
+ urn). Cool-down 100 m easy. Main set easy\, about 40 s per 25 m\, breath
+ e every 2nd stroke\; if the panic starts\, stand\, 3-4 slow breaths\, ca
+ rry on. Press lap at every stop and set the pool size. Drills (breathing
+ ): side kick 4 x 25\, 6-1-6 4 x 25\, catch-up 2 x 25. Main: 4 x 100 with
+  60 s rest.\n\nWeek 1 of 11 - Re-entry\nRE-ENTRY. Vertical jump comes ba
+ ck about 18 days after an ultra\, which is Thursday\, so the running is 
+ all easy and the first box jumps start low. Durability is the through-li
+ ne of the whole block: long sessions over 90 min are what preserve runni
+ ng economy under fatigue\, which is the 70.3 run leg in one sentence.\n1
+ 53 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w1-s9-long@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:▲ Long easy run 10 km\, HR under 158. Aerobic base…
 DESCRIPTION:Long easy run 10 km\, HR under 158. Aerobic base is the lever
-  - the fastest runners get there on Zone 1 volume.\n\nWeek 2 of 11 - Re-
- entry\nKeep HR under 158. Walk the climbs. Talk test.\nRE-ENTRY. 5 KM RE
- TEST Tuesday - it sets every pace below. Nothing else hard.\n153 days to
-  Venice 70.3 (winter base).
+  - the fastest runners get there on Zone 1 volume.\n\nWeek 1 of 11 - Re-
+ entry\nKeep HR under 158. Walk the climbs. Talk test.\nRE-ENTRY. Vertica
+ l jump comes back about 18 days after an ultra\, which is Thursday\, so 
+ the running is all easy and the first box jumps start low. Durability is
+  the through-line of the whole block: long sessions over 90 min are what
+  preserve running economy under fatigue\, which is the 70.3 run leg in o
+ ne sentence.\n153 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w2-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:≈ Swim 30 min
-DESCRIPTION:Swim 30 min - technique\n\nWeek 2 of 11 - Re-entry\nRE-ENTRY.
-  5 KM RETEST Tuesday - it sets every pace below. Nothing else hard.\n153
-  days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w2-s2-benchmark@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:5 KM RETEST (5 km)
-DESCRIPTION:5 KM RETEST - flat\, out-and-back\, auto-pause OFF. Warm up 2
- 0 min + 4-6 x 100 m AT goal pace\, no faster. First 400 m must not go un
- der target. This sets every pace for the block.\n\nWeek 2 of 11 - Re-ent
- ry\nRE-ENTRY. 5 KM RETEST Tuesday - it sets every pace below. Nothing el
- se hard.\n151 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w2-s3-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:○ BIKE 30 min
-DESCRIPTION:BIKE 30 min - sweet spot\, 2 x 8 min at 88-93% FTP (~132-140 
- W)\, 4 min easy between\, the rest as warm-up and cool-down. The 90 km b
- ike is over half a 70.3 by time.\n\nWeek 2 of 11 - Re-entry\nRE-ENTRY. 5
-  KM RETEST Tuesday - it sets every pace below. Nothing else hard.\n150 d
- ays to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w2-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
-DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
- OI line item in the whole season. You cannot self-coach a catch you have
-  never felt.\n\nWeek 2 of 11 - Re-entry\nRE-ENTRY. 5 KM RETEST Tuesday -
-  it sets every pace below. Nothing else hard.\n150 days to Venice 70.3 (
- winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w2-s5-legs@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:◆ Strength LOWER (45 min)
-DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Trap-bar deadlift 4 x 3 at 8
- 8-92% 1RM (from 85 x 5 at 2 RIR your 1RM is ~105 kg\, so work at 92-97 k
- g - autoregulate\, add 2.5 kg when the last triple moves well). Then Bul
- garian split squat 3 x 5/leg heavy\, and calf raises 3 x 8 loaded. COMPL
- EX PAIRING: after each heavy set\, 5 box jumps or 20 m of bounds within 
- 2 min - heavy resistance plus plyo beats either alone for running econom
- y. Heavy loads at or above 90% 1RM give greater economy gains than light
- er ones\, and the effect needs 10-14 weeks\, which is exactly this block
- . LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15-20\, heel 
- walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot holds 3 x 30
-  s per side.\n\nWeek 2 of 11 - Re-entry\nRE-ENTRY. 5 KM RETEST Tuesday -
-  it sets every pace below. Nothing else hard.\n149 days to Venice 70.3 (
- winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w2-s6-easy@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
-DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
-  and genuinely easy.\n\nWeek 2 of 11 - Re-entry\nKeep HR under 158. Walk
-  the climbs. Talk test.\nRE-ENTRY. 5 KM RETEST Tuesday - it sets every p
- ace below. Nothing else hard.\n147 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w2-s7-push@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w2-s0-push@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Strength UPPER (45 min)
@@ -251,8 +214,117 @@ DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w3-s0-long@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w2-s1-benchmark@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:5 KM RETEST (5 km)
+DESCRIPTION:5 KM RETEST - flat\, out-and-back\, auto-pause OFF. Warm up 2
+ 0 min + 4-6 x 100 m AT goal pace\, no faster. First 400 m must not go un
+ der target. This sets every pace for the block.\n\nWeek 2 of 11 - Re-ent
+ ry\nRE-ENTRY. 5 KM RETEST Tuesday - it sets every pace below. Nothing el
+ se hard.\n151 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w2-s2-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:≈ Swim session 5\, 07:00 Sloterparkbad (45 min)
+DESCRIPTION:Swim session 5\, 07:00 Sloterparkbad - 50 m pool\, lanes 07:0
+ 0-08:00\, before work. Warm-up 100 m easy + 10 bobs (in through the mout
+ h only\, out through mouth and nose\, hard puff just before you turn). C
+ ool-down 100 m easy. Main set easy\, about 40 s per 25 m\, breathe every
+  2nd stroke\; if the panic starts\, stand\, 3-4 slow breaths\, carry on.
+  Press lap at every stop and set the pool size. Drills (body position): 
+ glide + kick with arms out front\, turning to breathe\, 4 x 25\; kickboa
+ rd 4 x 25\, face in. Main: 3 x 150 with 60 s rest.\n\nWeek 2 of 11 - Re-
+ entry\nRE-ENTRY. 5 KM RETEST Tuesday - it sets every pace below. Nothing
+  else hard.\n150 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w2-s3-cycling@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:○ BIKE 30 min
+DESCRIPTION:BIKE 30 min - sweet spot\, 2 x 8 min at 88-93% FTP (~132-140 
+ W)\, 4 min easy between\, the rest as warm-up and cool-down. The 90 km b
+ ike is over half a 70.3 by time.\n\nWeek 2 of 11 - Re-entry\nRE-ENTRY. 5
+  KM RETEST Tuesday - it sets every pace below. Nothing else hard.\n150 d
+ ays to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w2-s4-legs@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:◆ Strength LOWER (45 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Back squat 4 x 3-5 at 85-90%
+  1RM\, safety pins on (75 x 5 on 13 Nov puts the 1RM near 88-90 kg: 4 x 
+ 4 at 80 kg on 20 Nov\, then add 2.5 kg when the last set moves well). Ha
+ ck squat if there's no rack or you're wrecked. Then Bulgarian split squa
+ t 3 x 5/leg heavy\, single-leg calf raises 3 x 8 loaded\, Nordic curls 2
+  x 4. COMPLEX PAIRING: after each heavy set\, 5 box jumps or 20 m of bou
+ nds within 2 min - heavy resistance plus plyo beats either alone for run
+ ning economy. Heavy loads at or above 90% 1RM give greater economy gains
+  than lighter ones\, and the effect needs 10-14 weeks\, which is exactly
+  this block. LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15
+ -20\, heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot h
+ olds 3 x 30 s per side.\n\nWeek 2 of 11 - Re-entry\nRE-ENTRY. 5 KM RETES
+ T Tuesday - it sets every pace below. Nothing else hard.\n149 days to Ve
+ nice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w2-s5-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:≈ Swim session 6 (optional)\, 10:15 Sloterparkbad (45 min)
+DESCRIPTION:Swim session 6 (optional)\, 10:15 Sloterparkbad - 25 m pool\,
+  lanes 10:15-12:15. Warm-up 100 m easy + 10 bobs (in through the mouth o
+ nly\, out through mouth and nose\, hard puff just before you turn). Cool
+ -down 100 m easy. Main set easy\, about 40 s per 25 m\, breathe every 2n
+ d stroke\; if the panic starts\, stand\, 3-4 slow breaths\, carry on. Pr
+ ess lap at every stop and set the pool size. Drills (arms): catch-up 2 x
+  25\, one-arm freestyle 4 x 25\, fingertip drag 2 x 25. Main: 200 m with
+ out stopping\, then 4 x 50 with 30 s rest.\n\nWeek 2 of 11 - Re-entry\nR
+ E-ENTRY. 5 KM RETEST Tuesday - it sets every pace below. Nothing else ha
+ rd.\n147 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w2-s6-easy@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
+  and genuinely easy.\n\nWeek 2 of 11 - Re-entry\nKeep HR under 158. Walk
+  the climbs. Talk test.\nRE-ENTRY. 5 KM RETEST Tuesday - it sets every p
+ ace below. Nothing else hard.\n147 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w2-s7-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:≈ Swim 09:00 Sloterparkbad (40 min)
+DESCRIPTION:Swim 09:00 Sloterparkbad - 35 min - technique\, then 2-3 x 20
+ 0 m continuous\, easy. 50 m pool\, lanes 09:00-12:00\, after the long ru
+ n.\n\nWeek 2 of 11 - Re-entry\nRE-ENTRY. 5 KM RETEST Tuesday - it sets e
+ very pace below. Nothing else hard.\n146 days to Venice 70.3 (winter bas
+ e).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w2-s8-long@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:▲ Long easy run 10 km\, HR under 158. Aerobic base…
@@ -260,33 +332,32 @@ DESCRIPTION:Long easy run 10 km\, HR under 158. Aerobic base is the lever
   - the fastest runners get there on Zone 1 volume. LONG RUN WITH A THRES
  HOLD FINISH: last 10 min at threshold EFFORT - HR 175-180\, pace 5:25-5:
  35/km. Only 10 min this week: with Tuesday's 4 x 1 km it puts quality at
-  about 23% of the week\, inside the 20-25% cap.\n\nWeek 3 of 11 - Thresh
- old\nKeep HR under 158. Walk the climbs. Talk test.\nTHRESHOLD BLOCK ope
- ns. Pfitzinger's order: threshold first\, VO2max later in the block. Two
-  quality touches this week - Tuesday's session and a threshold finish on
-  the long run. Quality volume stays inside 20-25% of weekly mileage\, wh
- ich is the Norwegian rule and the one that keeps this repeatable.\n146 d
- ays to Venice 70.3 (winter base).
+  about 23% of the week\, inside the 20-25% cap.\n\nWeek 2 of 11 - Re-ent
+ ry\nKeep HR under 158. Walk the climbs. Talk test.\nRE-ENTRY. 5 KM RETES
+ T Tuesday - it sets every pace below. Nothing else hard.\n146 days to Ve
+ nice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w3-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:≈ Swim 35 min
-DESCRIPTION:Swim 35 min - technique + first continuous 100 m efforts\n\nW
- eek 3 of 11 - Threshold\nTHRESHOLD BLOCK opens. Pfitzinger's order: thre
- shold first\, VO2max later in the block. Two quality touches this week -
-  Tuesday's session and a threshold finish on the long run. Quality volum
- e stays inside 20-25% of weekly mileage\, which is the Norwegian rule an
- d the one that keeps this repeatable.\n146 days to Venice 70.3 (winter b
- ase).
+UID:venice703winterbase-w3-s0-push@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Strength UPPER (45 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
+ , pull-ups\, overhead press\, rear delts. Heavy\, 4-6 reps\, not hypertr
+ ophy ranges. Free against the running and cycling load. Dead hangs 3 x m
+ ax at the end - grip is a genuine weakness at 32-36 s.\n\nWeek 3 of 11 -
+  Threshold\nTHRESHOLD BLOCK opens. Pfitzinger's order: threshold first\,
+  VO2max later in the block. Two quality touches this week - Tuesday's se
+ ssion and a threshold finish on the long run. Quality volume stays insid
+ e 20-25% of weekly mileage\, which is the Norwegian rule and the one tha
+ t keeps this repeatable.\n145 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w3-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w3-s1-strides@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:THRESHOLD 4 x 1 km at threshold EFFORT (55 min)
@@ -304,8 +375,26 @@ DESCRIPTION:THRESHOLD 4 x 1 km at threshold EFFORT - HR 175-180\, pace 5:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:venice703winterbase-w3-s2-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
+DESCRIPTION:Swim 07:00 Sloterparkbad - technique\, self-coached (coach la
+ ter)\, 45 min. Warm-up 100 m + 10 bobs\; 15 min of drills (side kick\, 6
+ -1-6\, catch-up\, one-arm\, fingertip drag - whichever still feels harde
+ st)\; then this week's continuous-swim set from the Sunday swim\, easy. 
+ Cool-down 100 m. 50 m pool\, lanes 07:00-08:00\, before work.\n\nWeek 3 
+ of 11 - Threshold\nTHRESHOLD BLOCK opens. Pfitzinger's order: threshold 
+ first\, VO2max later in the block. Two quality touches this week - Tuesd
+ ay's session and a threshold finish on the long run. Quality volume stay
+ s inside 20-25% of weekly mileage\, which is the Norwegian rule and the 
+ one that keeps this repeatable.\n143 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:venice703winterbase-w3-s3-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:○ BIKE 35 min
@@ -320,64 +409,33 @@ DESCRIPTION:BIKE 35 min - sweet spot\, 2 x 10 min at 88-93% FTP (~132-140
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w3-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
-DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
- OI line item in the whole season. You cannot self-coach a catch you have
-  never felt.\n\nWeek 3 of 11 - Threshold\nTHRESHOLD BLOCK opens. Pfitzin
- ger's order: threshold first\, VO2max later in the block. Two quality to
- uches this week - Tuesday's session and a threshold finish on the long r
- un. Quality volume stays inside 20-25% of weekly mileage\, which is the 
- Norwegian rule and the one that keeps this repeatable.\n143 days to Veni
- ce 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w3-s5-legs@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w3-s4-legs@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:◆ Strength LOWER (45 min)
-DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Trap-bar deadlift 4 x 3 at 8
- 8-92% 1RM (from 85 x 5 at 2 RIR your 1RM is ~105 kg\, so work at 92-97 k
- g - autoregulate\, add 2.5 kg when the last triple moves well). Then Bul
- garian split squat 3 x 5/leg heavy\, and calf raises 3 x 8 loaded. COMPL
- EX PAIRING: after each heavy set\, 5 box jumps or 20 m of bounds within 
- 2 min - heavy resistance plus plyo beats either alone for running econom
- y. Heavy loads at or above 90% 1RM give greater economy gains than light
- er ones\, and the effect needs 10-14 weeks\, which is exactly this block
- . LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15-20\, heel 
- walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot holds 3 x 30
-  s per side.\n\nWeek 3 of 11 - Threshold\nTHRESHOLD BLOCK opens. Pfitzin
- ger's order: threshold first\, VO2max later in the block. Two quality to
- uches this week - Tuesday's session and a threshold finish on the long r
- un. Quality volume stays inside 20-25% of weekly mileage\, which is the 
- Norwegian rule and the one that keeps this repeatable.\n142 days to Veni
- ce 70.3 (winter base).
+DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Back squat 4 x 3-5 at 85-90%
+  1RM\, safety pins on (75 x 5 on 13 Nov puts the 1RM near 88-90 kg: 4 x 
+ 4 at 80 kg on 20 Nov\, then add 2.5 kg when the last set moves well). Ha
+ ck squat if there's no rack or you're wrecked. Then Bulgarian split squa
+ t 3 x 5/leg heavy\, single-leg calf raises 3 x 8 loaded\, Nordic curls 2
+  x 4. COMPLEX PAIRING: after each heavy set\, 5 box jumps or 20 m of bou
+ nds within 2 min - heavy resistance plus plyo beats either alone for run
+ ning economy. Heavy loads at or above 90% 1RM give greater economy gains
+  than lighter ones\, and the effect needs 10-14 weeks\, which is exactly
+  this block. LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15
+ -20\, heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot h
+ olds 3 x 30 s per side.\n\nWeek 3 of 11 - Threshold\nTHRESHOLD BLOCK ope
+ ns. Pfitzinger's order: threshold first\, VO2max later in the block. Two
+  quality touches this week - Tuesday's session and a threshold finish on
+  the long run. Quality volume stays inside 20-25% of weekly mileage\, wh
+ ich is the Norwegian rule and the one that keeps this repeatable.\n142 d
+ ays to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w3-s6-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:○ BIKE 50 min zone 2\, HR under 145\, steady.…
-DESCRIPTION:BIKE 50 min zone 2\, HR under 145\, steady. Non-impact aerobi
- c volume - the cheapest fitness available and it spares the shins.\n\nWe
- ek 3 of 11 - Threshold\nTHRESHOLD BLOCK opens. Pfitzinger's order: thres
- hold first\, VO2max later in the block. Two quality touches this week - 
- Tuesday's session and a threshold finish on the long run. Quality volume
-  stays inside 20-25% of weekly mileage\, which is the Norwegian rule and
-  the one that keeps this repeatable.\n140 days to Venice 70.3 (winter ba
- se).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w3-s7-easy@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w3-s5-easy@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
@@ -392,53 +450,72 @@ DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w3-s8-push@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Strength UPPER (45 min)
-DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
- , pull-ups\, overhead press\, rear delts. Heavy\, 4-6 reps\, not hypertr
- ophy ranges. Free against the running and cycling load. Dead hangs 3 x m
- ax at the end - grip is a genuine weakness at 32-36 s.\n\nWeek 3 of 11 -
-  Threshold\nTHRESHOLD BLOCK opens. Pfitzinger's order: threshold first\,
-  VO2max later in the block. Two quality touches this week - Tuesday's se
- ssion and a threshold finish on the long run. Quality volume stays insid
- e 20-25% of weekly mileage\, which is the Norwegian rule and the one tha
- t keeps this repeatable.\n145 days to Venice 70.3 (winter base).
+UID:venice703winterbase-w3-s6-cycling@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:○ BIKE 50 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 50 min zone 2\, HR under 145\, steady. Non-impact aerobi
+ c volume - the cheapest fitness available and it spares the shins.\n\nWe
+ ek 3 of 11 - Threshold\nTHRESHOLD BLOCK opens. Pfitzinger's order: thres
+ hold first\, VO2max later in the block. Two quality touches this week - 
+ Tuesday's session and a threshold finish on the long run. Quality volume
+  stays inside 20-25% of weekly mileage\, which is the Norwegian rule and
+  the one that keeps this repeatable.\n140 days to Venice 70.3 (winter ba
+ se).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w4-s0-long@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w3-s7-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:≈ Swim 09:00 Sloterparkbad (40 min)
+DESCRIPTION:Swim 09:00 Sloterparkbad - 40 min - build to 200 m continuous
+ . 50 m pool\, lanes 09:00-12:00\, after the long run.\n\nWeek 3 of 11 - 
+ Threshold\nTHRESHOLD BLOCK opens. Pfitzinger's order: threshold first\, 
+ VO2max later in the block. Two quality touches this week - Tuesday's ses
+ sion and a threshold finish on the long run. Quality volume stays inside
+  20-25% of weekly mileage\, which is the Norwegian rule and the one that
+  keeps this repeatable.\n139 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w3-s8-long@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:▲ Long easy run 12 km\, HR under 158. Aerobic base…
 DESCRIPTION:Long easy run 12 km\, HR under 158. Aerobic base is the lever
   - the fastest runners get there on Zone 1 volume. No threshold finish t
  his week - Tuesday's session already spends the quality budget\, and qua
- lity volume stays inside 20-25% of weekly mileage.\n\nWeek 4 of 11 - Thr
- eshold\nKeep HR under 158. Walk the climbs. Talk test.\nTHRESHOLD. Sub-t
- hreshold means controlled\, not max. If you cannot finish the last rep a
- t the same pace as the first\, you ran the first too fast.\n139 days to 
- Venice 70.3 (winter base).
+ lity volume stays inside 20-25% of weekly mileage.\n\nWeek 3 of 11 - Thr
+ eshold\nKeep HR under 158. Walk the climbs. Talk test.\nTHRESHOLD BLOCK 
+ opens. Pfitzinger's order: threshold first\, VO2max later in the block. 
+ Two quality touches this week - Tuesday's session and a threshold finish
+  on the long run. Quality volume stays inside 20-25% of weekly mileage\,
+  which is the Norwegian rule and the one that keeps this repeatable.\n13
+ 9 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w4-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:≈ Swim 40 min
-DESCRIPTION:Swim 40 min - build to 200 m continuous\n\nWeek 4 of 11 - Thr
- eshold\nTHRESHOLD. Sub-threshold means controlled\, not max. If you cann
- ot finish the last rep at the same pace as the first\, you ran the first
-  too fast.\n139 days to Venice 70.3 (winter base).
+UID:venice703winterbase-w4-s0-push@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Strength UPPER (45 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
+ , pull-ups\, overhead press\, rear delts. Heavy\, 4-6 reps\, not hypertr
+ ophy ranges. Free against the running and cycling load. Dead hangs 3 x m
+ ax at the end - grip is a genuine weakness at 32-36 s.\n\nWeek 4 of 11 -
+  Threshold\nTHRESHOLD. Sub-threshold means controlled\, not max. If you 
+ cannot finish the last rep at the same pace as the first\, you ran the f
+ irst too fast.\n138 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w4-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w4-s1-strides@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:THRESHOLD 4 x 1.5 km at threshold EFFORT (55 min)
@@ -454,8 +531,24 @@ DESCRIPTION:THRESHOLD 4 x 1.5 km at threshold EFFORT - HR 175-180\, pace
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:venice703winterbase-w4-s2-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
+DESCRIPTION:Swim 07:00 Sloterparkbad - technique\, self-coached (coach la
+ ter)\, 45 min. Warm-up 100 m + 10 bobs\; 15 min of drills (side kick\, 6
+ -1-6\, catch-up\, one-arm\, fingertip drag - whichever still feels harde
+ st)\; then this week's continuous-swim set from the Sunday swim\, easy. 
+ Cool-down 100 m. 50 m pool\, lanes 07:00-08:00\, before work.\n\nWeek 4 
+ of 11 - Threshold\nTHRESHOLD. Sub-threshold means controlled\, not max. 
+ If you cannot finish the last rep at the same pace as the first\, you ra
+ n the first too fast.\n136 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:venice703winterbase-w4-s3-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:○ BIKE 40 min
@@ -468,57 +561,31 @@ DESCRIPTION:BIKE 40 min - sweet spot\, 3 x 8 min at 88-93% FTP (~132-140
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w4-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
-DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
- OI line item in the whole season. You cannot self-coach a catch you have
-  never felt.\n\nWeek 4 of 11 - Threshold\nTHRESHOLD. Sub-threshold means
-  controlled\, not max. If you cannot finish the last rep at the same pac
- e as the first\, you ran the first too fast.\n136 days to Venice 70.3 (w
- inter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w4-s5-legs@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w4-s4-legs@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:◆ Strength LOWER (45 min)
-DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Trap-bar deadlift 4 x 3 at 8
- 8-92% 1RM (from 85 x 5 at 2 RIR your 1RM is ~105 kg\, so work at 92-97 k
- g - autoregulate\, add 2.5 kg when the last triple moves well). Then Bul
- garian split squat 3 x 5/leg heavy\, and calf raises 3 x 8 loaded. COMPL
- EX PAIRING: after each heavy set\, 5 box jumps or 20 m of bounds within 
- 2 min - heavy resistance plus plyo beats either alone for running econom
- y. Heavy loads at or above 90% 1RM give greater economy gains than light
- er ones\, and the effect needs 10-14 weeks\, which is exactly this block
- . LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15-20\, heel 
- walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot holds 3 x 30
-  s per side.\n\nWeek 4 of 11 - Threshold\nTHRESHOLD. Sub-threshold means
-  controlled\, not max. If you cannot finish the last rep at the same pac
- e as the first\, you ran the first too fast.\n135 days to Venice 70.3 (w
- inter base).
+DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Back squat 4 x 3-5 at 85-90%
+  1RM\, safety pins on (75 x 5 on 13 Nov puts the 1RM near 88-90 kg: 4 x 
+ 4 at 80 kg on 20 Nov\, then add 2.5 kg when the last set moves well). Ha
+ ck squat if there's no rack or you're wrecked. Then Bulgarian split squa
+ t 3 x 5/leg heavy\, single-leg calf raises 3 x 8 loaded\, Nordic curls 2
+  x 4. COMPLEX PAIRING: after each heavy set\, 5 box jumps or 20 m of bou
+ nds within 2 min - heavy resistance plus plyo beats either alone for run
+ ning economy. Heavy loads at or above 90% 1RM give greater economy gains
+  than lighter ones\, and the effect needs 10-14 weeks\, which is exactly
+  this block. LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15
+ -20\, heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot h
+ olds 3 x 30 s per side.\n\nWeek 4 of 11 - Threshold\nTHRESHOLD. Sub-thre
+ shold means controlled\, not max. If you cannot finish the last rep at t
+ he same pace as the first\, you ran the first too fast.\n135 days to Ven
+ ice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w4-s6-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-SUMMARY:○ BIKE 55 min zone 2\, HR under 145\, steady.…
-DESCRIPTION:BIKE 55 min zone 2\, HR under 145\, steady. Non-impact aerobi
- c volume - the cheapest fitness available and it spares the shins.\n\nWe
- ek 4 of 11 - Threshold\nTHRESHOLD. Sub-threshold means controlled\, not 
- max. If you cannot finish the last rep at the same pace as the first\, y
- ou ran the first too fast.\n133 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w4-s7-easy@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w4-s5-easy@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
@@ -530,51 +597,79 @@ DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w4-s8-push@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:Strength UPPER (45 min)
-DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
- , pull-ups\, overhead press\, rear delts. Heavy\, 4-6 reps\, not hypertr
- ophy ranges. Free against the running and cycling load. Dead hangs 3 x m
- ax at the end - grip is a genuine weakness at 32-36 s.\n\nWeek 4 of 11 -
-  Threshold\nTHRESHOLD. Sub-threshold means controlled\, not max. If you 
- cannot finish the last rep at the same pace as the first\, you ran the f
- irst too fast.\n138 days to Venice 70.3 (winter base).
+UID:venice703winterbase-w4-s6-cycling@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:○ BIKE 55 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 55 min zone 2\, HR under 145\, steady. Non-impact aerobi
+ c volume - the cheapest fitness available and it spares the shins.\n\nWe
+ ek 4 of 11 - Threshold\nTHRESHOLD. Sub-threshold means controlled\, not 
+ max. If you cannot finish the last rep at the same pace as the first\, y
+ ou ran the first too fast.\n133 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w5-s0-long@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w4-s7-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:≈ Swim 09:00 Sloterparkbad (40 min)
+DESCRIPTION:Swim 09:00 Sloterparkbad - 40 min - 300 m continuous. 50 m po
+ ol\, lanes 09:00-12:00\, after the long run.\n\nWeek 4 of 11 - Threshold
+ \nTHRESHOLD. Sub-threshold means controlled\, not max. If you cannot fin
+ ish the last rep at the same pace as the first\, you ran the first too f
+ ast.\n132 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w4-s8-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
+DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
+ ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
+ o in April is 15-17 C.\n\nWeek 4 of 11 - Threshold\nTHRESHOLD. Sub-thres
+ hold means controlled\, not max. If you cannot finish the last rep at th
+ e same pace as the first\, you ran the first too fast.\n132 days to Veni
+ ce 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w4-s9-long@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:▲ Long easy run 14 km\, HR under 158. Aerobic base…
 DESCRIPTION:Long easy run 14 km\, HR under 158. Aerobic base is the lever
   - the fastest runners get there on Zone 1 volume. No threshold finish t
  his week - Tuesday's session already spends the quality budget\, and qua
- lity volume stays inside 20-25% of weekly mileage.\n\nWeek 5 of 11 - Thr
- eshold\nKeep HR under 158. Walk the climbs. Talk test.\nTHRESHOLD. Long 
- run passes 90 min this week - that is the durability threshold\, and it 
- is the single most transferable session to Venice.\n132 days to Venice 7
- 0.3 (winter base).
+ lity volume stays inside 20-25% of weekly mileage.\n\nWeek 4 of 11 - Thr
+ eshold\nKeep HR under 158. Walk the climbs. Talk test.\nTHRESHOLD. Sub-t
+ hreshold means controlled\, not max. If you cannot finish the last rep a
+ t the same pace as the first\, you ran the first too fast.\n132 days to 
+ Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w5-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-SUMMARY:≈ Swim 40 min
-DESCRIPTION:Swim 40 min - 300 m continuous\n\nWeek 5 of 11 - Threshold\nT
- HRESHOLD. Long run passes 90 min this week - that is the durability thre
- shold\, and it is the single most transferable session to Venice.\n132 d
- ays to Venice 70.3 (winter base).
+UID:venice703winterbase-w5-s0-push@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Strength UPPER (45 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
+ , pull-ups\, overhead press\, rear delts. Heavy\, 4-6 reps\, not hypertr
+ ophy ranges. Free against the running and cycling load. Dead hangs 3 x m
+ ax at the end - grip is a genuine weakness at 32-36 s.\n\nWeek 5 of 11 -
+  Threshold\nTHRESHOLD. Long run passes 90 min this week - that is the du
+ rability threshold\, and it is the single most transferable session to V
+ enice.\n131 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w5-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w5-s1-strides@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:THRESHOLD 5 x 1.5 km at threshold EFFORT (55 min)
@@ -589,8 +684,24 @@ DESCRIPTION:THRESHOLD 5 x 1.5 km at threshold EFFORT - HR 175-180\, pace
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:venice703winterbase-w5-s2-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
+DESCRIPTION:Swim 07:00 Sloterparkbad - technique\, self-coached (coach la
+ ter)\, 45 min. Warm-up 100 m + 10 bobs\; 15 min of drills (side kick\, 6
+ -1-6\, catch-up\, one-arm\, fingertip drag - whichever still feels harde
+ st)\; then this week's continuous-swim set from the Sunday swim\, easy. 
+ Cool-down 100 m. 50 m pool\, lanes 07:00-08:00\, before work.\n\nWeek 5 
+ of 11 - Threshold\nTHRESHOLD. Long run passes 90 min this week - that is
+  the durability threshold\, and it is the single most transferable sessi
+ on to Venice.\n129 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:venice703winterbase-w5-s3-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:○ BIKE 40 min
@@ -603,44 +714,44 @@ DESCRIPTION:BIKE 40 min - sweet spot\, 3 x 8 min at 88-93% FTP (~132-140
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w5-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
-DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
- OI line item in the whole season. You cannot self-coach a catch you have
-  never felt.\n\nWeek 5 of 11 - Threshold\nTHRESHOLD. Long run passes 90 
- min this week - that is the durability threshold\, and it is the single 
- most transferable session to Venice.\n129 days to Venice 70.3 (winter ba
- se).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w5-s5-legs@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w5-s4-legs@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:◆ Strength LOWER (45 min)
-DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Trap-bar deadlift 4 x 3 at 8
- 8-92% 1RM (from 85 x 5 at 2 RIR your 1RM is ~105 kg\, so work at 92-97 k
- g - autoregulate\, add 2.5 kg when the last triple moves well). Then Bul
- garian split squat 3 x 5/leg heavy\, and calf raises 3 x 8 loaded. COMPL
- EX PAIRING: after each heavy set\, 5 box jumps or 20 m of bounds within 
- 2 min - heavy resistance plus plyo beats either alone for running econom
- y. Heavy loads at or above 90% 1RM give greater economy gains than light
- er ones\, and the effect needs 10-14 weeks\, which is exactly this block
- . LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15-20\, heel 
- walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot holds 3 x 30
-  s per side.\n\nWeek 5 of 11 - Threshold\nTHRESHOLD. Long run passes 90 
- min this week - that is the durability threshold\, and it is the single 
- most transferable session to Venice.\n128 days to Venice 70.3 (winter ba
- se).
+DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Back squat 4 x 3-5 at 85-90%
+  1RM\, safety pins on (75 x 5 on 13 Nov puts the 1RM near 88-90 kg: 4 x 
+ 4 at 80 kg on 20 Nov\, then add 2.5 kg when the last set moves well). Ha
+ ck squat if there's no rack or you're wrecked. Then Bulgarian split squa
+ t 3 x 5/leg heavy\, single-leg calf raises 3 x 8 loaded\, Nordic curls 2
+  x 4. COMPLEX PAIRING: after each heavy set\, 5 box jumps or 20 m of bou
+ nds within 2 min - heavy resistance plus plyo beats either alone for run
+ ning economy. Heavy loads at or above 90% 1RM give greater economy gains
+  than lighter ones\, and the effect needs 10-14 weeks\, which is exactly
+  this block. LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15
+ -20\, heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot h
+ olds 3 x 30 s per side.\n\nWeek 5 of 11 - Threshold\nTHRESHOLD. Long run
+  passes 90 min this week - that is the durability threshold\, and it is 
+ the single most transferable session to Venice.\n128 days to Venice 70.3
+  (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w5-s5-easy@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
+  and genuinely easy.\n\nWeek 5 of 11 - Threshold\nKeep HR under 158. Wal
+ k the climbs. Talk test.\nTHRESHOLD. Long run passes 90 min this week - 
+ that is the durability threshold\, and it is the single most transferabl
+ e session to Venice.\n126 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:venice703winterbase-w5-s6-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:○ BIKE 55 min zone 2\, HR under 145\, steady.…
@@ -653,74 +764,63 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:venice703winterbase-w5-s7-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:≈ Swim 09:00 Sloterparkbad (40 min)
+DESCRIPTION:Swim 09:00 Sloterparkbad - 30 min - easy\, technique. 50 m po
+ ol\, lanes 09:00-12:00\, after the long run.\n\nWeek 5 of 11 - Threshold
+ \nTHRESHOLD. Long run passes 90 min this week - that is the durability t
+ hreshold\, and it is the single most transferable session to Venice.\n12
+ 5 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w5-s8-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
 SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
 DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
  ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
  o in April is 15-17 C.\n\nWeek 5 of 11 - Threshold\nTHRESHOLD. Long run 
  passes 90 min this week - that is the durability threshold\, and it is t
- he single most transferable session to Venice.\n132 days to Venice 70.3 
+ he single most transferable session to Venice.\n125 days to Venice 70.3 
  (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w5-s8-easy@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
-DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
-  and genuinely easy.\n\nWeek 5 of 11 - Threshold\nKeep HR under 158. Wal
- k the climbs. Talk test.\nTHRESHOLD. Long run passes 90 min this week - 
- that is the durability threshold\, and it is the single most transferabl
- e session to Venice.\n126 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w5-s9-push@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
-SUMMARY:Strength UPPER (45 min)
-DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
- , pull-ups\, overhead press\, rear delts. Heavy\, 4-6 reps\, not hypertr
- ophy ranges. Free against the running and cycling load. Dead hangs 3 x m
- ax at the end - grip is a genuine weakness at 32-36 s.\n\nWeek 5 of 11 -
-  Threshold\nTHRESHOLD. Long run passes 90 min this week - that is the du
- rability threshold\, and it is the single most transferable session to V
- enice.\n131 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w6-s0-long@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w5-s9-long@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:▲ Long easy run 10 km\, HR under 158. Aerobic base…
 DESCRIPTION:Long easy run 10 km\, HR under 158. Aerobic base is the lever
-  - the fastest runners get there on Zone 1 volume.\n\nWeek 6 of 11 - Dow
- n\nDOWN WEEK - recover\, do not add volume.\nKeep HR under 158. Walk the
-  climbs. Talk test.\nDOWN WEEK. Christmas. Volume down 30%\, one quality
-  touch\, long run held.\n125 days to Venice 70.3 (winter base).
+  - the fastest runners get there on Zone 1 volume.\n\nWeek 5 of 11 - Thr
+ eshold\nKeep HR under 158. Walk the climbs. Talk test.\nTHRESHOLD. Long 
+ run passes 90 min this week - that is the durability threshold\, and it 
+ is the single most transferable session to Venice.\n125 days to Venice 7
+ 0.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w6-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-SUMMARY:≈ Swim 30 min
-DESCRIPTION:Swim 30 min - easy\, technique\n\nWeek 6 of 11 - Down\nDOWN W
- EEK - recover\, do not add volume.\nDOWN WEEK. Christmas. Volume down 30
- %\, one quality touch\, long run held.\n125 days to Venice 70.3 (winter 
- base).
+UID:venice703winterbase-w6-s0-push@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Strength UPPER (45 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
+ , pull-ups\, overhead press\, rear delts. Heavy\, 4-6 reps\, not hypertr
+ ophy ranges. Free against the running and cycling load. Dead hangs 3 x m
+ ax at the end - grip is a genuine weakness at 32-36 s.\n\nWeek 6 of 11 -
+  Down\nDOWN WEEK - recover\, do not add volume.\nDOWN WEEK. Christmas. V
+ olume down 30%\, one quality touch\, long run held.\n124 days to Venice 
+ 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w6-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w6-s1-strides@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:THRESHOLD 3 x 1.5 km at threshold EFFORT (55 min)
@@ -735,8 +835,24 @@ DESCRIPTION:THRESHOLD 3 x 1.5 km at threshold EFFORT - HR 175-180\, pace
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:venice703winterbase-w6-s2-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
+DESCRIPTION:Swim 07:00 Sloterparkbad - technique\, self-coached (coach la
+ ter)\, 45 min. Warm-up 100 m + 10 bobs\; 15 min of drills (side kick\, 6
+ -1-6\, catch-up\, one-arm\, fingertip drag - whichever still feels harde
+ st)\; then this week's continuous-swim set from the Sunday swim\, easy. 
+ Cool-down 100 m. 50 m pool\, lanes 07:00-08:00\, before work.\n\nWeek 6 
+ of 11 - Down\nDOWN WEEK - recover\, do not add volume.\nDOWN WEEK. Chris
+ tmas. Volume down 30%\, one quality touch\, long run held.\n122 days to 
+ Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:venice703winterbase-w6-s3-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:○ BIKE 30 min
@@ -748,42 +864,43 @@ DESCRIPTION:BIKE 30 min - sweet spot\, 2 x 8 min at 88-93% FTP (~132-140
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w6-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
-DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
- OI line item in the whole season. You cannot self-coach a catch you have
-  never felt.\n\nWeek 6 of 11 - Down\nDOWN WEEK - recover\, do not add vo
- lume.\nDOWN WEEK. Christmas. Volume down 30%\, one quality touch\, long 
- run held.\n122 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w6-s5-legs@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w6-s4-legs@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:◆ Strength LOWER (45 min)
-DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Trap-bar deadlift 4 x 3 at 8
- 8-92% 1RM (from 85 x 5 at 2 RIR your 1RM is ~105 kg\, so work at 92-97 k
- g - autoregulate\, add 2.5 kg when the last triple moves well). Then Bul
- garian split squat 3 x 5/leg heavy\, and calf raises 3 x 8 loaded. COMPL
- EX PAIRING: after each heavy set\, 5 box jumps or 20 m of bounds within 
- 2 min - heavy resistance plus plyo beats either alone for running econom
- y. Heavy loads at or above 90% 1RM give greater economy gains than light
- er ones\, and the effect needs 10-14 weeks\, which is exactly this block
- . LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15-20\, heel 
- walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot holds 3 x 30
-  s per side.\n\nWeek 6 of 11 - Down\nDOWN WEEK - recover\, do not add vo
- lume.\nDOWN WEEK. Christmas. Volume down 30%\, one quality touch\, long 
- run held.\n121 days to Venice 70.3 (winter base).
+DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Back squat 4 x 3-5 at 85-90%
+  1RM\, safety pins on (75 x 5 on 13 Nov puts the 1RM near 88-90 kg: 4 x 
+ 4 at 80 kg on 20 Nov\, then add 2.5 kg when the last set moves well). Ha
+ ck squat if there's no rack or you're wrecked. Then Bulgarian split squa
+ t 3 x 5/leg heavy\, single-leg calf raises 3 x 8 loaded\, Nordic curls 2
+  x 4. COMPLEX PAIRING: after each heavy set\, 5 box jumps or 20 m of bou
+ nds within 2 min - heavy resistance plus plyo beats either alone for run
+ ning economy. Heavy loads at or above 90% 1RM give greater economy gains
+  than lighter ones\, and the effect needs 10-14 weeks\, which is exactly
+  this block. LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15
+ -20\, heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot h
+ olds 3 x 30 s per side.\n\nWeek 6 of 11 - Down\nDOWN WEEK - recover\, do
+  not add volume.\nDOWN WEEK. Christmas. Volume down 30%\, one quality to
+ uch\, long run held.\n121 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w6-s5-easy@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
+  and genuinely easy.\n\nWeek 6 of 11 - Down\nDOWN WEEK - recover\, do no
+ t add volume.\nKeep HR under 158. Walk the climbs. Talk test.\nDOWN WEEK
+ . Christmas. Volume down 30%\, one quality touch\, long run held.\n119 d
+ ays to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:venice703winterbase-w6-s6-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:○ BIKE 45 min zone 2\, HR under 145\, steady.…
@@ -796,48 +913,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:venice703winterbase-w6-s7-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:≈ Swim 09:00 Sloterparkbad (40 min)
+DESCRIPTION:Swim 09:00 Sloterparkbad - 45 min - 400 m continuous. 50 m po
+ ol\, lanes 09:00-12:00\, after the long run. Holiday week: check the poo
+ l's holiday hours in the app.\n\nWeek 6 of 11 - Down\nDOWN WEEK - recove
+ r\, do not add volume.\nDOWN WEEK. Christmas. Volume down 30%\, one qual
+ ity touch\, long run held.\n118 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w6-s8-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
 SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
 DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
  ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
  o in April is 15-17 C.\n\nWeek 6 of 11 - Down\nDOWN WEEK - recover\, do 
  not add volume.\nDOWN WEEK. Christmas. Volume down 30%\, one quality tou
- ch\, long run held.\n125 days to Venice 70.3 (winter base).
+ ch\, long run held.\n118 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w6-s8-easy@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261227
-SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
-DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
-  and genuinely easy.\n\nWeek 6 of 11 - Down\nDOWN WEEK - recover\, do no
- t add volume.\nKeep HR under 158. Walk the climbs. Talk test.\nDOWN WEEK
- . Christmas. Volume down 30%\, one quality touch\, long run held.\n119 d
- ays to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w6-s9-push@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-SUMMARY:Strength UPPER (45 min)
-DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
- , pull-ups\, overhead press\, rear delts. Heavy\, 4-6 reps\, not hypertr
- ophy ranges. Free against the running and cycling load. Dead hangs 3 x m
- ax at the end - grip is a genuine weakness at 32-36 s.\n\nWeek 6 of 11 -
-  Down\nDOWN WEEK - recover\, do not add volume.\nDOWN WEEK. Christmas. V
- olume down 30%\, one quality touch\, long run held.\n124 days to Venice 
- 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w7-s0-long@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w6-s9-long@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:▲ Long easy run 16 km\, HR under 158. Aerobic base…
@@ -848,28 +950,46 @@ DESCRIPTION:Long easy run 16 km\, HR under 158. Aerobic base is the lever
  /5:12/5:20/5:23 at HR 175-178\, and VDOT off the time trial independentl
  y lands on 5:30. Re-anchor after each retest. This is one of the four pr
  imary ways to move a lactate threshold\, and it doubles as durability wo
- rk - running at pace on pre-fatigued legs is the 70.3 run leg.\n\nWeek 7
-  of 11 - Build\nKeep HR under 158. Walk the climbs. Talk test.\nBUILD. V
- O2max enters now - 3-5 min efforts\, the range where you accumulate real
-  time at maximal oxygen uptake. Biggest running week of the block.\n118 
- days to Venice 70.3 (winter base).
+ rk - running at pace on pre-fatigued legs is the 70.3 run leg.\n\nWeek 6
+  of 11 - Down\nDOWN WEEK - recover\, do not add volume.\nKeep HR under 1
+ 58. Walk the climbs. Talk test.\nDOWN WEEK. Christmas. Volume down 30%\,
+  one quality touch\, long run held.\n118 days to Venice 70.3 (winter bas
+ e).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w7-s0-push@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Strength UPPER (45 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
+ , pull-ups\, overhead press\, rear delts. Heavy\, 4-6 reps\, not hypertr
+ ophy ranges. Free against the running and cycling load. Dead hangs 3 x m
+ ax at the end - grip is a genuine weakness at 32-36 s.\n\nWeek 7 of 11 -
+  Build\nBUILD. VO2max enters now - 3-5 min efforts\, the range where you
+  accumulate real time at maximal oxygen uptake. Biggest running week of 
+ the block.\n117 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:venice703winterbase-w7-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-SUMMARY:≈ Swim 45 min
-DESCRIPTION:Swim 45 min - 400 m continuous\n\nWeek 7 of 11 - Build\nBUILD
- . VO2max enters now - 3-5 min efforts\, the range where you accumulate r
- eal time at maximal oxygen uptake. Biggest running week of the block.\n1
- 18 days to Venice 70.3 (winter base).
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:≈ Swim 20:30 Sloterparkbad (40 min)
+DESCRIPTION:Swim 20:30 Sloterparkbad - 45 min - 400 m continuous. After t
+ he quality run - non-impact\, so it costs the legs nothing and keeps Fri
+ day a genuine rest day. 25 m pool\, lanes 20:30-21:30. Holiday week: che
+ ck the pool's holiday hours in the app.\n\nWeek 7 of 11 - Build\nBUILD. 
+ VO2max enters now - 3-5 min efforts\, the range where you accumulate rea
+ l time at maximal oxygen uptake. Biggest running week of the block.\n116
+  days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:venice703winterbase-w7-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:VO2MAX 5 x 3 min at VO2max EFFORT (12 km)
@@ -885,8 +1005,25 @@ DESCRIPTION:VO2MAX 5 x 3 min at VO2max EFFORT - provisional pace 5:05-5:2
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w7-s3-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w7-s3-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
+DESCRIPTION:Swim 07:00 Sloterparkbad - technique\, self-coached (coach la
+ ter)\, 45 min. Warm-up 100 m + 10 bobs\; 15 min of drills (side kick\, 6
+ -1-6\, catch-up\, one-arm\, fingertip drag - whichever still feels harde
+ st)\; then this week's continuous-swim set from the Sunday swim\, easy. 
+ Cool-down 100 m. 50 m pool\, lanes 07:00-08:00\, before work. Holiday we
+ ek: check the pool's holiday hours in the app.\n\nWeek 7 of 11 - Build\n
+ BUILD. VO2max enters now - 3-5 min efforts\, the range where you accumul
+ ate real time at maximal oxygen uptake. Biggest running week of the bloc
+ k.\n115 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w7-s4-cycling@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:○ BIKE 45 min
@@ -899,84 +1036,31 @@ DESCRIPTION:BIKE 45 min - sweet spot\, 3 x 9 min at 88-93% FTP (~132-140
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w7-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
-DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
- OI line item in the whole season. You cannot self-coach a catch you have
-  never felt.\n\nWeek 7 of 11 - Build\nBUILD. VO2max enters now - 3-5 min
-  efforts\, the range where you accumulate real time at maximal oxygen up
- take. Biggest running week of the block.\n115 days to Venice 70.3 (winte
- r base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:venice703winterbase-w7-s5-legs@garmin-training
-DTSTAMP:20261112T063838Z
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:◆ Strength LOWER (45 min)
-DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Trap-bar deadlift 4 x 3 at 8
- 8-92% 1RM (from 85 x 5 at 2 RIR your 1RM is ~105 kg\, so work at 92-97 k
- g - autoregulate\, add 2.5 kg when the last triple moves well). Then Bul
- garian split squat 3 x 5/leg heavy\, and calf raises 3 x 8 loaded. COMPL
- EX PAIRING: after each heavy set\, 5 box jumps or 20 m of bounds within 
- 2 min - heavy resistance plus plyo beats either alone for running econom
- y. Heavy loads at or above 90% 1RM give greater economy gains than light
- er ones\, and the effect needs 10-14 weeks\, which is exactly this block
- . LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15-20\, heel 
- walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot holds 3 x 30
-  s per side.\n\nWeek 7 of 11 - Build\nBUILD. VO2max enters now - 3-5 min
-  efforts\, the range where you accumulate real time at maximal oxygen up
- take. Biggest running week of the block.\n114 days to Venice 70.3 (winte
- r base).
+DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Back squat 4 x 3-5 at 85-90%
+  1RM\, safety pins on (75 x 5 on 13 Nov puts the 1RM near 88-90 kg: 4 x 
+ 4 at 80 kg on 20 Nov\, then add 2.5 kg when the last set moves well). Ha
+ ck squat if there's no rack or you're wrecked. Then Bulgarian split squa
+ t 3 x 5/leg heavy\, single-leg calf raises 3 x 8 loaded\, Nordic curls 2
+  x 4. COMPLEX PAIRING: after each heavy set\, 5 box jumps or 20 m of bou
+ nds within 2 min - heavy resistance plus plyo beats either alone for run
+ ning economy. Heavy loads at or above 90% 1RM give greater economy gains
+  than lighter ones\, and the effect needs 10-14 weeks\, which is exactly
+  this block. LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15
+ -20\, heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot h
+ olds 3 x 30 s per side.\n\nWeek 7 of 11 - Build\nBUILD. VO2max enters no
+ w - 3-5 min efforts\, the range where you accumulate real time at maxima
+ l oxygen uptake. Biggest running week of the block.\n114 days to Venice 
+ 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w7-s6-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270102
-DTEND;VALUE=DATE:20270103
-SUMMARY:○ BIKE 75 min zone 2\, HR under 145\, steady.…
-DESCRIPTION:BIKE 75 min zone 2\, HR under 145\, steady. Non-impact aerobi
- c volume - the cheapest fitness available and it spares the shins.\n\nWe
- ek 7 of 11 - Build\nBUILD. VO2max enters now - 3-5 min efforts\, the ran
- ge where you accumulate real time at maximal oxygen uptake. Biggest runn
- ing week of the block.\n112 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w7-s7-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261230
-SUMMARY:≈ Swim 45 min
-DESCRIPTION:Swim 45 min - 400 m continuous. After the quality run - non-i
- mpact\, so it costs the legs nothing and keeps Friday a genuine rest day
- .\n\nWeek 7 of 11 - Build\nBUILD. VO2max enters now - 3-5 min efforts\, 
- the range where you accumulate real time at maximal oxygen uptake. Bigge
- st running week of the block.\n116 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w7-s8-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
-DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
- ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
- o in April is 15-17 C.\n\nWeek 7 of 11 - Build\nBUILD. VO2max enters now
-  - 3-5 min efforts\, the range where you accumulate real time at maximal
-  oxygen uptake. Biggest running week of the block.\n118 days to Venice 7
- 0.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w7-s9-easy@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w7-s6-easy@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
@@ -988,23 +1072,48 @@ DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w7-s10-push@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
-SUMMARY:Strength UPPER (45 min)
-DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
- , pull-ups\, overhead press\, rear delts. Heavy\, 4-6 reps\, not hypertr
- ophy ranges. Free against the running and cycling load. Dead hangs 3 x m
- ax at the end - grip is a genuine weakness at 32-36 s.\n\nWeek 7 of 11 -
-  Build\nBUILD. VO2max enters now - 3-5 min efforts\, the range where you
-  accumulate real time at maximal oxygen uptake. Biggest running week of 
- the block.\n117 days to Venice 70.3 (winter base).
+UID:venice703winterbase-w7-s7-cycling@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:○ BIKE 75 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 75 min zone 2\, HR under 145\, steady. Non-impact aerobi
+ c volume - the cheapest fitness available and it spares the shins.\n\nWe
+ ek 7 of 11 - Build\nBUILD. VO2max enters now - 3-5 min efforts\, the ran
+ ge where you accumulate real time at maximal oxygen uptake. Biggest runn
+ ing week of the block.\n112 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w8-s0-long@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w7-s8-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:≈ Swim 09:00 Sloterparkbad (40 min)
+DESCRIPTION:Swim 09:00 Sloterparkbad - 45 min - 600 m continuous. 50 m po
+ ol\, lanes 09:00-12:00\, after the long run.\n\nWeek 7 of 11 - Build\nBU
+ ILD. VO2max enters now - 3-5 min efforts\, the range where you accumulat
+ e real time at maximal oxygen uptake. Biggest running week of the block.
+ \n111 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w7-s9-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
+DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
+ ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
+ o in April is 15-17 C.\n\nWeek 7 of 11 - Build\nBUILD. VO2max enters now
+  - 3-5 min efforts\, the range where you accumulate real time at maximal
+  oxygen uptake. Biggest running week of the block.\n111 days to Venice 7
+ 0.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w7-s10-long@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:▲ Long easy run 14 km\, HR under 158. Aerobic base…
@@ -1015,149 +1124,16 @@ DESCRIPTION:Long easy run 14 km\, HR under 158. Aerobic base is the lever
  /5:12/5:20/5:23 at HR 175-178\, and VDOT off the time trial independentl
  y lands on 5:30. Re-anchor after each retest. This is one of the four pr
  imary ways to move a lactate threshold\, and it doubles as durability wo
- rk - running at pace on pre-fatigued legs is the 70.3 run leg.\n\nWeek 8
-  of 11 - Build\nKeep HR under 158. Walk the climbs. Talk test.\nBUILD. S
- econd VO2max week - longer reps\, one fewer. No taper: there is no race 
- until Venice\, so the block runs straight on to next week's down week.\n
- 111 days to Venice 70.3 (winter base).
+ rk - running at pace on pre-fatigued legs is the 70.3 run leg.\n\nWeek 7
+  of 11 - Build\nKeep HR under 158. Walk the climbs. Talk test.\nBUILD. V
+ O2max enters now - 3-5 min efforts\, the range where you accumulate real
+  time at maximal oxygen uptake. Biggest running week of the block.\n111 
+ days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w8-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270103
-DTEND;VALUE=DATE:20270104
-SUMMARY:≈ Swim 45 min
-DESCRIPTION:Swim 45 min - 600 m continuous\n\nWeek 8 of 11 - Build\nBUILD
- . Second VO2max week - longer reps\, one fewer. No taper: there is no ra
- ce until Venice\, so the block runs straight on to next week's down week
- .\n111 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w8-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270105
-DTEND;VALUE=DATE:20270106
-SUMMARY:VO2MAX 4 x 4 min at VO2max EFFORT (11 km)
-DESCRIPTION:VO2MAX 4 x 4 min at VO2max EFFORT - provisional pace 5:05-5:2
- 0/km\, HR at the END of each rep 186-193. HR lags 60-90 s so it cannot s
- teer a 3 min rep\; set it by pace\, confirm by the HR you finish on\, 3 
- min jog. Longer reps\, one fewer. Warm up 15 min\, cool down 10 min.\n\n
- Week 8 of 11 - Build\nBUILD. Second VO2max week - longer reps\, one fewe
- r. No taper: there is no race until Venice\, so the block runs straight 
- on to next week's down week.\n109 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w8-s3-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
-SUMMARY:○ BIKE 40 min
-DESCRIPTION:BIKE 40 min - sweet spot\, 3 x 8 min at 88-93% FTP (~132-140 
- W)\, 3 min easy between\, the rest as warm-up and cool-down. The 90 km b
- ike is over half a 70.3 by time.\n\nWeek 8 of 11 - Build\nBUILD. Second 
- VO2max week - longer reps\, one fewer. No taper: there is no race until 
- Venice\, so the block runs straight on to next week's down week.\n108 da
- ys to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w8-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
-SUMMARY:≈ SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these
-DESCRIPTION:SWIM LESSON (1-on-1\, 45 min). Book 6-10 of these - highest-R
- OI line item in the whole season. You cannot self-coach a catch you have
-  never felt.\n\nWeek 8 of 11 - Build\nBUILD. Second VO2max week - longer
-  reps\, one fewer. No taper: there is no race until Venice\, so the bloc
- k runs straight on to next week's down week.\n108 days to Venice 70.3 (w
- inter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w8-s5-legs@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20270108
-SUMMARY:◆ Strength LOWER (45 min)
-DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Trap-bar deadlift 4 x 3 at 8
- 8-92% 1RM (from 85 x 5 at 2 RIR your 1RM is ~105 kg\, so work at 92-97 k
- g - autoregulate\, add 2.5 kg when the last triple moves well). Then Bul
- garian split squat 3 x 5/leg heavy\, and calf raises 3 x 8 loaded. COMPL
- EX PAIRING: after each heavy set\, 5 box jumps or 20 m of bounds within 
- 2 min - heavy resistance plus plyo beats either alone for running econom
- y. Heavy loads at or above 90% 1RM give greater economy gains than light
- er ones\, and the effect needs 10-14 weeks\, which is exactly this block
- . LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15-20\, heel 
- walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot holds 3 x 30
-  s per side.\n\nWeek 8 of 11 - Build\nBUILD. Second VO2max week - longer
-  reps\, one fewer. No taper: there is no race until Venice\, so the bloc
- k runs straight on to next week's down week.\n107 days to Venice 70.3 (w
- inter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w8-s6-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270110
-SUMMARY:○ BIKE 90 min zone 2\, HR under 145\, steady.…
-DESCRIPTION:BIKE 90 min zone 2\, HR under 145\, steady. Non-impact aerobi
- c volume - the cheapest fitness available and it spares the shins. Over 
- 75 min\, take 40-60 g carb per hour from the start - early gut practice 
- for Venice.\n\nWeek 8 of 11 - Build\nBUILD. Second VO2max week - longer 
- reps\, one fewer. No taper: there is no race until Venice\, so the block
-  runs straight on to next week's down week.\n105 days to Venice 70.3 (wi
- nter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w8-s7-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270105
-DTEND;VALUE=DATE:20270106
-SUMMARY:≈ Swim 45 min
-DESCRIPTION:Swim 45 min - 600 m continuous. After the quality run - non-i
- mpact\, so it costs the legs nothing and keeps Friday a genuine rest day
- .\n\nWeek 8 of 11 - Build\nBUILD. Second VO2max week - longer reps\, one
-  fewer. No taper: there is no race until Venice\, so the block runs stra
- ight on to next week's down week.\n109 days to Venice 70.3 (winter base)
- .
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w8-s8-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270103
-DTEND;VALUE=DATE:20270104
-SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
-DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
- ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
- o in April is 15-17 C.\n\nWeek 8 of 11 - Build\nBUILD. Second VO2max wee
- k - longer reps\, one fewer. No taper: there is no race until Venice\, s
- o the block runs straight on to next week's down week.\n111 days to Veni
- ce 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w8-s9-easy@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270110
-SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
-DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
-  and genuinely easy.\n\nWeek 8 of 11 - Build\nKeep HR under 158. Walk th
- e climbs. Talk test.\nBUILD. Second VO2max week - longer reps\, one fewe
- r. No taper: there is no race until Venice\, so the block runs straight 
- on to next week's down week.\n105 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w8-s10-push@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w8-s0-push@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:Strength UPPER (45 min)
@@ -1171,113 +1147,132 @@ DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w9-s0-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270113
-SUMMARY:≈ Swim 45 min
-DESCRIPTION:Swim 45 min - 800 m continuous\n\nWeek 9 of 11 - Down\nDOWN W
- EEK - recover\, do not add volume.\nDOWN WEEK. About 30% lighter\, one q
- uality touch on Tuesday\, everything else easy. The first eight weeks ge
- t absorbed here - arrive at week 10 fresh.\n102 days to Venice 70.3 (win
- ter base).
+UID:venice703winterbase-w8-s1-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:≈ Swim 20:30 Sloterparkbad (40 min)
+DESCRIPTION:Swim 20:30 Sloterparkbad - 45 min - 600 m continuous. After t
+ he quality run - non-impact\, so it costs the legs nothing and keeps Fri
+ day a genuine rest day. 25 m pool\, lanes 20:30-21:30.\n\nWeek 8 of 11 -
+  Build\nBUILD. Second VO2max week - longer reps\, one fewer. No taper: t
+ here is no race until Venice\, so the block runs straight on to next wee
+ k's down week.\n109 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w9-s1-long@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w8-s2-strides@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:VO2MAX 4 x 4 min at VO2max EFFORT (11 km)
+DESCRIPTION:VO2MAX 4 x 4 min at VO2max EFFORT - provisional pace 5:05-5:2
+ 0/km\, HR at the END of each rep 186-193. HR lags 60-90 s so it cannot s
+ teer a 3 min rep\; set it by pace\, confirm by the HR you finish on\, 3 
+ min jog. Longer reps\, one fewer. Warm up 15 min\, cool down 10 min.\n\n
+ Week 8 of 11 - Build\nBUILD. Second VO2max week - longer reps\, one fewe
+ r. No taper: there is no race until Venice\, so the block runs straight 
+ on to next week's down week.\n109 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w8-s3-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
+DESCRIPTION:Swim 07:00 Sloterparkbad - technique\, self-coached (coach la
+ ter)\, 45 min. Warm-up 100 m + 10 bobs\; 15 min of drills (side kick\, 6
+ -1-6\, catch-up\, one-arm\, fingertip drag - whichever still feels harde
+ st)\; then this week's continuous-swim set from the Sunday swim\, easy. 
+ Cool-down 100 m. 50 m pool\, lanes 07:00-08:00\, before work.\n\nWeek 8 
+ of 11 - Build\nBUILD. Second VO2max week - longer reps\, one fewer. No t
+ aper: there is no race until Venice\, so the block runs straight on to n
+ ext week's down week.\n108 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w8-s4-cycling@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:○ BIKE 40 min
+DESCRIPTION:BIKE 40 min - sweet spot\, 3 x 8 min at 88-93% FTP (~132-140 
+ W)\, 3 min easy between\, the rest as warm-up and cool-down. The 90 km b
+ ike is over half a 70.3 by time.\n\nWeek 8 of 11 - Build\nBUILD. Second 
+ VO2max week - longer reps\, one fewer. No taper: there is no race until 
+ Venice\, so the block runs straight on to next week's down week.\n108 da
+ ys to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w8-s5-legs@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:◆ Strength LOWER (45 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Back squat 4 x 3-5 at 85-90%
+  1RM\, safety pins on (75 x 5 on 13 Nov puts the 1RM near 88-90 kg: 4 x 
+ 4 at 80 kg on 20 Nov\, then add 2.5 kg when the last set moves well). Ha
+ ck squat if there's no rack or you're wrecked. Then Bulgarian split squa
+ t 3 x 5/leg heavy\, single-leg calf raises 3 x 8 loaded\, Nordic curls 2
+  x 4. COMPLEX PAIRING: after each heavy set\, 5 box jumps or 20 m of bou
+ nds within 2 min - heavy resistance plus plyo beats either alone for run
+ ning economy. Heavy loads at or above 90% 1RM give greater economy gains
+  than lighter ones\, and the effect needs 10-14 weeks\, which is exactly
+  this block. LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15
+ -20\, heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot h
+ olds 3 x 30 s per side.\n\nWeek 8 of 11 - Build\nBUILD. Second VO2max we
+ ek - longer reps\, one fewer. No taper: there is no race until Venice\, 
+ so the block runs straight on to next week's down week.\n107 days to Ven
+ ice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w8-s6-easy@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
+  and genuinely easy.\n\nWeek 8 of 11 - Build\nKeep HR under 158. Walk th
+ e climbs. Talk test.\nBUILD. Second VO2max week - longer reps\, one fewe
+ r. No taper: there is no race until Venice\, so the block runs straight 
+ on to next week's down week.\n105 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w8-s7-cycling@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:○ BIKE 90 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 90 min zone 2\, HR under 145\, steady. Non-impact aerobi
+ c volume - the cheapest fitness available and it spares the shins. Over 
+ 75 min\, take 40-60 g carb per hour from the start - early gut practice 
+ for Venice.\n\nWeek 8 of 11 - Build\nBUILD. Second VO2max week - longer 
+ reps\, one fewer. No taper: there is no race until Venice\, so the block
+  runs straight on to next week's down week.\n105 days to Venice 70.3 (wi
+ nter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w8-s8-long@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:▲ Long easy run 10 km\, HR under 158
 DESCRIPTION:Long easy run 10 km\, HR under 158. Down week: no threshold f
- inish\, just time on feet.\n\nWeek 9 of 11 - Down\nDOWN WEEK - recover\,
-  do not add volume.\nKeep HR under 158. Walk the climbs. Talk test.\nDOW
- N WEEK. About 30% lighter\, one quality touch on Tuesday\, everything el
- se easy. The first eight weeks get absorbed here - arrive at week 10 fre
- sh.\n104 days to Venice 70.3 (winter base).
+ inish\, just time on feet.\n\nWeek 8 of 11 - Build\nKeep HR under 158. W
+ alk the climbs. Talk test.\nBUILD. Second VO2max week - longer reps\, on
+ e fewer. No taper: there is no race until Venice\, so the block runs str
+ aight on to next week's down week.\n104 days to Venice 70.3 (winter base
+ ).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w9-s2-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270114
-SUMMARY:○ BIKE 30 min
-DESCRIPTION:BIKE 30 min - sweet spot\, 2 x 8 min at 88-93% FTP (~132-140 
- W)\, 4 min easy between\, the rest as warm-up and cool-down. The 90 km b
- ike is over half a 70.3 by time.\n\nWeek 9 of 11 - Down\nDOWN WEEK - rec
- over\, do not add volume.\nDOWN WEEK. About 30% lighter\, one quality to
- uch on Tuesday\, everything else easy. The first eight weeks get absorbe
- d here - arrive at week 10 fresh.\n101 days to Venice 70.3 (winter base)
- .
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w9-s3-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270114
-SUMMARY:≈ Swim 45 min
-DESCRIPTION:Swim 45 min - 800 m continuous\n\nWeek 9 of 11 - Down\nDOWN W
- EEK - recover\, do not add volume.\nDOWN WEEK. About 30% lighter\, one q
- uality touch on Tuesday\, everything else easy. The first eight weeks ge
- t absorbed here - arrive at week 10 fresh.\n101 days to Venice 70.3 (win
- ter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w9-s4-legs@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270114
-DTEND;VALUE=DATE:20270115
-SUMMARY:◆ Strength LOWER (45 min)
-DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Trap-bar deadlift 4 x 3 at 8
- 8-92% 1RM (from 85 x 5 at 2 RIR your 1RM is ~105 kg\, so work at 92-97 k
- g - autoregulate\, add 2.5 kg when the last triple moves well). Then Bul
- garian split squat 3 x 5/leg heavy\, and calf raises 3 x 8 loaded. COMPL
- EX PAIRING: after each heavy set\, 5 box jumps or 20 m of bounds within 
- 2 min - heavy resistance plus plyo beats either alone for running econom
- y. Heavy loads at or above 90% 1RM give greater economy gains than light
- er ones\, and the effect needs 10-14 weeks\, which is exactly this block
- . LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15-20\, heel 
- walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot holds 3 x 30
-  s per side.\n\nWeek 9 of 11 - Down\nDOWN WEEK - recover\, do not add vo
- lume.\nDOWN WEEK. About 30% lighter\, one quality touch on Tuesday\, eve
- rything else easy. The first eight weeks get absorbed here - arrive at w
- eek 10 fresh.\n100 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w9-s5-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270117
-SUMMARY:○ BIKE 60 min zone 2\, HR under 145\, steady.…
-DESCRIPTION:BIKE 60 min zone 2\, HR under 145\, steady. Non-impact aerobi
- c volume - the cheapest fitness available and it spares the shins.\n\nWe
- ek 9 of 11 - Down\nDOWN WEEK - recover\, do not add volume.\nDOWN WEEK. 
- About 30% lighter\, one quality touch on Tuesday\, everything else easy.
-  The first eight weeks get absorbed here - arrive at week 10 fresh.\n98 
- days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w9-s6-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270113
-SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
-DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
- ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
- o in April is 15-17 C.\n\nWeek 9 of 11 - Down\nDOWN WEEK - recover\, do 
- not add volume.\nDOWN WEEK. About 30% lighter\, one quality touch on Tue
- sday\, everything else easy. The first eight weeks get absorbed here - a
- rrive at week 10 fresh.\n102 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w9-s7-push@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w9-s0-push@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Strength UPPER (45 min)
@@ -1292,8 +1287,35 @@ DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w9-s8-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w9-s1-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:≈ Swim 20:30 Sloterparkbad (40 min)
+DESCRIPTION:Swim 20:30 Sloterparkbad - 45 min - 800 m continuous. 25 m po
+ ol\, lanes 20:30-21:30.\n\nWeek 9 of 11 - Down\nDOWN WEEK - recover\, do
+  not add volume.\nDOWN WEEK. About 30% lighter\, one quality touch on Tu
+ esday\, everything else easy. The first eight weeks get absorbed here - 
+ arrive at week 10 fresh.\n102 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w9-s2-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
+DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
+ ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
+ o in April is 15-17 C.\n\nWeek 9 of 11 - Down\nDOWN WEEK - recover\, do 
+ not add volume.\nDOWN WEEK. About 30% lighter\, one quality touch on Tue
+ sday\, everything else easy. The first eight weeks get absorbed here - a
+ rrive at week 10 fresh.\n102 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w9-s3-strides@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:THRESHOLD 3 x 1.5 km at threshold EFFORT (55 min)
@@ -1307,8 +1329,60 @@ DESCRIPTION:THRESHOLD 3 x 1.5 km at threshold EFFORT - HR 175-180\, pace
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w9-s9-easy@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w9-s4-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
+DESCRIPTION:Swim 07:00 Sloterparkbad - 45 min - 800 m continuous. 50 m po
+ ol\, lanes 07:00-08:00\, before work.\n\nWeek 9 of 11 - Down\nDOWN WEEK 
+ - recover\, do not add volume.\nDOWN WEEK. About 30% lighter\, one quali
+ ty touch on Tuesday\, everything else easy. The first eight weeks get ab
+ sorbed here - arrive at week 10 fresh.\n101 days to Venice 70.3 (winter 
+ base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w9-s5-cycling@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:○ BIKE 30 min
+DESCRIPTION:BIKE 30 min - sweet spot\, 2 x 8 min at 88-93% FTP (~132-140 
+ W)\, 4 min easy between\, the rest as warm-up and cool-down. The 90 km b
+ ike is over half a 70.3 by time.\n\nWeek 9 of 11 - Down\nDOWN WEEK - rec
+ over\, do not add volume.\nDOWN WEEK. About 30% lighter\, one quality to
+ uch on Tuesday\, everything else easy. The first eight weeks get absorbe
+ d here - arrive at week 10 fresh.\n101 days to Venice 70.3 (winter base)
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w9-s6-legs@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:◆ Strength LOWER (45 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Back squat 4 x 3-5 at 85-90%
+  1RM\, safety pins on (75 x 5 on 13 Nov puts the 1RM near 88-90 kg: 4 x 
+ 4 at 80 kg on 20 Nov\, then add 2.5 kg when the last set moves well). Ha
+ ck squat if there's no rack or you're wrecked. Then Bulgarian split squa
+ t 3 x 5/leg heavy\, single-leg calf raises 3 x 8 loaded\, Nordic curls 2
+  x 4. COMPLEX PAIRING: after each heavy set\, 5 box jumps or 20 m of bou
+ nds within 2 min - heavy resistance plus plyo beats either alone for run
+ ning economy. Heavy loads at or above 90% 1RM give greater economy gains
+  than lighter ones\, and the effect needs 10-14 weeks\, which is exactly
+  this block. LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15
+ -20\, heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot h
+ olds 3 x 30 s per side.\n\nWeek 9 of 11 - Down\nDOWN WEEK - recover\, do
+  not add volume.\nDOWN WEEK. About 30% lighter\, one quality touch on Tu
+ esday\, everything else easy. The first eight weeks get absorbed here - 
+ arrive at week 10 fresh.\n100 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w9-s7-easy@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Easy run 5 km\, HR under 158. Third run of a…
@@ -1321,151 +1395,66 @@ DESCRIPTION:Easy run 5 km\, HR under 158. Third run of a down week - shor
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w10-s0-long@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w9-s8-cycling@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:○ BIKE 60 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 60 min zone 2\, HR under 145\, steady. Non-impact aerobi
+ c volume - the cheapest fitness available and it spares the shins.\n\nWe
+ ek 9 of 11 - Down\nDOWN WEEK - recover\, do not add volume.\nDOWN WEEK. 
+ About 30% lighter\, one quality touch on Tuesday\, everything else easy.
+  The first eight weeks get absorbed here - arrive at week 10 fresh.\n98 
+ days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w9-s9-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:≈ Swim 09:00 Sloterparkbad (40 min)
+DESCRIPTION:Swim 09:00 Sloterparkbad - 50 min - 1000 m continuous. 50 m p
+ ool\, lanes 09:00-12:00\, after the long run.\n\nWeek 9 of 11 - Down\nDO
+ WN WEEK - recover\, do not add volume.\nDOWN WEEK. About 30% lighter\, o
+ ne quality touch on Tuesday\, everything else easy. The first eight week
+ s get absorbed here - arrive at week 10 fresh.\n97 days to Venice 70.3 (
+ winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w9-s10-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
+DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
+ ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
+ o in April is 15-17 C.\n\nWeek 9 of 11 - Down\nDOWN WEEK - recover\, do 
+ not add volume.\nDOWN WEEK. About 30% lighter\, one quality touch on Tue
+ sday\, everything else easy. The first eight weeks get absorbed here - a
+ rrive at week 10 fresh.\n97 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w9-s11-long@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:▲ Long easy run 14 km\, HR under 158. Aerobic base…
 DESCRIPTION:Long easy run 14 km\, HR under 158. Aerobic base is the lever
   - the fastest runners get there on Zone 1 volume. No threshold finish t
  his week - Tuesday's session already spends the quality budget\, and qua
- lity volume stays inside 20-25% of weekly mileage.\n\nWeek 10 of 11 - Br
- idge\nKeep HR under 158. Walk the climbs. Talk test.\nBRIDGE to Venice. 
- Durability leads: the long run and the bike carry the block from here\, 
- and the running holds rather than builds.\n97 days to Venice 70.3 (winte
- r base).
+ lity volume stays inside 20-25% of weekly mileage.\n\nWeek 9 of 11 - Dow
+ n\nDOWN WEEK - recover\, do not add volume.\nKeep HR under 158. Walk the
+  climbs. Talk test.\nDOWN WEEK. About 30% lighter\, one quality touch on
+  Tuesday\, everything else easy. The first eight weeks get absorbed here
+  - arrive at week 10 fresh.\n97 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w10-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270117
-DTEND;VALUE=DATE:20270118
-SUMMARY:≈ Swim 50 min
-DESCRIPTION:Swim 50 min - 1000 m continuous\n\nWeek 10 of 11 - Bridge\nBR
- IDGE to Venice. Durability leads: the long run and the bike carry the bl
- ock from here\, and the running holds rather than builds.\n97 days to Ve
- nice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w10-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270120
-SUMMARY:THRESHOLD 4 x 1.5 km at threshold EFFORT (55 min)
-DESCRIPTION:THRESHOLD 4 x 1.5 km at threshold EFFORT - HR 175-180\, pace 
- 5:25-5:35/km\, 90 s jog. Re-anchor if the 24 Nov retest or the Tuesdays 
- since moved it. Warm up 15 min\, cool down 10 min.\n\nWeek 10 of 11 - Br
- idge\nBRIDGE to Venice. Durability leads: the long run and the bike carr
- y the block from here\, and the running holds rather than builds.\n95 da
- ys to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w10-s3-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
-SUMMARY:○ BIKE 45 min
-DESCRIPTION:BIKE 45 min - sweet spot\, 3 x 9 min at 88-93% FTP (~132-140 
- W)\, 4 min easy between\, the rest as warm-up and cool-down. The 90 km b
- ike is over half a 70.3 by time.\n\nWeek 10 of 11 - Bridge\nBRIDGE to Ve
- nice. Durability leads: the long run and the bike carry the block from h
- ere\, and the running holds rather than builds.\n94 days to Venice 70.3 
- (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w10-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
-SUMMARY:≈ Swim 50 min
-DESCRIPTION:Swim 50 min - 1000 m continuous\n\nWeek 10 of 11 - Bridge\nBR
- IDGE to Venice. Durability leads: the long run and the bike carry the bl
- ock from here\, and the running holds rather than builds.\n94 days to Ve
- nice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w10-s5-legs@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270121
-DTEND;VALUE=DATE:20270122
-SUMMARY:◆ Strength LOWER (45 min)
-DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Trap-bar deadlift 4 x 3 at 8
- 8-92% 1RM (from 85 x 5 at 2 RIR your 1RM is ~105 kg\, so work at 92-97 k
- g - autoregulate\, add 2.5 kg when the last triple moves well). Then Bul
- garian split squat 3 x 5/leg heavy\, and calf raises 3 x 8 loaded. COMPL
- EX PAIRING: after each heavy set\, 5 box jumps or 20 m of bounds within 
- 2 min - heavy resistance plus plyo beats either alone for running econom
- y. Heavy loads at or above 90% 1RM give greater economy gains than light
- er ones\, and the effect needs 10-14 weeks\, which is exactly this block
- . LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15-20\, heel 
- walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot holds 3 x 30
-  s per side.\n\nWeek 10 of 11 - Bridge\nBRIDGE to Venice. Durability lea
- ds: the long run and the bike carry the block from here\, and the runnin
- g holds rather than builds.\n93 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w10-s6-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
-SUMMARY:○ BIKE 120 min zone 2\, HR under 145\, steady.…
-DESCRIPTION:BIKE 120 min zone 2\, HR under 145\, steady. Non-impact aerob
- ic volume - the cheapest fitness available and it spares the shins. Over
-  75 min\, take 40-60 g carb per hour from the start - early gut practice
-  for Venice.\n\nWeek 10 of 11 - Bridge\nBRIDGE to Venice. Durability lea
- ds: the long run and the bike carry the block from here\, and the runnin
- g holds rather than builds.\n91 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w10-s7-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270120
-SUMMARY:≈ Swim 50 min
-DESCRIPTION:Swim 50 min - 1000 m continuous. After the quality run - non-
- impact\, so it costs the legs nothing and keeps Friday a genuine rest da
- y.\n\nWeek 10 of 11 - Bridge\nBRIDGE to Venice. Durability leads: the lo
- ng run and the bike carry the block from here\, and the running holds ra
- ther than builds.\n95 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w10-s8-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270117
-DTEND;VALUE=DATE:20270118
-SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
-DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
- ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
- o in April is 15-17 C.\n\nWeek 10 of 11 - Bridge\nBRIDGE to Venice. Dura
- bility leads: the long run and the bike carry the block from here\, and 
- the running holds rather than builds.\n97 days to Venice 70.3 (winter ba
- se).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w10-s9-easy@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
-SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
-DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
-  and genuinely easy.\n\nWeek 10 of 11 - Bridge\nKeep HR under 158. Walk 
- the climbs. Talk test.\nBRIDGE to Venice. Durability leads: the long run
-  and the bike carry the block from here\, and the running holds rather t
- han builds.\n91 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w10-s10-push@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w10-s0-push@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:Strength UPPER (45 min)
@@ -1479,36 +1468,185 @@ DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w11-s0-long@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w10-s1-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:≈ Swim 20:30 Sloterparkbad (40 min)
+DESCRIPTION:Swim 20:30 Sloterparkbad - 50 min - 1000 m continuous. After 
+ the quality run - non-impact\, so it costs the legs nothing and keeps Fr
+ iday a genuine rest day. 25 m pool\, lanes 20:30-21:30.\n\nWeek 10 of 11
+  - Bridge\nBRIDGE to Venice. Durability leads: the long run and the bike
+  carry the block from here\, and the running holds rather than builds.\n
+ 95 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w10-s2-strides@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:THRESHOLD 4 x 1.5 km at threshold EFFORT (55 min)
+DESCRIPTION:THRESHOLD 4 x 1.5 km at threshold EFFORT - HR 175-180\, pace 
+ 5:25-5:35/km\, 90 s jog. Re-anchor if the 24 Nov retest or the Tuesdays 
+ since moved it. Warm up 15 min\, cool down 10 min.\n\nWeek 10 of 11 - Br
+ idge\nBRIDGE to Venice. Durability leads: the long run and the bike carr
+ y the block from here\, and the running holds rather than builds.\n95 da
+ ys to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w10-s3-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
+DESCRIPTION:Swim 07:00 Sloterparkbad - 50 min - 1000 m continuous. 50 m p
+ ool\, lanes 07:00-08:00\, before work.\n\nWeek 10 of 11 - Bridge\nBRIDGE
+  to Venice. Durability leads: the long run and the bike carry the block 
+ from here\, and the running holds rather than builds.\n94 days to Venice
+  70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w10-s4-cycling@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:○ BIKE 45 min
+DESCRIPTION:BIKE 45 min - sweet spot\, 3 x 9 min at 88-93% FTP (~132-140 
+ W)\, 4 min easy between\, the rest as warm-up and cool-down. The 90 km b
+ ike is over half a 70.3 by time.\n\nWeek 10 of 11 - Bridge\nBRIDGE to Ve
+ nice. Durability leads: the long run and the bike carry the block from h
+ ere\, and the running holds rather than builds.\n94 days to Venice 70.3 
+ (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w10-s5-legs@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:◆ Strength LOWER (45 min)
+DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Back squat 4 x 3-5 at 85-90%
+  1RM\, safety pins on (75 x 5 on 13 Nov puts the 1RM near 88-90 kg: 4 x 
+ 4 at 80 kg on 20 Nov\, then add 2.5 kg when the last set moves well). Ha
+ ck squat if there's no rack or you're wrecked. Then Bulgarian split squa
+ t 3 x 5/leg heavy\, single-leg calf raises 3 x 8 loaded\, Nordic curls 2
+  x 4. COMPLEX PAIRING: after each heavy set\, 5 box jumps or 20 m of bou
+ nds within 2 min - heavy resistance plus plyo beats either alone for run
+ ning economy. Heavy loads at or above 90% 1RM give greater economy gains
+  than lighter ones\, and the effect needs 10-14 weeks\, which is exactly
+  this block. LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15
+ -20\, heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot h
+ olds 3 x 30 s per side.\n\nWeek 10 of 11 - Bridge\nBRIDGE to Venice. Dur
+ ability leads: the long run and the bike carry the block from here\, and
+  the running holds rather than builds.\n93 days to Venice 70.3 (winter b
+ ase).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w10-s6-easy@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
+  and genuinely easy.\n\nWeek 10 of 11 - Bridge\nKeep HR under 158. Walk 
+ the climbs. Talk test.\nBRIDGE to Venice. Durability leads: the long run
+  and the bike carry the block from here\, and the running holds rather t
+ han builds.\n91 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w10-s7-cycling@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:○ BIKE 120 min zone 2\, HR under 145\, steady.…
+DESCRIPTION:BIKE 120 min zone 2\, HR under 145\, steady. Non-impact aerob
+ ic volume - the cheapest fitness available and it spares the shins. Over
+  75 min\, take 40-60 g carb per hour from the start - early gut practice
+  for Venice.\n\nWeek 10 of 11 - Bridge\nBRIDGE to Venice. Durability lea
+ ds: the long run and the bike carry the block from here\, and the runnin
+ g holds rather than builds.\n91 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w10-s8-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:≈ Swim 09:00 Sloterparkbad (40 min)
+DESCRIPTION:Swim 09:00 Sloterparkbad - 50 min - 1200 m continuous. 50 m p
+ ool\, lanes 09:00-12:00\, after the long run.\n\nWeek 10 of 11 - Bridge\
+ nBRIDGE to Venice. Durability leads: the long run and the bike carry the
+  block from here\, and the running holds rather than builds.\n90 days to
+  Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w10-s9-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
+DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
+ ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
+ o in April is 15-17 C.\n\nWeek 10 of 11 - Bridge\nBRIDGE to Venice. Dura
+ bility leads: the long run and the bike carry the block from here\, and 
+ the running holds rather than builds.\n90 days to Venice 70.3 (winter ba
+ se).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w10-s10-long@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:▲ Long easy run 14 km\, HR under 158. Aerobic base…
 DESCRIPTION:Long easy run 14 km\, HR under 158. Aerobic base is the lever
   - the fastest runners get there on Zone 1 volume. No threshold finish t
  his week - Tuesday's session already spends the quality budget\, and qua
- lity volume stays inside 20-25% of weekly mileage.\n\nWeek 11 of 11 - Br
- idge\nKeep HR under 158. Walk the climbs. Talk test.\nBRIDGE. Last week 
- before the Venice block opens 31 Jan. Saturday's 2.5 h ride is the longe
- st of the winter and sets up the 60 km opener.\n90 days to Venice 70.3 (
- winter base).
+ lity volume stays inside 20-25% of weekly mileage.\n\nWeek 10 of 11 - Br
+ idge\nKeep HR under 158. Walk the climbs. Talk test.\nBRIDGE to Venice. 
+ Durability leads: the long run and the bike carry the block from here\, 
+ and the running holds rather than builds.\n90 days to Venice 70.3 (winte
+ r base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w11-s0-push@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Strength UPPER (45 min)
+DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
+ , pull-ups\, overhead press\, rear delts. Heavy\, 4-6 reps\, not hypertr
+ ophy ranges. Free against the running and cycling load. Dead hangs 3 x m
+ ax at the end - grip is a genuine weakness at 32-36 s.\n\nWeek 11 of 11 
+ - Bridge\nBRIDGE. Last week before the Venice block opens 31 Jan. Saturd
+ ay's 2.5 h ride is the longest of the winter and sets up the 60 km opene
+ r.\n89 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:venice703winterbase-w11-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270124
-DTEND;VALUE=DATE:20270125
-SUMMARY:≈ Swim 50 min
-DESCRIPTION:Swim 50 min - 1200 m continuous\n\nWeek 11 of 11 - Bridge\nBR
- IDGE. Last week before the Venice block opens 31 Jan. Saturday's 2.5 h r
- ide is the longest of the winter and sets up the 60 km opener.\n90 days 
- to Venice 70.3 (winter base).
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:≈ Swim 20:30 Sloterparkbad (40 min)
+DESCRIPTION:Swim 20:30 Sloterparkbad - 50 min - 1200 m continuous. After 
+ the quality run - non-impact\, so it costs the legs nothing and keeps Fr
+ iday a genuine rest day. 25 m pool\, lanes 20:30-21:30.\n\nWeek 11 of 11
+  - Bridge\nBRIDGE. Last week before the Venice block opens 31 Jan. Satur
+ day's 2.5 h ride is the longest of the winter and sets up the 60 km open
+ er.\n88 days to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:venice703winterbase-w11-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:THRESHOLD 5 x 1.5 km at threshold EFFORT (55 min)
@@ -1521,8 +1659,21 @@ DESCRIPTION:THRESHOLD 5 x 1.5 km at threshold EFFORT - HR 175-180\, pace
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w11-s3-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w11-s3-swim@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
+DESCRIPTION:Swim 07:00 Sloterparkbad - 50 min - 1200 m continuous. 50 m p
+ ool\, lanes 07:00-08:00\, before work.\n\nWeek 11 of 11 - Bridge\nBRIDGE
+ . Last week before the Venice block opens 31 Jan. Saturday's 2.5 h ride 
+ is the longest of the winter and sets up the 60 km opener.\n87 days to V
+ enice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w11-s4-cycling@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:○ BIKE 50 min
@@ -1535,41 +1686,44 @@ DESCRIPTION:BIKE 50 min - sweet spot\, 3 x 10 min at 88-93% FTP (~132-140
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w11-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270128
-SUMMARY:≈ Swim 50 min
-DESCRIPTION:Swim 50 min - 1200 m continuous\n\nWeek 11 of 11 - Bridge\nBR
- IDGE. Last week before the Venice block opens 31 Jan. Saturday's 2.5 h r
- ide is the longest of the winter and sets up the 60 km opener.\n87 days 
- to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:venice703winterbase-w11-s5-legs@garmin-training
-DTSTAMP:20261112T063838Z
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:◆ Strength LOWER (45 min)
-DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Trap-bar deadlift 4 x 3 at 8
- 8-92% 1RM (from 85 x 5 at 2 RIR your 1RM is ~105 kg\, so work at 92-97 k
- g - autoregulate\, add 2.5 kg when the last triple moves well). Then Bul
- garian split squat 3 x 5/leg heavy\, and calf raises 3 x 8 loaded. COMPL
- EX PAIRING: after each heavy set\, 5 box jumps or 20 m of bounds within 
- 2 min - heavy resistance plus plyo beats either alone for running econom
- y. Heavy loads at or above 90% 1RM give greater economy gains than light
- er ones\, and the effect needs 10-14 weeks\, which is exactly this block
- . LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15-20\, heel 
- walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot holds 3 x 30
-  s per side.\n\nWeek 11 of 11 - Bridge\nBRIDGE. Last week before the Ven
- ice block opens 31 Jan. Saturday's 2.5 h ride is the longest of the wint
- er and sets up the 60 km opener.\n86 days to Venice 70.3 (winter base).
+DESCRIPTION:Strength LOWER - HEAVY\, 45 min. Back squat 4 x 3-5 at 85-90%
+  1RM\, safety pins on (75 x 5 on 13 Nov puts the 1RM near 88-90 kg: 4 x 
+ 4 at 80 kg on 20 Nov\, then add 2.5 kg when the last set moves well). Ha
+ ck squat if there's no rack or you're wrecked. Then Bulgarian split squa
+ t 3 x 5/leg heavy\, single-leg calf raises 3 x 8 loaded\, Nordic curls 2
+  x 4. COMPLEX PAIRING: after each heavy set\, 5 box jumps or 20 m of bou
+ nds within 2 min - heavy resistance plus plyo beats either alone for run
+ ning economy. Heavy loads at or above 90% 1RM give greater economy gains
+  than lighter ones\, and the effect needs 10-14 weeks\, which is exactly
+  this block. LOWER-LEG AND FOOT\, 5 min: tibialis anterior raises 3 x 15
+ -20\, heel walks 2 x 20 m\, eccentric dorsiflexion 3 x 10\, short-foot h
+ olds 3 x 30 s per side.\n\nWeek 11 of 11 - Bridge\nBRIDGE. Last week bef
+ ore the Venice block opens 31 Jan. Saturday's 2.5 h ride is the longest 
+ of the winter and sets up the 60 km opener.\n86 days to Venice 70.3 (win
+ ter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w11-s6-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:venice703winterbase-w11-s6-easy@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
+DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
+  and genuinely easy.\n\nWeek 11 of 11 - Bridge\nKeep HR under 158. Walk 
+ the climbs. Talk test.\nBRIDGE. Last week before the Venice block opens 
+ 31 Jan. Saturday's 2.5 h ride is the longest of the winter and sets up t
+ he 60 km opener.\n84 days to Venice 70.3 (winter base).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:venice703winterbase-w11-s7-cycling@garmin-training
+DTSTAMP:20261115T161414Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:○ BIKE 150 min zone 2\, HR under 145\, steady.…
@@ -1582,58 +1736,15 @@ DESCRIPTION:BIKE 150 min zone 2\, HR under 145\, steady. Non-impact aerob
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:venice703winterbase-w11-s7-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270126
-DTEND;VALUE=DATE:20270127
-SUMMARY:≈ Swim 50 min
-DESCRIPTION:Swim 50 min - 1200 m continuous. After the quality run - non-
- impact\, so it costs the legs nothing and keeps Friday a genuine rest da
- y.\n\nWeek 11 of 11 - Bridge\nBRIDGE. Last week before the Venice block 
- opens 31 Jan. Saturday's 2.5 h ride is the longest of the winter and set
- s up the 60 km opener.\n88 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w11-s8-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270124
-DTEND;VALUE=DATE:20270125
-SUMMARY:≈ COLD IMMERSION 2-3 min after the swim
-DESCRIPTION:COLD IMMERSION 2-3 min after the swim. Five to six of these H
- ALVES the cold-shock response and the adaptation lasts ~14 months. Jesol
- o in April is 15-17 C.\n\nWeek 11 of 11 - Bridge\nBRIDGE. Last week befo
- re the Venice block opens 31 Jan. Saturday's 2.5 h ride is the longest o
- f the winter and sets up the 60 km opener.\n90 days to Venice 70.3 (wint
- er base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w11-s9-easy@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270130
-DTEND;VALUE=DATE:20270131
-SUMMARY:Easy run 5-6 km\, HR under 158. Third run of the…
-DESCRIPTION:Easy run 5-6 km\, HR under 158. Third run of the week - short
-  and genuinely easy.\n\nWeek 11 of 11 - Bridge\nKeep HR under 158. Walk 
- the climbs. Talk test.\nBRIDGE. Last week before the Venice block opens 
- 31 Jan. Saturday's 2.5 h ride is the longest of the winter and sets up t
- he 60 km opener.\n84 days to Venice 70.3 (winter base).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:venice703winterbase-w11-s10-push@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270125
-DTEND;VALUE=DATE:20270126
-SUMMARY:Strength UPPER (45 min)
-DESCRIPTION:Strength UPPER - push and pull as one session\, 45 min. Rows\
- , pull-ups\, overhead press\, rear delts. Heavy\, 4-6 reps\, not hypertr
- ophy ranges. Free against the running and cycling load. Dead hangs 3 x m
- ax at the end - grip is a genuine weakness at 32-36 s.\n\nWeek 11 of 11 
- - Bridge\nBRIDGE. Last week before the Venice block opens 31 Jan. Saturd
- ay's 2.5 h ride is the longest of the winter and sets up the 60 km opene
- r.\n89 days to Venice 70.3 (winter base).
+UID:venice703winterbase-w11-s8-cycling@garmin-training
+DTSTAMP:20261115T161414Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:○ Long ride 60 km steady\, HR ~140 (150 min)
+DESCRIPTION:Long ride 60 km steady\, HR ~140\n\nWeek 11 of 11 - Bridge\nB
+ RIDGE. Last week before the Venice block opens 31 Jan. Saturday's 2.5 h 
+ ride is the longest of the winter and sets up the 60 km opener.\n83 days
+  to Venice 70.3 (winter base).
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

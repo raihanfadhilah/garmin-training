@@ -5,31 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:IRONMAN 70.3 Venice-Jesolo training
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w1-s0-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
-SUMMARY:○ Long ride 60 km steady\, HR ~140 (150 min)
-DESCRIPTION:Long ride 60 km steady\, HR ~140\n\nWeek 1 of 12 - Base\nADMI
- N FIRST: (1) book the certificato medico agonistico - Italy legally requ
- ires an ECG-based sports medical on the FITRI form\, and without it you 
- are not issued a race pack. Schedule by February. (2) Ramp-test FTP on t
- he D100 this week and rescale the sweet-spot watts below - every bike sp
- lit is a guess until you do. (3) RAMADAN starts about Mon 8 Feb and week
- s 4-7 are in Abu Dhabi (22 Feb - 20 Mar)\; weeks 2-7 are built around bo
- th. Swim goes to FOUR short sessions - frequency beats volume\, fatigue 
- compromises motor learning. SESSION COUNT: 3 runs\, 3-4 swims\, 2 bikes\
- , 1 legs\, 6 days with Thursday off. That is ~9-10 h/week\, which is INT
- ERMEDIATE volume - MyProCoach's beginner 70.3 plan averages 7 h. If adhe
- rence slips\, scale to the beginner shape rather than abandoning weeks. 
- CUT ORDER: (1) Monday easy run\, (2) the fourth swim\, (3) Wednesday leg
- s. Never cut the long ride\, the long run\, or below three swims.\n83 da
- ys to IRONMAN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w1-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w1-s0-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:≈ Swim 35 min
@@ -51,8 +28,8 @@ DESCRIPTION:Swim 35 min - 1000 m continuous\n\nWeek 1 of 12 - Base\nADMIN
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w1-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w1-s1-strides@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:6 x 800 m at 10K effort (9 km)
@@ -74,8 +51,8 @@ DESCRIPTION:6 x 800 m at 10K effort\n\nWeek 1 of 12 - Base\nADMIN FIRST:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w1-s3-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w1-s2-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:≈ Swim 35 min
@@ -97,8 +74,8 @@ DESCRIPTION:Swim 35 min - technique + sighting drills off the lane wall\n
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w1-s4-legs@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w1-s3-legs@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:◆ Legs
@@ -128,77 +105,8 @@ DESCRIPTION:Legs - maintenance. Keep glute-med: cycling+running together
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w1-s5-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270205
-DTEND;VALUE=DATE:20270206
-SUMMARY:≈ Swim 35 min
-DESCRIPTION:Swim 35 min\n\nWeek 1 of 12 - Base\nADMIN FIRST: (1) book the
-  certificato medico agonistico - Italy legally requires an ECG-based spo
- rts medical on the FITRI form\, and without it you are not issued a race
-  pack. Schedule by February. (2) Ramp-test FTP on the D100 this week and
-  rescale the sweet-spot watts below - every bike split is a guess until 
- you do. (3) RAMADAN starts about Mon 8 Feb and weeks 4-7 are in Abu Dhab
- i (22 Feb - 20 Mar)\; weeks 2-7 are built around both. Swim goes to FOUR
-  short sessions - frequency beats volume\, fatigue compromises motor lea
- rning. SESSION COUNT: 3 runs\, 3-4 swims\, 2 bikes\, 1 legs\, 6 days wit
- h Thursday off. That is ~9-10 h/week\, which is INTERMEDIATE volume - My
- ProCoach's beginner 70.3 plan averages 7 h. If adherence slips\, scale t
- o the beginner shape rather than abandoning weeks. CUT ORDER: (1) Monday
-  easy run\, (2) the fourth swim\, (3) Wednesday legs. Never cut the long
-  ride\, the long run\, or below three swims.\n78 days to IRONMAN 70.3 Ve
- nice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w1-s6-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270206
-DTEND;VALUE=DATE:20270207
-SUMMARY:≈ Swim 35 min
-DESCRIPTION:Swim 35 min - no-wall set (touch\, stop\, no push-off)\n\nWee
- k 1 of 12 - Base\nADMIN FIRST: (1) book the certificato medico agonistic
- o - Italy legally requires an ECG-based sports medical on the FITRI form
- \, and without it you are not issued a race pack. Schedule by February. 
- (2) Ramp-test FTP on the D100 this week and rescale the sweet-spot watts
-  below - every bike split is a guess until you do. (3) RAMADAN starts ab
- out Mon 8 Feb and weeks 4-7 are in Abu Dhabi (22 Feb - 20 Mar)\; weeks 2
- -7 are built around both. Swim goes to FOUR short sessions - frequency b
- eats volume\, fatigue compromises motor learning. SESSION COUNT: 3 runs\
- , 3-4 swims\, 2 bikes\, 1 legs\, 6 days with Thursday off. That is ~9-10
-  h/week\, which is INTERMEDIATE volume - MyProCoach's beginner 70.3 plan
-  averages 7 h. If adherence slips\, scale to the beginner shape rather t
- han abandoning weeks. CUT ORDER: (1) Monday easy run\, (2) the fourth sw
- im\, (3) Wednesday legs. Never cut the long ride\, the long run\, or bel
- ow three swims.\n77 days to IRONMAN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w1-s7-long@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270206
-DTEND;VALUE=DATE:20270207
-SUMMARY:▲ Long run 12 km easy
-DESCRIPTION:Long run 12 km easy\n\nWeek 1 of 12 - Base\nKeep HR under 158
- . Walk the climbs. Talk test.\nADMIN FIRST: (1) book the certificato med
- ico agonistico - Italy legally requires an ECG-based sports medical on t
- he FITRI form\, and without it you are not issued a race pack. Schedule 
- by February. (2) Ramp-test FTP on the D100 this week and rescale the swe
- et-spot watts below - every bike split is a guess until you do. (3) RAMA
- DAN starts about Mon 8 Feb and weeks 4-7 are in Abu Dhabi (22 Feb - 20 M
- ar)\; weeks 2-7 are built around both. Swim goes to FOUR short sessions 
- - frequency beats volume\, fatigue compromises motor learning. SESSION C
- OUNT: 3 runs\, 3-4 swims\, 2 bikes\, 1 legs\, 6 days with Thursday off. 
- That is ~9-10 h/week\, which is INTERMEDIATE volume - MyProCoach's begin
- ner 70.3 plan averages 7 h. If adherence slips\, scale to the beginner s
- hape rather than abandoning weeks. CUT ORDER: (1) Monday easy run\, (2) 
- the fourth swim\, (3) Wednesday legs. Never cut the long ride\, the long
-  run\, or below three swims.\n77 days to IRONMAN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w1-s8-easy@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w1-s4-easy@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -223,8 +131,8 @@ DESCRIPTION:Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w1-s9-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w1-s5-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -248,8 +156,31 @@ DESCRIPTION:BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w1-s10-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w1-s6-swim@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:≈ Swim 35 min
+DESCRIPTION:Swim 35 min\n\nWeek 1 of 12 - Base\nADMIN FIRST: (1) book the
+  certificato medico agonistico - Italy legally requires an ECG-based spo
+ rts medical on the FITRI form\, and without it you are not issued a race
+  pack. Schedule by February. (2) Ramp-test FTP on the D100 this week and
+  rescale the sweet-spot watts below - every bike split is a guess until 
+ you do. (3) RAMADAN starts about Mon 8 Feb and weeks 4-7 are in Abu Dhab
+ i (22 Feb - 20 Mar)\; weeks 2-7 are built around both. Swim goes to FOUR
+  short sessions - frequency beats volume\, fatigue compromises motor lea
+ rning. SESSION COUNT: 3 runs\, 3-4 swims\, 2 bikes\, 1 legs\, 6 days wit
+ h Thursday off. That is ~9-10 h/week\, which is INTERMEDIATE volume - My
+ ProCoach's beginner 70.3 plan averages 7 h. If adherence slips\, scale t
+ o the beginner shape rather than abandoning weeks. CUT ORDER: (1) Monday
+  easy run\, (2) the fourth swim\, (3) Wednesday legs. Never cut the long
+  ride\, the long run\, or below three swims.\n78 days to IRONMAN 70.3 Ve
+ nice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w1-s7-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -273,28 +204,78 @@ DESCRIPTION:BIKE ENDURANCE 60-75 min zone 2\, HR under 145\, steady. Aero
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w2-s0-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w1-s8-swim@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:≈ Swim 35 min
+DESCRIPTION:Swim 35 min - no-wall set (touch\, stop\, no push-off)\n\nWee
+ k 1 of 12 - Base\nADMIN FIRST: (1) book the certificato medico agonistic
+ o - Italy legally requires an ECG-based sports medical on the FITRI form
+ \, and without it you are not issued a race pack. Schedule by February. 
+ (2) Ramp-test FTP on the D100 this week and rescale the sweet-spot watts
+  below - every bike split is a guess until you do. (3) RAMADAN starts ab
+ out Mon 8 Feb and weeks 4-7 are in Abu Dhabi (22 Feb - 20 Mar)\; weeks 2
+ -7 are built around both. Swim goes to FOUR short sessions - frequency b
+ eats volume\, fatigue compromises motor learning. SESSION COUNT: 3 runs\
+ , 3-4 swims\, 2 bikes\, 1 legs\, 6 days with Thursday off. That is ~9-10
+  h/week\, which is INTERMEDIATE volume - MyProCoach's beginner 70.3 plan
+  averages 7 h. If adherence slips\, scale to the beginner shape rather t
+ han abandoning weeks. CUT ORDER: (1) Monday easy run\, (2) the fourth sw
+ im\, (3) Wednesday legs. Never cut the long ride\, the long run\, or bel
+ ow three swims.\n77 days to IRONMAN 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w1-s9-long@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:▲ Long run 12 km easy
+DESCRIPTION:Long run 12 km easy\n\nWeek 1 of 12 - Base\nKeep HR under 158
+ . Walk the climbs. Talk test.\nADMIN FIRST: (1) book the certificato med
+ ico agonistico - Italy legally requires an ECG-based sports medical on t
+ he FITRI form\, and without it you are not issued a race pack. Schedule 
+ by February. (2) Ramp-test FTP on the D100 this week and rescale the swe
+ et-spot watts below - every bike split is a guess until you do. (3) RAMA
+ DAN starts about Mon 8 Feb and weeks 4-7 are in Abu Dhabi (22 Feb - 20 M
+ ar)\; weeks 2-7 are built around both. Swim goes to FOUR short sessions 
+ - frequency beats volume\, fatigue compromises motor learning. SESSION C
+ OUNT: 3 runs\, 3-4 swims\, 2 bikes\, 1 legs\, 6 days with Thursday off. 
+ That is ~9-10 h/week\, which is INTERMEDIATE volume - MyProCoach's begin
+ ner 70.3 plan averages 7 h. If adherence slips\, scale to the beginner s
+ hape rather than abandoning weeks. CUT ORDER: (1) Monday easy run\, (2) 
+ the fourth swim\, (3) Wednesday legs. Never cut the long ride\, the long
+  run\, or below three swims.\n77 days to IRONMAN 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w1-s10-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:○ Long ride 65 km steady. Last fed long ride…
 DESCRIPTION:Long ride 65 km steady. Last fed long ride before Ramadan - e
- at and drink normally\, 40-60 g carb per hour.\n\nWeek 2 of 12 - Base\nR
- AMADAN STARTS about Mon 8 Feb (the moon sighting can move it a day). Wee
- ks 2-6 follow the fast: hard and long sessions after iftar (light iftar\
- , start 60-90 min later)\, short easy swims only in the last 1-2 hours b
- efore iftar\, nothing hard and nothing over 60 min while fasted. Monday 
- is a full rest day and the Friday zone-2 ride goes. HR runs higher at th
- e same pace when you are dry - run by effort. First brick on Saturday: s
- tart the run within 5 minutes of racking the bike\; the first 10 min fee
- l wrong and it normalises by km 3. Get the bike fit done before Abu Dhab
- i: saddle height and cleat alignment are named ITBS contributors.\n76 da
- ys to IRONMAN 70.3 Venice-Jesolo.
+ at and drink normally\, 40-60 g carb per hour.\n\nWeek 1 of 12 - Base\nA
+ DMIN FIRST: (1) book the certificato medico agonistico - Italy legally r
+ equires an ECG-based sports medical on the FITRI form\, and without it y
+ ou are not issued a race pack. Schedule by February. (2) Ramp-test FTP o
+ n the D100 this week and rescale the sweet-spot watts below - every bike
+  split is a guess until you do. (3) RAMADAN starts about Mon 8 Feb and w
+ eeks 4-7 are in Abu Dhabi (22 Feb - 20 Mar)\; weeks 2-7 are built around
+  both. Swim goes to FOUR short sessions - frequency beats volume\, fatig
+ ue compromises motor learning. SESSION COUNT: 3 runs\, 3-4 swims\, 2 bik
+ es\, 1 legs\, 6 days with Thursday off. That is ~9-10 h/week\, which is 
+ INTERMEDIATE volume - MyProCoach's beginner 70.3 plan averages 7 h. If a
+ dherence slips\, scale to the beginner shape rather than abandoning week
+ s. CUT ORDER: (1) Monday easy run\, (2) the fourth swim\, (3) Wednesday 
+ legs. Never cut the long ride\, the long run\, or below three swims.\n76
+  days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w2-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w2-s0-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:≈ Swim 35 min before iftar
@@ -313,8 +294,8 @@ DESCRIPTION:Swim 35 min before iftar - 1200 m continuous\, easy. Tuesday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w2-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w2-s1-strides@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:4 x 1 km at 10K effort after iftar\, 2 min jog
@@ -333,8 +314,28 @@ DESCRIPTION:4 x 1 km at 10K effort after iftar\, 2 min jog. Ramadan: one
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ironman703venicejesolo-w2-s2-swim@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:≈ Swim 40 min
+DESCRIPTION:Swim 40 min - drills\, in the 21:00-22:00 lane after iftar. F
+ ed and watered\, so make it the week's best-quality swim.\n\nWeek 2 of 1
+ 2 - Base\nRAMADAN STARTS about Mon 8 Feb (the moon sighting can move it 
+ a day). Weeks 2-6 follow the fast: hard and long sessions after iftar (l
+ ight iftar\, start 60-90 min later)\, short easy swims only in the last 
+ 1-2 hours before iftar\, nothing hard and nothing over 60 min while fast
+ ed. Monday is a full rest day and the Friday zone-2 ride goes. HR runs h
+ igher at the same pace when you are dry - run by effort. First brick on 
+ Saturday: start the run within 5 minutes of racking the bike\; the first
+  10 min feel wrong and it normalises by km 3. Get the bike fit done befo
+ re Abu Dhabi: saddle height and cleat alignment are named ITBS contribut
+ ors.\n73 days to IRONMAN 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s3-legs@garmin-training
-DTSTAMP:20261112T063838Z
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:◆ Legs
@@ -359,49 +360,8 @@ DESCRIPTION:Legs - maintenance + glute-med\, 30 min after iftar\, before
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w2-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270210
-DTEND;VALUE=DATE:20270211
-SUMMARY:≈ Swim 40 min
-DESCRIPTION:Swim 40 min - drills\, in the 21:00-22:00 lane after iftar. F
- ed and watered\, so make it the week's best-quality swim.\n\nWeek 2 of 1
- 2 - Base\nRAMADAN STARTS about Mon 8 Feb (the moon sighting can move it 
- a day). Weeks 2-6 follow the fast: hard and long sessions after iftar (l
- ight iftar\, start 60-90 min later)\, short easy swims only in the last 
- 1-2 hours before iftar\, nothing hard and nothing over 60 min while fast
- ed. Monday is a full rest day and the Friday zone-2 ride goes. HR runs h
- igher at the same pace when you are dry - run by effort. First brick on 
- Saturday: start the run within 5 minutes of racking the bike\; the first
-  10 min feel wrong and it normalises by km 3. Get the bike fit done befo
- re Abu Dhabi: saddle height and cleat alignment are named ITBS contribut
- ors.\n73 days to IRONMAN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w2-s5-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270211
-DTEND;VALUE=DATE:20270212
-SUMMARY:○ BIKE QUALITY 60 min on the D100 after iftar
-DESCRIPTION:BIKE QUALITY 60 min on the D100 after iftar - 3 x 10 min at s
- weet spot (88-93% FTP\, about 132-140 W)\, 5 min easy spin between. Rama
- dan: shorter session\, same intensity. You can drink\, so two bottles.\n
- \nWeek 2 of 12 - Base\nRAMADAN STARTS about Mon 8 Feb (the moon sighting
-  can move it a day). Weeks 2-6 follow the fast: hard and long sessions a
- fter iftar (light iftar\, start 60-90 min later)\, short easy swims only
-  in the last 1-2 hours before iftar\, nothing hard and nothing over 60 m
- in while fasted. Monday is a full rest day and the Friday zone-2 ride go
- es. HR runs higher at the same pace when you are dry - run by effort. Fi
- rst brick on Saturday: start the run within 5 minutes of racking the bik
- e\; the first 10 min feel wrong and it normalises by km 3. Get the bike 
- fit done before Abu Dhabi: saddle height and cleat alignment are named I
- TBS contributors.\n72 days to IRONMAN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w2-s6-easy@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w2-s4-easy@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:Easy run 3 km OFF THE BIKE
@@ -421,8 +381,29 @@ DESCRIPTION:Easy run 3 km OFF THE BIKE - mini-brick\, straight off Thursd
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w2-s7-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w2-s5-cycling@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:○ BIKE QUALITY 60 min on the D100 after iftar
+DESCRIPTION:BIKE QUALITY 60 min on the D100 after iftar - 3 x 10 min at s
+ weet spot (88-93% FTP\, about 132-140 W)\, 5 min easy spin between. Rama
+ dan: shorter session\, same intensity. You can drink\, so two bottles.\n
+ \nWeek 2 of 12 - Base\nRAMADAN STARTS about Mon 8 Feb (the moon sighting
+  can move it a day). Weeks 2-6 follow the fast: hard and long sessions a
+ fter iftar (light iftar\, start 60-90 min later)\, short easy swims only
+  in the last 1-2 hours before iftar\, nothing hard and nothing over 60 m
+ in while fasted. Monday is a full rest day and the Friday zone-2 ride go
+ es. HR runs higher at the same pace when you are dry - run by effort. Fi
+ rst brick on Saturday: start the run within 5 minutes of racking the bik
+ e\; the first 10 min feel wrong and it normalises by km 3. Get the bike 
+ fit done before Abu Dhabi: saddle height and cleat alignment are named I
+ TBS contributors.\n72 days to IRONMAN 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w2-s6-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:≈ Swim 35 min before iftar
@@ -441,8 +422,8 @@ DESCRIPTION:Swim 35 min before iftar - easy\, technique. Friday lane 14:4
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w2-s8-brick@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w2-s7-brick@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:◐ BRICK after iftar: 30 km on the D100 + 4 km run
@@ -462,29 +443,30 @@ DESCRIPTION:BRICK after iftar: 30 km on the D100 + 4 km run. Ramadan cut
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w3-s0-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w2-s8-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:○ Long ride 2 h on the D100 after iftar\, zone 2\,…
 DESCRIPTION:Long ride 2 h on the D100 after iftar\, zone 2\, HR under 145
  . Replaces the 70 km outdoor ride: nothing long while fasted\, and 20:00
   in February is dark and cold. Fuel 60 g carb per hour from bottles - in
-  Ramadan the night rides are where gut training happens.\n\nWeek 3 of 12
-  - Base\nBuy the wetsuit now. Buy for BUOYANCY not speed - beginner suit
- s run 5 mm through core/hips/legs\, which directly fixes the sinking-leg
- s problem. Wetsuits give the biggest gain to inefficient low-buoyancy sw
- immers\, i.e. you: 5-11%\, roughly 2-4 min over 1.9 km. Also buy neopren
- e BOOTIES - legal below 18.3 C and the water will be 15-17 C. ABU DHABI 
- PREP: book Etihad if it is not done (a boxed bike travels in the checked
- -bag allowance - check the weight)\, get a bike box\, and buy a spare Cu
- be derailleur hanger to pack with it.\n69 days to IRONMAN 70.3 Venice-Je
- solo.
+  Ramadan the night rides are where gut training happens.\n\nWeek 2 of 12
+  - Base\nRAMADAN STARTS about Mon 8 Feb (the moon sighting can move it a
+  day). Weeks 2-6 follow the fast: hard and long sessions after iftar (li
+ ght iftar\, start 60-90 min later)\, short easy swims only in the last 1
+ -2 hours before iftar\, nothing hard and nothing over 60 min while faste
+ d. Monday is a full rest day and the Friday zone-2 ride goes. HR runs hi
+ gher at the same pace when you are dry - run by effort. First brick on S
+ aturday: start the run within 5 minutes of racking the bike\; the first 
+ 10 min feel wrong and it normalises by km 3. Get the bike fit done befor
+ e Abu Dhabi: saddle height and cleat alignment are named ITBS contributo
+ rs.\n69 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w3-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w3-s0-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:≈ Swim 40 min before iftar
@@ -502,8 +484,8 @@ DESCRIPTION:Swim 40 min before iftar - 1400 m continuous\, easy. Tuesday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w3-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w3-s1-strides@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:5 x 1 km at 10K effort after iftar\, 2 min jog
@@ -520,8 +502,28 @@ DESCRIPTION:5 x 1 km at 10K effort after iftar\, 2 min jog. Ramadan: one
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ironman703venicejesolo-w3-s2-swim@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:≈ Swim 40 min
+DESCRIPTION:Swim 40 min - first session IN THE WETSUIT\, 21:00 lane after
+  iftar. Chest constriction can feel like breathlessness\; get used to it
+  before the Abu Dhabi sea. Ask the lifeguard first - if the pool refuses
+  wetsuits\, do this in the sea in week 4.\n\nWeek 3 of 12 - Base\nBuy th
+ e wetsuit now. Buy for BUOYANCY not speed - beginner suits run 5 mm thro
+ ugh core/hips/legs\, which directly fixes the sinking-legs problem. Wets
+ uits give the biggest gain to inefficient low-buoyancy swimmers\, i.e. y
+ ou: 5-11%\, roughly 2-4 min over 1.9 km. Also buy neoprene BOOTIES - leg
+ al below 18.3 C and the water will be 15-17 C. ABU DHABI PREP: book Etih
+ ad if it is not done (a boxed bike travels in the checked-bag allowance 
+ - check the weight)\, get a bike box\, and buy a spare Cube derailleur h
+ anger to pack with it.\n66 days to IRONMAN 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s3-legs@garmin-training
-DTSTAMP:20261112T063838Z
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:◆ Legs
@@ -545,48 +547,8 @@ DESCRIPTION:Legs - maintenance + glute-med\, 30 min after iftar\, before
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w3-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270217
-DTEND;VALUE=DATE:20270218
-SUMMARY:≈ Swim 40 min
-DESCRIPTION:Swim 40 min - first session IN THE WETSUIT\, 21:00 lane after
-  iftar. Chest constriction can feel like breathlessness\; get used to it
-  before the Abu Dhabi sea. Ask the lifeguard first - if the pool refuses
-  wetsuits\, do this in the sea in week 4.\n\nWeek 3 of 12 - Base\nBuy th
- e wetsuit now. Buy for BUOYANCY not speed - beginner suits run 5 mm thro
- ugh core/hips/legs\, which directly fixes the sinking-legs problem. Wets
- uits give the biggest gain to inefficient low-buoyancy swimmers\, i.e. y
- ou: 5-11%\, roughly 2-4 min over 1.9 km. Also buy neoprene BOOTIES - leg
- al below 18.3 C and the water will be 15-17 C. ABU DHABI PREP: book Etih
- ad if it is not done (a boxed bike travels in the checked-bag allowance 
- - check the weight)\, get a bike box\, and buy a spare Cube derailleur h
- anger to pack with it.\n66 days to IRONMAN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w3-s5-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270218
-DTEND;VALUE=DATE:20270219
-SUMMARY:○ BIKE QUALITY 60 min on the D100 after iftar
-DESCRIPTION:BIKE QUALITY 60 min on the D100 after iftar - 3 x 10 min at s
- weet spot (88-93% FTP\, about 132-140 W)\, 5 min easy spin between. Rama
- dan: shorter session\, same intensity. You can drink\, so two bottles.\n
- \nWeek 3 of 12 - Base\nBuy the wetsuit now. Buy for BUOYANCY not speed -
-  beginner suits run 5 mm through core/hips/legs\, which directly fixes t
- he sinking-legs problem. Wetsuits give the biggest gain to inefficient l
- ow-buoyancy swimmers\, i.e. you: 5-11%\, roughly 2-4 min over 1.9 km. Al
- so buy neoprene BOOTIES - legal below 18.3 C and the water will be 15-17
-  C. ABU DHABI PREP: book Etihad if it is not done (a boxed bike travels 
- in the checked-bag allowance - check the weight)\, get a bike box\, and 
- buy a spare Cube derailleur hanger to pack with it.\n65 days to IRONMAN 
- 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w3-s6-easy@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w3-s4-easy@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 SUMMARY:Easy run 3 km OFF THE BIKE
@@ -605,8 +567,28 @@ DESCRIPTION:Easy run 3 km OFF THE BIKE - mini-brick\, straight off Thursd
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w3-s7-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w3-s5-cycling@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:○ BIKE QUALITY 60 min on the D100 after iftar
+DESCRIPTION:BIKE QUALITY 60 min on the D100 after iftar - 3 x 10 min at s
+ weet spot (88-93% FTP\, about 132-140 W)\, 5 min easy spin between. Rama
+ dan: shorter session\, same intensity. You can drink\, so two bottles.\n
+ \nWeek 3 of 12 - Base\nBuy the wetsuit now. Buy for BUOYANCY not speed -
+  beginner suits run 5 mm through core/hips/legs\, which directly fixes t
+ he sinking-legs problem. Wetsuits give the biggest gain to inefficient l
+ ow-buoyancy swimmers\, i.e. you: 5-11%\, roughly 2-4 min over 1.9 km. Al
+ so buy neoprene BOOTIES - legal below 18.3 C and the water will be 15-17
+  C. ABU DHABI PREP: book Etihad if it is not done (a boxed bike travels 
+ in the checked-bag allowance - check the weight)\, get a bike box\, and 
+ buy a spare Cube derailleur hanger to pack with it.\n65 days to IRONMAN 
+ 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w3-s6-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:≈ Swim 35 min before iftar
@@ -623,8 +605,8 @@ DESCRIPTION:Swim 35 min before iftar - easy\, technique. Friday lane 14:4
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w3-s8-long@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w3-s7-long@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:▲ Long run 13 km easy after iftar\, HR under 158.…
@@ -642,30 +624,27 @@ DESCRIPTION:Long run 13 km easy after iftar\, HR under 158. Ramadan cut f
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w4-s0-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w3-s8-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:○ Easy ride 75 min on the D100 after iftar\, zone 2
 DESCRIPTION:Easy ride 75 min on the D100 after iftar\, zone 2. Then box t
  he bike for Monday's flight: pedals and bars off\, rear derailleur prote
- cted\, spare hanger in the box.\n\nWeek 4 of 12 - Build\nABU DHABI from 
- Mon 22 Feb - the flight day is a rest day. Iftar there is about 18:20\, 
- so night sessions start about 19:30. Al Wathba cycle track is floodlit a
- nd open all night\; the sea is 21-23 C. Sea swims only on a lifeguarded 
- beach\, with a tow buoy\, never alone. GUT TRAINING STARTS - 8-12 weeks 
- out is the window. Target 60-70 g carb/h on the bike\, NOT 90: measured 
- exogenous glucose oxidation is 33 g/h under 70 kg vs 45 g/h above it. At
-  56 kg your ceiling is genuinely lower. Fuel every session over 75 min\,
-  +10-15 g/h every 1-2 weeks\, and use the exact race products (Maurten\,
-  Precision PH 1000). In Ramadan the night rides carry it: drink with ift
- ar\, start 60-90 min later\, fuel from the first 20 min.\n62 days to IRO
- NMAN 70.3 Venice-Jesolo.
+ cted\, spare hanger in the box.\n\nWeek 3 of 12 - Base\nBuy the wetsuit 
+ now. Buy for BUOYANCY not speed - beginner suits run 5 mm through core/h
+ ips/legs\, which directly fixes the sinking-legs problem. Wetsuits give 
+ the biggest gain to inefficient low-buoyancy swimmers\, i.e. you: 5-11%\
+ , roughly 2-4 min over 1.9 km. Also buy neoprene BOOTIES - legal below 1
+ 8.3 C and the water will be 15-17 C. ABU DHABI PREP: book Etihad if it i
+ s not done (a boxed bike travels in the checked-bag allowance - check th
+ e weight)\, get a bike box\, and buy a spare Cube derailleur hanger to p
+ ack with it.\n62 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w4-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w4-s0-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
 SUMMARY:≈ Pool swim 30 min before iftar
@@ -684,8 +663,8 @@ DESCRIPTION:Pool swim 30 min before iftar - easy\, loosen up after the fl
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w4-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w4-s1-strides@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
 SUMMARY:4 x 1 km at 10K effort after iftar\, 2 min jog
@@ -706,8 +685,8 @@ DESCRIPTION:4 x 1 km at 10K effort after iftar\, 2 min jog. Evenings are
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w4-s3-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w4-s2-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:≈ Pool swim 35 min before iftar
@@ -727,8 +706,8 @@ DESCRIPTION:Pool swim 35 min before iftar - wetsuit + sighting every 6 st
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w4-s4-legs@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w4-s3-legs@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:◆ Legs
@@ -755,30 +734,8 @@ DESCRIPTION:Legs - maintenance + glute-med\, 30 min after iftar. No gym?
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w4-s5-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270225
-DTEND;VALUE=DATE:20270226
-SUMMARY:○ BIKE QUALITY 60 min at Al Wathba after iftar
-DESCRIPTION:BIKE QUALITY 60 min at Al Wathba after iftar - 3 x 10 min at 
- sweet spot (88-93% FTP\, about 132-140 W)\, 5 min easy spin between. Ram
- adan: shorter session\, same intensity. You can drink\, so two bottles.\
- n\nWeek 4 of 12 - Build\nABU DHABI from Mon 22 Feb - the flight day is a
-  rest day. Iftar there is about 18:20\, so night sessions start about 19
- :30. Al Wathba cycle track is floodlit and open all night\; the sea is 2
- 1-23 C. Sea swims only on a lifeguarded beach\, with a tow buoy\, never 
- alone. GUT TRAINING STARTS - 8-12 weeks out is the window. Target 60-70 
- g carb/h on the bike\, NOT 90: measured exogenous glucose oxidation is 3
- 3 g/h under 70 kg vs 45 g/h above it. At 56 kg your ceiling is genuinely
-  lower. Fuel every session over 75 min\, +10-15 g/h every 1-2 weeks\, an
- d use the exact race products (Maurten\, Precision PH 1000). In Ramadan 
- the night rides carry it: drink with iftar\, start 60-90 min later\, fue
- l from the first 20 min.\n58 days to IRONMAN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w4-s6-easy@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w4-s4-easy@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:Easy run 3 km OFF THE BIKE
@@ -799,8 +756,30 @@ DESCRIPTION:Easy run 3 km OFF THE BIKE - mini-brick\, straight off Thursd
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w4-s7-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w4-s5-cycling@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:○ BIKE QUALITY 60 min at Al Wathba after iftar
+DESCRIPTION:BIKE QUALITY 60 min at Al Wathba after iftar - 3 x 10 min at 
+ sweet spot (88-93% FTP\, about 132-140 W)\, 5 min easy spin between. Ram
+ adan: shorter session\, same intensity. You can drink\, so two bottles.\
+ n\nWeek 4 of 12 - Build\nABU DHABI from Mon 22 Feb - the flight day is a
+  rest day. Iftar there is about 18:20\, so night sessions start about 19
+ :30. Al Wathba cycle track is floodlit and open all night\; the sea is 2
+ 1-23 C. Sea swims only on a lifeguarded beach\, with a tow buoy\, never 
+ alone. GUT TRAINING STARTS - 8-12 weeks out is the window. Target 60-70 
+ g carb/h on the bike\, NOT 90: measured exogenous glucose oxidation is 3
+ 3 g/h under 70 kg vs 45 g/h above it. At 56 kg your ceiling is genuinely
+  lower. Fuel every session over 75 min\, +10-15 g/h every 1-2 weeks\, an
+ d use the exact race products (Maurten\, Precision PH 1000). In Ramadan 
+ the night rides carry it: drink with iftar\, start 60-90 min later\, fue
+ l from the first 20 min.\n58 days to IRONMAN 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w4-s6-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:≈ FIRST SEA SWIM\, 30 min before iftar in daylight
@@ -822,8 +801,8 @@ DESCRIPTION:FIRST SEA SWIM\, 30 min before iftar in daylight - 21-23 C\,
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w4-s8-brick@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w4-s7-brick@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:◐ BRICK after iftar at Al Wathba: 50 km ride + 7…
@@ -844,24 +823,29 @@ DESCRIPTION:BRICK after iftar at Al Wathba: 50 km ride + 7 km run\, pract
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w5-s0-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w4-s8-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:○ Long ride 75 km at Al Wathba after iftar\,…
 DESCRIPTION:Long ride 75 km at Al Wathba after iftar\, steady\, fuelling 
- 60-70 g carb per hour. Ramadan cut from 85 km.\n\nWeek 5 of 12 - Build\n
- TRANSITION PRACTICE this week. Measured Venice T1 median is 7:02 and T2 
- 5:21\; p90 is 11:05 and 7:08. A fumbled pair of transitions costs 8-12 m
- inutes - more than most people gain from an entire block of bike work. P
- ractise wetsuit removal until it is boring. Still Ramadan in Abu Dhabi: 
- long and hard after iftar\, the sea in daylight before it.\n55 days to I
- RONMAN 70.3 Venice-Jesolo.
+ 60-70 g carb per hour. Ramadan cut from 85 km.\n\nWeek 4 of 12 - Build\n
+ ABU DHABI from Mon 22 Feb - the flight day is a rest day. Iftar there is
+  about 18:20\, so night sessions start about 19:30. Al Wathba cycle trac
+ k is floodlit and open all night\; the sea is 21-23 C. Sea swims only on
+  a lifeguarded beach\, with a tow buoy\, never alone. GUT TRAINING START
+ S - 8-12 weeks out is the window. Target 60-70 g carb/h on the bike\, NO
+ T 90: measured exogenous glucose oxidation is 33 g/h under 70 kg vs 45 g
+ /h above it. At 56 kg your ceiling is genuinely lower. Fuel every sessio
+ n over 75 min\, +10-15 g/h every 1-2 weeks\, and use the exact race prod
+ ucts (Maurten\, Precision PH 1000). In Ramadan the night rides carry it:
+  drink with iftar\, start 60-90 min later\, fuel from the first 20 min.\
+ n55 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w5-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w5-s0-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:≈ Pool swim 45 min before iftar
@@ -876,8 +860,8 @@ DESCRIPTION:Pool swim 45 min before iftar - 1800 m continuous\, easy. 45
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w5-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w5-s1-strides@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:3 x 1.5 km at threshold after iftar\, 2 min jog
@@ -892,8 +876,8 @@ DESCRIPTION:3 x 1.5 km at threshold after iftar\, 2 min jog. Ramadan: one
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w5-s3-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w5-s2-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:≈ Sea swim 40 min before iftar + T1 DRILL on the…
@@ -908,8 +892,8 @@ DESCRIPTION:Sea swim 40 min before iftar + T1 DRILL on the beach: swim\,
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w5-s4-legs@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w5-s3-legs@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:◆ Legs
@@ -931,25 +915,8 @@ DESCRIPTION:Legs - maintenance + glute-med\, 30 min after iftar. No gym?
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w5-s5-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270304
-DTEND;VALUE=DATE:20270305
-SUMMARY:○ BIKE QUALITY 60 min at Al Wathba after iftar
-DESCRIPTION:BIKE QUALITY 60 min at Al Wathba after iftar - 3 x 12 min at 
- sweet spot (88-93% FTP\, about 132-140 W)\, 5 min easy spin between. Ram
- adan: shorter session\, same intensity. You can drink\, so two bottles.\
- n\nWeek 5 of 12 - Build\nTRANSITION PRACTICE this week. Measured Venice 
- T1 median is 7:02 and T2 5:21\; p90 is 11:05 and 7:08. A fumbled pair of
-  transitions costs 8-12 minutes - more than most people gain from an ent
- ire block of bike work. Practise wetsuit removal until it is boring. Sti
- ll Ramadan in Abu Dhabi: long and hard after iftar\, the sea in daylight
-  before it.\n51 days to IRONMAN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w5-s6-easy@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w5-s4-easy@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:Easy run 3 km OFF THE BIKE
@@ -965,8 +932,25 @@ DESCRIPTION:Easy run 3 km OFF THE BIKE - mini-brick\, straight off Thursd
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w5-s7-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w5-s5-cycling@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:○ BIKE QUALITY 60 min at Al Wathba after iftar
+DESCRIPTION:BIKE QUALITY 60 min at Al Wathba after iftar - 3 x 12 min at 
+ sweet spot (88-93% FTP\, about 132-140 W)\, 5 min easy spin between. Ram
+ adan: shorter session\, same intensity. You can drink\, so two bottles.\
+ n\nWeek 5 of 12 - Build\nTRANSITION PRACTICE this week. Measured Venice 
+ T1 median is 7:02 and T2 5:21\; p90 is 11:05 and 7:08. A fumbled pair of
+  transitions costs 8-12 minutes - more than most people gain from an ent
+ ire block of bike work. Practise wetsuit removal until it is boring. Sti
+ ll Ramadan in Abu Dhabi: long and hard after iftar\, the sea in daylight
+  before it.\n51 days to IRONMAN 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w5-s6-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:≈ Sea swim 35 min before iftar
@@ -980,8 +964,8 @@ DESCRIPTION:Sea swim 35 min before iftar - sight every 6-10 strokes. Tow
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w5-s8-long@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w5-s7-long@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:▲ Long run 15 km easy after iftar\, HR under 158
@@ -996,24 +980,23 @@ DESCRIPTION:Long run 15 km easy after iftar\, HR under 158. Ramadan cut f
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w6-s0-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w5-s8-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:○ Easy ride 2 h at Al Wathba after iftar\, zone 2 (120 min)
-DESCRIPTION:Easy ride 2 h at Al Wathba after iftar\, zone 2.\n\nWeek 6 of
-  12 - Build\nDOWN WEEK - recover\, do not add volume.\nDOWN WEEK. Ramada
- n ends about Tue 9 Mar and Eid is about Wed 10 - Eid is a rest day. Norm
- al fed training from Thursday\, mornings before the heat. Volume drops\,
-  frequency does not - never let a swim gap exceed 5 days\, adult-onset s
- wimmers lose motor patterns fast. Check the medical certificate appointm
- ent is booked for after you are home.\n48 days to IRONMAN 70.3 Venice-Je
- solo.
+DESCRIPTION:Easy ride 2 h at Al Wathba after iftar\, zone 2.\n\nWeek 5 of
+  12 - Build\nTRANSITION PRACTICE this week. Measured Venice T1 median is
+  7:02 and T2 5:21\; p90 is 11:05 and 7:08. A fumbled pair of transitions
+  costs 8-12 minutes - more than most people gain from an entire block of
+  bike work. Practise wetsuit removal until it is boring. Still Ramadan i
+ n Abu Dhabi: long and hard after iftar\, the sea in daylight before it.\
+ n48 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w6-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w6-s0-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:≈ Pool swim 30 min before iftar
@@ -1028,8 +1011,8 @@ DESCRIPTION:Pool swim 30 min before iftar - 1200 m easy.\n\nWeek 6 of 12
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w6-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w6-s1-strides@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:4 x 1 km at 10K effort after iftar\, 2 min jog
@@ -1044,8 +1027,8 @@ DESCRIPTION:4 x 1 km at 10K effort after iftar\, 2 min jog. Probably the
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w6-s3-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w6-s2-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
 SUMMARY:≈ Swim 35 min in the morning\, pool or sea
@@ -1060,26 +1043,8 @@ DESCRIPTION:Swim 35 min in the morning\, pool or sea - fed again\, so add
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w6-s4-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270311
-DTEND;VALUE=DATE:20270312
-SUMMARY:○ BIKE QUALITY 60-75 min
-DESCRIPTION:BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP
- \, about 132-140 W)\, 5 min easy spin between. Warm up 15 min. The 90 km
-  bike is over half of a 70.3 by time and this is the session that builds
-  it.\n\nWeek 6 of 12 - Build\nDOWN WEEK - recover\, do not add volume.\n
- DOWN WEEK. Ramadan ends about Tue 9 Mar and Eid is about Wed 10 - Eid is
-  a rest day. Normal fed training from Thursday\, mornings before the hea
- t. Volume drops\, frequency does not - never let a swim gap exceed 5 day
- s\, adult-onset swimmers lose motor patterns fast. Check the medical cer
- tificate appointment is booked for after you are home.\n44 days to IRONM
- AN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w6-s5-easy@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w6-s3-easy@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -1096,8 +1061,26 @@ DESCRIPTION:Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w6-s6-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w6-s4-cycling@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:○ BIKE QUALITY 60-75 min
+DESCRIPTION:BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP
+ \, about 132-140 W)\, 5 min easy spin between. Warm up 15 min. The 90 km
+  bike is over half of a 70.3 by time and this is the session that builds
+  it.\n\nWeek 6 of 12 - Build\nDOWN WEEK - recover\, do not add volume.\n
+ DOWN WEEK. Ramadan ends about Tue 9 Mar and Eid is about Wed 10 - Eid is
+  a rest day. Normal fed training from Thursday\, mornings before the hea
+ t. Volume drops\, frequency does not - never let a swim gap exceed 5 day
+ s\, adult-onset swimmers lose motor patterns fast. Check the medical cer
+ tificate appointment is booked for after you are home.\n44 days to IRONM
+ AN 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w6-s5-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:≈ Sea swim 35 min in the morning
@@ -1112,8 +1095,8 @@ DESCRIPTION:Sea swim 35 min in the morning - sight every 6-10 strokes. To
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w6-s7-long@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w6-s6-long@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:▲ Long run 12 km easy\, HR under 158
@@ -1128,25 +1111,25 @@ DESCRIPTION:Long run 12 km easy\, HR under 158. Early\, before the heat.\
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w7-s0-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w6-s7-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:○ Long ride 90 km at Al Wathba (205 min)
 DESCRIPTION:Long ride 90 km at Al Wathba - full race distance\, fuelling 
  rehearsal 60-70 g carb per hour. Start at first light: March middays get
-  close to 30 C.\n\nWeek 7 of 12 - Build\nLast Abu Dhabi week and the fir
- st fully fed one - the big week. You fly home Sat 20 Mar\, so the brick 
- moves to Thursday. TARGET: 1900 m continuous. The cutoff needs only 3:41
- /100 m and ANY STROKE IS LEGAL - breaststroke the whole thing is permitt
- ed\, and you may hold a buoy or kayak to rest provided you make no forwa
- rd progress. Knowing that is what stops the panic that actually causes s
- wim DNFs.\n41 days to IRONMAN 70.3 Venice-Jesolo.
+  close to 30 C.\n\nWeek 6 of 12 - Build\nDOWN WEEK - recover\, do not ad
+ d volume.\nDOWN WEEK. Ramadan ends about Tue 9 Mar and Eid is about Wed 
+ 10 - Eid is a rest day. Normal fed training from Thursday\, mornings bef
+ ore the heat. Volume drops\, frequency does not - never let a swim gap e
+ xceed 5 days\, adult-onset swimmers lose motor patterns fast. Check the 
+ medical certificate appointment is booked for after you are home.\n41 da
+ ys to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w7-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w7-s0-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:≈ Sea swim 55 min
@@ -1162,8 +1145,8 @@ DESCRIPTION:Sea swim 55 min - ATTEMPT 1900 m CONTINUOUS. Lifeguarded beac
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w7-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w7-s1-strides@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:5 x 1 km at threshold\, evening
@@ -1178,8 +1161,8 @@ DESCRIPTION:5 x 1 km at threshold\, evening.\n\nWeek 7 of 12 - Build\nLas
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w7-s3-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w7-s2-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:≈ Sea swim 40 min in the wetsuit
@@ -1195,8 +1178,8 @@ DESCRIPTION:Sea swim 40 min in the wetsuit - sighting every 6 strokes. At
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w7-s4-legs@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w7-s3-legs@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:◆ Legs
@@ -1219,8 +1202,8 @@ DESCRIPTION:Legs - maintenance + glute-med\, 30 min in the evening. No gy
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w7-s5-brick@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w7-s4-brick@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
 SUMMARY:◐ BRICK: 60 km ride + 10 km run at race effort\,…
@@ -1236,8 +1219,24 @@ DESCRIPTION:BRICK: 60 km ride + 10 km run at race effort\, full race nutr
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ironman703venicejesolo-w7-s5-swim@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:≈ Swim 35 min easy\, pool or sea
+DESCRIPTION:Swim 35 min easy\, pool or sea.\n\nWeek 7 of 12 - Build\nLast
+  Abu Dhabi week and the first fully fed one - the big week. You fly home
+  Sat 20 Mar\, so the brick moves to Thursday. TARGET: 1900 m continuous.
+  The cutoff needs only 3:41/100 m and ANY STROKE IS LEGAL - breaststroke
+  the whole thing is permitted\, and you may hold a buoy or kayak to rest
+  provided you make no forward progress. Knowing that is what stops the p
+ anic that actually causes swim DNFs.\n36 days to IRONMAN 70.3 Venice-Jes
+ olo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s6-easy@garmin-training
-DTSTAMP:20261112T063838Z
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:Easy run 5 km\, HR under 158
@@ -1253,40 +1252,24 @@ DESCRIPTION:Easy run 5 km\, HR under 158. Then box the bike for the fligh
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w7-s7-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270319
-DTEND;VALUE=DATE:20270320
-SUMMARY:≈ Swim 35 min easy\, pool or sea
-DESCRIPTION:Swim 35 min easy\, pool or sea.\n\nWeek 7 of 12 - Build\nLast
-  Abu Dhabi week and the first fully fed one - the big week. You fly home
-  Sat 20 Mar\, so the brick moves to Thursday. TARGET: 1900 m continuous.
-  The cutoff needs only 3:41/100 m and ANY STROKE IS LEGAL - breaststroke
-  the whole thing is permitted\, and you may hold a buoy or kayak to rest
-  provided you make no forward progress. Knowing that is what stops the p
- anic that actually causes swim DNFs.\n36 days to IRONMAN 70.3 Venice-Jes
- olo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w8-s0-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w7-s7-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:○ Long ride 100 km steady at IF 0.70 (225 min)
-DESCRIPTION:Long ride 100 km steady at IF 0.70\n\nWeek 8 of 12 - Build\nF
- irst week home: Amsterdam is about 15 C colder\, so dress for the 100 km
- \, and if Saturday's flight wrecked your sleep\, ride it Monday. Biggest
-  week. Bike pacing: target IF 0.68-0.72\, cap the first 30 min 5 W BELOW
-  target. Above 0.80 on a flat course is almost always a bike PB and a ru
- n blow-up. Also: this is a NON-DRAFTING race - 6 bike lengths clear\, pa
- ss within 25 s\, 5-minute penalty box. You ride in groups\; this is a sk
- ill you do not have.\n34 days to IRONMAN 70.3 Venice-Jesolo.
+DESCRIPTION:Long ride 100 km steady at IF 0.70\n\nWeek 7 of 12 - Build\nL
+ ast Abu Dhabi week and the first fully fed one - the big week. You fly h
+ ome Sat 20 Mar\, so the brick moves to Thursday. TARGET: 1900 m continuo
+ us. The cutoff needs only 3:41/100 m and ANY STROKE IS LEGAL - breaststr
+ oke the whole thing is permitted\, and you may hold a buoy or kayak to r
+ est provided you make no forward progress. Knowing that is what stops th
+ e panic that actually causes swim DNFs.\n34 days to IRONMAN 70.3 Venice-
+ Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w8-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w8-s0-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
 SUMMARY:≈ Swim 55 min
@@ -1301,8 +1284,8 @@ DESCRIPTION:Swim 55 min - 1900 m at race pace\n\nWeek 8 of 12 - Build\nFi
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w8-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w8-s1-strides@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
 SUMMARY:6 x 1 km at threshold
@@ -1317,8 +1300,8 @@ DESCRIPTION:6 x 1 km at threshold\n\nWeek 8 of 12 - Build\nFirst week hom
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w8-s3-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w8-s2-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:≈ Swim 40 min
@@ -1334,8 +1317,8 @@ DESCRIPTION:Swim 40 min - wetsuit + crowded-lane contact practice\n\nWeek
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w8-s4-legs@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w8-s3-legs@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:◆ Legs
@@ -1357,42 +1340,8 @@ DESCRIPTION:Legs - maintenance LOWER-LEG AND FOOT\, about 5 min at the en
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w8-s5-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270326
-DTEND;VALUE=DATE:20270327
-SUMMARY:≈ Swim 35 min
-DESCRIPTION:Swim 35 min\n\nWeek 8 of 12 - Build\nFirst week home: Amsterd
- am is about 15 C colder\, so dress for the 100 km\, and if Saturday's fl
- ight wrecked your sleep\, ride it Monday. Biggest week. Bike pacing: tar
- get IF 0.68-0.72\, cap the first 30 min 5 W BELOW target. Above 0.80 on 
- a flat course is almost always a bike PB and a run blow-up. Also: this i
- s a NON-DRAFTING race - 6 bike lengths clear\, pass within 25 s\, 5-minu
- te penalty box. You ride in groups\; this is a skill you do not have.\n2
- 9 days to IRONMAN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w8-s6-long@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270328
-SUMMARY:▲ Long run 18 km easy
-DESCRIPTION:Long run 18 km easy - THIS IS THE CAP. Athletes whose long ru
- n is 15-21 km average 2:03 for the half\; only 26% run over 21 km in tra
- ining.\n\nWeek 8 of 12 - Build\nKeep HR under 158. Walk the climbs. Talk
-  test.\nFirst week home: Amsterdam is about 15 C colder\, so dress for t
- he 100 km\, and if Saturday's flight wrecked your sleep\, ride it Monday
- . Biggest week. Bike pacing: target IF 0.68-0.72\, cap the first 30 min 
- 5 W BELOW target. Above 0.80 on a flat course is almost always a bike PB
-  and a run blow-up. Also: this is a NON-DRAFTING race - 6 bike lengths c
- lear\, pass within 25 s\, 5-minute penalty box. You ride in groups\; thi
- s is a skill you do not have.\n28 days to IRONMAN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w8-s7-easy@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w8-s4-easy@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -1410,8 +1359,8 @@ DESCRIPTION:Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w8-s8-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w8-s5-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -1429,8 +1378,24 @@ DESCRIPTION:BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w8-s9-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w8-s6-swim@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:≈ Swim 35 min
+DESCRIPTION:Swim 35 min\n\nWeek 8 of 12 - Build\nFirst week home: Amsterd
+ am is about 15 C colder\, so dress for the 100 km\, and if Saturday's fl
+ ight wrecked your sleep\, ride it Monday. Biggest week. Bike pacing: tar
+ get IF 0.68-0.72\, cap the first 30 min 5 W BELOW target. Above 0.80 on 
+ a flat course is almost always a bike PB and a run blow-up. Also: this i
+ s a NON-DRAFTING race - 6 bike lengths clear\, pass within 25 s\, 5-minu
+ te penalty box. You ride in groups\; this is a skill you do not have.\n2
+ 9 days to IRONMAN 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w8-s7-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -1447,22 +1412,42 @@ DESCRIPTION:BIKE ENDURANCE 60-75 min zone 2\, HR under 145\, steady. Aero
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w9-s0-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270328
-DTEND;VALUE=DATE:20270329
-SUMMARY:○ Long ride 110 km (245 min)
-DESCRIPTION:Long ride 110 km - longest of the block\n\nWeek 9 of 12 - Pea
- k\nOPEN WATER STARTS - the single highest-consequence item in this plan.
-  90 of 120 sudden deaths in US triathlon occurred in the swim\, and the 
- mechanism is cold-water panic\, not fitness. You should already have don
- e 5-6 cold immersions over the winter\; this is where it gets applied in
-  a wetsuit.\n27 days to IRONMAN 70.3 Venice-Jesolo.
+UID:ironman703venicejesolo-w8-s8-long@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:▲ Long run 18 km easy
+DESCRIPTION:Long run 18 km easy - THIS IS THE CAP. Athletes whose long ru
+ n is 15-21 km average 2:03 for the half\; only 26% run over 21 km in tra
+ ining.\n\nWeek 8 of 12 - Build\nKeep HR under 158. Walk the climbs. Talk
+  test.\nFirst week home: Amsterdam is about 15 C colder\, so dress for t
+ he 100 km\, and if Saturday's flight wrecked your sleep\, ride it Monday
+ . Biggest week. Bike pacing: target IF 0.68-0.72\, cap the first 30 min 
+ 5 W BELOW target. Above 0.80 on a flat course is almost always a bike PB
+  and a run blow-up. Also: this is a NON-DRAFTING race - 6 bike lengths c
+ lear\, pass within 25 s\, 5-minute penalty box. You ride in groups\; thi
+ s is a skill you do not have.\n28 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w9-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w8-s9-cycling@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:○ Long ride 110 km (245 min)
+DESCRIPTION:Long ride 110 km - longest of the block\n\nWeek 8 of 12 - Bui
+ ld\nFirst week home: Amsterdam is about 15 C colder\, so dress for the 1
+ 00 km\, and if Saturday's flight wrecked your sleep\, ride it Monday. Bi
+ ggest week. Bike pacing: target IF 0.68-0.72\, cap the first 30 min 5 W 
+ BELOW target. Above 0.80 on a flat course is almost always a bike PB and
+  a run blow-up. Also: this is a NON-DRAFTING race - 6 bike lengths clear
+ \, pass within 25 s\, 5-minute penalty box. You ride in groups\; this is
+  a skill you do not have.\n27 days to IRONMAN 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w9-s0-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 SUMMARY:≈ OPEN WATER 30-40 min in wetsuit + booties
@@ -1477,8 +1462,8 @@ DESCRIPTION:OPEN WATER 30-40 min in wetsuit + booties. Sight every 6-10 s
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w9-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w9-s1-strides@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 SUMMARY:5 x 1 km at threshold
@@ -1491,8 +1476,8 @@ DESCRIPTION:5 x 1 km at threshold\n\nWeek 9 of 12 - Peak\nOPEN WATER STAR
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w9-s3-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w9-s2-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:≈ Swim 50 min pool
@@ -1505,86 +1490,8 @@ DESCRIPTION:Swim 50 min pool - 1900 m\n\nWeek 9 of 12 - Peak\nOPEN WATER
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w9-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270403
-SUMMARY:≈ Swim 35 min
-DESCRIPTION:Swim 35 min\n\nWeek 9 of 12 - Peak\nOPEN WATER STARTS - the s
- ingle highest-consequence item in this plan. 90 of 120 sudden deaths in 
- US triathlon occurred in the swim\, and the mechanism is cold-water pani
- c\, not fitness. You should already have done 5-6 cold immersions over t
- he winter\; this is where it gets applied in a wetsuit.\n22 days to IRON
- MAN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w9-s5-brick@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270403
-DTEND;VALUE=DATE:20270404
-SUMMARY:◐ BRICK: 70 km ride + 12 km run\, full race…
-DESCRIPTION:BRICK: 70 km ride + 12 km run\, full race nutrition\n\nWeek 9
-  of 12 - Peak\nOPEN WATER STARTS - the single highest-consequence item i
- n this plan. 90 of 120 sudden deaths in US triathlon occurred in the swi
- m\, and the mechanism is cold-water panic\, not fitness. You should alre
- ady have done 5-6 cold immersions over the winter\; this is where it get
- s applied in a wetsuit.\n21 days to IRONMAN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w9-s6-easy@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270402
-SUMMARY:Easy run 5 km OFF THE BIKE
-DESCRIPTION:Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min
-  20-30 s/km slower than feels right\; the legs come good after that. Thi
- rd run of the week\, genuinely easy.\n\nWeek 9 of 12 - Peak\nKeep HR und
- er 158. Walk the climbs. Talk test.\nOPEN WATER STARTS - the single high
- est-consequence item in this plan. 90 of 120 sudden deaths in US triathl
- on occurred in the swim\, and the mechanism is cold-water panic\, not fi
- tness. You should already have done 5-6 cold immersions over the winter\
- ; this is where it gets applied in a wetsuit.\n23 days to IRONMAN 70.3 V
- enice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w9-s7-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270402
-SUMMARY:○ BIKE QUALITY 60-75 min
-DESCRIPTION:BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP
- \, about 132-140 W)\, 5 min easy spin between. Warm up 15 min. The 90 km
-  bike is over half of a 70.3 by time and this is the session that builds
-  it.\n\nWeek 9 of 12 - Peak\nOPEN WATER STARTS - the single highest-cons
- equence item in this plan. 90 of 120 sudden deaths in US triathlon occur
- red in the swim\, and the mechanism is cold-water panic\, not fitness. Y
- ou should already have done 5-6 cold immersions over the winter\; this i
- s where it gets applied in a wetsuit.\n23 days to IRONMAN 70.3 Venice-Je
- solo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w9-s8-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270403
-SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
-DESCRIPTION:BIKE ENDURANCE 60-75 min zone 2\, HR under 145\, steady. Aero
- bic volume with zero impact - the cheapest fitness available to you and 
- it spares the shins.\n\nWeek 9 of 12 - Peak\nOPEN WATER STARTS - the sin
- gle highest-consequence item in this plan. 90 of 120 sudden deaths in US
-  triathlon occurred in the swim\, and the mechanism is cold-water panic\
- , not fitness. You should already have done 5-6 cold immersions over the
-  winter\; this is where it gets applied in a wetsuit.\n22 days to IRONMA
- N 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w9-s9-legs@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w9-s3-legs@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:◆ Legs
@@ -1605,22 +1512,100 @@ DESCRIPTION:Legs - maintenance\, 30 min. One session keeps strength throu
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w10-s0-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270404
-DTEND;VALUE=DATE:20270405
-SUMMARY:○ Long ride 90 km at race effort (200 min)
-DESCRIPTION:Long ride 90 km at race effort\n\nWeek 10 of 12 - Peak\nFull 
- dress rehearsal. Run plan is RUN/WALK from km 0\, not as a fallback: 9 m
- in run / 1 min walk blends to ~7:24/km and beats an even-paced blow-up b
- y minutes per km. The course gives you 3 loops x 7.03 km with 9 aid stat
- ions - walk every one\, 5-15 s\, 3-5 good gulps.\n20 days to IRONMAN 70.
- 3 Venice-Jesolo.
+UID:ironman703venicejesolo-w9-s4-easy@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Easy run 5 km OFF THE BIKE
+DESCRIPTION:Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min
+  20-30 s/km slower than feels right\; the legs come good after that. Thi
+ rd run of the week\, genuinely easy.\n\nWeek 9 of 12 - Peak\nKeep HR und
+ er 158. Walk the climbs. Talk test.\nOPEN WATER STARTS - the single high
+ est-consequence item in this plan. 90 of 120 sudden deaths in US triathl
+ on occurred in the swim\, and the mechanism is cold-water panic\, not fi
+ tness. You should already have done 5-6 cold immersions over the winter\
+ ; this is where it gets applied in a wetsuit.\n23 days to IRONMAN 70.3 V
+ enice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w10-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w9-s5-cycling@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:○ BIKE QUALITY 60-75 min
+DESCRIPTION:BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP
+ \, about 132-140 W)\, 5 min easy spin between. Warm up 15 min. The 90 km
+  bike is over half of a 70.3 by time and this is the session that builds
+  it.\n\nWeek 9 of 12 - Peak\nOPEN WATER STARTS - the single highest-cons
+ equence item in this plan. 90 of 120 sudden deaths in US triathlon occur
+ red in the swim\, and the mechanism is cold-water panic\, not fitness. Y
+ ou should already have done 5-6 cold immersions over the winter\; this i
+ s where it gets applied in a wetsuit.\n23 days to IRONMAN 70.3 Venice-Je
+ solo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w9-s6-swim@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:≈ Swim 35 min
+DESCRIPTION:Swim 35 min\n\nWeek 9 of 12 - Peak\nOPEN WATER STARTS - the s
+ ingle highest-consequence item in this plan. 90 of 120 sudden deaths in 
+ US triathlon occurred in the swim\, and the mechanism is cold-water pani
+ c\, not fitness. You should already have done 5-6 cold immersions over t
+ he winter\; this is where it gets applied in a wetsuit.\n22 days to IRON
+ MAN 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w9-s7-cycling@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
+DESCRIPTION:BIKE ENDURANCE 60-75 min zone 2\, HR under 145\, steady. Aero
+ bic volume with zero impact - the cheapest fitness available to you and 
+ it spares the shins.\n\nWeek 9 of 12 - Peak\nOPEN WATER STARTS - the sin
+ gle highest-consequence item in this plan. 90 of 120 sudden deaths in US
+  triathlon occurred in the swim\, and the mechanism is cold-water panic\
+ , not fitness. You should already have done 5-6 cold immersions over the
+  winter\; this is where it gets applied in a wetsuit.\n22 days to IRONMA
+ N 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w9-s8-brick@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:◐ BRICK: 70 km ride + 12 km run\, full race…
+DESCRIPTION:BRICK: 70 km ride + 12 km run\, full race nutrition\n\nWeek 9
+  of 12 - Peak\nOPEN WATER STARTS - the single highest-consequence item i
+ n this plan. 90 of 120 sudden deaths in US triathlon occurred in the swi
+ m\, and the mechanism is cold-water panic\, not fitness. You should alre
+ ady have done 5-6 cold immersions over the winter\; this is where it get
+ s applied in a wetsuit.\n21 days to IRONMAN 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w9-s9-cycling@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:○ Long ride 90 km at race effort (200 min)
+DESCRIPTION:Long ride 90 km at race effort\n\nWeek 9 of 12 - Peak\nOPEN W
+ ATER STARTS - the single highest-consequence item in this plan. 90 of 12
+ 0 sudden deaths in US triathlon occurred in the swim\, and the mechanism
+  is cold-water panic\, not fitness. You should already have done 5-6 col
+ d immersions over the winter\; this is where it gets applied in a wetsui
+ t.\n20 days to IRONMAN 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w10-s0-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:≈ OPEN WATER 40 min
@@ -1633,8 +1618,8 @@ DESCRIPTION:OPEN WATER 40 min - practise a self-seeded start\, swim close
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w10-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w10-s1-strides@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:4 x 1 km at race effort
@@ -1647,8 +1632,8 @@ DESCRIPTION:4 x 1 km at race effort\n\nWeek 10 of 12 - Peak\nFull dress r
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w10-s3-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w10-s2-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:≈ Swim 50 min
@@ -1661,36 +1646,8 @@ DESCRIPTION:Swim 50 min - 1900 m TIMED. This is your race prediction and
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w10-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270409
-DTEND;VALUE=DATE:20270410
-SUMMARY:≈ Swim 35 min easy
-DESCRIPTION:Swim 35 min easy\n\nWeek 10 of 12 - Peak\nFull dress rehearsa
- l. Run plan is RUN/WALK from km 0\, not as a fallback: 9 min run / 1 min
-  walk blends to ~7:24/km and beats an even-paced blow-up by minutes per 
- km. The course gives you 3 loops x 7.03 km with 9 aid stations - walk ev
- ery one\, 5-15 s\, 3-5 good gulps.\n15 days to IRONMAN 70.3 Venice-Jesol
- o.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w10-s5-brick@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270410
-DTEND;VALUE=DATE:20270411
-SUMMARY:◐ BRICK: 60 km ride + 15 km run at race pace\, 9:1…
-DESCRIPTION:BRICK: 60 km ride + 15 km run at race pace\, 9:1 run/walk\, f
- ull nutrition\n\nWeek 10 of 12 - Peak\nFull dress rehearsal. Run plan is
-  RUN/WALK from km 0\, not as a fallback: 9 min run / 1 min walk blends t
- o ~7:24/km and beats an even-paced blow-up by minutes per km. The course
-  gives you 3 loops x 7.03 km with 9 aid stations - walk every one\, 5-15
-  s\, 3-5 good gulps.\n14 days to IRONMAN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w10-s6-easy@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w10-s3-easy@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -1705,8 +1662,8 @@ DESCRIPTION:Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w10-s7-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w10-s4-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -1721,8 +1678,22 @@ DESCRIPTION:BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w10-s8-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w10-s5-swim@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:≈ Swim 35 min easy
+DESCRIPTION:Swim 35 min easy\n\nWeek 10 of 12 - Peak\nFull dress rehearsa
+ l. Run plan is RUN/WALK from km 0\, not as a fallback: 9 min run / 1 min
+  walk blends to ~7:24/km and beats an even-paced blow-up by minutes per 
+ km. The course gives you 3 loops x 7.03 km with 9 aid stations - walk ev
+ ery one\, 5-15 s\, 3-5 good gulps.\n15 days to IRONMAN 70.3 Venice-Jesol
+ o.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w10-s6-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -1736,21 +1707,36 @@ DESCRIPTION:BIKE ENDURANCE 60-75 min zone 2\, HR under 145\, steady. Aero
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w11-s0-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270411
-DTEND;VALUE=DATE:20270412
-SUMMARY:○ Ride 60 km easy with 3 x 5 min at race effort
-DESCRIPTION:Ride 60 km easy with 3 x 5 min at race effort\n\nWeek 11 of 1
- 2 - Taper\nTaper: volume down 30-50%\, intensity retained\, swim FREQUEN
- CY untouched. Carb load the day before is 8-12 g/kg = 450-670 g - that i
- s a lot of food for 56 kg and it must be rehearsed\, not improvised.\n13
-  days to IRONMAN 70.3 Venice-Jesolo.
+UID:ironman703venicejesolo-w10-s7-brick@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:◐ BRICK: 60 km ride + 15 km run at race pace\, 9:1…
+DESCRIPTION:BRICK: 60 km ride + 15 km run at race pace\, 9:1 run/walk\, f
+ ull nutrition\n\nWeek 10 of 12 - Peak\nFull dress rehearsal. Run plan is
+  RUN/WALK from km 0\, not as a fallback: 9 min run / 1 min walk blends t
+ o ~7:24/km and beats an even-paced blow-up by minutes per km. The course
+  gives you 3 loops x 7.03 km with 9 aid stations - walk every one\, 5-15
+  s\, 3-5 good gulps.\n14 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w11-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w10-s8-cycling@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:○ Ride 60 km easy with 3 x 5 min at race effort
+DESCRIPTION:Ride 60 km easy with 3 x 5 min at race effort\n\nWeek 10 of 1
+ 2 - Peak\nFull dress rehearsal. Run plan is RUN/WALK from km 0\, not as 
+ a fallback: 9 min run / 1 min walk blends to ~7:24/km and beats an even-
+ paced blow-up by minutes per km. The course gives you 3 loops x 7.03 km 
+ with 9 aid stations - walk every one\, 5-15 s\, 3-5 good gulps.\n13 days
+  to IRONMAN 70.3 Venice-Jesolo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w11-s0-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
 SUMMARY:≈ OPEN WATER 30 min
@@ -1762,8 +1748,8 @@ DESCRIPTION:OPEN WATER 30 min - final cold exposure\n\nWeek 11 of 12 - Ta
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w11-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w11-s1-strides@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
 SUMMARY:4 x 800 m at race effort (8 km)
@@ -1775,8 +1761,8 @@ DESCRIPTION:4 x 800 m at race effort\n\nWeek 11 of 12 - Taper\nTaper: vol
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w11-s3-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w11-s2-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 SUMMARY:≈ Swim 35 min
@@ -1788,34 +1774,8 @@ DESCRIPTION:Swim 35 min - 1200 m easy\n\nWeek 11 of 12 - Taper\nTaper: vo
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w11-s4-swim@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270416
-DTEND;VALUE=DATE:20270417
-SUMMARY:≈ Swim 30 min
-DESCRIPTION:Swim 30 min\n\nWeek 11 of 12 - Taper\nTaper: volume down 30-5
- 0%\, intensity retained\, swim FREQUENCY untouched. Carb load the day be
- fore is 8-12 g/kg = 450-670 g - that is a lot of food for 56 kg and it m
- ust be rehearsed\, not improvised.\n8 days to IRONMAN 70.3 Venice-Jesolo
- .
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w11-s5-brick@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270417
-DTEND;VALUE=DATE:20270418
-SUMMARY:◐ BRICK: 30 km ride + 5 km run at race pace
-DESCRIPTION:BRICK: 30 km ride + 5 km run at race pace\n\nWeek 11 of 12 - 
- Taper\nTaper: volume down 30-50%\, intensity retained\, swim FREQUENCY u
- ntouched. Carb load the day before is 8-12 g/kg = 450-670 g - that is a 
- lot of food for 56 kg and it must be rehearsed\, not improvised.\n7 days
-  to IRONMAN 70.3 Venice-Jesolo.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ironman703venicejesolo-w11-s6-easy@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w11-s3-easy@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -1829,8 +1789,8 @@ DESCRIPTION:Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w11-s7-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w11-s4-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:○ BIKE QUALITY 60-75 min
@@ -1844,8 +1804,21 @@ DESCRIPTION:BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w11-s8-cycling@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w11-s5-swim@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:≈ Swim 30 min
+DESCRIPTION:Swim 30 min\n\nWeek 11 of 12 - Taper\nTaper: volume down 30-5
+ 0%\, intensity retained\, swim FREQUENCY untouched. Carb load the day be
+ fore is 8-12 g/kg = 450-670 g - that is a lot of food for 56 kg and it m
+ ust be rehearsed\, not improvised.\n8 days to IRONMAN 70.3 Venice-Jesolo
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w11-s6-cycling@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 SUMMARY:○ BIKE ENDURANCE 60-75 min zone 2\, HR under 145\,…
@@ -1858,28 +1831,34 @@ DESCRIPTION:BIKE ENDURANCE 60-75 min zone 2\, HR under 145\, steady. Aero
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w12-s0-cycling@garmin-training
-DTSTAMP:20261112T063838Z
-DTSTART;VALUE=DATE:20270418
-DTEND;VALUE=DATE:20270419
-SUMMARY:○ Easy spin 40 km (90 min)
-DESCRIPTION:Easy spin 40 km\n\nWeek 12 of 12 - Race\nRACE WEEK. Swim 1\,8
- 98 m single counterclockwise loop from Lighthouse Beach\, 4 turn buoys p
- lus directional buoys every 100 m - unusually easy to sight. SELF-SEEDED
-  ROLLING START\, 3 athletes every 6 s: seed HONESTLY at 55-60 min\, you 
- will start ~08:15-08:30. Enter at the EDGE of your box. Water 15-17 C. W
- arm up in the water 06:30-07:00 then stay warm for 90 min. Swim the firs
- t 200 m deliberately too slowly. CUT-OFFS: swim 1:10 (absolute - zero fi
- nishers in 19\,137 splits swam over 70:00)\, bike 5:30\, overall 8:30. T
- RANSITION IS ~1 KM FROM THE SWIM START - two venues\, walk it Friday. Ta
- rget 6:15-7:15. Venice is a fast race: M25-29 median is 5:12\, so you wi
- ll be near the back of a quick field. That is fine.\n6 days to IRONMAN 7
- 0.3 Venice-Jesolo.
+UID:ironman703venicejesolo-w11-s7-brick@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:◐ BRICK: 30 km ride + 5 km run at race pace
+DESCRIPTION:BRICK: 30 km ride + 5 km run at race pace\n\nWeek 11 of 12 - 
+ Taper\nTaper: volume down 30-50%\, intensity retained\, swim FREQUENCY u
+ ntouched. Carb load the day before is 8-12 g/kg = 450-670 g - that is a 
+ lot of food for 56 kg and it must be rehearsed\, not improvised.\n7 days
+  to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w12-s1-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w11-s8-cycling@garmin-training
+DTSTAMP:20261115T161402Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:○ Easy spin 40 km (90 min)
+DESCRIPTION:Easy spin 40 km\n\nWeek 11 of 12 - Taper\nTaper: volume down 
+ 30-50%\, intensity retained\, swim FREQUENCY untouched. Carb load the da
+ y before is 8-12 g/kg = 450-670 g - that is a lot of food for 56 kg and 
+ it must be rehearsed\, not improvised.\n6 days to IRONMAN 70.3 Venice-Je
+ solo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ironman703venicejesolo-w12-s0-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
 SUMMARY:≈ Swim 25 min easy
@@ -1898,8 +1877,8 @@ DESCRIPTION:Swim 25 min easy\n\nWeek 12 of 12 - Race\nRACE WEEK. Swim 1\,
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w12-s2-strides@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w12-s1-strides@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Easy 5 km + strides
@@ -1918,8 +1897,8 @@ DESCRIPTION:Easy 5 km + strides\n\nWeek 12 of 12 - Race\nRACE WEEK. Swim
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w12-s3-swim@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w12-s2-swim@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:≈ Sea swim 15 min
@@ -1938,8 +1917,8 @@ DESCRIPTION:Sea swim 15 min - sight the buoys\, feel the temperature\n\nW
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w12-s4-easy@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w12-s3-easy@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:Shakeout 3 km
@@ -1959,8 +1938,8 @@ DESCRIPTION:Shakeout 3 km. Walk transition. Confirm medical certificate a
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ironman703venicejesolo-w12-s5-race@garmin-training
-DTSTAMP:20261112T063838Z
+UID:ironman703venicejesolo-w12-s4-race@garmin-training
+DTSTAMP:20261115T161402Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:⚑ RACE (21.1 km)

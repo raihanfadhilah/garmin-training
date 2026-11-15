@@ -14,754 +14,748 @@
   "weeks": [
     {
       "number": 1,
-      "start": "2027-01-31",
-      "end": "2027-02-06",
+      "start": "2027-02-01",
+      "end": "2027-02-07",
       "phase": "Base",
       "down_week": false,
       "note": "ADMIN FIRST: (1) book the certificato medico agonistico - Italy legally requires an ECG-based sports medical on the FITRI form, and without it you are not issued a race pack. Schedule by February. (2) Ramp-test FTP on the D100 this week and rescale the sweet-spot watts below - every bike split is a guess until you do. (3) RAMADAN starts about Mon 8 Feb and weeks 4-7 are in Abu Dhabi (22 Feb - 20 Mar); weeks 2-7 are built around both. Swim goes to FOUR short sessions - frequency beats volume, fatigue compromises motor learning. SESSION COUNT: 3 runs, 3-4 swims, 2 bikes, 1 legs, 6 days with Thursday off. That is ~9-10 h/week, which is INTERMEDIATE volume - MyProCoach's beginner 70.3 plan averages 7 h. If adherence slips, scale to the beginner shape rather than abandoning weeks. CUT ORDER: (1) Monday easy run, (2) the fourth swim, (3) Wednesday legs. Never cut the long ride, the long run, or below three swims.",
       "sessions": [
         {
-          "kind": "cycling",
-          "label": "Long ride 60 km steady, HR ~140",
-          "day": 0,
-          "minutes": 150
-        },
-        {
           "kind": "swim",
           "label": "Swim 35 min - 1000 m continuous",
-          "day": 2,
+          "day": 1,
           "minutes": 35
         },
         {
           "kind": "strides",
           "label": "6 x 800 m at 10K effort",
-          "day": 2,
+          "day": 1,
           "km": 9
         },
         {
           "kind": "swim",
           "label": "Swim 35 min - technique + sighting drills off the lane wall",
-          "day": 3,
+          "day": 2,
           "minutes": 35
         },
         {
           "kind": "legs",
           "label": "Legs - maintenance. Keep glute-med: cycling+running together is a known ITBS risk and hip abductor weakness is the named driver. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain.",
-          "day": 3
+          "day": 2
+        },
+        {
+          "kind": "easy",
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "day": 3,
+          "km": 5
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
         },
         {
           "kind": "swim",
           "label": "Swim 35 min",
-          "day": 5,
+          "day": 4,
           "minutes": 35
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
+          "minutes": 70
         },
         {
           "kind": "swim",
           "label": "Swim 35 min - no-wall set (touch, stop, no push-off)",
-          "day": 6,
+          "day": 5,
           "minutes": 35
         },
         {
           "kind": "long",
           "label": "Long run 12 km easy",
-          "day": 6,
+          "day": 5,
           "km": 12
         },
         {
-          "kind": "easy",
-          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
-          "day": 4,
-          "km": 5
-        },
-        {
           "kind": "cycling",
-          "day": 4,
-          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
-          "minutes": 70
-        },
-        {
-          "kind": "cycling",
-          "day": 5,
-          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
-          "minutes": 70
+          "day": 6,
+          "label": "Long ride 65 km steady. Last fed long ride before Ramadan - eat and drink normally, 40-60 g carb per hour.",
+          "minutes": 160
         }
       ]
     },
     {
       "number": 2,
-      "start": "2027-02-07",
-      "end": "2027-02-13",
+      "start": "2027-02-08",
+      "end": "2027-02-14",
       "phase": "Base",
       "down_week": false,
       "note": "RAMADAN STARTS about Mon 8 Feb (the moon sighting can move it a day). Weeks 2-6 follow the fast: hard and long sessions after iftar (light iftar, start 60-90 min later), short easy swims only in the last 1-2 hours before iftar, nothing hard and nothing over 60 min while fasted. Monday is a full rest day and the Friday zone-2 ride goes. HR runs higher at the same pace when you are dry - run by effort. First brick on Saturday: start the run within 5 minutes of racking the bike; the first 10 min feel wrong and it normalises by km 3. Get the bike fit done before Abu Dhabi: saddle height and cleat alignment are named ITBS contributors.",
       "sessions": [
         {
-          "kind": "cycling",
-          "day": 0,
-          "label": "Long ride 65 km steady. Last fed long ride before Ramadan - eat and drink normally, 40-60 g carb per hour.",
-          "minutes": 160
-        },
-        {
           "kind": "swim",
-          "day": 2,
+          "day": 1,
           "label": "Swim 35 min before iftar - 1200 m continuous, easy. Tuesday lanes close 16:30, so 15:45-16:30; iftar is about 17:45. Fasted: no sprints.",
           "minutes": 35
         },
         {
           "kind": "strides",
-          "day": 2,
+          "day": 1,
           "label": "4 x 1 km at 10K effort after iftar, 2 min jog. Ramadan: one rep fewer than planned, same pace.",
           "km": 8
         },
         {
-          "kind": "legs",
-          "day": 3,
-          "label": "Legs - maintenance + glute-med, 30 min after iftar, before the 21:00 swim. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain."
-        },
-        {
           "kind": "swim",
-          "day": 3,
+          "day": 2,
           "label": "Swim 40 min - drills, in the 21:00-22:00 lane after iftar. Fed and watered, so make it the week's best-quality swim.",
           "minutes": 40
         },
         {
-          "kind": "cycling",
-          "day": 4,
-          "label": "BIKE QUALITY 60 min on the D100 after iftar - 3 x 10 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
-          "minutes": 60
+          "kind": "legs",
+          "day": 2,
+          "label": "Legs - maintenance + glute-med, 30 min after iftar, before the 21:00 swim. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain."
         },
         {
           "kind": "easy",
-          "day": 4,
+          "day": 3,
           "label": "Easy run 3 km OFF THE BIKE - mini-brick, straight off Thursday's bike. Ramadan cut from 5 km. Run the first 10 min 20-30 s/km slower than feels right.",
           "km": 3
         },
         {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 60 min on the D100 after iftar - 3 x 10 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
+          "minutes": 60
+        },
+        {
           "kind": "swim",
-          "day": 5,
+          "day": 4,
           "label": "Swim 35 min before iftar - easy, technique. Friday lane 14:45-17:00, so 16:15-17:00; iftar about 17:50.",
           "minutes": 35
         },
         {
           "kind": "brick",
-          "day": 6,
+          "day": 5,
           "label": "BRICK after iftar: 30 km on the D100 + 4 km run. Ramadan cut from 40 + 5. Run the first 10 min 20-30 s/km slower than standalone. Fuel the ride, 40-60 g carb per hour.",
           "km": 4
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "Long ride 2 h on the D100 after iftar, zone 2, HR under 145. Replaces the 70 km outdoor ride: nothing long while fasted, and 20:00 in February is dark and cold. Fuel 60 g carb per hour from bottles - in Ramadan the night rides are where gut training happens.",
+          "minutes": 120
         }
       ]
     },
     {
       "number": 3,
-      "start": "2027-02-14",
-      "end": "2027-02-20",
+      "start": "2027-02-15",
+      "end": "2027-02-21",
       "phase": "Base",
       "down_week": false,
       "note": "Buy the wetsuit now. Buy for BUOYANCY not speed - beginner suits run 5 mm through core/hips/legs, which directly fixes the sinking-legs problem. Wetsuits give the biggest gain to inefficient low-buoyancy swimmers, i.e. you: 5-11%, roughly 2-4 min over 1.9 km. Also buy neoprene BOOTIES - legal below 18.3 C and the water will be 15-17 C. ABU DHABI PREP: book Etihad if it is not done (a boxed bike travels in the checked-bag allowance - check the weight), get a bike box, and buy a spare Cube derailleur hanger to pack with it.",
       "sessions": [
         {
-          "kind": "cycling",
-          "day": 0,
-          "label": "Long ride 2 h on the D100 after iftar, zone 2, HR under 145. Replaces the 70 km outdoor ride: nothing long while fasted, and 20:00 in February is dark and cold. Fuel 60 g carb per hour from bottles - in Ramadan the night rides are where gut training happens.",
-          "minutes": 120
-        },
-        {
           "kind": "swim",
-          "day": 2,
+          "day": 1,
           "label": "Swim 40 min before iftar - 1400 m continuous, easy. Tuesday lanes close 16:30; iftar about 17:55. Fasted: no sprints.",
           "minutes": 40
         },
         {
           "kind": "strides",
-          "day": 2,
+          "day": 1,
           "label": "5 x 1 km at 10K effort after iftar, 2 min jog. Ramadan: one rep fewer than planned, same pace.",
           "km": 9
         },
         {
-          "kind": "legs",
-          "day": 3,
-          "label": "Legs - maintenance + glute-med, 30 min after iftar, before the 21:00 swim. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain."
-        },
-        {
           "kind": "swim",
-          "day": 3,
+          "day": 2,
           "label": "Swim 40 min - first session IN THE WETSUIT, 21:00 lane after iftar. Chest constriction can feel like breathlessness; get used to it before the Abu Dhabi sea. Ask the lifeguard first - if the pool refuses wetsuits, do this in the sea in week 4.",
           "minutes": 40
         },
         {
-          "kind": "cycling",
-          "day": 4,
-          "label": "BIKE QUALITY 60 min on the D100 after iftar - 3 x 10 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
-          "minutes": 60
+          "kind": "legs",
+          "day": 2,
+          "label": "Legs - maintenance + glute-med, 30 min after iftar, before the 21:00 swim. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain."
         },
         {
           "kind": "easy",
-          "day": 4,
+          "day": 3,
           "label": "Easy run 3 km OFF THE BIKE - mini-brick, straight off Thursday's bike. Ramadan cut from 5 km. Run the first 10 min 20-30 s/km slower than feels right.",
           "km": 3
         },
         {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 60 min on the D100 after iftar - 3 x 10 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
+          "minutes": 60
+        },
+        {
           "kind": "swim",
-          "day": 5,
+          "day": 4,
           "label": "Swim 35 min before iftar - easy, technique. Friday lane 14:45-17:00; iftar about 18:00.",
           "minutes": 35
         },
         {
           "kind": "long",
-          "day": 6,
+          "day": 5,
           "label": "Long run 13 km easy after iftar, HR under 158. Ramadan cut from 15 km. Loop past home or carry a bottle - you can drink.",
           "km": 13
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "Easy ride 75 min on the D100 after iftar, zone 2. Then box the bike for Monday's flight: pedals and bars off, rear derailleur protected, spare hanger in the box.",
+          "minutes": 75
         }
       ]
     },
     {
       "number": 4,
-      "start": "2027-02-21",
-      "end": "2027-02-27",
+      "start": "2027-02-22",
+      "end": "2027-02-28",
       "phase": "Build",
       "down_week": false,
       "note": "ABU DHABI from Mon 22 Feb - the flight day is a rest day. Iftar there is about 18:20, so night sessions start about 19:30. Al Wathba cycle track is floodlit and open all night; the sea is 21-23 C. Sea swims only on a lifeguarded beach, with a tow buoy, never alone. GUT TRAINING STARTS - 8-12 weeks out is the window. Target 60-70 g carb/h on the bike, NOT 90: measured exogenous glucose oxidation is 33 g/h under 70 kg vs 45 g/h above it. At 56 kg your ceiling is genuinely lower. Fuel every session over 75 min, +10-15 g/h every 1-2 weeks, and use the exact race products (Maurten, Precision PH 1000). In Ramadan the night rides carry it: drink with iftar, start 60-90 min later, fuel from the first 20 min.",
       "sessions": [
         {
-          "kind": "cycling",
-          "day": 0,
-          "label": "Easy ride 75 min on the D100 after iftar, zone 2. Then box the bike for Monday's flight: pedals and bars off, rear derailleur protected, spare hanger in the box.",
-          "minutes": 75
-        },
-        {
           "kind": "swim",
-          "day": 2,
+          "day": 1,
           "label": "Pool swim 30 min before iftar - easy, loosen up after the flight.",
           "minutes": 30
         },
         {
           "kind": "strides",
-          "day": 2,
+          "day": 1,
           "label": "4 x 1 km at 10K effort after iftar, 2 min jog. Evenings are about 20-22 C, so no heat penalty. Ramadan and the day after a flight: one rep fewer, same pace.",
           "km": 9
         },
         {
           "kind": "swim",
-          "day": 3,
+          "day": 2,
           "label": "Pool swim 35 min before iftar - wetsuit + sighting every 6 strokes if the pool allows it, otherwise drills.",
           "minutes": 35
         },
         {
           "kind": "legs",
-          "day": 3,
+          "day": 2,
           "label": "Legs - maintenance + glute-med, 30 min after iftar. No gym? Bodyweight and band version: split squats, single-leg RDL, band walks, calf raises. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain."
         },
         {
-          "kind": "cycling",
-          "day": 4,
-          "label": "BIKE QUALITY 60 min at Al Wathba after iftar - 3 x 10 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
-          "minutes": 60
-        },
-        {
           "kind": "easy",
-          "day": 4,
+          "day": 3,
           "label": "Easy run 3 km OFF THE BIKE - mini-brick, straight off Thursday's bike. Ramadan cut from 5 km. Run the first 10 min 20-30 s/km slower than feels right.",
           "km": 3
         },
         {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 60 min at Al Wathba after iftar - 3 x 10 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
+          "minutes": 60
+        },
+        {
           "kind": "swim",
-          "day": 5,
+          "day": 4,
           "label": "FIRST SEA SWIM, 30 min before iftar in daylight - 21-23 C, no wetsuit needed. Lifeguarded beach, tow buoy, never alone, swim parallel to the shore. Look up every 10 strokes - the sea moves you and there is no line on the bottom.",
           "minutes": 30
         },
         {
           "kind": "brick",
-          "day": 6,
+          "day": 5,
           "label": "BRICK after iftar at Al Wathba: 50 km ride + 7 km run, practise 9 min run / 1 min walk. Fuel 60 g carb per hour on the bike with the race products.",
           "km": 7
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "Long ride 75 km at Al Wathba after iftar, steady, fuelling 60-70 g carb per hour. Ramadan cut from 85 km.",
+          "minutes": 165
         }
       ]
     },
     {
       "number": 5,
-      "start": "2027-02-28",
-      "end": "2027-03-06",
+      "start": "2027-03-01",
+      "end": "2027-03-07",
       "phase": "Build",
       "down_week": false,
       "note": "TRANSITION PRACTICE this week. Measured Venice T1 median is 7:02 and T2 5:21; p90 is 11:05 and 7:08. A fumbled pair of transitions costs 8-12 minutes - more than most people gain from an entire block of bike work. Practise wetsuit removal until it is boring. Still Ramadan in Abu Dhabi: long and hard after iftar, the sea in daylight before it.",
       "sessions": [
         {
-          "kind": "cycling",
-          "day": 0,
-          "label": "Long ride 75 km at Al Wathba after iftar, steady, fuelling 60-70 g carb per hour. Ramadan cut from 85 km.",
-          "minutes": 165
-        },
-        {
           "kind": "swim",
-          "day": 2,
+          "day": 1,
           "label": "Pool swim 45 min before iftar - 1800 m continuous, easy. 45 min is the fasted cap.",
           "minutes": 45
         },
         {
           "kind": "strides",
-          "day": 2,
+          "day": 1,
           "label": "3 x 1.5 km at threshold after iftar, 2 min jog. Ramadan: one rep fewer, same pace.",
           "km": 9
         },
         {
           "kind": "swim",
-          "day": 3,
+          "day": 2,
           "label": "Sea swim 40 min before iftar + T1 DRILL on the beach: swim, exit, strip the wetsuit, run to the bike spot. 6 reps. Lifeguarded beach, never alone.",
           "minutes": 40
         },
         {
           "kind": "legs",
-          "day": 3,
+          "day": 2,
           "label": "Legs - maintenance + glute-med, 30 min after iftar. No gym? Bodyweight and band version: split squats, single-leg RDL, band walks, calf raises. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain."
         },
         {
-          "kind": "cycling",
-          "day": 4,
-          "label": "BIKE QUALITY 60 min at Al Wathba after iftar - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
-          "minutes": 60
-        },
-        {
           "kind": "easy",
-          "day": 4,
+          "day": 3,
           "label": "Easy run 3 km OFF THE BIKE - mini-brick, straight off Thursday's bike. Ramadan cut from 5 km. Run the first 10 min 20-30 s/km slower than feels right.",
           "km": 3
         },
         {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 60 min at Al Wathba after iftar - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
+          "minutes": 60
+        },
+        {
           "kind": "swim",
-          "day": 5,
+          "day": 4,
           "label": "Sea swim 35 min before iftar - sight every 6-10 strokes. Tow buoy, never alone.",
           "minutes": 35
         },
         {
           "kind": "long",
-          "day": 6,
+          "day": 5,
           "label": "Long run 15 km easy after iftar, HR under 158. Ramadan cut from 17 km. Carry water.",
           "km": 15
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "Easy ride 2 h at Al Wathba after iftar, zone 2.",
+          "minutes": 120
         }
       ]
     },
     {
       "number": 6,
-      "start": "2027-03-07",
-      "end": "2027-03-13",
+      "start": "2027-03-08",
+      "end": "2027-03-14",
       "phase": "Build",
       "down_week": true,
       "note": "DOWN WEEK. Ramadan ends about Tue 9 Mar and Eid is about Wed 10 - Eid is a rest day. Normal fed training from Thursday, mornings before the heat. Volume drops, frequency does not - never let a swim gap exceed 5 days, adult-onset swimmers lose motor patterns fast. Check the medical certificate appointment is booked for after you are home.",
       "sessions": [
         {
-          "kind": "cycling",
-          "day": 0,
-          "label": "Easy ride 2 h at Al Wathba after iftar, zone 2.",
-          "minutes": 120
-        },
-        {
           "kind": "swim",
-          "day": 2,
+          "day": 1,
           "label": "Pool swim 30 min before iftar - 1200 m easy.",
           "minutes": 30
         },
         {
           "kind": "strides",
-          "day": 2,
+          "day": 1,
           "label": "4 x 1 km at 10K effort after iftar, 2 min jog. Probably the last night of Ramadan.",
           "km": 8
         },
         {
           "kind": "swim",
-          "day": 4,
+          "day": 3,
           "label": "Swim 35 min in the morning, pool or sea - fed again, so add 4 x 50 m strong with full rest.",
           "minutes": 35
         },
         {
+          "kind": "easy",
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "day": 3,
+          "km": 5
+        },
+        {
           "kind": "cycling",
-          "day": 4,
+          "day": 3,
           "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
           "minutes": 70
         },
         {
-          "kind": "easy",
-          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
-          "day": 4,
-          "km": 5
-        },
-        {
           "kind": "swim",
-          "day": 5,
+          "day": 4,
           "label": "Sea swim 35 min in the morning - sight every 6-10 strokes. Tow buoy, never alone.",
           "minutes": 35
         },
         {
           "kind": "long",
-          "day": 6,
+          "day": 5,
           "label": "Long run 12 km easy, HR under 158. Early, before the heat.",
           "km": 12
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "Long ride 90 km at Al Wathba - full race distance, fuelling rehearsal 60-70 g carb per hour. Start at first light: March middays get close to 30 C.",
+          "minutes": 205
         }
       ]
     },
     {
       "number": 7,
-      "start": "2027-03-14",
-      "end": "2027-03-20",
+      "start": "2027-03-15",
+      "end": "2027-03-21",
       "phase": "Build",
       "down_week": false,
       "note": "Last Abu Dhabi week and the first fully fed one - the big week. You fly home Sat 20 Mar, so the brick moves to Thursday. TARGET: 1900 m continuous. The cutoff needs only 3:41/100 m and ANY STROKE IS LEGAL - breaststroke the whole thing is permitted, and you may hold a buoy or kayak to rest provided you make no forward progress. Knowing that is what stops the panic that actually causes swim DNFs.",
       "sessions": [
         {
-          "kind": "cycling",
-          "day": 0,
-          "label": "Long ride 90 km at Al Wathba - full race distance, fuelling rehearsal 60-70 g carb per hour. Start at first light: March middays get close to 30 C.",
-          "minutes": 205
-        },
-        {
           "kind": "swim",
-          "day": 2,
+          "day": 1,
           "label": "Sea swim 55 min - ATTEMPT 1900 m CONTINUOUS. Lifeguarded beach, parallel to the shore, tow buoy, a buddy with you. Any stroke counts.",
           "minutes": 55
         },
         {
           "kind": "strides",
-          "day": 2,
+          "day": 1,
           "label": "5 x 1 km at threshold, evening.",
           "km": 10
         },
         {
           "kind": "swim",
-          "day": 3,
+          "day": 2,
           "label": "Sea swim 40 min in the wetsuit - sighting every 6 strokes. At 22-23 C the suit runs warm, so keep it easy.",
           "minutes": 40
         },
         {
           "kind": "legs",
-          "day": 3,
+          "day": 2,
           "label": "Legs - maintenance + glute-med, 30 min in the evening. No gym? Bodyweight and band version: split squats, single-leg RDL, band walks, calf raises. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain."
         },
         {
           "kind": "brick",
-          "day": 4,
+          "day": 3,
           "label": "BRICK: 60 km ride + 10 km run at race effort, full race nutrition. Moved from Saturday because you fly home Saturday. Start at first light.",
           "km": 10
         },
         {
+          "kind": "swim",
+          "day": 4,
+          "label": "Swim 35 min easy, pool or sea.",
+          "minutes": 35
+        },
+        {
           "kind": "easy",
-          "day": 5,
+          "day": 4,
           "label": "Easy run 5 km, HR under 158. Then box the bike for the flight.",
           "km": 5
         },
         {
-          "kind": "swim",
-          "day": 5,
-          "label": "Swim 35 min easy, pool or sea.",
-          "minutes": 35
+          "kind": "cycling",
+          "label": "Long ride 100 km steady at IF 0.70",
+          "day": 6,
+          "minutes": 225
         }
       ]
     },
     {
       "number": 8,
-      "start": "2027-03-21",
-      "end": "2027-03-27",
+      "start": "2027-03-22",
+      "end": "2027-03-28",
       "phase": "Build",
       "down_week": false,
       "note": "First week home: Amsterdam is about 15 C colder, so dress for the 100 km, and if Saturday's flight wrecked your sleep, ride it Monday. Biggest week. Bike pacing: target IF 0.68-0.72, cap the first 30 min 5 W BELOW target. Above 0.80 on a flat course is almost always a bike PB and a run blow-up. Also: this is a NON-DRAFTING race - 6 bike lengths clear, pass within 25 s, 5-minute penalty box. You ride in groups; this is a skill you do not have.",
       "sessions": [
         {
-          "kind": "cycling",
-          "label": "Long ride 100 km steady at IF 0.70",
-          "day": 0,
-          "minutes": 225
-        },
-        {
           "kind": "swim",
           "label": "Swim 55 min - 1900 m at race pace",
-          "day": 2,
+          "day": 1,
           "minutes": 55
         },
         {
           "kind": "strides",
           "label": "6 x 1 km at threshold",
-          "day": 2,
+          "day": 1,
           "km": 11
         },
         {
           "kind": "swim",
           "label": "Swim 40 min - wetsuit + crowded-lane contact practice",
-          "day": 3,
+          "day": 2,
           "minutes": 40
         },
         {
           "kind": "legs",
           "label": "Legs - maintenance LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain.",
-          "day": 3
-        },
-        {
-          "kind": "swim",
-          "label": "Swim 35 min",
-          "day": 5,
-          "minutes": 35
-        },
-        {
-          "kind": "long",
-          "label": "Long run 18 km easy - THIS IS THE CAP. Athletes whose long run is 15-21 km average 2:03 for the half; only 26% run over 21 km in training.",
-          "day": 6,
-          "km": 18
+          "day": 2
         },
         {
           "kind": "easy",
           "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
-          "day": 4,
+          "day": 3,
           "km": 5
         },
         {
           "kind": "cycling",
-          "day": 4,
+          "day": 3,
           "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
           "minutes": 70
         },
         {
+          "kind": "swim",
+          "label": "Swim 35 min",
+          "day": 4,
+          "minutes": 35
+        },
+        {
           "kind": "cycling",
-          "day": 5,
+          "day": 4,
           "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
           "minutes": 70
+        },
+        {
+          "kind": "long",
+          "label": "Long run 18 km easy - THIS IS THE CAP. Athletes whose long run is 15-21 km average 2:03 for the half; only 26% run over 21 km in training.",
+          "day": 5,
+          "km": 18
+        },
+        {
+          "kind": "cycling",
+          "label": "Long ride 110 km - longest of the block",
+          "day": 6,
+          "minutes": 245
         }
       ]
     },
     {
       "number": 9,
-      "start": "2027-03-28",
-      "end": "2027-04-03",
+      "start": "2027-03-29",
+      "end": "2027-04-04",
       "phase": "Peak",
       "down_week": false,
       "note": "OPEN WATER STARTS - the single highest-consequence item in this plan. 90 of 120 sudden deaths in US triathlon occurred in the swim, and the mechanism is cold-water panic, not fitness. You should already have done 5-6 cold immersions over the winter; this is where it gets applied in a wetsuit.",
       "sessions": [
         {
-          "kind": "cycling",
-          "label": "Long ride 110 km - longest of the block",
-          "day": 0,
-          "minutes": 245
-        },
-        {
           "kind": "swim",
           "label": "OPEN WATER 30-40 min in wetsuit + booties. Sight every 6-10 strokes. Rehearse the bail-out: roll to back, float, breathe, restart.",
-          "day": 2,
+          "day": 1,
           "minutes": 40
         },
         {
           "kind": "strides",
           "label": "5 x 1 km at threshold",
-          "day": 2,
+          "day": 1,
           "km": 10
         },
         {
           "kind": "swim",
           "label": "Swim 50 min pool - 1900 m",
-          "day": 3,
+          "day": 2,
           "minutes": 50
         },
         {
-          "kind": "swim",
-          "label": "Swim 35 min",
-          "day": 5,
-          "minutes": 35
-        },
-        {
-          "kind": "brick",
-          "label": "BRICK: 70 km ride + 12 km run, full race nutrition",
-          "day": 6,
-          "km": 12
+          "kind": "legs",
+          "day": 2,
+          "label": "Legs - maintenance, 30 min. One session keeps strength through the peak weeks. Glute-med and the lower-leg block, nothing heavy. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain."
         },
         {
           "kind": "easy",
           "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
-          "day": 4,
+          "day": 3,
           "km": 5
         },
         {
           "kind": "cycling",
-          "day": 4,
+          "day": 3,
           "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
           "minutes": 70
         },
         {
+          "kind": "swim",
+          "label": "Swim 35 min",
+          "day": 4,
+          "minutes": 35
+        },
+        {
           "kind": "cycling",
-          "day": 5,
+          "day": 4,
           "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
           "minutes": 70
         },
         {
-          "kind": "legs",
-          "day": 3,
-          "label": "Legs - maintenance, 30 min. One session keeps strength through the peak weeks. Glute-med and the lower-leg block, nothing heavy. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain."
+          "kind": "brick",
+          "label": "BRICK: 70 km ride + 12 km run, full race nutrition",
+          "day": 5,
+          "km": 12
+        },
+        {
+          "kind": "cycling",
+          "label": "Long ride 90 km at race effort",
+          "day": 6,
+          "minutes": 200
         }
       ]
     },
     {
       "number": 10,
-      "start": "2027-04-04",
-      "end": "2027-04-10",
+      "start": "2027-04-05",
+      "end": "2027-04-11",
       "phase": "Peak",
       "down_week": false,
       "note": "Full dress rehearsal. Run plan is RUN/WALK from km 0, not as a fallback: 9 min run / 1 min walk blends to ~7:24/km and beats an even-paced blow-up by minutes per km. The course gives you 3 loops x 7.03 km with 9 aid stations - walk every one, 5-15 s, 3-5 good gulps.",
       "sessions": [
         {
-          "kind": "cycling",
-          "label": "Long ride 90 km at race effort",
-          "day": 0,
-          "minutes": 200
-        },
-        {
           "kind": "swim",
           "label": "OPEN WATER 40 min - practise a self-seeded start, swim close to someone",
-          "day": 2,
+          "day": 1,
           "minutes": 40
         },
         {
           "kind": "strides",
           "label": "4 x 1 km at race effort",
-          "day": 2,
+          "day": 1,
           "km": 9
         },
         {
           "kind": "swim",
           "label": "Swim 50 min - 1900 m TIMED. This is your race prediction and your seeding.",
-          "day": 3,
+          "day": 2,
           "minutes": 50
-        },
-        {
-          "kind": "swim",
-          "label": "Swim 35 min easy",
-          "day": 5,
-          "minutes": 35
-        },
-        {
-          "kind": "brick",
-          "label": "BRICK: 60 km ride + 15 km run at race pace, 9:1 run/walk, full nutrition",
-          "day": 6,
-          "km": 15
         },
         {
           "kind": "easy",
           "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
-          "day": 4,
+          "day": 3,
           "km": 5
         },
         {
           "kind": "cycling",
-          "day": 4,
+          "day": 3,
           "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
           "minutes": 70
         },
         {
+          "kind": "swim",
+          "label": "Swim 35 min easy",
+          "day": 4,
+          "minutes": 35
+        },
+        {
           "kind": "cycling",
-          "day": 5,
+          "day": 4,
           "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
           "minutes": 70
+        },
+        {
+          "kind": "brick",
+          "label": "BRICK: 60 km ride + 15 km run at race pace, 9:1 run/walk, full nutrition",
+          "day": 5,
+          "km": 15
+        },
+        {
+          "kind": "cycling",
+          "label": "Ride 60 km easy with 3 x 5 min at race effort",
+          "day": 6,
+          "minutes": 140
         }
       ]
     },
     {
       "number": 11,
-      "start": "2027-04-11",
-      "end": "2027-04-17",
+      "start": "2027-04-12",
+      "end": "2027-04-18",
       "phase": "Taper",
       "down_week": false,
       "note": "Taper: volume down 30-50%, intensity retained, swim FREQUENCY untouched. Carb load the day before is 8-12 g/kg = 450-670 g - that is a lot of food for 56 kg and it must be rehearsed, not improvised.",
       "sessions": [
         {
-          "kind": "cycling",
-          "label": "Ride 60 km easy with 3 x 5 min at race effort",
-          "day": 0,
-          "minutes": 140
-        },
-        {
           "kind": "swim",
           "label": "OPEN WATER 30 min - final cold exposure",
-          "day": 2,
+          "day": 1,
           "minutes": 30
         },
         {
           "kind": "strides",
           "label": "4 x 800 m at race effort",
-          "day": 2,
+          "day": 1,
           "km": 8
         },
         {
           "kind": "swim",
           "label": "Swim 35 min - 1200 m easy",
-          "day": 3,
+          "day": 2,
           "minutes": 35
-        },
-        {
-          "kind": "swim",
-          "label": "Swim 30 min",
-          "day": 5,
-          "minutes": 30
-        },
-        {
-          "kind": "brick",
-          "label": "BRICK: 30 km ride + 5 km run at race pace",
-          "day": 6,
-          "km": 5
         },
         {
           "kind": "easy",
           "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
-          "day": 4,
+          "day": 3,
           "km": 5
         },
         {
           "kind": "cycling",
-          "day": 4,
+          "day": 3,
           "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
           "minutes": 70
         },
         {
+          "kind": "swim",
+          "label": "Swim 30 min",
+          "day": 4,
+          "minutes": 30
+        },
+        {
           "kind": "cycling",
-          "day": 5,
+          "day": 4,
           "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
           "minutes": 70
+        },
+        {
+          "kind": "brick",
+          "label": "BRICK: 30 km ride + 5 km run at race pace",
+          "day": 5,
+          "km": 5
+        },
+        {
+          "kind": "cycling",
+          "label": "Easy spin 40 km",
+          "day": 6,
+          "minutes": 90
         }
       ]
     },
     {
       "number": 12,
-      "start": "2027-04-18",
-      "end": "2027-04-24",
+      "start": "2027-04-19",
+      "end": "2027-04-25",
       "phase": "Race",
       "down_week": false,
       "note": "RACE WEEK. Swim 1,898 m single counterclockwise loop from Lighthouse Beach, 4 turn buoys plus directional buoys every 100 m - unusually easy to sight. SELF-SEEDED ROLLING START, 3 athletes every 6 s: seed HONESTLY at 55-60 min, you will start ~08:15-08:30. Enter at the EDGE of your box. Water 15-17 C. Warm up in the water 06:30-07:00 then stay warm for 90 min. Swim the first 200 m deliberately too slowly. CUT-OFFS: swim 1:10 (absolute - zero finishers in 19,137 splits swam over 70:00), bike 5:30, overall 8:30. TRANSITION IS ~1 KM FROM THE SWIM START - two venues, walk it Friday. Target 6:15-7:15. Venice is a fast race: M25-29 median is 5:12, so you will be near the back of a quick field. That is fine.",
       "sessions": [
         {
-          "kind": "cycling",
-          "label": "Easy spin 40 km",
-          "day": 0,
-          "minutes": 90
-        },
-        {
           "kind": "swim",
           "label": "Swim 25 min easy",
-          "day": 1,
+          "day": 0,
           "minutes": 25
         },
         {
           "kind": "strides",
           "label": "Easy 5 km + strides",
-          "day": 2,
+          "day": 1,
           "km": 5
         },
         {
           "kind": "swim",
           "label": "Sea swim 15 min - sight the buoys, feel the temperature",
-          "day": 4,
+          "day": 3,
           "minutes": 15
         },
         {
           "kind": "easy",
           "label": "Shakeout 3 km. Walk transition. Confirm medical certificate and licence.",
-          "day": 5,
+          "day": 4,
           "km": 3
         },
         {
           "kind": "race",
           "label": "RACE - IRONMAN 70.3 Venice-Jesolo - 1.9 km / 90 km / 21.1 km",
-          "day": 6,
+          "day": 5,
           "km": 21.1
         }
       ]
