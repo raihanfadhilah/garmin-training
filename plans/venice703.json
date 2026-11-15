@@ -6,7 +6,7 @@
   "settings": {
     "easy_hr_cap": 158,
     "benchmark_hr": 150,
-    "benchmark_km": 10,
+    "benchmark_km": 5,
     "cadence_target": 178,
     "easy_target_pct": 80.0,
     "decoupling_target": 5.0
@@ -14,70 +14,896 @@
   "weeks": [
     {
       "number": 1,
-      "start": "2027-02-01",
-      "end": "2027-02-07",
-      "phase": "Base",
+      "start": "2026-11-16",
+      "end": "2026-11-22",
+      "phase": "Re-entry",
       "down_week": false,
-      "note": "ADMIN FIRST: (1) book the certificato medico agonistico - Italy legally requires an ECG-based sports medical on the FITRI form, and without it you are not issued a race pack. Schedule by February. (2) Ramp-test FTP on the D100 this week and rescale the sweet-spot watts below - every bike split is a guess until you do. (3) RAMADAN starts about Mon 8 Feb and weeks 4-7 are in Abu Dhabi (22 Feb - 20 Mar); weeks 2-7 are built around both. Swim goes to FOUR short sessions - frequency beats volume, fatigue compromises motor learning. SESSION COUNT: 3 runs, 3-4 swims, 2 bikes, 1 legs, 6 days with Thursday off. That is ~9-10 h/week, which is INTERMEDIATE volume - MyProCoach's beginner 70.3 plan averages 7 h. If adherence slips, scale to the beginner shape rather than abandoning weeks. CUT ORDER: (1) Monday easy run, (2) the fourth swim, (3) Wednesday legs. Never cut the long ride, the long run, or below three swims.",
+      "note": "RE-ENTRY. Vertical jump comes back about 18 days after an ultra, which is Thursday, so the running is all easy and the first box jumps start low. Durability is the through-line of the whole block: long sessions over 90 min are what preserve running economy under fatigue, which is the 70.3 run leg in one sentence.",
       "sessions": [
         {
           "kind": "swim",
-          "label": "Swim 35 min - 1000 m continuous",
-          "day": 1,
-          "minutes": 35
+          "day": 0,
+          "label": "Swim session 1, 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. Warm-up 100 m easy + 10 bobs (in through the mouth only, out through mouth and nose, hard puff just before you turn). Cool-down 100 m easy. Main set easy, about 40 s per 25 m, breathe every 2nd stroke; if the panic starts, stand, 3-4 slow breaths, carry on. Press lap at every stop and set the pool size. Drills (breathing): side kick 4 x 25, 6-1-6 2 x 25, catch-up 2 x 25. Main: 8 x 25 with 30 s rest, then 2 x 50 with 60 s rest.",
+          "minutes": 45
+        },
+        {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER - push and pull as one session, 45 min. Rows, pull-ups, overhead press, rear delts. Heavy, 4-6 reps, not hypertrophy ranges. Free against the running and cycling load. Dead hangs 3 x max at the end - grip is a genuine weakness at 32-36 s.",
+          "minutes": 45
         },
         {
           "kind": "strides",
-          "label": "6 x 800 m at 10K effort",
           "day": 1,
+          "label": "Easy 6 km, talk test, with 4-6 x 20 s strides in the last km - relaxed, no faster than goal pace.",
+          "km": 6,
+          "minutes": 40
+        },
+        {
+          "kind": "swim",
+          "day": 2,
+          "label": "Swim session 2, 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. Warm-up 100 m easy + 10 bobs (in through the mouth only, out through mouth and nose, hard puff just before you turn). Cool-down 100 m easy. Main set easy, about 40 s per 25 m, breathe every 2nd stroke; if the panic starts, stand, 3-4 slow breaths, carry on. Press lap at every stop and set the pool size. Drills (body position): glide + kick with arms out front, turning to breathe, 4 x 25; kickboard 4 x 25, face in. Main: 6 x 50 with 45 s rest.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 2,
+          "label": "BIKE RAMP TEST - Zwift on the D100 (ERG). Eat 2-3 h before, fan on, bottle. Warm-up 10 min easy + 5 x 1 min at 100-110 rpm with 1 min easy between. Then the test: stay seated at 85-95 rpm and ride until you can't hold the cadence. FTP = 75% of the best 1-min power; expect to stop around 240-250 W. It sets the bike zones from week 2.",
+          "minutes": 40
+        },
+        {
+          "kind": "legs",
+          "day": 4,
+          "label": "Strength LOWER - HEAVY, 45 min. Back squat 4 x 4 at 80 kg (77.5 if 13 Nov's 75 x 5 was near max), safety pins on (75 x 5 on 13 Nov puts the 1RM near 88-90 kg: 4 x 4 at 80 kg on 20 Nov, then add 2.5 kg when the last set moves well). Hack squat if there's no rack or you're wrecked. Then Bulgarian split squat 3 x 5/leg heavy, single-leg calf raises 3 x 8 loaded, Nordic curls 2 x 4. COMPLEX PAIRING: after each heavy set, 5 box jumps or 20 m of bounds within 2 min - heavy resistance plus plyo beats either alone for running economy. Heavy loads at or above 90% 1RM give greater economy gains than lighter ones, and the effect needs 10-14 weeks, which is exactly this block. LOWER-LEG AND FOOT, 5 min: tibialis anterior raises 3 x 15-20, heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10, short-foot holds 3 x 30 s per side.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim session 3 (optional), 10:15 Sloterparkbad - 25 m pool, lanes 10:15-12:15. Warm-up 100 m easy + 10 bobs (in through the mouth only, out through mouth and nose, hard puff just before you turn). Cool-down 100 m easy. Main set easy, about 40 s per 25 m, breathe every 2nd stroke; if the panic starts, stand, 3-4 slow breaths, carry on. Press lap at every stop and set the pool size. Drills (arms): catch-up 2 x 25, one-arm freestyle 4 x 25, fingertip drag 2 x 25. Main: 4 x 75 with 45 s rest, then try 1 x 100.",
+          "minutes": 45
+        },
+        {
+          "kind": "easy",
+          "day": 5,
+          "label": "Easy run 5 km, HR under 158. Third run of the week - short and genuinely easy.",
+          "km": 5
+        },
+        {
+          "kind": "swim",
+          "day": 6,
+          "label": "Swim session 4, 09:00 Sloterparkbad - 50 m pool, lanes 09:00-12:00, after the long run. Warm-up 100 m easy + 10 bobs (in through the mouth only, out through mouth and nose, hard puff just before you turn). Cool-down 100 m easy. Main set easy, about 40 s per 25 m, breathe every 2nd stroke; if the panic starts, stand, 3-4 slow breaths, carry on. Press lap at every stop and set the pool size. Drills (breathing): side kick 4 x 25, 6-1-6 4 x 25, catch-up 2 x 25. Main: 4 x 100 with 60 s rest.",
+          "minutes": 45
+        },
+        {
+          "kind": "long",
+          "day": 6,
+          "label": "Long easy run 10 km, HR under 158. Aerobic base is the lever - the fastest runners get there on Zone 1 volume.",
+          "km": 10
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "start": "2026-11-23",
+      "end": "2026-11-29",
+      "phase": "Re-entry",
+      "down_week": false,
+      "note": "5 KM RETEST Tuesday - it sets every run pace for the block. From this week the rhythm is fixed: Mon upper (no endurance), Tue swim + run quality, Wed legs, Thu bike quality + a short run off the bike, Fri swim + optional easy spin, Sat long run + swim, Sun long ride. Hard days are Tue, Thu, Sat and Sun; Mon and Wed carry no swim, bike or run.",
+      "sessions": [
+        {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER, 45 min - rows, pull-ups, overhead press, rear delts, 4-6 reps, 3 sets. Dead hangs 3 x max at the end. No running or riding today: Monday is the endurance rest day.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 1,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. CONTINUOUS 200 m. Warm-up 100 m + 10 bobs, 10 min drills (side kick, catch-up). Main: 200 m without stopping, easy. Breathe out through mouth and nose, in through the mouth, every 2nd stroke. Then 4 x 50 m with 30 s rest. Cool-down 100 m. Can't hold it calmly? Swim it as 2-3 pieces with 30 s rest and repeat the target next week.",
+          "minutes": 45
+        },
+        {
+          "kind": "benchmark",
+          "day": 1,
+          "label": "5 KM RETEST - flat, out-and-back, auto-pause OFF. Warm up 20 min + 4-6 x 100 m AT goal pace, no faster. First 400 m must not go under target. This sets every run pace for the block.",
+          "km": 10
+        },
+        {
+          "kind": "legs",
+          "day": 2,
+          "label": "Strength LOWER - HEAVY, 50 min. Back squat 4 x 4 at 82.5 kg if Friday's 80 kg moved well, otherwise 80 kg, safety pins on; hack squat if there's no rack. Within 2 min of each squat set: box jumps 3 x 5 (20-inch box or the step, step down). Then Bulgarian split squat 3 x 5/leg heavy, Nordic curls 2 x 4, single-leg calf raises 3 x 8 loaded, tibialis raises 3 x 15. Heavy 3-5 reps is what moves running and cycling economy; light sets do not.",
+          "minutes": 50
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 45 min on Zwift - 2 x 8 min sweet spot (88-93% FTP, about 163-172 W at FTP 185), 4 min easy between. Warm-up 10 min with 3 x 1 min at 100-110 rpm, cool-down 5-10 min. Fan on, a bottle per hour.",
+          "minutes": 45
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Run 10 min OFF THE BIKE, straight after Thursday's ride. Shoes by the trainer, out the door within 5 min. The first minutes feel wrong; that is the adaptation. Easy, HR under 158.",
+          "km": 1.5
+        },
+        {
+          "kind": "swim",
+          "day": 4,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. TECHNIQUE. Warm-up 100 m + 10 bobs. 15 min drills: 6-1-6 and catch-up. Then 200 m without stopping, then 4 x 50 m with 30 s rest. Cool-down 100 m.",
+          "minutes": 40
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "Optional easy spin 40 min on Zwift - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Non-impact aerobic volume that spares the shins. Skip it if you are wrecked.",
+          "minutes": 40
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim 10:15 Sloterparkbad - 25 m pool, lanes 10:15-12:15, after the long run, 30-40 min, easy. Technique, then 2-3 x 200 m continuous with 30 s rest.",
+          "minutes": 40
+        },
+        {
+          "kind": "long",
+          "day": 5,
+          "label": "Long run 11 km easy, HR under 158, talk test. Then the Saturday swim.",
+          "km": 11
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "Long ride 1 h 15 - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Outdoors if it's dry and above about 5 C, otherwise Zwift. Fuel from 20 min: 40-60 g carb per hour.",
+          "minutes": 75
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "start": "2026-11-30",
+      "end": "2026-12-06",
+      "phase": "Base 1",
+      "down_week": false,
+      "note": "BASE 1 (weeks 3-6): swim to 500 m continuous, bike from about 2.5 to 4 h a week, run 23-26 km. About 80% of the time is easy. For amateur half-Ironman athletes, threshold time is linked with faster races, so each week keeps one run and one bike session at threshold or sweet spot. Book the 6 swim lessons now (they start next week).",
+      "sessions": [
+        {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER, 45 min - rows, pull-ups, overhead press, rear delts, 4-6 reps, 3 sets. Dead hangs 3 x max at the end. No running or riding today: Monday is the endurance rest day.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 1,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. CONTINUOUS 300 m. Warm-up 100 m + 10 bobs, 10 min drills (side kick, catch-up). Main: 300 m without stopping, easy. Breathe out through mouth and nose, in through the mouth, every 2nd stroke. Then 4 x 50 m drill-swim. Cool-down 100 m. Can't hold it calmly? Swim it as 2-3 pieces with 30 s rest and repeat the target next week.",
+          "minutes": 45
+        },
+        {
+          "kind": "strides",
+          "day": 1,
+          "label": "THRESHOLD 3 x 8 min - threshold effort (HR 175-181, comfortably hard, about your 1-hour race effort), 2 min jog between. Warm-up 15 min easy + 4 strides, cool-down 10 min. Paces come from the 5 km retest.",
+          "km": 9
+        },
+        {
+          "kind": "legs",
+          "day": 2,
+          "label": "Strength LOWER - HEAVY, 50 min. Back squat 4 x 3-5 at 85-90% 1RM, add 2.5 kg when the last set moves well, safety pins on; hack squat if there's no rack. Within 2 min of each squat set: box jumps 3 x 5 (20-inch box or the step, step down). Then Bulgarian split squat 3 x 5/leg heavy, Nordic curls 2 x 4, single-leg calf raises 3 x 8 loaded, tibialis raises 3 x 15. Heavy 3-5 reps is what moves running and cycling economy; light sets do not.",
+          "minutes": 50
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 55 min on Zwift - 3 x 8 min sweet spot (88-93% FTP, about 163-172 W at FTP 185), 4 min easy between. Warm-up 10 min with 3 x 1 min at 100-110 rpm, cool-down 5-10 min. Fan on, a bottle per hour.",
+          "minutes": 55
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Run 10 min OFF THE BIKE, straight after Thursday's ride. Shoes by the trainer, out the door within 5 min. The first minutes feel wrong; that is the adaptation. Easy, HR under 158.",
+          "km": 1.5
+        },
+        {
+          "kind": "swim",
+          "day": 4,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. TECHNIQUE. Warm-up 100 m + 10 bobs. 15 min drills: 6-1-6 and catch-up. Then 6 x 50 m with 30 s rest, smooth. Cool-down 100 m.",
+          "minutes": 40
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "Optional easy spin 45 min on Zwift - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Non-impact aerobic volume that spares the shins. Skip it if you are wrecked.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim 10:15 Sloterparkbad - 25 m pool, lanes 10:15-12:15, after the long run, 30-40 min, easy. 6 x 100 m with 30 s rest, any stroke allowed on the last length.",
+          "minutes": 40
+        },
+        {
+          "kind": "long",
+          "day": 5,
+          "label": "Long run 12 km easy, HR under 158, talk test. Then the Saturday swim.",
+          "km": 12
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "Long ride 1 h 30 - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Outdoors if it's dry and above about 5 C, otherwise Zwift. Fuel from 20 min: 40-60 g carb per hour.",
+          "minutes": 90
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "start": "2026-12-07",
+      "end": "2026-12-13",
+      "phase": "Base 1",
+      "down_week": false,
+      "note": "Swim lesson 1 this week. A coach fixes the stroke before the volume arrives; adult-onset swimmers struggle to feel their own body position, which is exactly what a filmed lesson shows.",
+      "sessions": [
+        {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER, 45 min - rows, pull-ups, overhead press, rear delts, 4-6 reps, 3 sets. Dead hangs 3 x max at the end. No running or riding today: Monday is the endurance rest day.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 1,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. CONTINUOUS 400 m. Warm-up 100 m + 10 bobs, 10 min drills (side kick, catch-up). Main: 400 m without stopping, easy. Breathe out through mouth and nose, in through the mouth, every 2nd stroke. Then 4 x 50 m with 20 s rest. Cool-down 100 m. Can't hold it calmly? Swim it as 2-3 pieces with 30 s rest and repeat the target next week.",
+          "minutes": 45
+        },
+        {
+          "kind": "strides",
+          "day": 1,
+          "label": "VO2 5 x 3 min - 3-5K effort (HR climbing into the high 180s by the end of each rep), 2 min jog between. Warm-up 15 min easy + 4 strides, cool-down 10 min. Paces come from the 5 km retest.",
+          "km": 9
+        },
+        {
+          "kind": "legs",
+          "day": 2,
+          "label": "Strength LOWER - HEAVY, 50 min. Back squat 4 x 3-5 at 85-90% 1RM, add 2.5 kg when the last set moves well, safety pins on; hack squat if there's no rack. Within 2 min of each squat set: box jumps 3 x 5 (20-inch box or the step, step down). Then Bulgarian split squat 3 x 5/leg heavy, Nordic curls 2 x 4, single-leg calf raises 3 x 8 loaded, tibialis raises 3 x 15. Heavy 3-5 reps is what moves running and cycling economy; light sets do not.",
+          "minutes": 50
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 60 min on Zwift - 3 x 10 min sweet spot (88-93% FTP, about 163-172 W at FTP 185), 5 min easy between. Warm-up 10 min with 3 x 1 min at 100-110 rpm, cool-down 5-10 min. Fan on, a bottle per hour.",
+          "minutes": 60
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Run 10 min OFF THE BIKE, straight after Thursday's ride. Shoes by the trainer, out the door within 5 min. The first minutes feel wrong; that is the adaptation. Easy, HR under 158.",
+          "km": 1.5
+        },
+        {
+          "kind": "swim",
+          "day": 4,
+          "label": "SWIM LESSON 1 of 6 - 1-on-1, 45 min. Book any weekday slot (coaches teaching at Het Marnix: Aqua Hero, SwimEasy, Your Personal Swim Coach); it replaces this week's Friday swim. Ask the coach to film you above and below the water. Breathing first, then sinking legs, then the catch.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "Optional easy spin 45 min on Zwift - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Non-impact aerobic volume that spares the shins. Skip it if you are wrecked.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim 10:15 Sloterparkbad - 25 m pool, lanes 10:15-12:15, after the long run, 30-40 min, easy. 6 x 100 m with 20-30 s rest.",
+          "minutes": 40
+        },
+        {
+          "kind": "long",
+          "day": 5,
+          "label": "Long run 13 km easy, HR under 158, talk test. Then the Saturday swim.",
+          "km": 13
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "Long ride 1 h 45 - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Outdoors if it's dry and above about 5 C, otherwise Zwift. Fuel from 20 min: 40-60 g carb per hour.",
+          "minutes": 105
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "start": "2026-12-14",
+      "end": "2026-12-20",
+      "phase": "Base 1",
+      "down_week": false,
+      "note": "Cold habituation starts after Saturday's swim: 5-6 short cold exposures over the winter blunt the cold-shock gasp, and the effect lasts most of a year.",
+      "sessions": [
+        {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER, 45 min - rows, pull-ups, overhead press, rear delts, 4-6 reps, 3 sets. Dead hangs 3 x max at the end. No running or riding today: Monday is the endurance rest day.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 1,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. CONTINUOUS 500 m. Warm-up 100 m + 10 bobs, 10 min drills (side kick, catch-up). Main: 500 m without stopping, easy. Breathe out through mouth and nose, in through the mouth, every 2nd stroke. Then 4 x 50 m with 20 s rest. Cool-down 100 m. Can't hold it calmly? Swim it as 2-3 pieces with 30 s rest and repeat the target next week.",
+          "minutes": 45
+        },
+        {
+          "kind": "strides",
+          "day": 1,
+          "label": "THRESHOLD 3 x 10 min - threshold effort (HR 175-181, comfortably hard, about your 1-hour race effort), 2 min jog between. Warm-up 15 min easy + 4 strides, cool-down 10 min. Paces come from the 5 km retest.",
+          "km": 10
+        },
+        {
+          "kind": "legs",
+          "day": 2,
+          "label": "Strength LOWER - HEAVY, 50 min. Back squat 4 x 3-5 at 85-90% 1RM, add 2.5 kg when the last set moves well, safety pins on; hack squat if there's no rack. Within 2 min of each squat set: box jumps 3 x 5 + pogo hops 2 x 15. Then Bulgarian split squat 3 x 5/leg heavy, Nordic curls 2 x 4, single-leg calf raises 3 x 8 loaded, tibialis raises 3 x 15. Heavy 3-5 reps is what moves running and cycling economy; light sets do not.",
+          "minutes": 50
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 60 min on Zwift - 2 x 15 min sweet spot (88-93% FTP, about 163-172 W at FTP 185), 5 min easy between. Warm-up 10 min with 3 x 1 min at 100-110 rpm, cool-down 5-10 min. Fan on, a bottle per hour.",
+          "minutes": 60
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Run 10 min OFF THE BIKE, straight after Thursday's ride. Shoes by the trainer, out the door within 5 min. The first minutes feel wrong; that is the adaptation. Easy, HR under 158.",
+          "km": 1.5
+        },
+        {
+          "kind": "swim",
+          "day": 4,
+          "label": "SWIM LESSON 2 of 6 - 1-on-1, 45 min. Book any weekday slot (coaches teaching at Het Marnix: Aqua Hero, SwimEasy, Your Personal Swim Coach); it replaces this week's Friday swim. Ask the coach to film you above and below the water. Breathing first, then sinking legs, then the catch.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "Optional easy spin 45 min on Zwift - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Non-impact aerobic volume that spares the shins. Skip it if you are wrecked.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim 10:15 Sloterparkbad - 25 m pool, lanes 10:15-12:15, after the long run, 30-40 min, easy. 4 x 150 m with 30 s rest. COLD: finish with a 2-3 min cold shower. Five or six exposures cut the cold-shock gasp for months, and Jesolo is 15-17 C.",
+          "minutes": 40
+        },
+        {
+          "kind": "long",
+          "day": 5,
+          "label": "Long run 14 km easy, HR under 158, talk test. Then the Saturday swim.",
+          "km": 14
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "Long ride 2 h 00 - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Outdoors if it's dry and above about 5 C, otherwise Zwift. Fuel from 20 min: 40-60 g carb per hour.",
+          "minutes": 120
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "start": "2026-12-21",
+      "end": "2026-12-27",
+      "phase": "Base 1",
+      "down_week": true,
+      "note": "DOWN WEEK + Christmas. Volume about 30% lower, intensity kept but short. Pools run holiday hours and are usually closed on Christmas Day: swim Thursday 24 instead of Friday 25 if Sloterparkbad is shut.",
+      "sessions": [
+        {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER, 45 min - rows, pull-ups, overhead press, rear delts, 4-6 reps, 2 sets instead of 3 - down week. Dead hangs 3 x max at the end. No running or riding today: Monday is the endurance rest day.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 1,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. CONTINUOUS 400 m. Warm-up 100 m + 10 bobs, 10 min drills (side kick, catch-up). Main: 400 m without stopping, easy. Breathe out through mouth and nose, in through the mouth, every 2nd stroke. Then 2 x 50 m relaxed. Cool-down 100 m. Can't hold it calmly? Swim it as 2-3 pieces with 30 s rest and repeat the target next week.",
+          "minutes": 45
+        },
+        {
+          "kind": "strides",
+          "day": 1,
+          "label": "FARTLEK 8 x 1 min - quick (5K feel) / 1 min easy, no watch-staring. Warm-up 15 min easy + 4 strides, cool-down 10 min. Paces come from the 5 km retest.",
+          "km": 7
+        },
+        {
+          "kind": "legs",
+          "day": 2,
+          "label": "Strength LOWER - HEAVY, 50 min. Back squat 3 x 3 at last week's weight - fewer sets, same load (down week), safety pins on; hack squat if there's no rack. Within 2 min of each squat set: box jumps 3 x 5 + pogo hops 2 x 15. Then Bulgarian split squat 3 x 5/leg heavy, Nordic curls 2 x 4, single-leg calf raises 3 x 8 loaded, tibialis raises 3 x 15. Heavy 3-5 reps is what moves running and cycling economy; light sets do not.",
+          "minutes": 50
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 50 min on Zwift - 3 x 8 min sweet spot (88-93% FTP, about 163-172 W at FTP 185), 4 min easy between. Warm-up 10 min with 3 x 1 min at 100-110 rpm, cool-down 5-10 min. Fan on, a bottle per hour.",
+          "minutes": 50
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Run 10 min OFF THE BIKE, straight after Thursday's ride. Shoes by the trainer, out the door within 5 min. The first minutes feel wrong; that is the adaptation. Easy, HR under 158.",
+          "km": 1.5
+        },
+        {
+          "kind": "swim",
+          "day": 4,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. TECHNIQUE. Warm-up 100 m + 10 bobs. 15 min drills: side kick and catch-up. Then 4 x 50 m smooth. Cool-down 100 m. Christmas Day: if the pool is closed, swim Thu 24 Dec instead.",
+          "minutes": 40
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim 10:15 Sloterparkbad - 25 m pool, lanes 10:15-12:15, after the long run, 30-40 min, easy. 4 x 100 m easy, holiday hours - check the app. COLD: finish with a 2-3 min cold shower. Five or six exposures cut the cold-shock gasp for months, and Jesolo is 15-17 C.",
+          "minutes": 40
+        },
+        {
+          "kind": "long",
+          "day": 5,
+          "label": "Long run 11 km easy, HR under 158, talk test. Then the Saturday swim.",
+          "km": 11
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "Long ride 1 h 30 - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Outdoors if it's dry and above about 5 C, otherwise Zwift. Fuel from 20 min: 40-60 g carb per hour.",
+          "minutes": 90
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "start": "2026-12-28",
+      "end": "2027-01-03",
+      "phase": "Base 2",
+      "down_week": false,
+      "note": "BASE 2 (weeks 7-11): the long ride to 2 h 45 with a run off it, swim to 1200 m continuous by the end of January. New Year's Day: pools are usually closed, so Friday's swim moves to Thu 31 Dec.",
+      "sessions": [
+        {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER, 45 min - rows, pull-ups, overhead press, rear delts, 4-6 reps, 3 sets. Dead hangs 3 x max at the end. No running or riding today: Monday is the endurance rest day.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 1,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. CONTINUOUS 600 m. Warm-up 100 m + 10 bobs, 10 min drills (side kick, catch-up). Main: 600 m without stopping, easy. Breathe out through mouth and nose, in through the mouth, every 2nd stroke. Then 4 x 50 m with 20 s rest. Cool-down 100 m. Can't hold it calmly? Swim it as 2-3 pieces with 30 s rest and repeat the target next week.",
+          "minutes": 45
+        },
+        {
+          "kind": "strides",
+          "day": 1,
+          "label": "VO2 6 x 3 min - 3-5K effort (HR climbing into the high 180s by the end of each rep), 2 min jog between. Warm-up 15 min easy + 4 strides, cool-down 10 min. Paces come from the 5 km retest.",
+          "km": 10
+        },
+        {
+          "kind": "legs",
+          "day": 2,
+          "label": "Strength LOWER - HEAVY, 50 min. Back squat 4 x 3-5 at 85-90% 1RM, add 2.5 kg when the last set moves well, safety pins on; hack squat if there's no rack. Within 2 min of each squat set: box jumps 3 x 5 + pogo hops 2 x 15. Then Bulgarian split squat 3 x 5/leg heavy, Nordic curls 2 x 4, single-leg calf raises 3 x 8 loaded, tibialis raises 3 x 15. Heavy 3-5 reps is what moves running and cycling economy; light sets do not.",
+          "minutes": 50
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 65 min on Zwift - 3 x 12 min sweet spot (88-93% FTP, about 163-172 W at FTP 185), 5 min easy between. Warm-up 10 min with 3 x 1 min at 100-110 rpm, cool-down 5-10 min. Fan on, a bottle per hour.",
+          "minutes": 65
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Run 15 min OFF THE BIKE, straight after Thursday's ride. Shoes by the trainer, out the door within 5 min. The first minutes feel wrong; that is the adaptation. Easy, HR under 158.",
+          "km": 2.5
+        },
+        {
+          "kind": "swim",
+          "day": 4,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. TECHNIQUE. Warm-up 100 m + 10 bobs. 15 min drills: one-arm freestyle and fingertip drag. Then 6 x 75 m with 20 s rest. Cool-down 100 m. New Year's Day: if the pool is closed, swim Thu 31 Dec instead.",
+          "minutes": 40
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "Optional easy spin 45 min on Zwift - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Non-impact aerobic volume that spares the shins. Skip it if you are wrecked.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim 10:15 Sloterparkbad - 25 m pool, lanes 10:15-12:15, after the long run, 30-40 min, easy. 5 x 150 m with 30 s rest. COLD: finish with a 2-3 min cold shower. Five or six exposures cut the cold-shock gasp for months, and Jesolo is 15-17 C.",
+          "minutes": 40
+        },
+        {
+          "kind": "long",
+          "day": 5,
+          "label": "Long run 15 km easy, HR under 158, talk test. Then the Saturday swim.",
+          "km": 15
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "Long ride 2 h 15 - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Outdoors if it's dry and above about 5 C, otherwise Zwift. Fuel from 20 min: 40-60 g carb per hour.",
+          "minutes": 135
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "start": "2027-01-04",
+      "end": "2027-01-10",
+      "phase": "Base 2",
+      "down_week": false,
+      "note": "CSS swim test on Saturday: 400 m then 200 m, both all-out with full rest between. CSS pace per 100 m = (400 time - 200 time) / 2. It sets the swim paces from next week. Brick runs start after the long ride.",
+      "sessions": [
+        {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER, 45 min - rows, pull-ups, overhead press, rear delts, 4-6 reps, 3 sets. Dead hangs 3 x max at the end. No running or riding today: Monday is the endurance rest day.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 1,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. CONTINUOUS 800 m. Warm-up 100 m + 10 bobs, 10 min drills (side kick, catch-up). Main: 800 m without stopping, easy. Breathe out through mouth and nose, in through the mouth, every 2nd stroke. Then 2 x 50 m relaxed. Cool-down 100 m. Can't hold it calmly? Swim it as 2-3 pieces with 30 s rest and repeat the target next week.",
+          "minutes": 45
+        },
+        {
+          "kind": "strides",
+          "day": 1,
+          "label": "THRESHOLD 3 x 2 km - threshold effort (HR 175-181, comfortably hard, about your 1-hour race effort), 2 min jog between. Warm-up 15 min easy + 4 strides, cool-down 10 min. Paces come from the 5 km retest.",
+          "km": 11
+        },
+        {
+          "kind": "legs",
+          "day": 2,
+          "label": "Strength LOWER - HEAVY, 50 min. Back squat 4 x 3-5 at 85-90% 1RM, add 2.5 kg when the last set moves well, safety pins on; hack squat if there's no rack. Within 2 min of each squat set: depth jumps 3 x 5 (step off the Les Mills step, straight onto the 20-inch box) + pogo hops 2 x 15. Then Bulgarian split squat 3 x 5/leg heavy, Nordic curls 2 x 4, single-leg calf raises 3 x 8 loaded, tibialis raises 3 x 15. Heavy 3-5 reps is what moves running and cycling economy; light sets do not.",
+          "minutes": 50
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 70 min on Zwift - 2 x 20 min sweet spot (88-93% FTP, about 163-172 W at FTP 185), 5 min easy between. Warm-up 10 min with 3 x 1 min at 100-110 rpm, cool-down 5-10 min. Fan on, a bottle per hour.",
+          "minutes": 70
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Run 15 min OFF THE BIKE, straight after Thursday's ride. Shoes by the trainer, out the door within 5 min. The first minutes feel wrong; that is the adaptation. Easy, HR under 158.",
+          "km": 2.5
+        },
+        {
+          "kind": "swim",
+          "day": 4,
+          "label": "SWIM LESSON 3 of 6 - 1-on-1, 45 min. Book any weekday slot (coaches teaching at Het Marnix: Aqua Hero, SwimEasy, Your Personal Swim Coach); it replaces this week's Friday swim. Ask the coach to film you above and below the water. Breathing first, then sinking legs, then the catch.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "Optional easy spin 45 min on Zwift - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Non-impact aerobic volume that spares the shins. Skip it if you are wrecked.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim 10:15 Sloterparkbad - 25 m pool, lanes 10:15-12:15, after the long run, 30-40 min, easy. CSS TEST: 300 m easy warm-up, 400 m all-out, 5-10 min easy, 200 m all-out. Write both times down. COLD: finish with a 2-3 min cold shower. Five or six exposures cut the cold-shock gasp for months, and Jesolo is 15-17 C.",
+          "minutes": 40
+        },
+        {
+          "kind": "long",
+          "day": 5,
+          "label": "Long run 16 km easy, HR under 158, talk test. Then the Saturday swim.",
+          "km": 16
+        },
+        {
+          "kind": "brick",
+          "day": 6,
+          "label": "Long ride 2 h 30 - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Outdoors if it's dry and above about 5 C, otherwise Zwift. Fuel from 20 min: 40-60 g carb per hour. Then run 10 min off the bike, easy.",
+          "minutes": 160
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "start": "2027-01-11",
+      "end": "2027-01-17",
+      "phase": "Base 2",
+      "down_week": false,
+      "note": "Third load week in a row - sleep is the training this week. If the long run leaves you limping or the outer ankle talks back, cut the run, not the swim.",
+      "sessions": [
+        {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER, 45 min - rows, pull-ups, overhead press, rear delts, 4-6 reps, 3 sets. Dead hangs 3 x max at the end. No running or riding today: Monday is the endurance rest day.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 1,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. CONTINUOUS 1000 m. Warm-up 100 m + 10 bobs, 10 min drills (side kick, catch-up). Main: 1000 m without stopping, easy. Breathe out through mouth and nose, in through the mouth, every 2nd stroke. Then nothing - 1000 m is the session. Cool-down 100 m. Can't hold it calmly? Swim it as 2-3 pieces with 30 s rest and repeat the target next week.",
+          "minutes": 45
+        },
+        {
+          "kind": "strides",
+          "day": 1,
+          "label": "VO2 5 x 1 km - 5K effort, 2 min jog between. Warm-up 15 min easy + 4 strides, cool-down 10 min. Paces come from the 5 km retest.",
+          "km": 10
+        },
+        {
+          "kind": "legs",
+          "day": 2,
+          "label": "Strength LOWER - HEAVY, 50 min. Back squat 4 x 3-5 at 85-90% 1RM, add 2.5 kg when the last set moves well, safety pins on; hack squat if there's no rack. Within 2 min of each squat set: depth jumps 3 x 5 (step off the Les Mills step, straight onto the 20-inch box) + pogo hops 2 x 15. Then Bulgarian split squat 3 x 5/leg heavy, Nordic curls 2 x 4, single-leg calf raises 3 x 8 loaded, tibialis raises 3 x 15. Heavy 3-5 reps is what moves running and cycling economy; light sets do not.",
+          "minutes": 50
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 75 min on Zwift - 3 x 15 min sweet spot (88-93% FTP, about 163-172 W at FTP 185), 5 min easy between. Warm-up 10 min with 3 x 1 min at 100-110 rpm, cool-down 5-10 min. Fan on, a bottle per hour.",
+          "minutes": 75
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Run 15 min OFF THE BIKE, straight after Thursday's ride. Shoes by the trainer, out the door within 5 min. The first minutes feel wrong; that is the adaptation. Easy, HR under 158.",
+          "km": 2.5
+        },
+        {
+          "kind": "swim",
+          "day": 4,
+          "label": "SWIM LESSON 4 of 6 - 1-on-1, 45 min. Book any weekday slot (coaches teaching at Het Marnix: Aqua Hero, SwimEasy, Your Personal Swim Coach); it replaces this week's Friday swim. Ask the coach to film you above and below the water. Breathing first, then sinking legs, then the catch.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "Optional easy spin 45 min on Zwift - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Non-impact aerobic volume that spares the shins. Skip it if you are wrecked.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim 10:15 Sloterparkbad - 25 m pool, lanes 10:15-12:15, after the long run, 30-40 min, easy. 6 x 100 m at CSS + 5 s per 100 m, 20 s rest. COLD: finish with a 2-3 min cold shower. Five or six exposures cut the cold-shock gasp for months, and Jesolo is 15-17 C.",
+          "minutes": 40
+        },
+        {
+          "kind": "long",
+          "day": 5,
+          "label": "Long run 16 km easy, HR under 158, talk test. Last 2 km at steady effort (HR 165-172). Then the Saturday swim.",
+          "km": 16
+        },
+        {
+          "kind": "brick",
+          "day": 6,
+          "label": "Long ride 2 h 30 - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Outdoors if it's dry and above about 5 C, otherwise Zwift. Fuel from 20 min: 40-60 g carb per hour. Then run 15 min off the bike, easy.",
+          "minutes": 165
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "start": "2027-01-18",
+      "end": "2027-01-24",
+      "phase": "Base 2",
+      "down_week": true,
+      "note": "DOWN WEEK. Volume down about 30%, no brick after the long ride. Frequency stays: three swims, never a swim gap over 5 days.",
+      "sessions": [
+        {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER, 45 min - rows, pull-ups, overhead press, rear delts, 4-6 reps, 2 sets instead of 3 - down week. Dead hangs 3 x max at the end. No running or riding today: Monday is the endurance rest day.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 1,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. CONTINUOUS 800 m. Warm-up 100 m + 10 bobs, 10 min drills (side kick, catch-up). Main: 800 m without stopping, easy. Breathe out through mouth and nose, in through the mouth, every 2nd stroke. Then 4 x 25 m fast with full rest. Cool-down 100 m. Can't hold it calmly? Swim it as 2-3 pieces with 30 s rest and repeat the target next week.",
+          "minutes": 45
+        },
+        {
+          "kind": "strides",
+          "day": 1,
+          "label": "THRESHOLD 4 x 1 km - threshold effort (HR 175-181, comfortably hard, about your 1-hour race effort), 90 s jog between. Warm-up 15 min easy + 4 strides, cool-down 10 min. Paces come from the 5 km retest.",
+          "km": 8
+        },
+        {
+          "kind": "legs",
+          "day": 2,
+          "label": "Strength LOWER - HEAVY, 50 min. Back squat 3 x 3 at last week's weight - fewer sets, same load (down week), safety pins on; hack squat if there's no rack. Within 2 min of each squat set: depth jumps 3 x 5 (step off the Les Mills step, straight onto the 20-inch box) + pogo hops 2 x 15. Then Bulgarian split squat 3 x 5/leg heavy, Nordic curls 2 x 4, single-leg calf raises 3 x 8 loaded, tibialis raises 3 x 15. Heavy 3-5 reps is what moves running and cycling economy; light sets do not.",
+          "minutes": 50
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 50 min on Zwift - 3 x 8 min sweet spot (88-93% FTP, about 163-172 W at FTP 185), 4 min easy between. Warm-up 10 min with 3 x 1 min at 100-110 rpm, cool-down 5-10 min. Fan on, a bottle per hour.",
+          "minutes": 50
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Run 15 min OFF THE BIKE, straight after Thursday's ride. Shoes by the trainer, out the door within 5 min. The first minutes feel wrong; that is the adaptation. Easy, HR under 158.",
+          "km": 2.5
+        },
+        {
+          "kind": "swim",
+          "day": 4,
+          "label": "SWIM LESSON 5 of 6 - 1-on-1, 45 min. Book any weekday slot (coaches teaching at Het Marnix: Aqua Hero, SwimEasy, Your Personal Swim Coach); it replaces this week's Friday swim. Ask the coach to film you above and below the water. Breathing first, then sinking legs, then the catch.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim 10:15 Sloterparkbad - 25 m pool, lanes 10:15-12:15, after the long run, 30-40 min, easy. 4 x 100 m at CSS + 5 s, then drills.",
+          "minutes": 40
+        },
+        {
+          "kind": "long",
+          "day": 5,
+          "label": "Long run 12 km easy, HR under 158, talk test. Then the Saturday swim.",
+          "km": 12
+        },
+        {
+          "kind": "cycling",
+          "day": 6,
+          "label": "Long ride 2 h 00 - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Outdoors if it's dry and above about 5 C, otherwise Zwift. Fuel from 20 min: 40-60 g carb per hour.",
+          "minutes": 120
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "start": "2027-01-25",
+      "end": "2027-01-31",
+      "phase": "Base 2",
+      "down_week": false,
+      "note": "5 KM RETEST Tuesday resets the run paces for the race block. Longest base ride Sunday, 2 h 45 + 15 min run: outdoors if it's dry, otherwise Zwift. The 90 km race bike is over half your race time, so this is the ride that matters most.",
+      "sessions": [
+        {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER, 45 min - rows, pull-ups, overhead press, rear delts, 4-6 reps, 3 sets. Dead hangs 3 x max at the end. No running or riding today: Monday is the endurance rest day.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 1,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. CONTINUOUS 1200 m. Warm-up 100 m + 10 bobs, 10 min drills (side kick, catch-up). Main: 1200 m without stopping, easy. Breathe out through mouth and nose, in through the mouth, every 2nd stroke. Then nothing - 1200 m is the session. Cool-down 100 m. Can't hold it calmly? Swim it as 2-3 pieces with 30 s rest and repeat the target next week.",
+          "minutes": 45
+        },
+        {
+          "kind": "benchmark",
+          "day": 1,
+          "label": "5 KM RETEST - flat, out-and-back, auto-pause OFF. Same route and warm-up as 24 Nov. Resets the run paces for the race block.",
+          "km": 10
+        },
+        {
+          "kind": "legs",
+          "day": 2,
+          "label": "Strength LOWER - HEAVY, 50 min. Back squat 4 x 3-5 at 85-90% 1RM, add 2.5 kg when the last set moves well, safety pins on; hack squat if there's no rack. Within 2 min of each squat set: depth jumps 3 x 5 (step off the Les Mills step, straight onto the 20-inch box) + pogo hops 2 x 15. Then Bulgarian split squat 3 x 5/leg heavy, Nordic curls 2 x 4, single-leg calf raises 3 x 8 loaded, tibialis raises 3 x 15. Heavy 3-5 reps is what moves running and cycling economy; light sets do not.",
+          "minutes": 50
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 75 min on Zwift - 4 x 10 min threshold (95-100% FTP, about 176-185 W), 4 min easy between. Warm-up 10 min with 3 x 1 min at 100-110 rpm, cool-down 5-10 min. Fan on, a bottle per hour.",
+          "minutes": 75
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Run 20 min OFF THE BIKE, straight after Thursday's ride. Shoes by the trainer, out the door within 5 min. The first minutes feel wrong; that is the adaptation. Easy, HR under 158.",
+          "km": 3.0
+        },
+        {
+          "kind": "swim",
+          "day": 4,
+          "label": "SWIM LESSON 6 of 6 - 1-on-1, 45 min. Book any weekday slot (coaches teaching at Het Marnix: Aqua Hero, SwimEasy, Your Personal Swim Coach); it replaces this week's Friday swim. Ask the coach to film you above and below the water. Breathing first, then sinking legs, then the catch.",
+          "minutes": 45
+        },
+        {
+          "kind": "cycling",
+          "day": 4,
+          "label": "Optional easy spin 45 min on Zwift - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Non-impact aerobic volume that spares the shins. Skip it if you are wrecked.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 5,
+          "label": "Swim 10:15 Sloterparkbad - 25 m pool, lanes 10:15-12:15, after the long run, 30-40 min, easy. 3 x 200 m at CSS + 5 s, 30 s rest. COLD: finish with a 2-3 min cold shower. Five or six exposures cut the cold-shock gasp for months, and Jesolo is 15-17 C.",
+          "minutes": 40
+        },
+        {
+          "kind": "long",
+          "day": 5,
+          "label": "Long run 16 km easy, HR under 158, talk test. Last 3 km at steady effort (HR 165-172). Then the Saturday swim.",
+          "km": 16
+        },
+        {
+          "kind": "brick",
+          "day": 6,
+          "label": "Long ride 2 h 45 - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Outdoors if it's dry and above about 5 C, otherwise Zwift. Fuel from 20 min: 40-60 g carb per hour. Then run 15 min off the bike, easy.",
+          "minutes": 180
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "start": "2027-02-01",
+      "end": "2027-02-07",
+      "phase": "Pre-Ramadan",
+      "down_week": false,
+      "note": "LAST FED WEEK BEFORE RAMADAN. ADMIN: (1) book the certificato medico agonistico - Italy requires an ECG-based sports medical on the FITRI form, and without it you are not issued a race pack. (2) Thursday is a RAMP TEST retest: the result rescales every watt for the race block. (3) RAMADAN starts about Mon 8 Feb, and weeks 15-18 are in Abu Dhabi (22 Feb - 20 Mar). Four short swims this week - frequency beats volume for motor learning. CUT ORDER if life gets busy: (1) the Friday ride, (2) the fourth swim, (3) Monday upper. Never cut the long ride, the long run, or below three swims.",
+      "sessions": [
+        {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER, 45 min - rows, pull-ups, overhead press, rear delts, 4-6 reps, 3 sets. Dead hangs 3 x max at the end. No running or riding today: Monday is the endurance rest day.",
+          "minutes": 45
+        },
+        {
+          "kind": "swim",
+          "day": 1,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. CONTINUOUS 1400 m, easy. Breathe out through mouth and nose, in through the mouth, every 2nd stroke. Cool-down 100 m.",
+          "minutes": 45
+        },
+        {
+          "kind": "strides",
+          "day": 1,
+          "label": "6 x 800 m at 10K effort. Threshold = HR 175-181; 10K effort = a notch harder. Warm-up 15 min easy + 4 strides, cool-down 10 min. Paces come from the 5 km retest.",
           "km": 9
         },
         {
           "kind": "swim",
-          "label": "Swim 35 min - technique + sighting drills off the lane wall",
           "day": 2,
-          "minutes": 35
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. Technique + sighting drills off the lane wall: look up every 6 strokes, crocodile eyes only.",
+          "minutes": 40
         },
         {
           "kind": "legs",
-          "label": "Legs - maintenance. Keep glute-med: cycling+running together is a known ITBS risk and hip abductor weakness is the named driver. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain.",
-          "day": 2
+          "day": 2,
+          "label": "Strength LOWER - HEAVY, 50 min. Back squat 4 x 3-5 at 85-90% 1RM, add 2.5 kg when the last set moves well, safety pins on; hack squat if there's no rack. Within 2 min of each squat set: depth jumps 3 x 5 (step off the Les Mills step, straight onto the 20-inch box) + pogo hops 2 x 15. Then Bulgarian split squat 3 x 5/leg heavy, Nordic curls 2 x 4, single-leg calf raises 3 x 8 loaded, tibialis raises 3 x 15. Heavy 3-5 reps is what moves running and cycling economy; light sets do not.",
+          "minutes": 50
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE RAMP TEST (retest) - Zwift on the D100, ERG. Same routine as 18 Nov: eat 2-3 h before, fan on, 85-95 rpm, ride until the cadence goes. FTP = 75% of the best 1-min power. Send me the number: it rescales the race block.",
+          "minutes": 40
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
           "day": 3,
-          "km": 5
-        },
-        {
-          "kind": "cycling",
-          "day": 3,
-          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
-          "minutes": 70
+          "label": "Easy run 15 min after the ramp test, HR under 158.",
+          "km": 2.5
         },
         {
           "kind": "swim",
-          "label": "Swim 35 min",
           "day": 4,
-          "minutes": 35
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. 4 x 200 m at CSS + 5 s, 30 s rest.",
+          "minutes": 40
         },
         {
           "kind": "cycling",
           "day": 4,
-          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
-          "minutes": 70
+          "label": "Optional easy spin 60 min on Zwift - zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Non-impact aerobic volume that spares the shins. Skip it if you are wrecked.",
+          "minutes": 60
         },
         {
           "kind": "swim",
-          "label": "Swim 35 min - no-wall set (touch, stop, no push-off)",
           "day": 5,
-          "minutes": 35
+          "label": "Swim 10:15 Sloterparkbad - 25 m pool, lanes 10:15-12:15, after the long run. No-wall set: touch, stop, no push-off - open water has no walls. 30-40 min easy.",
+          "minutes": 40
         },
         {
           "kind": "long",
-          "label": "Long run 12 km easy",
           "day": 5,
-          "km": 12
+          "label": "Long run 14 km easy, HR under 158, talk test. Last 3 km at steady effort (HR 165-172). Then the Saturday swim.",
+          "km": 14
         },
         {
           "kind": "cycling",
@@ -88,17 +914,17 @@
       ]
     },
     {
-      "number": 2,
+      "number": 13,
       "start": "2027-02-08",
       "end": "2027-02-14",
-      "phase": "Base",
+      "phase": "Ramadan",
       "down_week": false,
-      "note": "RAMADAN STARTS about Mon 8 Feb (the moon sighting can move it a day). Weeks 2-6 follow the fast: hard and long sessions after iftar (light iftar, start 60-90 min later), short easy swims only in the last 1-2 hours before iftar, nothing hard and nothing over 60 min while fasted. Monday is a full rest day and the Friday zone-2 ride goes. HR runs higher at the same pace when you are dry - run by effort. First brick on Saturday: start the run within 5 minutes of racking the bike; the first 10 min feel wrong and it normalises by km 3. Get the bike fit done before Abu Dhabi: saddle height and cleat alignment are named ITBS contributors.",
+      "note": "RAMADAN STARTS about Mon 8 Feb (the moon sighting can move it a day). Weeks 13-17 follow the fast: hard and long sessions after iftar (light iftar, start 60-90 min later), short easy swims only in the last 1-2 hours before iftar, nothing hard and nothing over 60 min while fasted. Monday is a full rest day and the Friday zone-2 ride goes. HR runs higher at the same pace when you are dry - run by effort. First brick on Saturday: start the run within 5 minutes of racking the bike; the first 10 min feel wrong and it normalises by km 3. Get the bike fit done before Abu Dhabi: saddle height and cleat alignment are named ITBS contributors.",
       "sessions": [
         {
           "kind": "swim",
           "day": 1,
-          "label": "Swim 35 min before iftar - 1200 m continuous, easy. Tuesday lanes close 16:30, so 15:45-16:30; iftar is about 17:45. Fasted: no sprints.",
+          "label": "Swim at Het Marnix, 35 min before iftar - 1200 m continuous, easy. Tuesday lanes close 16:30, so 15:45-16:30; iftar is about 17:45. Fasted: no sprints.",
           "minutes": 35
         },
         {
@@ -110,7 +936,7 @@
         {
           "kind": "swim",
           "day": 2,
-          "label": "Swim 40 min - drills, in the 21:00-22:00 lane after iftar. Fed and watered, so make it the week's best-quality swim.",
+          "label": "Swim 40 min - drills, at Het Marnix in the 21:00-22:00 lane after iftar. Fed and watered, so make it the week's best-quality swim.",
           "minutes": 40
         },
         {
@@ -119,21 +945,21 @@
           "label": "Legs - maintenance + glute-med, 30 min after iftar, before the 21:00 swim. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain."
         },
         {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 60 min on the D100 after iftar - 3 x 10 min at sweet spot (88-93% FTP, about 163-172 W at FTP 185), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
+          "minutes": 60
+        },
+        {
           "kind": "easy",
           "day": 3,
           "label": "Easy run 3 km OFF THE BIKE - mini-brick, straight off Thursday's bike. Ramadan cut from 5 km. Run the first 10 min 20-30 s/km slower than feels right.",
           "km": 3
         },
         {
-          "kind": "cycling",
-          "day": 3,
-          "label": "BIKE QUALITY 60 min on the D100 after iftar - 3 x 10 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
-          "minutes": 60
-        },
-        {
           "kind": "swim",
           "day": 4,
-          "label": "Swim 35 min before iftar - easy, technique. Friday lane 14:45-17:00, so 16:15-17:00; iftar about 17:50.",
+          "label": "Swim at Het Marnix, 35 min before iftar - easy, technique. Friday lane 14:45-17:00, so 16:15-17:00; iftar about 17:50.",
           "minutes": 35
         },
         {
@@ -151,17 +977,17 @@
       ]
     },
     {
-      "number": 3,
+      "number": 14,
       "start": "2027-02-15",
       "end": "2027-02-21",
-      "phase": "Base",
+      "phase": "Ramadan",
       "down_week": false,
       "note": "Buy the wetsuit now. Buy for BUOYANCY not speed - beginner suits run 5 mm through core/hips/legs, which directly fixes the sinking-legs problem. Wetsuits give the biggest gain to inefficient low-buoyancy swimmers, i.e. you: 5-11%, roughly 2-4 min over 1.9 km. Also buy neoprene BOOTIES - legal below 18.3 C and the water will be 15-17 C. ABU DHABI PREP: book Etihad if it is not done (a boxed bike travels in the checked-bag allowance - check the weight), get a bike box, and buy a spare Cube derailleur hanger to pack with it.",
       "sessions": [
         {
           "kind": "swim",
           "day": 1,
-          "label": "Swim 40 min before iftar - 1400 m continuous, easy. Tuesday lanes close 16:30; iftar about 17:55. Fasted: no sprints.",
+          "label": "Swim at Het Marnix, 40 min before iftar - 1400 m continuous, easy. Tuesday lanes close 16:30; iftar about 17:55. Fasted: no sprints.",
           "minutes": 40
         },
         {
@@ -173,7 +999,7 @@
         {
           "kind": "swim",
           "day": 2,
-          "label": "Swim 40 min - first session IN THE WETSUIT, 21:00 lane after iftar. Chest constriction can feel like breathlessness; get used to it before the Abu Dhabi sea. Ask the lifeguard first - if the pool refuses wetsuits, do this in the sea in week 4.",
+          "label": "Swim 40 min - first session IN THE WETSUIT, Het Marnix 21:00 lane after iftar. Chest constriction can feel like breathlessness; get used to it before the Abu Dhabi sea. Ask the lifeguard first - if the pool refuses wetsuits, do this in the sea in week 4.",
           "minutes": 40
         },
         {
@@ -182,21 +1008,21 @@
           "label": "Legs - maintenance + glute-med, 30 min after iftar, before the 21:00 swim. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain."
         },
         {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 60 min on the D100 after iftar - 3 x 10 min at sweet spot (88-93% FTP, about 163-172 W at FTP 185), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
+          "minutes": 60
+        },
+        {
           "kind": "easy",
           "day": 3,
           "label": "Easy run 3 km OFF THE BIKE - mini-brick, straight off Thursday's bike. Ramadan cut from 5 km. Run the first 10 min 20-30 s/km slower than feels right.",
           "km": 3
         },
         {
-          "kind": "cycling",
-          "day": 3,
-          "label": "BIKE QUALITY 60 min on the D100 after iftar - 3 x 10 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
-          "minutes": 60
-        },
-        {
           "kind": "swim",
           "day": 4,
-          "label": "Swim 35 min before iftar - easy, technique. Friday lane 14:45-17:00; iftar about 18:00.",
+          "label": "Swim at Het Marnix, 35 min before iftar - easy, technique. Friday lane 14:45-17:00; iftar about 18:00.",
           "minutes": 35
         },
         {
@@ -214,10 +1040,10 @@
       ]
     },
     {
-      "number": 4,
+      "number": 15,
       "start": "2027-02-22",
       "end": "2027-02-28",
-      "phase": "Build",
+      "phase": "Ramadan",
       "down_week": false,
       "note": "ABU DHABI from Mon 22 Feb - the flight day is a rest day. Iftar there is about 18:20, so night sessions start about 19:30. Al Wathba cycle track is floodlit and open all night; the sea is 21-23 C. Sea swims only on a lifeguarded beach, with a tow buoy, never alone. GUT TRAINING STARTS - 8-12 weeks out is the window. Target 60-70 g carb/h on the bike, NOT 90: measured exogenous glucose oxidation is 33 g/h under 70 kg vs 45 g/h above it. At 56 kg your ceiling is genuinely lower. Fuel every session over 75 min, +10-15 g/h every 1-2 weeks, and use the exact race products (Maurten, Precision PH 1000). In Ramadan the night rides carry it: drink with iftar, start 60-90 min later, fuel from the first 20 min.",
       "sessions": [
@@ -245,16 +1071,16 @@
           "label": "Legs - maintenance + glute-med, 30 min after iftar. No gym? Bodyweight and band version: split squats, single-leg RDL, band walks, calf raises. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain."
         },
         {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 60 min at Al Wathba after iftar - 3 x 10 min at sweet spot (88-93% FTP, about 163-172 W at FTP 185), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
+          "minutes": 60
+        },
+        {
           "kind": "easy",
           "day": 3,
           "label": "Easy run 3 km OFF THE BIKE - mini-brick, straight off Thursday's bike. Ramadan cut from 5 km. Run the first 10 min 20-30 s/km slower than feels right.",
           "km": 3
-        },
-        {
-          "kind": "cycling",
-          "day": 3,
-          "label": "BIKE QUALITY 60 min at Al Wathba after iftar - 3 x 10 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
-          "minutes": 60
         },
         {
           "kind": "swim",
@@ -265,22 +1091,22 @@
         {
           "kind": "brick",
           "day": 5,
-          "label": "BRICK after iftar at Al Wathba: 50 km ride + 7 km run, practise 9 min run / 1 min walk. Fuel 60 g carb per hour on the bike with the race products.",
-          "km": 7
+          "label": "BRICK after iftar at Al Wathba: 40 km ride + 5 km run, practise 9 min run / 1 min walk. Fuel 60 g carb per hour on the bike with the race products.",
+          "km": 5
         },
         {
           "kind": "cycling",
           "day": 6,
-          "label": "Long ride 75 km at Al Wathba after iftar, steady, fuelling 60-70 g carb per hour. Ramadan cut from 85 km.",
-          "minutes": 165
+          "label": "Long ride 60 km at Al Wathba after iftar, steady, fuelling 60-70 g carb per hour. Fasting and travel week, so it stays at 60 km.",
+          "minutes": 135
         }
       ]
     },
     {
-      "number": 5,
+      "number": 16,
       "start": "2027-03-01",
       "end": "2027-03-07",
-      "phase": "Build",
+      "phase": "Ramadan",
       "down_week": false,
       "note": "TRANSITION PRACTICE this week. Measured Venice T1 median is 7:02 and T2 5:21; p90 is 11:05 and 7:08. A fumbled pair of transitions costs 8-12 minutes - more than most people gain from an entire block of bike work. Practise wetsuit removal until it is boring. Still Ramadan in Abu Dhabi: long and hard after iftar, the sea in daylight before it.",
       "sessions": [
@@ -308,16 +1134,16 @@
           "label": "Legs - maintenance + glute-med, 30 min after iftar. No gym? Bodyweight and band version: split squats, single-leg RDL, band walks, calf raises. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain."
         },
         {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 60 min at Al Wathba after iftar - 3 x 12 min at sweet spot (88-93% FTP, about 163-172 W at FTP 185), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
+          "minutes": 60
+        },
+        {
           "kind": "easy",
           "day": 3,
           "label": "Easy run 3 km OFF THE BIKE - mini-brick, straight off Thursday's bike. Ramadan cut from 5 km. Run the first 10 min 20-30 s/km slower than feels right.",
           "km": 3
-        },
-        {
-          "kind": "cycling",
-          "day": 3,
-          "label": "BIKE QUALITY 60 min at Al Wathba after iftar - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Ramadan: shorter session, same intensity. You can drink, so two bottles.",
-          "minutes": 60
         },
         {
           "kind": "swim",
@@ -340,12 +1166,12 @@
       ]
     },
     {
-      "number": 6,
+      "number": 17,
       "start": "2027-03-08",
       "end": "2027-03-14",
-      "phase": "Build",
-      "down_week": true,
-      "note": "DOWN WEEK. Ramadan ends about Tue 9 Mar and Eid is about Wed 10 - Eid is a rest day. Normal fed training from Thursday, mornings before the heat. Volume drops, frequency does not - never let a swim gap exceed 5 days, adult-onset swimmers lose motor patterns fast. Check the medical certificate appointment is booked for after you are home.",
+      "phase": "Ramadan",
+      "down_week": false,
+      "note": "TRANSITION WEEK. Ramadan ends about Tue 9 Mar and Eid is about Wed 10 - Eid is a rest day. Normal fed training from Thursday, mornings before the heat. Volume drops, frequency does not - never let a swim gap exceed 5 days, adult-onset swimmers lose motor patterns fast. Check the medical certificate appointment is booked for after you are home.",
       "sessions": [
         {
           "kind": "swim",
@@ -366,16 +1192,16 @@
           "minutes": 35
         },
         {
-          "kind": "easy",
-          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
-          "day": 3,
-          "km": 5
-        },
-        {
           "kind": "cycling",
           "day": 3,
-          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 163-172 W at FTP 185), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
           "minutes": 70
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "km": 5
         },
         {
           "kind": "swim",
@@ -392,16 +1218,16 @@
         {
           "kind": "cycling",
           "day": 6,
-          "label": "Long ride 90 km at Al Wathba - full race distance, fuelling rehearsal 60-70 g carb per hour. Start at first light: March middays get close to 30 C.",
-          "minutes": 205
+          "label": "Long ride 75 km at Al Wathba, steady - first fed long ride after Ramadan, fuelling rehearsal at 60-70 g carb per hour. Start at first light: March middays get close to 30 C.",
+          "minutes": 175
         }
       ]
     },
     {
-      "number": 7,
+      "number": 18,
       "start": "2027-03-15",
       "end": "2027-03-21",
-      "phase": "Build",
+      "phase": "Abu Dhabi",
       "down_week": false,
       "note": "Last Abu Dhabi week and the first fully fed one - the big week. You fly home Sat 20 Mar, so the brick moves to Thursday. TARGET: 1900 m continuous. The cutoff needs only 3:41/100 m and ANY STROKE IS LEGAL - breaststroke the whole thing is permitted, and you may hold a buoy or kayak to rest provided you make no forward progress. Knowing that is what stops the panic that actually causes swim DNFs.",
       "sessions": [
@@ -414,7 +1240,7 @@
         {
           "kind": "strides",
           "day": 1,
-          "label": "5 x 1 km at threshold, evening.",
+          "label": "5 x 1 km at threshold, evening.. Threshold = HR 175-181; 10K effort = a notch harder. Warm-up 15 min easy + 4 strides, cool-down 10 min. Paces come from the 5 km retest.",
           "km": 10
         },
         {
@@ -448,14 +1274,14 @@
         },
         {
           "kind": "cycling",
-          "label": "Long ride 100 km steady at IF 0.70",
           "day": 6,
-          "minutes": 225
+          "label": "Long ride 80 km steady at IF 0.68-0.72 (126-133 W), the day after the flight home. Amsterdam is about 15 C colder than Abu Dhabi, so dress for it; if the flight wrecked your sleep, ride it Monday instead.",
+          "minutes": 180
         }
       ]
     },
     {
-      "number": 8,
+      "number": 19,
       "start": "2027-03-22",
       "end": "2027-03-28",
       "phase": "Build",
@@ -463,201 +1289,212 @@
       "note": "First week home: Amsterdam is about 15 C colder, so dress for the 100 km, and if Saturday's flight wrecked your sleep, ride it Monday. Biggest week. Bike pacing: target IF 0.68-0.72, cap the first 30 min 5 W BELOW target. Above 0.80 on a flat course is almost always a bike PB and a run blow-up. Also: this is a NON-DRAFTING race - 6 bike lengths clear, pass within 25 s, 5-minute penalty box. You ride in groups; this is a skill you do not have.",
       "sessions": [
         {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER, 30 min, optional - pull-ups, rows, press, 2 sets. Keep it short; the endurance work is the priority now.",
+          "minutes": 30
+        },
+        {
           "kind": "swim",
-          "label": "Swim 55 min - 1900 m at race pace",
           "day": 1,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. 55 min - 1900 m at race pace",
           "minutes": 55
         },
         {
           "kind": "strides",
-          "label": "6 x 1 km at threshold",
           "day": 1,
-          "km": 11
-        },
-        {
-          "kind": "swim",
-          "label": "Swim 40 min - wetsuit + crowded-lane contact practice",
-          "day": 2,
-          "minutes": 40
-        },
-        {
-          "kind": "legs",
-          "label": "Legs - maintenance LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain.",
-          "day": 2
-        },
-        {
-          "kind": "easy",
-          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
-          "day": 3,
-          "km": 5
-        },
-        {
-          "kind": "cycling",
-          "day": 3,
-          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
-          "minutes": 70
-        },
-        {
-          "kind": "swim",
-          "label": "Swim 35 min",
-          "day": 4,
-          "minutes": 35
-        },
-        {
-          "kind": "cycling",
-          "day": 4,
-          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
-          "minutes": 70
-        },
-        {
-          "kind": "long",
-          "label": "Long run 18 km easy - THIS IS THE CAP. Athletes whose long run is 15-21 km average 2:03 for the half; only 26% run over 21 km in training.",
-          "day": 5,
-          "km": 18
-        },
-        {
-          "kind": "cycling",
-          "label": "Long ride 110 km - longest of the block",
-          "day": 6,
-          "minutes": 245
-        }
-      ]
-    },
-    {
-      "number": 9,
-      "start": "2027-03-29",
-      "end": "2027-04-04",
-      "phase": "Peak",
-      "down_week": false,
-      "note": "OPEN WATER STARTS - the single highest-consequence item in this plan. 90 of 120 sudden deaths in US triathlon occurred in the swim, and the mechanism is cold-water panic, not fitness. You should already have done 5-6 cold immersions over the winter; this is where it gets applied in a wetsuit.",
-      "sessions": [
-        {
-          "kind": "swim",
-          "label": "OPEN WATER 30-40 min in wetsuit + booties. Sight every 6-10 strokes. Rehearse the bail-out: roll to back, float, breathe, restart.",
-          "day": 1,
-          "minutes": 40
-        },
-        {
-          "kind": "strides",
-          "label": "5 x 1 km at threshold",
-          "day": 1,
+          "label": "THRESHOLD 5 x 1 km - threshold effort (HR 175-181, comfortably hard, about your 1-hour race effort), 2 min jog between. Warm-up 15 min easy + 4 strides, cool-down 10 min. Paces come from the 5 km retest.",
           "km": 10
         },
         {
           "kind": "swim",
-          "label": "Swim 50 min pool - 1900 m",
           "day": 2,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. 40 min - wetsuit + crowded-lane contact practice",
+          "minutes": 40
+        },
+        {
+          "kind": "legs",
+          "day": 2,
+          "label": "Legs - MAINTENANCE, 30 min. Back squat 2 x 3 at about 85% of your best set, Bulgarian split squat 2 x 5/leg, single-leg calf raises 2 x 8, tibialis raises 2 x 15. One heavy session a week holds the winter's strength through the race block.",
+          "minutes": 30
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 163-172 W at FTP 185), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Run 3 km OFF THE BIKE, straight after Thursday's ride, easy.",
+          "km": 3
+        },
+        {
+          "kind": "swim",
+          "day": 4,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. 35 min",
+          "minutes": 35
+        },
+        {
+          "kind": "long",
+          "day": 5,
+          "label": "Long run 16 km easy, HR under 158, last 4 km at race effort (HR 160-170) with the 9:1 run/walk. This is the longest run of the block: 90-120 min is the evidence-based ceiling for a 70.3.",
+          "km": 16
+        },
+        {
+          "kind": "brick",
+          "day": 6,
+          "label": "Long ride 90 km steady at IF 0.68-0.72 (126-133 W), fuel 60-70 g carb per hour with the race products. Then run 15 min off the bike, easy. Longest ride of the block: race distance.",
+          "km": 2.5,
+          "minutes": 215
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "start": "2027-03-29",
+      "end": "2027-04-04",
+      "phase": "Build",
+      "down_week": false,
+      "note": "OPEN WATER STARTS - the single highest-consequence item in this plan. 90 of 120 sudden deaths in US triathlon occurred in the swim, and the mechanism is cold-water panic, not fitness. You should already have done 5-6 cold immersions over the winter; this is where it gets applied in a wetsuit.",
+      "sessions": [
+        {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER, 30 min, optional - pull-ups, rows, press, 2 sets. Keep it short; the endurance work is the priority now.",
+          "minutes": 30
+        },
+        {
+          "kind": "swim",
+          "day": 1,
+          "label": "OPEN WATER 30-40 min in wetsuit + booties. Sight every 6-10 strokes. Rehearse the bail-out: roll to back, float, breathe, restart. Dutch water is about 10-13 C in April: only with an organised group or a buddy who is watching, wetsuit + booties + 2 caps, 10-20 min at first. No group available? Do it as a wetsuit swim in the pool.",
+          "minutes": 40
+        },
+        {
+          "kind": "strides",
+          "day": 1,
+          "label": "5 x 1 km at threshold. Threshold = HR 175-181; 10K effort = a notch harder. Warm-up 15 min easy + 4 strides, cool-down 10 min. Paces come from the 5 km retest.",
+          "km": 10
+        },
+        {
+          "kind": "swim",
+          "day": 2,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. 50 min pool - 1900 m",
           "minutes": 50
         },
         {
           "kind": "legs",
           "day": 2,
-          "label": "Legs - maintenance, 30 min. One session keeps strength through the peak weeks. Glute-med and the lower-leg block, nothing heavy. LOWER-LEG AND FOOT, about 5 min at the end: tibialis anterior raises 3 x 15-20 (heels on a step, toes lifting), heel walks 2 x 20 m, eccentric dorsiflexion 3 x 10 slow against a band, short-foot holds 3 x 30 s per side, tennis ball under the arch 60 s. An 8-week RCT in amateur runners raised lactate threshold velocity 5.9% with intrinsic foot work - but that was 30 min DAILY, so treat this as maintaining the tissue that failed on 7 Sep, not as a 5.9% gain."
+          "label": "Legs - MAINTENANCE, 30 min. Back squat 2 x 3 at about 85% of your best set, Bulgarian split squat 2 x 5/leg, single-leg calf raises 2 x 8, tibialis raises 2 x 15. One heavy session a week holds the winter's strength through the race block.",
+          "minutes": 30
+        },
+        {
+          "kind": "cycling",
+          "day": 3,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 163-172 W at FTP 185), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
         },
         {
           "kind": "easy",
-          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
           "day": 3,
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
           "km": 5
         },
         {
-          "kind": "cycling",
-          "day": 3,
-          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
-          "minutes": 70
-        },
-        {
           "kind": "swim",
-          "label": "Swim 35 min",
           "day": 4,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. 35 min",
           "minutes": 35
         },
         {
-          "kind": "cycling",
-          "day": 4,
-          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
-          "minutes": 70
-        },
-        {
           "kind": "brick",
-          "label": "BRICK: 70 km ride + 12 km run, full race nutrition",
           "day": 5,
-          "km": 12
+          "label": "BIG BRICK: 80 km with 3 x 20 min at race power (72-78% FTP, about 133-144 W), then 10 km run at race effort with the 9:1 run/walk. Full race nutrition and the race kit.",
+          "km": 10,
+          "minutes": 245
         },
         {
           "kind": "cycling",
-          "label": "Long ride 90 km at race effort",
           "day": 6,
-          "minutes": 200
+          "label": "Easy spin 60 min, zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm. Recovery from Saturday's brick.",
+          "minutes": 60
         }
       ]
     },
     {
-      "number": 10,
+      "number": 21,
       "start": "2027-04-05",
       "end": "2027-04-11",
-      "phase": "Peak",
+      "phase": "Build",
       "down_week": false,
       "note": "Full dress rehearsal. Run plan is RUN/WALK from km 0, not as a fallback: 9 min run / 1 min walk blends to ~7:24/km and beats an even-paced blow-up by minutes per km. The course gives you 3 loops x 7.03 km with 9 aid stations - walk every one, 5-15 s, 3-5 good gulps.",
       "sessions": [
         {
+          "kind": "push",
+          "day": 0,
+          "label": "Strength UPPER, 30 min, optional - pull-ups, rows, press, 2 sets. Keep it short; the endurance work is the priority now.",
+          "minutes": 30
+        },
+        {
           "kind": "swim",
-          "label": "OPEN WATER 40 min - practise a self-seeded start, swim close to someone",
           "day": 1,
+          "label": "OPEN WATER 40 min - practise a self-seeded start, swim close to someone. Dutch water is about 10-13 C in April: only with an organised group or a buddy who is watching, wetsuit + booties + 2 caps, 10-20 min at first. No group available? Do it as a wetsuit swim in the pool.",
           "minutes": 40
         },
         {
           "kind": "strides",
-          "label": "4 x 1 km at race effort",
           "day": 1,
+          "label": "4 x 1 km at race effort. Threshold = HR 175-181; 10K effort = a notch harder. Warm-up 15 min easy + 4 strides, cool-down 10 min. Paces come from the 5 km retest.",
           "km": 9
         },
         {
           "kind": "swim",
-          "label": "Swim 50 min - 1900 m TIMED. This is your race prediction and your seeding.",
           "day": 2,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. 50 min - 1900 m TIMED. This is your race prediction and your seeding.",
           "minutes": 50
         },
         {
-          "kind": "easy",
-          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
+          "kind": "legs",
+          "day": 2,
+          "label": "Legs - MAINTENANCE, 30 min. Back squat 2 x 3 at about 85% of your best set, Bulgarian split squat 2 x 5/leg, single-leg calf raises 2 x 8, tibialis raises 2 x 15. One heavy session a week holds the winter's strength through the race block.",
+          "minutes": 30
+        },
+        {
+          "kind": "cycling",
           "day": 3,
+          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 163-172 W at FTP 185), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
+          "minutes": 70
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
           "km": 5
         },
         {
-          "kind": "cycling",
-          "day": 3,
-          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
-          "minutes": 70
-        },
-        {
           "kind": "swim",
-          "label": "Swim 35 min easy",
           "day": 4,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. 35 min easy",
           "minutes": 35
         },
         {
-          "kind": "cycling",
-          "day": 4,
-          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
-          "minutes": 70
-        },
-        {
           "kind": "brick",
-          "label": "BRICK: 60 km ride + 15 km run at race pace, 9:1 run/walk, full nutrition",
           "day": 5,
-          "km": 15
+          "label": "DRESS REHEARSAL BRICK: 60 km at race power (72-78% FTP, about 133-144 W) + 10 km run at race effort, 9:1 run/walk, full race nutrition, race-morning breakfast and timing.",
+          "km": 10,
+          "minutes": 200
         },
         {
           "kind": "cycling",
-          "label": "Ride 60 km easy with 3 x 5 min at race effort",
           "day": 6,
-          "minutes": 140
+          "label": "Easy ride 90 min with 3 x 5 min at race power (72-78% FTP, about 133-144 W).",
+          "minutes": 90
         }
       ]
     },
     {
-      "number": 11,
+      "number": 22,
       "start": "2027-04-12",
       "end": "2027-04-18",
       "phase": "Taper",
@@ -666,62 +1503,56 @@
       "sessions": [
         {
           "kind": "swim",
-          "label": "OPEN WATER 30 min - final cold exposure",
           "day": 1,
+          "label": "OPEN WATER 30 min - final cold exposure. Dutch water is about 10-13 C in April: only with an organised group or a buddy who is watching, wetsuit + booties + 2 caps, 10-20 min at first. No group available? Do it as a wetsuit swim in the pool.",
           "minutes": 30
         },
         {
           "kind": "strides",
-          "label": "4 x 800 m at race effort",
           "day": 1,
+          "label": "THRESHOLD 4 x 800 m - threshold effort (HR 175-181, comfortably hard, about your 1-hour race effort), 2 min jog between. Taper keeps the intensity and cuts the volume.",
           "km": 8
         },
         {
           "kind": "swim",
-          "label": "Swim 35 min - 1200 m easy",
           "day": 2,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. 35 min - 1200 m easy",
           "minutes": 35
         },
         {
-          "kind": "easy",
-          "label": "Easy run 5 km OFF THE BIKE - mini-brick. Run the first 10 min 20-30 s/km slower than feels right; the legs come good after that. Third run of the week, genuinely easy.",
-          "day": 3,
-          "km": 5
-        },
-        {
           "kind": "cycling",
           "day": 3,
-          "label": "BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP, about 132-140 W), 5 min easy spin between. Warm up 15 min. The 90 km bike is over half of a 70.3 by time and this is the session that builds it.",
-          "minutes": 70
+          "label": "BIKE 60 min on Zwift with 3 x 8 min at race power (72-78% FTP, about 133-144 W), 4 min easy between. Taper: shorter, same intensity.",
+          "minutes": 60
+        },
+        {
+          "kind": "easy",
+          "day": 3,
+          "label": "Run 3 km OFF THE BIKE, easy.",
+          "km": 3
         },
         {
           "kind": "swim",
-          "label": "Swim 30 min",
           "day": 4,
+          "label": "Swim 07:00 Sloterparkbad - 50 m pool, lanes 07:00-08:00, before work. 30 min",
           "minutes": 30
         },
         {
-          "kind": "cycling",
-          "day": 4,
-          "label": "BIKE ENDURANCE 60-75 min zone 2, HR under 145, steady. Aerobic volume with zero impact - the cheapest fitness available to you and it spares the shins.",
-          "minutes": 70
-        },
-        {
           "kind": "brick",
-          "label": "BRICK: 30 km ride + 5 km run at race pace",
           "day": 5,
+          "label": "BRICK: 30 km ride + 5 km run at race pace",
           "km": 5
         },
         {
           "kind": "cycling",
-          "label": "Easy spin 40 km",
           "day": 6,
-          "minutes": 90
+          "label": "Easy spin 60 min, zone 2 (56-75% FTP, about 104-139 W, HR under 145), 85-95 rpm, with 3 x 2 min at race power.",
+          "minutes": 60
         }
       ]
     },
     {
-      "number": 12,
+      "number": 23,
       "start": "2027-04-19",
       "end": "2027-04-25",
       "phase": "Race",
@@ -730,32 +1561,44 @@
       "sessions": [
         {
           "kind": "swim",
-          "label": "Swim 25 min easy",
           "day": 0,
+          "label": "Swim 25 min easy",
           "minutes": 25
         },
         {
+          "kind": "cycling",
+          "day": 0,
+          "label": "BIKE 45 min with 3 x 5 min at race power (72-78% FTP, about 133-144 W), then pack the bike for the trip. Spare hanger, tools, pump.",
+          "minutes": 45
+        },
+        {
           "kind": "strides",
-          "label": "Easy 5 km + strides",
           "day": 1,
+          "label": "Easy 5 km + strides",
           "km": 5
         },
         {
           "kind": "swim",
-          "label": "Sea swim 15 min - sight the buoys, feel the temperature",
           "day": 3,
+          "label": "Sea swim 15 min - sight the buoys, feel the temperature",
           "minutes": 15
         },
         {
-          "kind": "easy",
-          "label": "Shakeout 3 km. Walk transition. Confirm medical certificate and licence.",
+          "kind": "cycling",
           "day": 4,
+          "label": "Bike check 20 min in Jesolo after rebuilding it: gears, brakes, 2 x 1 min at race power. Rack it at the transition.",
+          "minutes": 20
+        },
+        {
+          "kind": "easy",
+          "day": 4,
+          "label": "Shakeout 3 km. Walk transition. Confirm medical certificate and licence.",
           "km": 3
         },
         {
           "kind": "race",
-          "label": "RACE - IRONMAN 70.3 Venice-Jesolo - 1.9 km / 90 km / 21.1 km",
           "day": 5,
+          "label": "RACE - IRONMAN 70.3 Venice-Jesolo - 1.9 km / 90 km / 21.1 km",
           "km": 21.1
         }
       ]
