@@ -81,6 +81,8 @@ Then the swim goes 1200-1800 m in Ramadan, a 1900 m sea attempt in week 18, a 19
 week 19, and a timed 1900 m in week 21. Gate on every continuous swim: if it isn't calm, split it and repeat
 next week. Any stroke is legal in the race, and the cut-off needs only 3:41 per 100 m.
 
+**Structured long runs.** Coaches commonly put race-pace or steady blocks inside long runs: fast finish, alternating blocks, or split race-pace (TrainRight, Will Clarke 8-3 weeks out). The durability research says regular 90-min long runs halve the economy loss after 90 min (about 3% vs 6%). Here: steady blocks (HR 165-172) in weeks 8 and 11, fast finishes in weeks 9 and 12, race-effort blocks with the 9:1 run/walk in week 19. Blocks stay at steady or race effort, not threshold, because the 70.3 run is well below threshold and Tuesday already carries the threshold work.
+
 **Run load.** Weekly run volume rises 21 → 30 km by late January, never more than about 20% above the
 previous load week. In a cohort of 874 novice runners, increases above 30% over two weeks were linked to
 more overuse injuries (hazard ratio 1.59, not statistically significant overall, concentrated in specific
@@ -162,4 +164,7 @@ before the race, which averages about −50%. Every week keeps three swims and i
 - [Active.com: transition workouts](https://www.active.com/triathlon/articles/transition-workouts-when-to-run-after-a-ride)
 - [Best Bike Split: 70.3 IF pacing](https://www.bestbikesplit.com/blog/pacing-70-3-bike-leg-intensity-factor-tss)
 - [Roadman: pacing the bike in a half Ironman](https://roadmancycling.com/blog/how-to-pace-the-bike-in-a-half-ironman)
+- [TrainRight: race-pace long run for triathletes](https://trainright.com/triathlon-training-a-workout-to-pump-up-the-benefits-of-your-long-runs/)
+- [220 Triathlon: Will Clarke 70.3 run sessions](https://www.220triathlon.com/training/run-training/70-3-run-advice-and-sessions-from-will-clarke)
+- [RunnersConnect: running economy durability](https://runnersconnect.net/running-economy-durability/)
 - [Precision Hydration: carbs per hour](https://www.precisionhydration.com/performance-advice/nutrition/how-much-carbohydrate-carbs-athletes-per-hour/)

@@ -598,7 +598,7 @@
         {
           "kind": "long",
           "day": 5,
-          "label": "Long run 16 km easy, HR under 158, talk test. Then the Saturday swim.",
+          "label": "Long run 16 km STRUCTURED: 4 km easy, then 3 x (3 km easy + 1 km steady at HR 165-172), finish easy. Steady is a notch below threshold: it trains holding form late in a long run, which is the back half of a 70.3. Then the Saturday swim.",
           "km": 16
         },
         {
@@ -820,7 +820,7 @@
         {
           "kind": "long",
           "day": 5,
-          "label": "Long run 16 km easy, HR under 158, talk test. Last 3 km at steady effort (HR 165-172). Then the Saturday swim.",
+          "label": "Long run 16 km STRUCTURED: 5 km easy, then 3 x (2 km steady at HR 165-172 + 1 km easy), 2 km easy to finish. Then the Saturday swim.",
           "km": 16
         },
         {
@@ -1339,7 +1339,7 @@
         {
           "kind": "long",
           "day": 5,
-          "label": "Long run 16 km easy, HR under 158, last 4 km at race effort (HR 160-170) with the 9:1 run/walk. This is the longest run of the block: 90-120 min is the evidence-based ceiling for a 70.3.",
+          "label": "Long run 16 km RACE-SPECIFIC: 4 km easy, then 3 x (3 km at race effort, HR 160-170, with the 9:1 run/walk + 1 km easy). Rehearse a gel and drinking at the walk breaks. Longest run of the block; 90-120 min is the ceiling for a 70.3.",
           "km": 16
         },
         {
