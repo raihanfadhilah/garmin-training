@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:IRONMAN 70.3 Venice-Jesolo training
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s0-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:≈ Swim session 1\, 07:00 Sloterparkbad (45 min)
@@ -27,7 +27,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s1-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Strength UPPER (45 min)
@@ -45,7 +45,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s2-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Easy 6 km\, talk test\, with 4-6 x 20 s strides…
@@ -60,7 +60,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s3-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:≈ Swim session 2\, 07:00 Sloterparkbad (45 min)
@@ -82,26 +82,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:○ BIKE RAMP TEST (40 min)
 DESCRIPTION:BIKE RAMP TEST - Zwift on the D100 (ERG). Eat 2-3 h before\, 
  fan on\, bottle. Warm-up 10 min easy + 5 x 1 min at 100-110 rpm with 1 m
  in easy between. Then the test: stay seated at 85-95 rpm and ride until 
- you can't hold the cadence. FTP = 75% of the best 1-min power\; expect t
- o stop around 240-250 W. It sets the bike zones from week 2.\n\nWeek 1 o
- f 23 - Re-entry\nRE-ENTRY. Vertical jump comes back about 18 days after 
- an ultra\, which is Thursday\, so the running is all easy and the first 
- box jumps start low. Durability is the through-line of the whole block: 
- long sessions over 90 min are what preserve running economy under fatigu
- e\, which is the 70.3 run leg in one sentence.\n157 days to IRONMAN 70.3
-  Venice-Jesolo.
+ you can't hold the cadence. FTP = 75% of the best 1-min power. DONE: Zwi
+ ft FTP Ramp Test (Lite)\, stopped at the 230 W step\, FTP 164 W. It sets
+  the bike zones from week 2.\n\nWeek 1 of 23 - Re-entry\nRE-ENTRY. Verti
+ cal jump comes back about 18 days after an ultra\, which is Thursday\, s
+ o the running is all easy and the first box jumps start low. Durability 
+ is the through-line of the whole block: long sessions over 90 min are wh
+ at preserve running economy under fatigue\, which is the 70.3 run leg in
+  one sentence.\n157 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s5-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:◆ Strength LOWER (45 min)
@@ -127,7 +127,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:≈ Swim session 3 (optional)\, 10:15 Sloterparkbad (45 min)
@@ -148,7 +148,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s7-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Easy run 5 km\, HR under 158. Third run of the…
@@ -164,7 +164,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s8-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:≈ Swim session 4\, 09:00 Sloterparkbad (45 min)
@@ -185,7 +185,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w1-s9-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:▲ Long easy run 10 km\, HR under 158. Aerobic base…
@@ -201,7 +201,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s0-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Strength UPPER\, 45 min
@@ -218,7 +218,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s1-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
@@ -238,7 +238,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s2-benchmark@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:5 KM RETEST (10 km)
@@ -255,7 +255,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:◆ Strength LOWER (50 min)
@@ -276,12 +276,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:○ BIKE QUALITY 45 min on Zwift
 DESCRIPTION:BIKE QUALITY 45 min on Zwift - 2 x 8 min sweet spot (88-93% F
- TP\, about 163-172 W at FTP 185)\, 4 min easy between. Warm-up 10 min wi
+ TP\, about 144-153 W at FTP 164)\, 4 min easy between. Warm-up 10 min wi
  th 3 x 1 min at 100-110 rpm\, cool-down 5-10 min. Fan on\, a bottle per 
  hour.\n\nWeek 2 of 23 - Re-entry\n5 KM RETEST Tuesday - it sets every ru
  n pace for the block. From this week the rhythm is fixed: Mon upper (no 
@@ -293,7 +293,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Run 10 min OFF THE BIKE\, straight after…
@@ -311,7 +311,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:≈ Swim 07:00 Sloterparkbad (40 min)
@@ -329,24 +329,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s7-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:○ Optional easy spin 40 min on Zwift
 DESCRIPTION:Optional easy spin 40 min on Zwift - zone 2 (56-75% FTP\, abo
- ut 104-139 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that
-  spares the shins. Skip it if you are wrecked.\n\nWeek 2 of 23 - Re-entr
- y\n5 KM RETEST Tuesday - it sets every run pace for the block. From this
-  week the rhythm is fixed: Mon upper (no endurance)\, Tue swim + run qua
- lity\, Wed legs\, Thu bike quality + a short run off the bike\, Fri swim
-  + optional easy spin\, Sat long run + swim\, Sun long ride. Hard days a
- re Tue\, Thu\, Sat and Sun\; Mon and Wed carry no swim\, bike or run.\n1
- 48 days to IRONMAN 70.3 Venice-Jesolo.
+ ut 92-123 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that 
+ spares the shins. Skip it if you are wrecked.\n\nWeek 2 of 23 - Re-entry
+ \n5 KM RETEST Tuesday - it sets every run pace for the block. From this 
+ week the rhythm is fixed: Mon upper (no endurance)\, Tue swim + run qual
+ ity\, Wed legs\, Thu bike quality + a short run off the bike\, Fri swim 
+ + optional easy spin\, Sat long run + swim\, Sun long ride. Hard days ar
+ e Tue\, Thu\, Sat and Sun\; Mon and Wed carry no swim\, bike or run.\n14
+ 8 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s8-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:≈ Swim 10:15 Sloterparkbad (40 min)
@@ -363,7 +363,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s9-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:▲ Long run 11 km easy\, HR under 158\, talk test
@@ -379,24 +379,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w2-s10-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:○ Long ride 1 h 15 (75 min)
-DESCRIPTION:Long ride 1 h 15 - zone 2 (56-75% FTP\, about 104-139 W\, HR 
- under 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, other
- wise Zwift. Fuel from 20 min: 40-60 g carb per hour.\n\nWeek 2 of 23 - R
- e-entry\n5 KM RETEST Tuesday - it sets every run pace for the block. Fro
- m this week the rhythm is fixed: Mon upper (no endurance)\, Tue swim + r
- un quality\, Wed legs\, Thu bike quality + a short run off the bike\, Fr
- i swim + optional easy spin\, Sat long run + swim\, Sun long ride. Hard 
- days are Tue\, Thu\, Sat and Sun\; Mon and Wed carry no swim\, bike or r
- un.\n146 days to IRONMAN 70.3 Venice-Jesolo.
+DESCRIPTION:Long ride 1 h 15 - zone 2 (56-75% FTP\, about 92-123 W\, HR u
+ nder 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, otherw
+ ise Zwift. Fuel from 20 min: 40-60 g carb per hour.\n\nWeek 2 of 23 - Re
+ -entry\n5 KM RETEST Tuesday - it sets every run pace for the block. From
+  this week the rhythm is fixed: Mon upper (no endurance)\, Tue swim + ru
+ n quality\, Wed legs\, Thu bike quality + a short run off the bike\, Fri
+  swim + optional easy spin\, Sat long run + swim\, Sun long ride. Hard d
+ ays are Tue\, Thu\, Sat and Sun\; Mon and Wed carry no swim\, bike or ru
+ n.\n146 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s0-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Strength UPPER\, 45 min
@@ -413,7 +413,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s1-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
@@ -433,7 +433,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s2-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:THRESHOLD 3 x 8 min (9 km)
@@ -450,7 +450,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:◆ Strength LOWER (50 min)
@@ -471,12 +471,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:○ BIKE QUALITY 55 min on Zwift
 DESCRIPTION:BIKE QUALITY 55 min on Zwift - 3 x 8 min sweet spot (88-93% F
- TP\, about 163-172 W at FTP 185)\, 4 min easy between. Warm-up 10 min wi
+ TP\, about 144-153 W at FTP 164)\, 4 min easy between. Warm-up 10 min wi
  th 3 x 1 min at 100-110 rpm\, cool-down 5-10 min. Fan on\, a bottle per 
  hour.\n\nWeek 3 of 23 - Base 1\nBASE 1 (weeks 3-6): swim to 500 m contin
  uous\, bike from about 2.5 to 4 h a week\, run 23-26 km. About 80% of th
@@ -488,7 +488,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Run 10 min OFF THE BIKE\, straight after…
@@ -505,7 +505,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:≈ Swim 07:00 Sloterparkbad (40 min)
@@ -522,24 +522,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s7-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:○ Optional easy spin 45 min on Zwift
 DESCRIPTION:Optional easy spin 45 min on Zwift - zone 2 (56-75% FTP\, abo
- ut 104-139 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that
-  spares the shins. Skip it if you are wrecked.\n\nWeek 3 of 23 - Base 1\
- nBASE 1 (weeks 3-6): swim to 500 m continuous\, bike from about 2.5 to 4
-  h a week\, run 23-26 km. About 80% of the time is easy. For amateur hal
- f-Ironman athletes\, threshold time is linked with faster races\, so eac
- h week keeps one run and one bike session at threshold or sweet spot. Bo
- ok the 6 swim lessons now (they start next week).\n141 days to IRONMAN 7
- 0.3 Venice-Jesolo.
+ ut 92-123 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that 
+ spares the shins. Skip it if you are wrecked.\n\nWeek 3 of 23 - Base 1\n
+ BASE 1 (weeks 3-6): swim to 500 m continuous\, bike from about 2.5 to 4 
+ h a week\, run 23-26 km. About 80% of the time is easy. For amateur half
+ -Ironman athletes\, threshold time is linked with faster races\, so each
+  week keeps one run and one bike session at threshold or sweet spot. Boo
+ k the 6 swim lessons now (they start next week).\n141 days to IRONMAN 70
+ .3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s8-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:≈ Swim 10:15 Sloterparkbad (40 min)
@@ -556,7 +556,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s9-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:▲ Long run 12 km easy\, HR under 158\, talk test
@@ -572,24 +572,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w3-s10-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:○ Long ride 1 h 30 (90 min)
-DESCRIPTION:Long ride 1 h 30 - zone 2 (56-75% FTP\, about 104-139 W\, HR 
- under 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, other
- wise Zwift. Fuel from 20 min: 40-60 g carb per hour.\n\nWeek 3 of 23 - B
- ase 1\nBASE 1 (weeks 3-6): swim to 500 m continuous\, bike from about 2.
- 5 to 4 h a week\, run 23-26 km. About 80% of the time is easy. For amate
- ur half-Ironman athletes\, threshold time is linked with faster races\, 
- so each week keeps one run and one bike session at threshold or sweet sp
- ot. Book the 6 swim lessons now (they start next week).\n139 days to IRO
- NMAN 70.3 Venice-Jesolo.
+DESCRIPTION:Long ride 1 h 30 - zone 2 (56-75% FTP\, about 92-123 W\, HR u
+ nder 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, otherw
+ ise Zwift. Fuel from 20 min: 40-60 g carb per hour.\n\nWeek 3 of 23 - Ba
+ se 1\nBASE 1 (weeks 3-6): swim to 500 m continuous\, bike from about 2.5
+  to 4 h a week\, run 23-26 km. About 80% of the time is easy. For amateu
+ r half-Ironman athletes\, threshold time is linked with faster races\, s
+ o each week keeps one run and one bike session at threshold or sweet spo
+ t. Book the 6 swim lessons now (they start next week).\n139 days to IRON
+ MAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s0-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Strength UPPER\, 45 min
@@ -604,7 +604,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s1-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
@@ -622,7 +622,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s2-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:VO2 5 x 3 min (9 km)
@@ -637,7 +637,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:◆ Strength LOWER (50 min)
@@ -655,12 +655,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:○ BIKE QUALITY 60 min on Zwift
 DESCRIPTION:BIKE QUALITY 60 min on Zwift - 3 x 10 min sweet spot (88-93% 
- FTP\, about 163-172 W at FTP 185)\, 5 min easy between. Warm-up 10 min w
+ FTP\, about 144-153 W at FTP 164)\, 5 min easy between. Warm-up 10 min w
  ith 3 x 1 min at 100-110 rpm\, cool-down 5-10 min. Fan on\, a bottle per
   hour.\n\nWeek 4 of 23 - Base 1\nSwim lesson 1 this week. A coach fixes 
  the stroke before the volume arrives\; adult-onset swimmers struggle to 
@@ -670,7 +670,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Run 10 min OFF THE BIKE\, straight after…
@@ -685,7 +685,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:≈ SWIM LESSON 1 of 6 (45 min)
@@ -701,22 +701,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s7-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:○ Optional easy spin 45 min on Zwift
 DESCRIPTION:Optional easy spin 45 min on Zwift - zone 2 (56-75% FTP\, abo
- ut 104-139 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that
-  spares the shins. Skip it if you are wrecked.\n\nWeek 4 of 23 - Base 1\
- nSwim lesson 1 this week. A coach fixes the stroke before the volume arr
- ives\; adult-onset swimmers struggle to feel their own body position\, w
- hich is exactly what a filmed lesson shows.\n134 days to IRONMAN 70.3 Ve
- nice-Jesolo.
+ ut 92-123 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that 
+ spares the shins. Skip it if you are wrecked.\n\nWeek 4 of 23 - Base 1\n
+ Swim lesson 1 this week. A coach fixes the stroke before the volume arri
+ ves\; adult-onset swimmers struggle to feel their own body position\, wh
+ ich is exactly what a filmed lesson shows.\n134 days to IRONMAN 70.3 Ven
+ ice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s8-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:≈ Swim 10:15 Sloterparkbad (40 min)
@@ -730,7 +730,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s9-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:▲ Long run 13 km easy\, HR under 158\, talk test
@@ -744,22 +744,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w4-s10-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:○ Long ride 1 h 45 (105 min)
-DESCRIPTION:Long ride 1 h 45 - zone 2 (56-75% FTP\, about 104-139 W\, HR 
- under 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, other
- wise Zwift. Fuel from 20 min: 40-60 g carb per hour.\n\nWeek 4 of 23 - B
- ase 1\nSwim lesson 1 this week. A coach fixes the stroke before the volu
- me arrives\; adult-onset swimmers struggle to feel their own body positi
- on\, which is exactly what a filmed lesson shows.\n132 days to IRONMAN 7
- 0.3 Venice-Jesolo.
+DESCRIPTION:Long ride 1 h 45 - zone 2 (56-75% FTP\, about 92-123 W\, HR u
+ nder 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, otherw
+ ise Zwift. Fuel from 20 min: 40-60 g carb per hour.\n\nWeek 4 of 23 - Ba
+ se 1\nSwim lesson 1 this week. A coach fixes the stroke before the volum
+ e arrives\; adult-onset swimmers struggle to feel their own body positio
+ n\, which is exactly what a filmed lesson shows.\n132 days to IRONMAN 70
+ .3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s0-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Strength UPPER\, 45 min
@@ -773,7 +773,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s1-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
@@ -790,7 +790,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s2-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:THRESHOLD 3 x 10 min (10 km)
@@ -805,7 +805,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:◆ Strength LOWER (50 min)
@@ -823,12 +823,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:○ BIKE QUALITY 60 min on Zwift
 DESCRIPTION:BIKE QUALITY 60 min on Zwift - 2 x 15 min sweet spot (88-93% 
- FTP\, about 163-172 W at FTP 185)\, 5 min easy between. Warm-up 10 min w
+ FTP\, about 144-153 W at FTP 164)\, 5 min easy between. Warm-up 10 min w
  ith 3 x 1 min at 100-110 rpm\, cool-down 5-10 min. Fan on\, a bottle per
   hour.\n\nWeek 5 of 23 - Base 1\nCold habituation starts after Saturday'
  s swim: 5-6 short cold exposures over the winter blunt the cold-shock ga
@@ -838,7 +838,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Run 10 min OFF THE BIKE\, straight after…
@@ -853,7 +853,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:≈ SWIM LESSON 2 of 6 (45 min)
@@ -869,21 +869,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s7-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:○ Optional easy spin 45 min on Zwift
 DESCRIPTION:Optional easy spin 45 min on Zwift - zone 2 (56-75% FTP\, abo
- ut 104-139 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that
-  spares the shins. Skip it if you are wrecked.\n\nWeek 5 of 23 - Base 1\
- nCold habituation starts after Saturday's swim: 5-6 short cold exposures
-  over the winter blunt the cold-shock gasp\, and the effect lasts most o
- f a year.\n127 days to IRONMAN 70.3 Venice-Jesolo.
+ ut 92-123 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that 
+ spares the shins. Skip it if you are wrecked.\n\nWeek 5 of 23 - Base 1\n
+ Cold habituation starts after Saturday's swim: 5-6 short cold exposures 
+ over the winter blunt the cold-shock gasp\, and the effect lasts most of
+  a year.\n127 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s8-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:≈ Swim 10:15 Sloterparkbad (40 min)
@@ -898,7 +898,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s9-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:▲ Long run 14 km easy\, HR under 158\, talk test
@@ -911,21 +911,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w5-s10-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:○ Long ride 2 h 00 (120 min)
-DESCRIPTION:Long ride 2 h 00 - zone 2 (56-75% FTP\, about 104-139 W\, HR 
- under 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, other
- wise Zwift. Fuel from 20 min: 40-60 g carb per hour.\n\nWeek 5 of 23 - B
- ase 1\nCold habituation starts after Saturday's swim: 5-6 short cold exp
- osures over the winter blunt the cold-shock gasp\, and the effect lasts 
- most of a year.\n125 days to IRONMAN 70.3 Venice-Jesolo.
+DESCRIPTION:Long ride 2 h 00 - zone 2 (56-75% FTP\, about 92-123 W\, HR u
+ nder 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, otherw
+ ise Zwift. Fuel from 20 min: 40-60 g carb per hour.\n\nWeek 5 of 23 - Ba
+ se 1\nCold habituation starts after Saturday's swim: 5-6 short cold expo
+ sures over the winter blunt the cold-shock gasp\, and the effect lasts m
+ ost of a year.\n125 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s0-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Strength UPPER\, 45 min
@@ -941,7 +941,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s1-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
@@ -960,7 +960,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s2-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:FARTLEK 8 x 1 min (7 km)
@@ -975,7 +975,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:◆ Strength LOWER (50 min)
@@ -994,12 +994,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:○ BIKE QUALITY 50 min on Zwift
 DESCRIPTION:BIKE QUALITY 50 min on Zwift - 3 x 8 min sweet spot (88-93% F
- TP\, about 163-172 W at FTP 185)\, 4 min easy between. Warm-up 10 min wi
+ TP\, about 144-153 W at FTP 164)\, 4 min easy between. Warm-up 10 min wi
  th 3 x 1 min at 100-110 rpm\, cool-down 5-10 min. Fan on\, a bottle per 
  hour.\n\nWeek 6 of 23 - Base 1\nDOWN WEEK - recover\, do not add volume.
  \nDOWN WEEK + Christmas. Volume about 30% lower\, intensity kept but sho
@@ -1010,7 +1010,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Run 10 min OFF THE BIKE\, straight after…
@@ -1026,7 +1026,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:≈ Swim 07:00 Sloterparkbad (40 min)
@@ -1042,7 +1042,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s7-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:≈ Swim 10:15 Sloterparkbad (40 min)
@@ -1059,7 +1059,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s8-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:▲ Long run 11 km easy\, HR under 158\, talk test
@@ -1074,23 +1074,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w6-s9-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:○ Long ride 1 h 30 (90 min)
-DESCRIPTION:Long ride 1 h 30 - zone 2 (56-75% FTP\, about 104-139 W\, HR 
- under 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, other
- wise Zwift. Fuel from 20 min: 40-60 g carb per hour.\n\nWeek 6 of 23 - B
- ase 1\nDOWN WEEK - recover\, do not add volume.\nDOWN WEEK + Christmas. 
- Volume about 30% lower\, intensity kept but short. Pools run holiday hou
- rs and are usually closed on Christmas Day: swim Thursday 24 instead of 
- Friday 25 if Sloterparkbad is shut.\n118 days to IRONMAN 70.3 Venice-Jes
- olo.
+DESCRIPTION:Long ride 1 h 30 - zone 2 (56-75% FTP\, about 92-123 W\, HR u
+ nder 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, otherw
+ ise Zwift. Fuel from 20 min: 40-60 g carb per hour.\n\nWeek 6 of 23 - Ba
+ se 1\nDOWN WEEK - recover\, do not add volume.\nDOWN WEEK + Christmas. V
+ olume about 30% lower\, intensity kept but short. Pools run holiday hour
+ s and are usually closed on Christmas Day: swim Thursday 24 instead of F
+ riday 25 if Sloterparkbad is shut.\n118 days to IRONMAN 70.3 Venice-Jeso
+ lo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s0-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Strength UPPER\, 45 min
@@ -1105,7 +1105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s1-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
@@ -1123,7 +1123,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s2-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:VO2 6 x 3 min (10 km)
@@ -1138,7 +1138,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:◆ Strength LOWER (50 min)
@@ -1156,12 +1156,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:○ BIKE QUALITY 65 min on Zwift
 DESCRIPTION:BIKE QUALITY 65 min on Zwift - 3 x 12 min sweet spot (88-93% 
- FTP\, about 163-172 W at FTP 185)\, 5 min easy between. Warm-up 10 min w
+ FTP\, about 144-153 W at FTP 164)\, 5 min easy between. Warm-up 10 min w
  ith 3 x 1 min at 100-110 rpm\, cool-down 5-10 min. Fan on\, a bottle per
   hour.\n\nWeek 7 of 23 - Base 2\nBASE 2 (weeks 7-11): the long ride to 2
   h 45 with a run off it\, swim to 1200 m continuous by the end of Januar
@@ -1171,7 +1171,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Run 15 min OFF THE BIKE\, straight after…
@@ -1186,7 +1186,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:≈ Swim 07:00 Sloterparkbad (40 min)
@@ -1202,22 +1202,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s7-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:○ Optional easy spin 45 min on Zwift
 DESCRIPTION:Optional easy spin 45 min on Zwift - zone 2 (56-75% FTP\, abo
- ut 104-139 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that
-  spares the shins. Skip it if you are wrecked.\n\nWeek 7 of 23 - Base 2\
- nBASE 2 (weeks 7-11): the long ride to 2 h 45 with a run off it\, swim t
- o 1200 m continuous by the end of January. New Year's Day: pools are usu
- ally closed\, so Friday's swim moves to Thu 31 Dec.\n113 days to IRONMAN
-  70.3 Venice-Jesolo.
+ ut 92-123 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that 
+ spares the shins. Skip it if you are wrecked.\n\nWeek 7 of 23 - Base 2\n
+ BASE 2 (weeks 7-11): the long ride to 2 h 45 with a run off it\, swim to
+  1200 m continuous by the end of January. New Year's Day: pools are usua
+ lly closed\, so Friday's swim moves to Thu 31 Dec.\n113 days to IRONMAN 
+ 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s8-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:≈ Swim 10:15 Sloterparkbad (40 min)
@@ -1233,7 +1233,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s9-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:▲ Long run 15 km easy\, HR under 158\, talk test
@@ -1247,22 +1247,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w7-s10-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:○ Long ride 2 h 15 (135 min)
-DESCRIPTION:Long ride 2 h 15 - zone 2 (56-75% FTP\, about 104-139 W\, HR 
- under 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, other
- wise Zwift. Fuel from 20 min: 40-60 g carb per hour.\n\nWeek 7 of 23 - B
- ase 2\nBASE 2 (weeks 7-11): the long ride to 2 h 45 with a run off it\, 
- swim to 1200 m continuous by the end of January. New Year's Day: pools a
- re usually closed\, so Friday's swim moves to Thu 31 Dec.\n111 days to I
- RONMAN 70.3 Venice-Jesolo.
+DESCRIPTION:Long ride 2 h 15 - zone 2 (56-75% FTP\, about 92-123 W\, HR u
+ nder 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, otherw
+ ise Zwift. Fuel from 20 min: 40-60 g carb per hour.\n\nWeek 7 of 23 - Ba
+ se 2\nBASE 2 (weeks 7-11): the long ride to 2 h 45 with a run off it\, s
+ wim to 1200 m continuous by the end of January. New Year's Day: pools ar
+ e usually closed\, so Friday's swim moves to Thu 31 Dec.\n111 days to IR
+ ONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s0-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:Strength UPPER\, 45 min
@@ -1277,7 +1277,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s1-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
@@ -1295,7 +1295,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s2-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:THRESHOLD 3 x 2 km
@@ -1310,7 +1310,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:◆ Strength LOWER (50 min)
@@ -1329,12 +1329,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:○ BIKE QUALITY 70 min on Zwift
 DESCRIPTION:BIKE QUALITY 70 min on Zwift - 2 x 20 min sweet spot (88-93% 
- FTP\, about 163-172 W at FTP 185)\, 5 min easy between. Warm-up 10 min w
+ FTP\, about 144-153 W at FTP 164)\, 5 min easy between. Warm-up 10 min w
  ith 3 x 1 min at 100-110 rpm\, cool-down 5-10 min. Fan on\, a bottle per
   hour.\n\nWeek 8 of 23 - Base 2\nCSS swim test on Saturday: 400 m then 2
  00 m\, both all-out with full rest between. CSS pace per 100 m = (400 ti
@@ -1344,7 +1344,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:Run 15 min OFF THE BIKE\, straight after…
@@ -1360,7 +1360,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:≈ SWIM LESSON 3 of 6 (45 min)
@@ -1376,22 +1376,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s7-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:○ Optional easy spin 45 min on Zwift
 DESCRIPTION:Optional easy spin 45 min on Zwift - zone 2 (56-75% FTP\, abo
- ut 104-139 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that
-  spares the shins. Skip it if you are wrecked.\n\nWeek 8 of 23 - Base 2\
- nCSS swim test on Saturday: 400 m then 200 m\, both all-out with full re
- st between. CSS pace per 100 m = (400 time - 200 time) / 2. It sets the 
- swim paces from next week. Brick runs start after the long ride.\n106 da
- ys to IRONMAN 70.3 Venice-Jesolo.
+ ut 92-123 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that 
+ spares the shins. Skip it if you are wrecked.\n\nWeek 8 of 23 - Base 2\n
+ CSS swim test on Saturday: 400 m then 200 m\, both all-out with full res
+ t between. CSS pace per 100 m = (400 time - 200 time) / 2. It sets the s
+ wim paces from next week. Brick runs start after the long ride.\n106 day
+ s to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s8-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:≈ Swim 10:15 Sloterparkbad (40 min)
@@ -1408,7 +1408,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s9-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:▲ Long run 16 km STRUCTURED: 4 km easy\, then 3 x
@@ -1424,23 +1424,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w8-s10-brick@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:◐ Long ride 2 h 30 (160 min)
-DESCRIPTION:Long ride 2 h 30 - zone 2 (56-75% FTP\, about 104-139 W\, HR 
- under 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, other
- wise Zwift. Fuel from 20 min: 40-60 g carb per hour. Then run 10 min off
-  the bike\, easy.\n\nWeek 8 of 23 - Base 2\nCSS swim test on Saturday: 4
- 00 m then 200 m\, both all-out with full rest between. CSS pace per 100 
- m = (400 time - 200 time) / 2. It sets the swim paces from next week. Br
- ick runs start after the long ride.\n104 days to IRONMAN 70.3 Venice-Jes
- olo.
+DESCRIPTION:Long ride 2 h 30 - zone 2 (56-75% FTP\, about 92-123 W\, HR u
+ nder 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, otherw
+ ise Zwift. Fuel from 20 min: 40-60 g carb per hour. Then run 10 min off 
+ the bike\, easy.\n\nWeek 8 of 23 - Base 2\nCSS swim test on Saturday: 40
+ 0 m then 200 m\, both all-out with full rest between. CSS pace per 100 m
+  = (400 time - 200 time) / 2. It sets the swim paces from next week. Bri
+ ck runs start after the long ride.\n104 days to IRONMAN 70.3 Venice-Jeso
+ lo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s0-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Strength UPPER\, 45 min
@@ -1454,7 +1454,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s1-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
@@ -1472,7 +1472,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s2-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:VO2 5 x 1 km
@@ -1486,7 +1486,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:◆ Strength LOWER (50 min)
@@ -1505,12 +1505,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:○ BIKE QUALITY 75 min on Zwift
 DESCRIPTION:BIKE QUALITY 75 min on Zwift - 3 x 15 min sweet spot (88-93% 
- FTP\, about 163-172 W at FTP 185)\, 5 min easy between. Warm-up 10 min w
+ FTP\, about 144-153 W at FTP 164)\, 5 min easy between. Warm-up 10 min w
  ith 3 x 1 min at 100-110 rpm\, cool-down 5-10 min. Fan on\, a bottle per
   hour.\n\nWeek 9 of 23 - Base 2\nThird load week in a row - sleep is the
   training this week. If the long run leaves you limping or the outer ank
@@ -1520,7 +1520,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:Run 15 min OFF THE BIKE\, straight after…
@@ -1535,7 +1535,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:≈ SWIM LESSON 4 of 6 (45 min)
@@ -1551,21 +1551,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s7-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:○ Optional easy spin 45 min on Zwift
 DESCRIPTION:Optional easy spin 45 min on Zwift - zone 2 (56-75% FTP\, abo
- ut 104-139 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that
-  spares the shins. Skip it if you are wrecked.\n\nWeek 9 of 23 - Base 2\
- nThird load week in a row - sleep is the training this week. If the long
-  run leaves you limping or the outer ankle talks back\, cut the run\, no
- t the swim.\n99 days to IRONMAN 70.3 Venice-Jesolo.
+ ut 92-123 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that 
+ spares the shins. Skip it if you are wrecked.\n\nWeek 9 of 23 - Base 2\n
+ Third load week in a row - sleep is the training this week. If the long 
+ run leaves you limping or the outer ankle talks back\, cut the run\, not
+  the swim.\n99 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s8-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:≈ Swim 10:15 Sloterparkbad (40 min)
@@ -1580,7 +1580,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s9-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:▲ Long run 16 km easy\, HR under 158\, talk test
@@ -1594,22 +1594,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w9-s10-brick@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:◐ Long ride 2 h 30 (165 min)
-DESCRIPTION:Long ride 2 h 30 - zone 2 (56-75% FTP\, about 104-139 W\, HR 
- under 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, other
- wise Zwift. Fuel from 20 min: 40-60 g carb per hour. Then run 15 min off
-  the bike\, easy.\n\nWeek 9 of 23 - Base 2\nThird load week in a row - s
- leep is the training this week. If the long run leaves you limping or th
- e outer ankle talks back\, cut the run\, not the swim.\n97 days to IRONM
- AN 70.3 Venice-Jesolo.
+DESCRIPTION:Long ride 2 h 30 - zone 2 (56-75% FTP\, about 92-123 W\, HR u
+ nder 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, otherw
+ ise Zwift. Fuel from 20 min: 40-60 g carb per hour. Then run 15 min off 
+ the bike\, easy.\n\nWeek 9 of 23 - Base 2\nThird load week in a row - sl
+ eep is the training this week. If the long run leaves you limping or the
+  outer ankle talks back\, cut the run\, not the swim.\n97 days to IRONMA
+ N 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s0-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:Strength UPPER\, 45 min
@@ -1624,7 +1624,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s1-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
@@ -1642,7 +1642,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s2-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:THRESHOLD 4 x 1 km
@@ -1657,7 +1657,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:◆ Strength LOWER (50 min)
@@ -1676,12 +1676,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:○ BIKE QUALITY 50 min on Zwift
 DESCRIPTION:BIKE QUALITY 50 min on Zwift - 3 x 8 min sweet spot (88-93% F
- TP\, about 163-172 W at FTP 185)\, 4 min easy between. Warm-up 10 min wi
+ TP\, about 144-153 W at FTP 164)\, 4 min easy between. Warm-up 10 min wi
  th 3 x 1 min at 100-110 rpm\, cool-down 5-10 min. Fan on\, a bottle per 
  hour.\n\nWeek 10 of 23 - Base 2\nDOWN WEEK - recover\, do not add volume
  .\nDOWN WEEK. Volume down about 30%\, no brick after the long ride. Freq
@@ -1691,7 +1691,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Run 15 min OFF THE BIKE\, straight after…
@@ -1706,7 +1706,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:≈ SWIM LESSON 5 of 6 (45 min)
@@ -1722,7 +1722,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s7-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:≈ Swim 10:15 Sloterparkbad (40 min)
@@ -1736,7 +1736,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s8-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:▲ Long run 12 km easy\, HR under 158\, talk test
@@ -1750,21 +1750,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w10-s9-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:○ Long ride 2 h 00 (120 min)
-DESCRIPTION:Long ride 2 h 00 - zone 2 (56-75% FTP\, about 104-139 W\, HR 
- under 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, other
- wise Zwift. Fuel from 20 min: 40-60 g carb per hour.\n\nWeek 10 of 23 - 
- Base 2\nDOWN WEEK - recover\, do not add volume.\nDOWN WEEK. Volume down
-  about 30%\, no brick after the long ride. Frequency stays: three swims\
- , never a swim gap over 5 days.\n90 days to IRONMAN 70.3 Venice-Jesolo.
+DESCRIPTION:Long ride 2 h 00 - zone 2 (56-75% FTP\, about 92-123 W\, HR u
+ nder 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, otherw
+ ise Zwift. Fuel from 20 min: 40-60 g carb per hour.\n\nWeek 10 of 23 - B
+ ase 2\nDOWN WEEK - recover\, do not add volume.\nDOWN WEEK. Volume down 
+ about 30%\, no brick after the long ride. Frequency stays: three swims\,
+  never a swim gap over 5 days.\n90 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s0-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:Strength UPPER\, 45 min
@@ -1779,7 +1779,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s1-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
@@ -1798,7 +1798,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s2-benchmark@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:5 KM RETEST (10 km)
@@ -1813,7 +1813,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:◆ Strength LOWER (50 min)
@@ -1833,12 +1833,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:○ BIKE QUALITY 75 min on Zwift
 DESCRIPTION:BIKE QUALITY 75 min on Zwift - 4 x 10 min threshold (95-100% 
- FTP\, about 176-185 W)\, 4 min easy between. Warm-up 10 min with 3 x 1 m
+ FTP\, about 156-164 W)\, 4 min easy between. Warm-up 10 min with 3 x 1 m
  in at 100-110 rpm\, cool-down 5-10 min. Fan on\, a bottle per hour.\n\nW
  eek 11 of 23 - Base 2\n5 KM RETEST Tuesday resets the run paces for the 
  race block. Longest base ride Sunday\, 2 h 45 + 15 min run: outdoors if 
@@ -1849,7 +1849,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:Run 20 min OFF THE BIKE\, straight after…
@@ -1865,7 +1865,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:≈ SWIM LESSON 6 of 6 (45 min)
@@ -1882,22 +1882,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s7-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:○ Optional easy spin 45 min on Zwift
 DESCRIPTION:Optional easy spin 45 min on Zwift - zone 2 (56-75% FTP\, abo
- ut 104-139 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that
-  spares the shins. Skip it if you are wrecked.\n\nWeek 11 of 23 - Base 2
- \n5 KM RETEST Tuesday resets the run paces for the race block. Longest b
- ase ride Sunday\, 2 h 45 + 15 min run: outdoors if it's dry\, otherwise 
- Zwift. The 90 km race bike is over half your race time\, so this is the 
- ride that matters most.\n85 days to IRONMAN 70.3 Venice-Jesolo.
+ ut 92-123 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that 
+ spares the shins. Skip it if you are wrecked.\n\nWeek 11 of 23 - Base 2\
+ n5 KM RETEST Tuesday resets the run paces for the race block. Longest ba
+ se ride Sunday\, 2 h 45 + 15 min run: outdoors if it's dry\, otherwise Z
+ wift. The 90 km race bike is over half your race time\, so this is the r
+ ide that matters most.\n85 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s8-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:≈ Swim 10:15 Sloterparkbad (40 min)
@@ -1913,7 +1913,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s9-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:▲ Long run 16 km STRUCTURED: 5 km easy\, then 3 x
@@ -1928,23 +1928,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w11-s10-brick@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:◐ Long ride 2 h 45 (180 min)
-DESCRIPTION:Long ride 2 h 45 - zone 2 (56-75% FTP\, about 104-139 W\, HR 
- under 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, other
- wise Zwift. Fuel from 20 min: 40-60 g carb per hour. Then run 15 min off
-  the bike\, easy.\n\nWeek 11 of 23 - Base 2\n5 KM RETEST Tuesday resets 
- the run paces for the race block. Longest base ride Sunday\, 2 h 45 + 15
-  min run: outdoors if it's dry\, otherwise Zwift. The 90 km race bike is
-  over half your race time\, so this is the ride that matters most.\n83 d
- ays to IRONMAN 70.3 Venice-Jesolo.
+DESCRIPTION:Long ride 2 h 45 - zone 2 (56-75% FTP\, about 92-123 W\, HR u
+ nder 145)\, 85-95 rpm. Outdoors if it's dry and above about 5 C\, otherw
+ ise Zwift. Fuel from 20 min: 40-60 g carb per hour. Then run 15 min off 
+ the bike\, easy.\n\nWeek 11 of 23 - Base 2\n5 KM RETEST Tuesday resets t
+ he run paces for the race block. Longest base ride Sunday\, 2 h 45 + 15 
+ min run: outdoors if it's dry\, otherwise Zwift. The 90 km race bike is 
+ over half your race time\, so this is the ride that matters most.\n83 da
+ ys to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s0-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Strength UPPER\, 45 min
@@ -1964,7 +1964,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s1-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:≈ Swim 07:00 Sloterparkbad (45 min)
@@ -1985,7 +1985,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s2-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:6 x 800 m at 10K effort (9 km)
@@ -2005,7 +2005,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s3-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:≈ Swim 07:00 Sloterparkbad (40 min)
@@ -2025,7 +2025,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s4-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:◆ Strength LOWER (50 min)
@@ -2050,28 +2050,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s5-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 SUMMARY:○ BIKE RAMP TEST (retest) (40 min)
-DESCRIPTION:BIKE RAMP TEST (retest) - Zwift on the D100\, ERG. Same routi
- ne as 18 Nov: eat 2-3 h before\, fan on\, 85-95 rpm\, ride until the cad
- ence goes. FTP = 75% of the best 1-min power. Send me the number: it res
- cales the race block.\n\nWeek 12 of 23 - Pre-Ramadan\nLAST FED WEEK BEFO
- RE RAMADAN. ADMIN: (1) book the certificato medico agonistico - Italy re
- quires an ECG-based sports medical on the FITRI form\, and without it yo
- u are not issued a race pack. (2) Thursday is a RAMP TEST retest: the re
- sult rescales every watt for the race block. (3) RAMADAN starts about Mo
- n 8 Feb\, and weeks 15-18 are in Abu Dhabi (22 Feb - 20 Mar). Four short
-  swims this week - frequency beats volume for motor learning. CUT ORDER 
- if life gets busy: (1) the Friday ride\, (2) the fourth swim\, (3) Monda
- y upper. Never cut the long ride\, the long run\, or below three swims.\
- n79 days to IRONMAN 70.3 Venice-Jesolo.
+DESCRIPTION:BIKE RAMP TEST (retest) - Zwift FTP Ramp Test (Lite) on the D
+ 100\, ERG\, the same variant as 18 Nov. Eat 2-3 h before\, fan on\, seat
+ ed\, about 22 pedal turns per 15 s (the D100's cadence reading is stuck 
+ around 66)\, ride until you can't turn the pedals. 18 Nov: stopped at th
+ e 230 W step\, FTP 164 W. FTP = 75% of the best 1-min power. Send me the
+  number: it rescales the race block.\n\nWeek 12 of 23 - Pre-Ramadan\nLAS
+ T FED WEEK BEFORE RAMADAN. ADMIN: (1) book the certificato medico agonis
+ tico - Italy requires an ECG-based sports medical on the FITRI form\, an
+ d without it you are not issued a race pack. (2) Thursday is a RAMP TEST
+  retest: the result rescales every watt for the race block. (3) RAMADAN 
+ starts about Mon 8 Feb\, and weeks 15-18 are in Abu Dhabi (22 Feb - 20 M
+ ar). Four short swims this week - frequency beats volume for motor learn
+ ing. CUT ORDER if life gets busy: (1) the Friday ride\, (2) the fourth s
+ wim\, (3) Monday upper. Never cut the long ride\, the long run\, or belo
+ w three swims.\n79 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s6-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 SUMMARY:Easy run 15 min after the ramp test\, HR under…
@@ -2090,7 +2092,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s7-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:≈ Swim 07:00 Sloterparkbad (40 min)
@@ -2109,27 +2111,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s8-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:○ Optional easy spin 60 min on Zwift
 DESCRIPTION:Optional easy spin 60 min on Zwift - zone 2 (56-75% FTP\, abo
- ut 104-139 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that
-  spares the shins. Skip it if you are wrecked.\n\nWeek 12 of 23 - Pre-Ra
- madan\nLAST FED WEEK BEFORE RAMADAN. ADMIN: (1) book the certificato med
- ico agonistico - Italy requires an ECG-based sports medical on the FITRI
-  form\, and without it you are not issued a race pack. (2) Thursday is a
-  RAMP TEST retest: the result rescales every watt for the race block. (3
- ) RAMADAN starts about Mon 8 Feb\, and weeks 15-18 are in Abu Dhabi (22 
- Feb - 20 Mar). Four short swims this week - frequency beats volume for m
- otor learning. CUT ORDER if life gets busy: (1) the Friday ride\, (2) th
- e fourth swim\, (3) Monday upper. Never cut the long ride\, the long run
- \, or below three swims.\n78 days to IRONMAN 70.3 Venice-Jesolo.
+ ut 92-123 W\, HR under 145)\, 85-95 rpm. Non-impact aerobic volume that 
+ spares the shins. Skip it if you are wrecked.\n\nWeek 12 of 23 - Pre-Ram
+ adan\nLAST FED WEEK BEFORE RAMADAN. ADMIN: (1) book the certificato medi
+ co agonistico - Italy requires an ECG-based sports medical on the FITRI 
+ form\, and without it you are not issued a race pack. (2) Thursday is a 
+ RAMP TEST retest: the result rescales every watt for the race block. (3)
+  RAMADAN starts about Mon 8 Feb\, and weeks 15-18 are in Abu Dhabi (22 F
+ eb - 20 Mar). Four short swims this week - frequency beats volume for mo
+ tor learning. CUT ORDER if life gets busy: (1) the Friday ride\, (2) the
+  fourth swim\, (3) Monday upper. Never cut the long ride\, the long run\
+ , or below three swims.\n78 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s9-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:≈ Swim 10:15 Sloterparkbad (40 min)
@@ -2149,7 +2151,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s10-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:▲ Long run 14 km easy\, HR under 158\, talk test
@@ -2169,7 +2171,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w12-s11-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:○ Long ride 65 km steady. Last fed long ride…
@@ -2188,7 +2190,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w13-s0-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:≈ Swim at Het Marnix\, 35 min before iftar
@@ -2209,7 +2211,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w13-s1-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:4 x 1 km at 10K effort after iftar\, 2 min jog
@@ -2229,7 +2231,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w13-s2-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:≈ Swim 40 min
@@ -2249,7 +2251,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w13-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:◆ Legs
@@ -2275,12 +2277,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w13-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:○ BIKE QUALITY 60 min on the D100 after iftar
 DESCRIPTION:BIKE QUALITY 60 min on the D100 after iftar - 3 x 10 min at s
- weet spot (88-93% FTP\, about 163-172 W at FTP 185)\, 5 min easy spin be
+ weet spot (88-93% FTP\, about 144-153 W at FTP 164)\, 5 min easy spin be
  tween. Ramadan: shorter session\, same intensity. You can drink\, so two
   bottles.\n\nWeek 13 of 23 - Ramadan\nRAMADAN STARTS about Mon 8 Feb (th
  e moon sighting can move it a day). Weeks 13-17 follow the fast: hard an
@@ -2297,7 +2299,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w13-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:Easy run 3 km OFF THE BIKE
@@ -2318,7 +2320,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w13-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:≈ Swim at Het Marnix\, 35 min before iftar
@@ -2338,7 +2340,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w13-s7-brick@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:◐ BRICK after iftar: 30 km on the D100 + 4 km run
@@ -2359,7 +2361,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w13-s8-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:○ Long ride 2 h on the D100 after iftar\, zone 2\,…
@@ -2381,7 +2383,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w14-s0-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:≈ Swim at Het Marnix\, 40 min before iftar
@@ -2400,7 +2402,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w14-s1-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:5 x 1 km at 10K effort after iftar\, 2 min jog
@@ -2418,7 +2420,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w14-s2-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:≈ Swim 40 min
@@ -2439,7 +2441,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w14-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:◆ Legs
@@ -2464,12 +2466,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w14-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 SUMMARY:○ BIKE QUALITY 60 min on the D100 after iftar
 DESCRIPTION:BIKE QUALITY 60 min on the D100 after iftar - 3 x 10 min at s
- weet spot (88-93% FTP\, about 163-172 W at FTP 185)\, 5 min easy spin be
+ weet spot (88-93% FTP\, about 144-153 W at FTP 164)\, 5 min easy spin be
  tween. Ramadan: shorter session\, same intensity. You can drink\, so two
   bottles.\n\nWeek 14 of 23 - Ramadan\nBuy the wetsuit now. Buy for BUOYA
  NCY not speed - beginner suits run 5 mm through core/hips/legs\, which d
@@ -2484,7 +2486,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w14-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 SUMMARY:Easy run 3 km OFF THE BIKE
@@ -2504,7 +2506,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w14-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:≈ Swim at Het Marnix\, 35 min before iftar
@@ -2522,7 +2524,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w14-s7-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:▲ Long run 13 km easy after iftar\, HR under 158.…
@@ -2541,7 +2543,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w14-s8-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:○ Easy ride 75 min on the D100 after iftar\, zone 2
@@ -2560,7 +2562,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w15-s0-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
 SUMMARY:≈ Pool swim 30 min before iftar
@@ -2581,7 +2583,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w15-s1-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
 SUMMARY:4 x 1 km at 10K effort after iftar\, 2 min jog
@@ -2603,7 +2605,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w15-s2-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:≈ Pool swim 35 min before iftar
@@ -2624,7 +2626,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w15-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:◆ Legs
@@ -2652,12 +2654,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w15-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:○ BIKE QUALITY 60 min at Al Wathba after iftar
 DESCRIPTION:BIKE QUALITY 60 min at Al Wathba after iftar - 3 x 10 min at 
- sweet spot (88-93% FTP\, about 163-172 W at FTP 185)\, 5 min easy spin b
+ sweet spot (88-93% FTP\, about 144-153 W at FTP 164)\, 5 min easy spin b
  etween. Ramadan: shorter session\, same intensity. You can drink\, so tw
  o bottles.\n\nWeek 15 of 23 - Ramadan\nABU DHABI from Mon 22 Feb - the f
  light day is a rest day. Iftar there is about 18:20\, so night sessions 
@@ -2675,7 +2677,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w15-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:Easy run 3 km OFF THE BIKE
@@ -2697,7 +2699,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w15-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:≈ FIRST SEA SWIM\, 30 min before iftar in daylight
@@ -2720,7 +2722,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w15-s7-brick@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:◐ BRICK after iftar at Al Wathba: 40 km ride + 5…
@@ -2742,7 +2744,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w15-s8-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:○ Long ride 60 km at Al Wathba after iftar\,…
@@ -2763,7 +2765,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w16-s0-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:≈ Pool swim 45 min before iftar
@@ -2779,7 +2781,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w16-s1-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:3 x 1.5 km at threshold after iftar\, 2 min jog
@@ -2795,7 +2797,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w16-s2-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:≈ Sea swim 40 min before iftar + T1 DRILL on the…
@@ -2811,7 +2813,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w16-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:◆ Legs
@@ -2834,12 +2836,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w16-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:○ BIKE QUALITY 60 min at Al Wathba after iftar
 DESCRIPTION:BIKE QUALITY 60 min at Al Wathba after iftar - 3 x 12 min at 
- sweet spot (88-93% FTP\, about 163-172 W at FTP 185)\, 5 min easy spin b
+ sweet spot (88-93% FTP\, about 144-153 W at FTP 164)\, 5 min easy spin b
  etween. Ramadan: shorter session\, same intensity. You can drink\, so tw
  o bottles.\n\nWeek 16 of 23 - Ramadan\nTRANSITION PRACTICE this week. Me
  asured Venice T1 median is 7:02 and T2 5:21\; p90 is 11:05 and 7:08. A f
@@ -2851,7 +2853,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w16-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:Easy run 3 km OFF THE BIKE
@@ -2868,7 +2870,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w16-s6-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:≈ Sea swim 35 min before iftar
@@ -2884,7 +2886,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w16-s7-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:▲ Long run 15 km easy after iftar\, HR under 158
@@ -2900,7 +2902,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w16-s8-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:○ Easy ride 2 h at Al Wathba after iftar\, zone 2 (120 min)
@@ -2915,7 +2917,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w17-s0-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:≈ Pool swim 30 min before iftar
@@ -2930,7 +2932,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w17-s1-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:4 x 1 km at 10K effort after iftar\, 2 min jog
@@ -2946,7 +2948,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w17-s2-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
 SUMMARY:≈ Swim 35 min in the morning\, pool or sea
@@ -2962,12 +2964,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w17-s3-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
 SUMMARY:○ BIKE QUALITY 60-75 min
 DESCRIPTION:BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP
- \, about 163-172 W at FTP 185)\, 5 min easy spin between. Warm up 15 min
+ \, about 144-153 W at FTP 164)\, 5 min easy spin between. Warm up 15 min
  . The 90 km bike is over half of a 70.3 by time and this is the session 
  that builds it.\n\nWeek 17 of 23 - Ramadan\nTRANSITION WEEK. Ramadan end
  s about Tue 9 Mar and Eid is about Wed 10 - Eid is a rest day. Normal fe
@@ -2979,7 +2981,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w17-s4-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -2996,7 +2998,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w17-s5-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:≈ Sea swim 35 min in the morning
@@ -3012,7 +3014,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w17-s6-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:▲ Long run 12 km easy\, HR under 158
@@ -3028,7 +3030,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w17-s7-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:○ Long ride 75 km at Al Wathba\, steady (175 min)
@@ -3045,7 +3047,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w18-s0-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:≈ Sea swim 55 min
@@ -3062,7 +3064,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w18-s1-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:5 x 1 km at threshold\, evening
@@ -3080,7 +3082,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w18-s2-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:≈ Sea swim 40 min in the wetsuit
@@ -3097,7 +3099,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w18-s3-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:◆ Legs
@@ -3121,7 +3123,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w18-s4-brick@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
 SUMMARY:◐ BRICK: 60 km ride + 10 km run at race effort\,…
@@ -3138,7 +3140,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w18-s5-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:≈ Swim 35 min easy\, pool or sea
@@ -3154,7 +3156,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w18-s6-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:Easy run 5 km\, HR under 158
@@ -3171,11 +3173,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w18-s7-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:○ Long ride 80 km steady at IF 0.68-0.72 (180 min)
-DESCRIPTION:Long ride 80 km steady at IF 0.68-0.72 (126-133 W)\, the day 
+DESCRIPTION:Long ride 80 km steady at IF 0.68-0.72 (112-118 W)\, the day 
  after the flight home. Amsterdam is about 15 C colder than Abu Dhabi\, s
  o dress for it\; if the flight wrecked your sleep\, ride it Monday inste
  ad.\n\nWeek 18 of 23 - Abu Dhabi\nLast Abu Dhabi week and the first full
@@ -3189,7 +3191,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w19-s0-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
 SUMMARY:Strength UPPER\, 30 min\, optional
@@ -3207,7 +3209,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w19-s1-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
 SUMMARY:≈ Swim 07:00 Sloterparkbad (55 min)
@@ -3224,7 +3226,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w19-s2-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
 SUMMARY:THRESHOLD 5 x 1 km
@@ -3243,7 +3245,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w19-s3-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:≈ Swim 07:00 Sloterparkbad (40 min)
@@ -3261,7 +3263,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w19-s4-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:◆ Legs (30 min)
@@ -3280,12 +3282,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w19-s5-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:○ BIKE QUALITY 60-75 min
 DESCRIPTION:BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP
- \, about 163-172 W at FTP 185)\, 5 min easy spin between. Warm up 15 min
+ \, about 144-153 W at FTP 164)\, 5 min easy spin between. Warm up 15 min
  . The 90 km bike is over half of a 70.3 by time and this is the session 
  that builds it.\n\nWeek 19 of 23 - Build\nFirst week home: Amsterdam is 
  about 15 C colder\, so dress for the 100 km\, and if Saturday's flight w
@@ -3299,7 +3301,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w19-s6-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:Run 3 km OFF THE BIKE\, straight after…
@@ -3316,7 +3318,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w19-s7-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:≈ Swim 07:00 Sloterparkbad (35 min)
@@ -3333,7 +3335,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w19-s8-long@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 SUMMARY:▲ Long run 16 km RACE-SPECIFIC: 4 km easy\, then 3…
@@ -3353,11 +3355,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w19-s9-brick@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:◐ Long ride 90 km steady at IF 0.68-0.72 (215 min)
-DESCRIPTION:Long ride 90 km steady at IF 0.68-0.72 (126-133 W)\, fuel 60-
+DESCRIPTION:Long ride 90 km steady at IF 0.68-0.72 (112-118 W)\, fuel 60-
  70 g carb per hour with the race products. Then run 15 min off the bike\
  , easy. Longest ride of the block: race distance.\n\nWeek 19 of 23 - Bui
  ld\nFirst week home: Amsterdam is about 15 C colder\, so dress for the 1
@@ -3371,7 +3373,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w20-s0-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
 SUMMARY:Strength UPPER\, 30 min\, optional
@@ -3386,7 +3388,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w20-s1-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 SUMMARY:≈ OPEN WATER 30-40 min in wetsuit + booties
@@ -3404,7 +3406,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w20-s2-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 SUMMARY:5 x 1 km at threshold
@@ -3420,7 +3422,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w20-s3-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:≈ Swim 07:00 Sloterparkbad (50 min)
@@ -3435,7 +3437,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w20-s4-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:◆ Legs (30 min)
@@ -3452,12 +3454,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w20-s5-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
 SUMMARY:○ BIKE QUALITY 60-75 min
 DESCRIPTION:BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP
- \, about 163-172 W at FTP 185)\, 5 min easy spin between. Warm up 15 min
+ \, about 144-153 W at FTP 164)\, 5 min easy spin between. Warm up 15 min
  . The 90 km bike is over half of a 70.3 by time and this is the session 
  that builds it.\n\nWeek 20 of 23 - Build\nOPEN WATER STARTS - the single
   highest-consequence item in this plan. 90 of 120 sudden deaths in US tr
@@ -3469,7 +3471,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w20-s6-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -3486,7 +3488,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w20-s7-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 SUMMARY:≈ Swim 07:00 Sloterparkbad (35 min)
@@ -3501,12 +3503,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w20-s8-brick@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:◐ BIG BRICK: 80 km with 3 x 20 min at race power
 DESCRIPTION:BIG BRICK: 80 km with 3 x 20 min at race power (72-78% FTP\, 
- about 133-144 W)\, then 10 km run at race effort with the 9:1 run/walk. 
+ about 118-128 W)\, then 10 km run at race effort with the 9:1 run/walk. 
  Full race nutrition and the race kit.\n\nWeek 20 of 23 - Build\nOPEN WAT
  ER STARTS - the single highest-consequence item in this plan. 90 of 120 
  sudden deaths in US triathlon occurred in the swim\, and the mechanism i
@@ -3517,22 +3519,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w20-s9-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:○ Easy spin 60 min\, zone 2
-DESCRIPTION:Easy spin 60 min\, zone 2 (56-75% FTP\, about 104-139 W\, HR 
- under 145)\, 85-95 rpm. Recovery from Saturday's brick.\n\nWeek 20 of 23
-  - Build\nOPEN WATER STARTS - the single highest-consequence item in thi
- s plan. 90 of 120 sudden deaths in US triathlon occurred in the swim\, a
- nd the mechanism is cold-water panic\, not fitness. You should already h
- ave done 5-6 cold immersions over the winter\; this is where it gets app
- lied in a wetsuit.\n20 days to IRONMAN 70.3 Venice-Jesolo.
+DESCRIPTION:Easy spin 60 min\, zone 2 (56-75% FTP\, about 92-123 W\, HR u
+ nder 145)\, 85-95 rpm. Recovery from Saturday's brick.\n\nWeek 20 of 23 
+ - Build\nOPEN WATER STARTS - the single highest-consequence item in this
+  plan. 90 of 120 sudden deaths in US triathlon occurred in the swim\, an
+ d the mechanism is cold-water panic\, not fitness. You should already ha
+ ve done 5-6 cold immersions over the winter\; this is where it gets appl
+ ied in a wetsuit.\n20 days to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w21-s0-push@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
 SUMMARY:Strength UPPER\, 30 min\, optional
@@ -3547,7 +3549,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w21-s1-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:≈ OPEN WATER 40 min
@@ -3564,7 +3566,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w21-s2-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:4 x 1 km at race effort
@@ -3580,7 +3582,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w21-s3-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:≈ Swim 07:00 Sloterparkbad (50 min)
@@ -3595,7 +3597,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w21-s4-legs@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:◆ Legs (30 min)
@@ -3612,12 +3614,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w21-s5-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 SUMMARY:○ BIKE QUALITY 60-75 min
 DESCRIPTION:BIKE QUALITY 60-75 min - 3 x 12 min at sweet spot (88-93% FTP
- \, about 163-172 W at FTP 185)\, 5 min easy spin between. Warm up 15 min
+ \, about 144-153 W at FTP 164)\, 5 min easy spin between. Warm up 15 min
  . The 90 km bike is over half of a 70.3 by time and this is the session 
  that builds it.\n\nWeek 21 of 23 - Build\nFull dress rehearsal. Run plan
   is RUN/WALK from km 0\, not as a fallback: 9 min run / 1 min walk blend
@@ -3628,7 +3630,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w21-s6-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 SUMMARY:Easy run 5 km OFF THE BIKE
@@ -3644,7 +3646,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w21-s7-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:≈ Swim 07:00 Sloterparkbad (35 min)
@@ -3658,12 +3660,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w21-s8-brick@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:◐ DRESS REHEARSAL BRICK: 60 km at race power (200 min)
 DESCRIPTION:DRESS REHEARSAL BRICK: 60 km at race power (72-78% FTP\, abou
- t 133-144 W) + 10 km run at race effort\, 9:1 run/walk\, full race nutri
+ t 118-128 W) + 10 km run at race effort\, 9:1 run/walk\, full race nutri
  tion\, race-morning breakfast and timing.\n\nWeek 21 of 23 - Build\nFull
   dress rehearsal. Run plan is RUN/WALK from km 0\, not as a fallback: 9 
  min run / 1 min walk blends to ~7:24/km and beats an even-paced blow-up 
@@ -3674,12 +3676,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w21-s9-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:○ Easy ride 90 min with 3 x 5 min at race power
 DESCRIPTION:Easy ride 90 min with 3 x 5 min at race power (72-78% FTP\, a
- bout 133-144 W).\n\nWeek 21 of 23 - Build\nFull dress rehearsal. Run pla
+ bout 118-128 W).\n\nWeek 21 of 23 - Build\nFull dress rehearsal. Run pla
  n is RUN/WALK from km 0\, not as a fallback: 9 min run / 1 min walk blen
  ds to ~7:24/km and beats an even-paced blow-up by minutes per km. The co
  urse gives you 3 loops x 7.03 km with 9 aid stations - walk every one\, 
@@ -3688,7 +3690,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w22-s0-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
 SUMMARY:≈ OPEN WATER 30 min
@@ -3704,7 +3706,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w22-s1-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
 SUMMARY:THRESHOLD 4 x 800 m (8 km)
@@ -3719,7 +3721,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w22-s2-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 SUMMARY:≈ Swim 07:00 Sloterparkbad (35 min)
@@ -3733,12 +3735,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w22-s3-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:○ BIKE 60 min on Zwift with 3 x 8 min at race…
 DESCRIPTION:BIKE 60 min on Zwift with 3 x 8 min at race power (72-78% FTP
- \, about 133-144 W)\, 4 min easy between. Taper: shorter\, same intensit
+ \, about 118-128 W)\, 4 min easy between. Taper: shorter\, same intensit
  y.\n\nWeek 22 of 23 - Taper\nTaper: volume down 30-50%\, intensity retai
  ned\, swim FREQUENCY untouched. Carb load the day before is 8-12 g/kg = 
  450-670 g - that is a lot of food for 56 kg and it must be rehearsed\, n
@@ -3747,7 +3749,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w22-s4-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Run 3 km OFF THE BIKE\, easy
@@ -3760,7 +3762,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w22-s5-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 SUMMARY:≈ Swim 07:00 Sloterparkbad (30 min)
@@ -3773,7 +3775,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w22-s6-brick@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:◐ BRICK: 30 km ride + 5 km run at race pace
@@ -3786,21 +3788,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w22-s7-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:○ Easy spin 60 min\, zone 2
-DESCRIPTION:Easy spin 60 min\, zone 2 (56-75% FTP\, about 104-139 W\, HR 
- under 145)\, 85-95 rpm\, with 3 x 2 min at race power.\n\nWeek 22 of 23 
- - Taper\nTaper: volume down 30-50%\, intensity retained\, swim FREQUENCY
-  untouched. Carb load the day before is 8-12 g/kg = 450-670 g - that is 
- a lot of food for 56 kg and it must be rehearsed\, not improvised.\n6 da
- ys to IRONMAN 70.3 Venice-Jesolo.
+DESCRIPTION:Easy spin 60 min\, zone 2 (56-75% FTP\, about 92-123 W\, HR u
+ nder 145)\, 85-95 rpm\, with 3 x 2 min at race power.\n\nWeek 22 of 23 -
+  Taper\nTaper: volume down 30-50%\, intensity retained\, swim FREQUENCY 
+ untouched. Carb load the day before is 8-12 g/kg = 450-670 g - that is a
+  lot of food for 56 kg and it must be rehearsed\, not improvised.\n6 day
+ s to IRONMAN 70.3 Venice-Jesolo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w23-s0-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
 SUMMARY:≈ Swim 25 min easy
@@ -3820,12 +3822,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w23-s1-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
 SUMMARY:○ BIKE 45 min with 3 x 5 min at race power
 DESCRIPTION:BIKE 45 min with 3 x 5 min at race power (72-78% FTP\, about 
- 133-144 W)\, then pack the bike for the trip. Spare hanger\, tools\, pum
+ 118-128 W)\, then pack the bike for the trip. Spare hanger\, tools\, pum
  p.\n\nWeek 23 of 23 - Race\nRACE WEEK. Swim 1\,898 m single counterclock
  wise loop from Lighthouse Beach\, 4 turn buoys plus directional buoys ev
  ery 100 m - unusually easy to sight. SELF-SEEDED ROLLING START\, 3 athle
@@ -3841,7 +3843,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w23-s2-strides@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Easy 5 km + strides
@@ -3861,7 +3863,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w23-s3-swim@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:≈ Sea swim 15 min
@@ -3881,7 +3883,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w23-s4-cycling@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:○ Bike check 20 min in Jesolo after rebuilding…
@@ -3902,7 +3904,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w23-s5-easy@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:Shakeout 3 km
@@ -3923,7 +3925,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman703venicejesolo-w23-s6-race@garmin-training
-DTSTAMP:20261115T174647Z
+DTSTAMP:20261118T205647Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:⚑ RACE (21.1 km)

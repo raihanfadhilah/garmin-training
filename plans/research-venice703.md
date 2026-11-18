@@ -105,7 +105,7 @@ Hence one 30-min maintenance session from Ramadan to week 21.
 
 | Test | When | Sets |
 |---|---|---|
-| Zwift ramp test | Wed 18 Nov, Thu 4 Feb | Every watt (currently FTP 185 W estimate) |
+| Zwift ramp test | Wed 18 Nov, Thu 4 Feb | Every watt (FTP 164 W from the 18 Nov Lite ramp test) |
 | 5 km run | Tue 24 Nov, Tue 26 Jan | Run paces |
 | CSS swim (400 + 200) | Sat 9 Jan | Swim paces from week 9 |
 | 1900 m timed | Wed 7 Apr | Race seeding |
